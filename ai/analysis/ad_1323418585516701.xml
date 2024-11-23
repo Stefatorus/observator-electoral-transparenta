@@ -1,0 +1,50 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. CMF Number: No CMF number is present, but this isn't conclusive by itself.
+
+2. Candidate Reference:
+- While it's from a USR deputy (Brian Cristian), the content clearly refers to the presidential election ("Pe 24 noiembrie, România are șansa de a alege un președinte")
+- Though not explicitly named, it's clearly supporting USR's presidential candidate Elena Lasconi by context
+
+3. Wide Population Targeting:
+- It's a paid advertisement on Facebook and Instagram
+- Estimated audience size: 100,001-500,000 people
+- Clearly meant for mass distribution
+
+4. Electoral Objective:
+- Timing: Posted on November 22, active during the electoral silence period
+- Clear electoral message about choosing a president on November 24
+- Uses phrases like "România are șansa de a alege un președinte"
+- Mentions "onest" and "care nu face jocurile murdare ale sistemului corupt"
+
+5. Journalism vs Propaganda:
+- This is clearly campaign messaging, not journalism
+- Contains campaign slogans and political messaging
+- Paid distribution indicates campaign purpose
+
+6. Personal Opinion:
+- This is not a personal opinion but an orchestrated campaign message
+</analysis>
+
+<conclusion>
+<post_id>1323418585516701</post_id>
+<electoral-propaganda-analysis>
+This constitutes electoral propaganda because:
+- It's a paid political message
+- Targets presidential elections during silence period
+- Clear electoral messaging about choosing a president
+- Large scale distribution through paid channels
+- Direct connection to a political party (USR)
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+<candidate><name>ELENA-VALERICA LASCONI</name><impact>POSITIVE</impact></candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>USR</responsible-party-or-group>
+<message-for-police>
+Maramures INFO News și Brian Cristian (USR), pentru incalcarea articolului 55 t) din Legea 370/2004, prin difuzarea de materiale de propagandă electorală (ID postare Facebook: 1323418585516701) după încheierea campaniei electorale pentru alegerile prezidențiale. Postarea, realizată și promovată după ora 18:00 pe 23.11.2024, conține mesaje clare de susținere electorală și îndemn la vot pentru candidatul USR la președinție, având un impact estimat între 100,001 și 500,000 de persoane prin distribuire plătită pe Facebook și Instagram. Mesajul include referiri directe la alegerile prezidențiale din 24 noiembrie și caracterizări ale candidatului susținut, depășind astfel cadrul legal al perioadei de campanie electorală.
+</message-for-police>
+</conclusion>
+</output>

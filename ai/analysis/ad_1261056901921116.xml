@@ -1,0 +1,49 @@
+<output>
+<analysis>
+Let's analyze this post according to the given criteria:
+
+1. Has CMF: Yes - Contains "CMF 11240014" at the end of the post
+2. Refers to candidate: Yes - Mentions "George Simion" explicitly, who is a presidential candidate
+3. Addresses wide population: Yes - It's a paid advertisement reaching 15,000-20,000 people
+4. Electoral objective: Yes - Contains clear electoral messaging with phrases like "Este rândul dumneavoastră să fiți curajoși și să votați candidații AUR"
+5. Journalism: No - This is clearly campaign material, not journalistic content
+6. Personal opinion: No - This is an official party communication with a CMF number
+
+The post contains multiple elements that qualify it as electoral propaganda:
+- Uses hashtag #GeorgeSimionPresedinte
+- Has official CMF number
+- Makes campaign promises
+- Explicitly asks for votes
+- Criticizes other parties (PNL, PSD)
+- Promotes both parliamentary and presidential candidates
+
+Of particular concern is that this promotes George Simion as president after the presidential campaign period has ended, while mixing it with parliamentary campaign messaging.
+</analysis>
+
+<conclusion>
+<post_id>1261056901921116</post_id>
+<electoral-propaganda-analysis>
+This post constitutes electoral propaganda because:
+1. It carries an official CMF number
+2. Makes explicit electoral promises
+3. Promotes a presidential candidate after campaign period
+4. Contains direct calls to vote
+5. Combines parliamentary and presidential messaging
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate>
+    <name>GEORGE-NICOLAE SIMION</name>
+    <impact>POSITIVE</impact>
+  </candidate>
+  <candidate>
+    <name>NICOLAE-IONEL CIUCĂ</name>
+    <impact>NEGATIVE</impact>
+  </candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>AUR</responsible-party-or-group>
+<message-for-police>
+Partidul Politic ALIANȚA PENTRU UNIREA ROMÂNILOR, pentru incalcarea articolului 55 t) din Legea 370/2004, prin continuarea propagandei electorale pentru candidatul la președinție George Simion după încheierea perioadei de campanie electorală, folosind hashtag-ul #GeorgeSimionPresedinte și promovând explicit candidatura sa la președinție în postarea cu ID-ul 1261056901921116. Postarea este încă activă și promovată după ora 18:00 pe 23.11.2024, încălcând astfel prevederile legale privind încheierea campaniei electorale prezidențiale. Materialul constituie propagandă electorală conform Art. 36(7), având CMF 11240014, referindu-se direct la candidat, având obiectiv electoral explicit și adresându-se publicului larg prin intermediul unei reclame plătite pe Facebook.
+</message-for-police>
+</conclusion>
+</output>

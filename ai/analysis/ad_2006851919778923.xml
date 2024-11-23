@@ -1,0 +1,57 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. CMF Number:
+- No CMF number is visible in the post, but this isn't determinative
+
+2. References to Candidate:
+- Directly mentions "George Simion PREŞEDINTE" in the link title
+- George Simion is one of the presidential candidates (Position 2)
+
+3. Addresses Wide Population:
+- The post is a paid advertisement reaching 25,000-29,999 impressions
+- Uses broad language addressing "Românii" (all Romanians)
+- Published on Facebook and Instagram
+- Estimated audience size of 100,001-500,000 people
+
+4. Electoral Objective:
+- Clear electoral objective with "De ce e nevoie de George Simion PREŞEDINTE?"
+- Calls for political change through elections
+- Explicitly promotes a presidential candidacy
+- Uses persuasive language to influence voting behavior
+
+5. Journalism vs Propaganda:
+- This is not journalistic content
+- It's clearly campaign material promoting a candidate
+- Uses emotional appeals and campaign rhetoric
+
+6. Personal Opinion:
+- This is not a personal opinion but an official party communication (AUR local branch)
+- Structured as campaign messaging
+</analysis>
+
+<conclusion>
+<post_id>2006851919778923</post_id>
+<electoral-propaganda-analysis>
+This is clearly electoral propaganda because:
+- Directly promotes a presidential candidate
+- Paid advertisement with significant reach
+- Contains campaign messaging
+- Published by an official party channel
+- Aims to influence voting behavior
+- Occurs during the restricted period after campaign end
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate>
+    <name>GEORGE-NICOLAE SIMION</name>
+    <impact>POSITIVE</impact>
+  </candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>AUR</responsible-party-or-group>
+<message-for-police>
+Pagina de Facebook "AUR - Sălașu de Sus" (ID: 296678066869537), pentru incalcarea articolului 55 t) din Legea 370/2004, prin continuarea propagandei electorale după încheierea campaniei, promovând candidatul George Nicolae Simion la funcția de președinte prin intermediul unei reclame plătite pe Facebook (ID postare: 2006851919778923). Reclama, care a generat între 25.000 și 29.999 de afișări, promovează explicit candidatura la președinție și îndeamnă alegătorii să voteze pentru schimbare, continuând să fie difuzată după ora 18:00 pe 23.11.2024, încălcând astfel perioada de restricție electorală.
+</message-for-police>
+</conclusion>
+</output>

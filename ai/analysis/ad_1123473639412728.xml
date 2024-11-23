@@ -1,0 +1,43 @@
+<output>
+<analysis>
+Let me analyze this post according to the given criteria:
+
+1. CMF Number: Not present in this post, though not mandatory for all communications.
+
+2. Refers to candidate: Yes, explicitly mentions "Simion" who is GEORGE-NICOLAE SIMION, a registered presidential candidate.
+
+3. Addresses wide population: Yes, this is a paid advertisement on Facebook and Instagram, targeting a potential audience of over 1 million people, specifically in Botoșani area.
+
+4. Electoral objective: Yes, this clearly has an electoral objective:
+- Uses hashtags #VoteazăAUR
+- Promotes "Planul Simion"
+- Is explicitly political in nature
+- Is clearly trying to influence voters
+
+5. Journalism: No, this is not journalistic content. It's a direct campaign message promoting a candidate and their plan.
+
+6. Personal opinion: No, this is an official paid advertisement from a party-affiliated page "Alegerea de AUR".
+
+The timing of this advertisement (after November 20, 2024) and its continuation past the electoral propaganda period for presidential elections makes it problematic.
+</analysis>
+
+<conclusion>
+<post_id>1123473639412728</post_id>
+<electoral-propaganda-analysis>
+This is clearly electoral propaganda because:
+- Directly promotes a presidential candidate (Simion)
+- Uses explicit electoral messaging (#VoteazăAUR)
+- Is a paid advertisement reaching a wide audience
+- Has clear electoral objectives
+- Is running after the end of the legal propaganda period
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate><name>GEORGE-NICOLAE SIMION</name><impact>POSITIVE</impact></candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>AUR</responsible-party-or-group>
+<message-for-police>
+Pagina "Alegerea de AUR", pentru incalcarea articolului 55 t) din Legea 370/2004, prin difuzarea de materiale de propaganda electorala pentru candidatul prezidential George Nicolae Simion (AUR) dupa incheierea perioadei de campanie electorala. Postarea cu ID-ul 1123473639412728 promoveaza in mod direct candidatul si planul sau electoral pentru Botosani, folosind explicit indemnul la vot (#VoteazaAUR) si este o reclama platita pe Facebook si Instagram, activa dupa ora 18:00 pe 23.11.2024, ceea ce constituie propaganda electorala ilegala in perioada post-campanie.
+</message-for-police>
+</conclusion>
+</output>

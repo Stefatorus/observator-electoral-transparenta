@@ -1,0 +1,54 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. CMF Presence: Yes, contains "CMF 11240022"
+
+2. Candidate Reference:
+- Directly mentions Elena Lasconi as their presidential candidate
+- Mentions local candidates for parliamentary elections (Ionel Dancă, Andrei Carabelea, Adrian Ciudin)
+
+3. Wide Population Targeting:
+- It's a paid Facebook/Instagram advertisement
+- Targets a significant audience (10,001-50,000 people)
+- Addresses voters in Târgu Neamț area
+- Uses public platform communication style
+
+4. Electoral Objective:
+- Explicitly calls for votes ("Votați cu candidatul susținut de Forța Dreptei la alegerile prezidențiale, Elena Lasconi")
+- Combines presidential and parliamentary electoral messaging
+- Makes political statements against PSD and PNL
+
+5. Journalism vs Propaganda:
+- This is clearly campaign material, not journalism
+- Contains direct call to action for voting
+- Includes campaign messaging and political positioning
+
+6. Personal Opinion:
+- This is not a personal opinion but an official campaign communication with CMF number
+</analysis>
+
+<conclusion>
+<post_id>470040132292081</post_id>
+<electoral-propaganda-analysis>
+This is clearly electoral propaganda because:
+- Contains official CMF number
+- Direct call for votes
+- Mentions specific candidates
+- Paid advertisement
+- Targets wide audience
+- Contains campaign messaging
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate>
+    <name>ELENA-VALERICA LASCONI</name>
+    <impact>POSITIVE</impact>
+  </candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>Forța Dreptei</responsible-party-or-group>
+<message-for-police>
+Media New Strategy, pentru incalcarea articolului 55 t) din Legea 370/2004, prin promovarea unui mesaj electoral platit pe Facebook (ID: 470040132292081) care indeamna explicit la votarea candidatului Elena Lasconi la alegerile prezidentiale ("Votați cu candidatul susținut de Forța Dreptei la alegerile prezidențiale, Elena Lasconi"). Materialul este difuzat dupa ora 18:00 pe 23.11.2024, cand campania electorala pentru alegerile prezidentiale s-a incheiat. Mesajul este unul platit, cu numar CMF (11240022), care vizeaza un public larg (10,001-50,000 persoane) si are caracter explicit de propaganda electorala pentru alegerile prezidentiale.
+</message-for-police>
+</conclusion>
+</output>

@@ -1,0 +1,39 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: Yes, contains "CMF11240014"
+2. Refers to candidate: Yes, explicitly mentions George Simion, a presidential candidate
+3. Addresses wide population: Yes, it's a paid Facebook advertisement with significant reach (60,000-70,000 impressions)
+4. Electoral objective: Yes, uses hashtags #GeorgeSimionPresedinte and promotes George Simion's leadership
+5. Journalism: No, this is a personal endorsement and campaign message
+6. Personal opinion: While it starts as a personal business story, it transitions into clear electoral propaganda for George Simion
+
+The post combines a personal business story about closing down a milk vending machine business with explicit political messaging promoting George Simion for president. The presence of hashtags like #GeorgeSimionPresedinte and the CMF number clearly indicates this is campaign material.
+
+This post violates Article 55 t) as it continues electoral propaganda for presidential elections after the conclusion of the official campaign period.
+</analysis>
+
+<conclusion>
+<post_id>2963929023764464</post_id>
+<electoral-propaganda-analysis>
+This constitutes electoral propaganda because:
+- Contains official campaign identifier (CMF)
+- Explicitly endorses a presidential candidate
+- Uses campaign hashtags
+- Is a paid advertisement reaching a wide audience
+- Combines personal story with political messaging to influence voters
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+<candidate>
+<name>GEORGE-NICOLAE SIMION</name>
+<impact>POSITIVE</impact>
+</candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>AUR</responsible-party-or-group>
+<message-for-police>
+UNIWORLD - MEDIA SRL, pentru incalcarea articolului 55 t) din Legea 370/2004, prin promovarea unui mesaj de propaganda electorala pentru candidatul George Simion la functia de presedinte (ID postare Facebook: 2963929023764464), dupa ora 18:00 pe 23.11.2024. Postarea contine elemente clare de propaganda electorala: numar unic de inregistrare CMF11240014, hashtag-uri electorale (#GeorgeSimionPresedinte), promovare explicita a candidatului si reprezinta o reclama platita cu impact semnificativ (60.000-70.000 impresii). Mesajul combina o poveste personala cu propaganda electorala directa, avand ca scop influentarea votului in favoarea candidatului AUR la prezidentiale.
+</message-for-police>
+</conclusion>
+</output>

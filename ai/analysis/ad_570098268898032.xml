@@ -1,0 +1,36 @@
+<output>
+<analysis>
+Let's analyze this post according to the given criteria:
+
+1. Has CMF: Yes, CMF 11240015 is present, indicating this is electoral propaganda
+
+2. Refers to candidate: While this post mentions USR and their program, it doesn't explicitly promote any presidential candidate from the provided list. However, it is promoting USR's parliamentary campaign.
+
+3. Addresses wide population: Yes, this is a paid advertisement targeting a significant audience (50,001-100,000 people), specifically focusing on young voters.
+
+4. Electoral objective: Yes, it has a clear electoral objective by promoting USR's program and policies, but for parliamentary elections, not presidential.
+
+5. Journalism: No, this is not journalism. It's a clear campaign message promoting party policies.
+
+6. Personal opinion: No, this is an official party communication with structured policy points.
+
+The crucial point here is that while this is clearly electoral propaganda, it's targeting the parliamentary elections, which are still in their legal campaign period. It does not mention or promote any presidential candidate, nor does it attempt to influence the presidential election voting.
+</analysis>
+
+<conclusion>
+<post_id>570098268898032</post_id>
+<electoral-propaganda-analysis>
+This is indeed electoral propaganda, but it's legal because:
+- It promotes parliamentary election campaign, which is still ongoing
+- It doesn't mention or influence presidential elections
+- It presents party policies for parliamentary governance
+- It includes proper CMF identification
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>FALSE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>USR</responsible-party-or-group>
+<message-for-police>
+</message-for-police>
+</conclusion>
+</output>

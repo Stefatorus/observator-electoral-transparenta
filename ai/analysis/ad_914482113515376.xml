@@ -1,0 +1,51 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. CMF Number: Yes, present as "CUI MFC 11240014" - this indicates electoral material
+
+2. Refers to candidate: Yes, directly mentions "George Simion" who is a presidential candidate
+
+3. Addresses wide population: Yes, this is a paid advertisement on Facebook/Instagram with significant reach (9,000-9,999 impressions)
+
+4. Electoral objective: Yes, clearly electoral:
+- Uses hashtag #VoteazăAUR
+- Explicitly asks people to "Vino la vot"
+- Promotes "Planul Simion"
+- Uses electoral campaign rhetoric
+
+5. Journalism: No, this is clearly campaign material, not journalistic content
+
+6. Personal opinion: No, this is an official party communication (AUR Vâlcea) with paid distribution
+
+The post is clearly electoral propaganda as it meets all criteria under Article 36(7):
+- Directly refers to a candidate (George Simion)
+- Used during campaign period
+- Has clear electoral objective
+- Is not journalistic content
+
+</analysis>
+
+<conclusion>
+<post_id>914482113515376</post_id>
+<electoral-propaganda-analysis>
+This is clearly electoral propaganda because:
+- Contains official campaign identifiers (MFC number)
+- Directly promotes a candidate (George Simion)
+- Makes explicit call to vote
+- Uses campaign messaging and hashtags
+- Is paid partisan communication
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate>
+    <name>GEORGE-NICOLAE SIMION</name>
+    <impact>POSITIVE</impact>
+  </candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>AUR</responsible-party-or-group>
+<message-for-police>
+Alianța pentru Unirea Românilor Vâlcea, pentru incalcarea articolului 55 t) din Legea 370/2004, prin continuarea propagandei electorale după încheierea campaniei, materializată prin postarea cu ID-ul 914482113515376 pe Facebook, care promovează direct candidatul George Simion și solicită explicit votul cetățenilor ("Vino la vot"). Postarea este plătită și distribuită activ după ora 18:00 pe 23.11.2024, conține elemente clare de propagandă electorală (CUI MFC 11240014), și vizează influențarea directă a votului pentru alegerile prezidențiale.
+</message-for-police>
+</conclusion>
+</output>

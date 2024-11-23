@@ -1,0 +1,53 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: No visible CMF number, but this doesn't automatically disqualify it as propaganda.
+
+2. Refers to candidate: Yes, explicitly mentions "George Simion" who is a presidential candidate (Position 2 on the official list).
+
+3. Addresses wide population: Yes
+- It's a paid advertisement
+- Reaching 25,000-29,999 impressions
+- Uses broad hashtags targeting national audience
+- Uses collective "we" language ("dacă dorim")
+
+4. Electoral objective: Yes
+- Direct call to action: "Votați AUR și pe George Simion, președintele României!"
+- Clear electoral messaging
+- Positions itself as promoting "schimbare adevărată"
+
+5. Journalism: No
+- This is clearly campaign material, not journalistic content
+- Contains direct voting instructions
+- No informative or educational content
+
+6. Personal opinion: No
+- This is a paid advertisement from "UNIWORLD - MEDIA SRL"
+- Structured as campaign messaging
+- Contains formal political party messaging and hashtags
+</analysis>
+
+<conclusion>
+<post_id>871483411851862</post_id>
+<electoral-propaganda-analysis>
+This constitutes electoral propaganda because:
+- Direct call to vote for a specific candidate
+- Paid distribution
+- Large reach (25,000+ impressions)
+- Clear electoral messaging
+- Professional campaign structure with hashtags and party messaging
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate>
+    <name>GEORGE-NICOLAE SIMION</name>
+    <impact>POSITIVE</impact>
+  </candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>AUR</responsible-party-or-group>
+<message-for-police>
+UNIWORLD - MEDIA SRL și AUR, pentru incalcarea articolului 55 t) din Legea 370/2004, prin difuzarea de materiale de propagandă electorală după încheierea campaniei electorale pentru alegerile prezidențiale, constând într-o postare sponsorizată pe Facebook (ID: 871483411851862) ce îndeamnă explicit la votarea candidatului George Simion la funcția de președinte ("Votați AUR și pe George Simion, președintele României!"). Postarea a fost difuzată după ora 18:00 pe 23.11.2024, atingând între 25.000 și 29.999 de afișări, cu un buget între 200-299 RON, reprezentând o încălcare clară a perioadei legale de campanie electorală.
+</message-for-police>
+</conclusion>
+</output>

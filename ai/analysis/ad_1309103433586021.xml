@@ -1,0 +1,53 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. CMF Number: Not present in the post, but this doesn't automatically disqualify it as propaganda.
+
+2. References to Candidates:
+- Directly mentions "Ciprian-Titi Stoica" as a Senate candidate for AUR
+- Explicitly mentions "George Simion," who is a presidential candidate
+- Clear reference to both parliamentary and presidential elections
+
+3. Addresses Wide Population:
+- Yes, this is a paid Facebook advertisement
+- Targets a large audience (100,001-500,000 people)
+- High impression count (80,000-90,000)
+- Significant spend (1,500-1,999 RON)
+
+4. Electoral Objective:
+- Clear call to vote ("vă invit să votați")
+- Promotes both parliamentary and presidential candidates
+- Mentions specific election dates including presidential election dates
+- Promotes "Planul Simion"
+
+5. Journalism vs Propaganda:
+- This is clearly campaign material, not journalism
+- Contains promotional language and campaign promises
+- Direct call to action for voting
+
+6. Personal Opinion:
+- This is not a personal opinion but a structured campaign message
+- Professional advertisement paid for by "UNIWORLD - MEDIA SRL"
+</analysis>
+
+<conclusion>
+<post_id>1309103433586021</post_id>
+<electoral-propaganda-analysis>
+This constitutes electoral propaganda because:
+1. It directly promotes candidates for both parliamentary and presidential elections
+2. Contains explicit calls to vote
+3. Is a paid advertisement reaching a large audience
+4. Promotes specific political agenda ("Planul Simion")
+5. Mentions the presidential election date (24 november) which is after the campaign period has ended
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate><name>GEORGE-NICOLAE SIMION</name><impact>POSITIVE</impact></candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>AUR</responsible-party-or-group>
+<message-for-police>
+UNIWORLD - MEDIA SRL, pentru incalcarea articolului 55 t) din Legea 370/2004, prin difuzarea unui material de propaganda electorala (ID Facebook: 1309103433586021) dupa incheierea perioadei de campanie electorala. Materialul promoveaza explicit candidatul George Simion pentru alegerile prezidentiale, contine indemnuri directe la vot ("vă invit să votați George Simion și A.U.R") si face referire explicita la data de 24 noiembrie, dupa ora 18:00 pe 23.11.2024. Materialul a fost distribuit ca reclama platita pe Facebook, cu un buget semnificativ (1500-1999 RON) si o audienta estimata intre 100,001 si 500,000 de persoane, demonstrand intentia clara de influentare a votului pentru alegerile prezidentiale in afara perioadei legale de campanie.
+</message-for-police>
+</conclusion>
+</output>

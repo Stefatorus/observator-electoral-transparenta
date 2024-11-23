@@ -1,0 +1,54 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. CMF Presence: Yes, contains "CMF 11240014" at the end, indicating this is electoral propaganda
+
+2. Candidate Reference: Yes, directly mentions "George Simion" who is a presidential candidate (Position 2 on the ballot)
+
+3. Wide Population Address: Yes
+- It's a paid Facebook/Instagram advertisement
+- Uses inclusive language ("Mergem", "avem")
+- Targets a very large audience (over 1 million potential reach)
+
+4. Electoral Objective: Yes
+- Explicitly calls for voting ("sa votam")
+- Promotes George Simion as president ("George Simion Presedinte!")
+- Uses persuasive language ("sansa istorica")
+- Claims he would be "primul Presedinte al romanilor, iar nu al sistemului"
+
+5. Journalism: No
+- This is clearly campaign material, not journalistic content
+- Contains direct call to action for voting
+- Includes campaign messaging and CMF number
+
+6. Personal Opinion: No
+- This is a structured campaign message
+- Contains official CMF number
+- Is a paid advertisement
+- Direct call to vote for a specific candidate
+</analysis>
+
+<conclusion>
+<post_id>1404871247307885</post_id>
+<electoral-propaganda-analysis>
+This is clearly electoral propaganda because:
+1. Contains official CMF number
+2. Direct call to vote for a specific candidate
+3. Paid advertisement reaching large audience
+4. Uses campaign messaging
+5. Posted after campaign period ended
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate>
+    <name>GEORGE-NICOLAE SIMION</name>
+    <impact>POSITIVE</impact>
+  </candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>AUR</responsible-party-or-group>
+<message-for-police>
+Matei Ștefănescu, pentru incalcarea articolului 55 t) din Legea 370/2004, prin promovarea unui mesaj de propaganda electorala (ID Facebook: 1404871247307885) dupa ora 18:00 pe 23.11.2024, continand indemnul explicit de a vota candidatul George Simion la alegerile prezidentiale ("Mergem pana la capat! Duminica avem sansa istorica sa votam primul Presedinte al romanilor, iar nu al sistemului! George Simion Presedinte!"). Mesajul contine numar CMF (11240014), este platit pentru distributie pe Facebook si Instagram, si are un impact potential de peste 1 milion de utilizatori, demonstrand clar intentia de propaganda electorala in afara perioadei legale permise.
+</message-for-police>
+</conclusion>
+</output>

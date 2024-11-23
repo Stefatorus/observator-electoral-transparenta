@@ -1,0 +1,44 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: Yes, contains "🅒🅜🅕 - ➊➊➋➍⓿⓿➊➍"
+2. Refers to candidate: Yes, explicitly mentions George Simion, who is a presidential candidate
+3. Addresses wide population: Yes, this is a paid advertisement reaching 8,000-8,999 impressions
+4. Electoral objective: Yes, explicitly calls for voting ("să ieșim masiv la vot și să votam George Simion")
+5. Journalism: No, this is clearly campaign material, not journalistic content
+6. Personal opinion: No, this is a structured campaign message with a CMF number
+
+Additional factors:
+- The post is still active ("ad_delivery_stop_time: None")
+- It's a paid promotion targeting a large audience (100,001-500,000 estimated reach)
+- Contains clear electoral messaging
+- Links the vote to "defeating the system that has impoverished Romania"
+- Uses official campaign formatting (CMF number)
+- Posted by a Senator promoting a presidential candidate
+</analysis>
+
+<conclusion>
+<post_id>497335456648147</post_id>
+<electoral-propaganda-analysis>
+This is clearly electoral propaganda because:
+- Contains explicit call to vote for a specific candidate
+- Uses official campaign formatting (CMF number)
+- Is a paid advertisement
+- Targets a large audience
+- Contains clear electoral messaging
+- Posted during the period when presidential campaign propaganda is prohibited
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate>
+    <name>GEORGE-NICOLAE SIMION</name>
+    <impact>POSITIVE</impact>
+  </candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>AUR</responsible-party-or-group>
+<message-for-police>
+Senatorul Sorin Cristian Alic, pentru incalcarea articolului 55 t) din Legea 370/2004, prin publicarea și menținerea activă a unei reclame electorale (ID Facebook: 497335456648147) după încheierea perioadei de campanie electorală. Postarea conține un îndemn explicit de a vota candidatul George Simion, fiind distribuită ca reclamă plătită pe Facebook și Instagram, cu un impact estimat între 8.000 și 8.999 de afișări. Materialul include număr CMF (🅒🅜🅕 - ➊➊➋➍⓿⓿➊➍), confirmând natura sa de propagandă electorală. Reclama a rămas activă și după ora 18:00 pe 23.11.2024, încălcând astfel prevederile legale privind încheierea campaniei electorale.
+</message-for-police>
+</conclusion>
+</output>

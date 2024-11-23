@@ -1,0 +1,55 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. CMF Presence:
+- Yes, contains "CMF:11240002" which indicates this is electoral material
+
+2. Candidate Reference:
+- No direct reference to any presidential candidate
+- However, it's from PNL Teleorman, and we know Nicolae Ciucă is PNL's presidential candidate
+
+3. Wide Population Address:
+- Yes, it addresses the general public
+- Uses broad language "Haideți să ne facem vocea auzită"
+- Is a paid advertisement with significant reach (15,000-19,999 impressions)
+
+4. Electoral Objective:
+- Yes, clear electoral objective
+- Directly encourages voting
+- Uses campaign messaging about "viitorul României"
+- Published during election day
+
+5. Journalism vs Propaganda:
+- This is clearly campaign material, not journalism
+- Contains a CMF number
+- Is paid political advertising
+
+6. Personal Opinion:
+- Not a personal opinion
+- Official party communication (PNL Teleorman)
+</analysis>
+
+<conclusion>
+<post_id>605488808500280</post_id>
+<electoral-propaganda-analysis>
+This constitutes electoral propaganda because:
+1. It's a paid political advertisement
+2. Contains CMF number
+3. Published during election day
+4. Clear call to action regarding voting
+5. Coming from an official party channel
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+<candidate>
+<name>NICOLAE-IONEL CIUCĂ</name>
+<impact>POSITIVE</impact>
+</candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>PNL</responsible-party-or-group>
+<message-for-police>
+Patridul Național Liberal Teleorman, pentru incalcarea articolului 55 t) din Legea 370/2004, prin publicarea și promovarea unui mesaj de propagandă electorală (ID postare Facebook: 605488808500280) după încheierea perioadei de campanie, respectiv după ora 18:00 pe 23.11.2024. Postarea conține număr CMF (11240002), reprezintă material electoral plătit cu impact între 15.000-19.999 impresii, și îndeamnă în mod direct la participarea la vot prin mesajul "Viitorul României nu se decide în sondaje, ci la vot!", constituind astfel propagandă electorală activă în ziua votului.
+</message-for-police>
+</conclusion>
+</output>

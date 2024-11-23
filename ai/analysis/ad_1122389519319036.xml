@@ -1,0 +1,46 @@
+<output>
+<analysis>
+Let me analyze this post according to the given criteria:
+
+1. Has CMF: No CMF number is present in this post.
+
+2. Refers to candidate: Yes, it directly refers to Mircea Geoană, who is one of the presidential candidates (Position 6 - Independent candidate).
+
+3. Addresses wide population: Yes, this is a paid advertisement with significant reach (80,000-89,999 impressions) and a substantial budget (400-499 RON), targeting a large audience (500,001-1,000,000 people).
+
+4. Electoral objective: The post appears to be attempting to create discussion or controversy around Mircea Geoană's family relations, specifically about his mother-in-law. While not directly electoral in nature, the timing and context during the electoral period suggests an attempt to influence public opinion about the candidate.
+
+5. Journalism: This does not appear to be journalistic content as it doesn't provide any substantial information or news value. Instead, it poses leading questions with emotional triggers (using emojis and provocative language).
+
+6. Personal opinion: This isn't presented as a personal opinion but rather as a provocative question designed to generate engagement and potentially negative attention.
+
+The post is particularly concerning because:
+- It's a paid advertisement running during the electoral period
+- It targets a specific presidential candidate
+- It appears designed to generate controversy
+- It has significant reach and budget allocation
+</analysis>
+
+<conclusion>
+<post_id>1122389519319036</post_id>
+<electoral-propaganda-analysis>
+This constitutes electoral propaganda because:
+- It specifically targets a presidential candidate
+- It's a paid advertisement with significant reach
+- The timing coincides with the electoral period
+- The content appears designed to influence public opinion
+- It's not informative or journalistic in nature
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate>
+    <name>MIRCEA-DAN GEOANĂ</name>
+    <impact>NEGATIVE</impact>
+  </candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>INDEPENDENT/Fruncea</responsible-party-or-group>
+<message-for-police>
+Pagina "Fruncea", pentru incalcarea articolului 55 t) din Legea 370/2004, prin promovarea unui anunt platit (ID: 1122389519319036) ce constituie propaganda electorala negativa impotriva candidatului Mircea-Dan Geoană, dupa ora 18:00 pe 23.11.2024. Postarea, care a avut un impact semnificativ (80,000-89,999 impresii) si un buget substantial (400-499 RON), are ca scop influentarea opiniei publice prin generarea de controverse despre familia candidatului. Continutul nu are caracter informativ sau jurnalistic, ci reprezinta propaganda electorala mascata sub forma unei intrebari provocatoare.
+</message-for-police>
+</conclusion>
+</output>

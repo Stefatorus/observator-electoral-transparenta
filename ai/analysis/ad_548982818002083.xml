@@ -1,0 +1,46 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: Yes, CMF 11240015 is present, indicating this is electoral content.
+
+2. Refers to candidate: Yes, directly refers to George Simion, who is a presidential candidate (Position 2 on the ballot).
+
+3. Addresses wide population: Yes, this is a paid advertisement on Facebook and Instagram with significant reach (15,000-19,999 impressions).
+
+4. Electoral objective: While this post mentions parliamentary elections in its hashtags (#parlamentare), it primarily attacks George Simion, a presidential candidate, regarding promises about a house worth 35,000 Euro. This mixed messaging during the presidential campaign blackout period is problematic.
+
+5. Journalism: No, this doesn't follow journalistic standards. It's a direct attack without providing evidence or balanced reporting.
+
+6. Personal opinion: No, this is a paid, structured campaign message with a CMF number.
+
+Key concerns:
+- The post is active during the presidential election propaganda blackout period
+- Directly attacks a presidential candidate
+- Uses paid promotion to reach a wide audience
+- Contains a CMF number indicating it's official campaign material
+</analysis>
+
+<conclusion>
+<post_id>548982818002083</post_id>
+<electoral-propaganda-analysis>
+This constitutes electoral propaganda because:
+- Contains official campaign identifier (CMF)
+- Directly attacks a presidential candidate
+- Is paid promotion reaching large audiences
+- Has clear electoral messaging
+- Running during blackout period
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+<candidate>
+<name>GEORGE-NICOLAE SIMION</name>
+<impact>NEGATIVE</impact>
+</candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>USR</responsible-party-or-group>
+<message-for-police>
+Atelierul de internet SRL, pentru incalcarea articolului 55 t) din Legea 370/2004, prin difuzarea unui mesaj electoral platit (ID Facebook: 548982818002083) care ataca direct candidatul prezidential George Simion dupa ora 18:00 pe 23.11.2024. Materialul, care include numar CMF 11240015, constituie propaganda electorala conform Art. 36(7) prin: referirea directa la candidat, obiectivul electoral clar de influentare negativa a votului, si adresabilitatea catre public larg prin promovare platita pe Facebook si Instagram (15,000-19,999 impresii). Mesajul continua sa fie activ si promovat in perioada de interdictie a propagandei electorale pentru alegerile prezidentiale.
+</message-for-police>
+</conclusion>
+</output>

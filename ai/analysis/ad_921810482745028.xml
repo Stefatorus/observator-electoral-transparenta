@@ -1,0 +1,55 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. CMF Number:
+- Contains CMF 11240014, which indicates this is electoral propaganda
+
+2. References to Candidate:
+- Directly mentions "George Simion", who is a presidential candidate (Position 2)
+- Clear identification of the candidate
+
+3. Addresses Wide Population:
+- Paid advertisement on Facebook and Instagram
+- Reaches between 20,000-24,999 impressions
+- Targeted at 100,001-500,000 people
+- Uses "votăm" (we vote) addressing a collective action
+
+4. Electoral Objective:
+- Clear call to action "Duminică votăm George Simion președinte!"
+- Direct attempt to influence voting behavior
+- Uses presidential election context
+
+5. Journalism vs Propaganda:
+- This is not journalism
+- Clear campaign message with voting instruction
+- Contains CMF number indicating campaign material
+
+6. Personal Opinion:
+- This is not a personal opinion but a clear campaign message
+- Structured as a call to action for voting
+</analysis>
+
+<conclusion>
+<post_id>921810482745028</post_id>
+<electoral-propaganda-analysis>
+This is clearly electoral propaganda because:
+- Contains CMF number
+- Direct call to vote for a specific presidential candidate
+- Paid advertisement reaching large audience
+- Clear electoral objective
+- Posted after campaign period ended
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate>
+    <name>GEORGE-NICOLAE SIMION</name>
+    <impact>POSITIVE</impact>
+  </candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>AUR</responsible-party-or-group>
+<message-for-police>
+Răzvan Biro, pentru incalcarea articolului 55 t) din Legea 370/2004, prin promovarea unui mesaj electoral explicit pe Facebook și Instagram (ID post: 921810482745028) după încheierea perioadei de campanie electorală. Postarea conține un îndemn direct de a vota candidatul George Simion la alegerile prezidențiale ("Duminică votăm George Simion președinte!"), fiind realizată și promovată după ora 18:00 pe 23.11.2024, cu un impact semnificativ (20,000-24,999 impresii). Mesajul include număr CMF (11240014), confirmând natura sa de propagandă electorală, și reprezintă o încălcare clară a interdicției de propagandă electorală după încheierea campaniei.
+</message-for-police>
+</conclusion>
+</output>

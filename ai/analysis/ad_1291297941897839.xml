@@ -1,0 +1,49 @@
+<output>
+<analysis>
+Let's analyze this post according to the given criteria:
+
+1. Has CMF: No visible CMF number in the post.
+
+2. Refers to candidates: 
+- Mentions "Simion" (George-Nicolae Simion, presidential candidate)
+- Mentions "Sergiu Mihalcea" (parliamentary candidate)
+
+3. Addresses wide population:
+- Yes, it's a paid advertisement on Facebook/Instagram
+- Uses collective pronouns ("noastre")
+- Targets a specific region (Ilfov)
+
+4. Electoral objective:
+- Clearly asks for votes ("Votează Sergiu Mihalcea")
+- Presents a political plan for Ilfov
+- Has campaign promises about energy independence
+
+5. Journalism vs Propaganda:
+- This is clearly campaign material, not journalism
+- Makes promises and calls for action (voting)
+- Uses campaign slogans and emotional appeals (🇷🇴)
+
+6. Personal opinion:
+- This is not a personal opinion but an official campaign message
+- Structured as a political advertisement
+</analysis>
+
+<conclusion>
+<post_id>1291297941897839</post_id>
+<electoral-propaganda-analysis>
+This post constitutes electoral propaganda, but it's ALLOWED because:
+- It primarily promotes a parliamentary candidate (Sergiu Mihalcea for Senate)
+- The parliamentary election campaign is still ongoing
+- While it mentions Simion, it's in context of a party plan, not primarily promoting his presidential candidacy
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>FALSE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate>
+    <name>GEORGE-NICOLAE SIMION</name>
+    <impact>POSITIVE</impact>
+  </candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>AUR</responsible-party-or-group>
+<message-for-police></message-for-police>
+</conclusion>
+</output>

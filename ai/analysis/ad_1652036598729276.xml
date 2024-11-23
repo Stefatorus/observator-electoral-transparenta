@@ -1,0 +1,42 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: No visible CMF number, but this doesn't automatically disqualify it as propaganda.
+
+2. Refers to candidate: Yes, explicitly mentions "George Simion" and promotes AUR and their campaign.
+
+3. Addresses wide population: Yes, this is a paid Facebook post with significant reach (4,000-4,999 impressions).
+
+4. Electoral objective: Clearly yes. The post:
+- Promotes AUR as "singura alternativă autentică"
+- Explicitly calls for votes on specific dates (24 noiembrie, 1 decembrie și 8 decembrie)
+- Promotes George Simion's "Plan pentru o Românie dreaptă"
+
+5. Journalism: No, this is not journalism. It's a campaign interview format specifically designed to promote AUR and George Simion.
+
+6. Personal opinion: No, this is a structured, paid campaign message with clear electoral objectives.
+
+This is clearly electoral propaganda targeting both the presidential election (mentioning George Simion) and parliamentary elections (mentioning AUR and the December dates).
+</analysis>
+
+<conclusion>
+<post_id>1652036598729276</post_id>
+<electoral-propaganda-analysis>
+This is clearly electoral propaganda because:
+- It explicitly promotes a presidential candidate (George Simion)
+- Contains direct call to vote ("votați AUR")
+- Is a paid advertisement reaching thousands
+- Promotes both the party and its presidential candidate
+- Uses campaign messaging ("singura alternativă autentică", "schimbare reală")
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate><name>GEORGE-NICOLAE SIMION</name><impact>POSITIVE</impact></candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>AUR</responsible-party-or-group>
+<message-for-police>
+UNIWORLD - MEDIA SRL, pentru incalcarea articolului 55 t) din Legea 370/2004, prin difuzarea de materiale de propagandă electorală după încheierea campaniei electorale prezidențiale, constând într-o postare sponsorizată pe Facebook (ID: 1652036598729276) care promovează candidatul George Simion și partidul AUR, făcând apel explicit la vot ("votați AUR") și promovând platforma electorală a candidatului ("Planul pentru o Românie dreaptă"). Postarea a fost difuzată și menținută activ după ora 18:00 pe 23.11.2024, încălcând astfel prevederile legale privind încheierea campaniei electorale prezidențiale.
+</message-for-police>
+</conclusion>
+</output>

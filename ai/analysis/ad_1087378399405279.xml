@@ -1,0 +1,56 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: No CMF number is present, but this doesn't automatically disqualify it as propaganda.
+
+2. Refers to candidates: Yes, specifically mentions several presidential candidates:
+- Mircea-Dan Geoană
+- Cristian Diaconescu
+- Victor Ponta (though not actually a candidate in 2024)
+
+3. Addresses wide population: Yes
+- It's a paid advertisement with 50,000-59,999 impressions
+- Targeted at a large audience (100,001-500,000 people)
+- Published on both Facebook and Instagram
+- Uses Romanian language
+- Directly addresses the audience ("Îi recunoașteți?")
+
+4. Electoral objective: Yes
+- Attempts to influence voters by creating a negative association
+- Uses phrase "să nu uităm trecutul!" to influence voting decisions
+- Explicitly mentions "candidează anul acesta"
+- Accuses some of lying about being independent
+
+5. Journalism: No
+- This is not journalistic content
+- No attempt at balanced reporting
+- Clear political messaging rather than information
+
+6. Personal opinion: No
+- This is a paid advertisement
+- Structured as a political message
+- Clear campaign objective
+</analysis>
+
+<conclusion>
+<post_id>1087378399405279</post_id>
+<electoral-propaganda-analysis>
+This constitutes electoral propaganda because:
+- Directly targets specific presidential candidates
+- Paid advertisement with significant reach
+- Clear electoral objective to influence voting decisions
+- Not journalistic or personal opinion content
+- Attempts to create negative associations with specific candidates
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate><name>MIRCEA-DAN GEOANĂ</name><impact>NEGATIVE</impact></candidate>
+  <candidate><name>CRISTIAN DIACONESCU</name><impact>NEGATIVE</impact></candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>UNKNOWN</responsible-party-or-group>
+<message-for-police>
+Pagina "Fruncea", pentru incalcarea articolului 55 t) din Legea 370/2004, prin publicarea și menținerea activă a unei reclame cu ID-ul 1087378399405279 ce reprezintă propagandă electorală negativă împotriva candidaților Mircea-Dan Geoană și Cristian Diaconescu, după ora 18:00 pe 23.11.2024. Reclama plătită, cu un buget de 400-499 RON și cu o audiență estimată între 100,001-500,000 persoane, urmărește în mod direct influențarea votului prin asocieri negative și acuzații directe la adresa candidaților, depășind cadrul unei simple opinii personale sau al unei informări jurnalistice.
+</message-for-police>
+</conclusion>
+</output>

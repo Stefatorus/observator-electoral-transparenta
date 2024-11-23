@@ -1,0 +1,42 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: No CMF number is present in the post.
+
+2. Refers to candidate: The post mentions Viktor Orban (Hungarian PM) and references RMDSZ (UDMR), which is relevant because HUNOR KELEMEN from UDMR is a presidential candidate.
+
+3. Addresses wide population: Yes, it's a paid advertisement with significant reach (45,000-50,000 impressions) and explicitly asks for sharing ("Oszd meg!").
+
+4. Electoral objective: The message appears to be promoting UDMR's achievements, specifically regarding Romania's Schengen accession, during an electoral period. While not directly calling for votes, it's positioning UDMR in a positive light through international recognition.
+
+5. Journalism: This does not appear to be journalistic content as it's a paid political message with a call to action.
+
+6. Personal opinion: This is not a personal opinion but rather an orchestrated political message.
+
+The post is in Hungarian, translating to: "Viktor Orbán at his Friday press conference in Budapest: 'I would like to thank RMDSZ for the work they helped Romania join the Schengen area!' Share it!"
+</analysis>
+
+<conclusion>
+<post_id>559832876901964</post_id>
+<electoral-propaganda-analysis>
+This constitutes electoral propaganda because:
+- It's a paid political advertisement
+- It promotes UDMR's achievements during electoral period
+- Has a clear call to action ("Share it!")
+- Uses international political recognition to boost UDMR's image
+- Targets the Hungarian-speaking population in Romania
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate>
+    <name>HUNOR KELEMEN</name>
+    <impact>POSITIVE</impact>
+  </candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>UDMR</responsible-party-or-group>
+<message-for-police>
+Heus Media Service, pentru incalcarea articolului 55 t) din Legea 370/2004, prin difuzarea unui mesaj de propaganda electorala platit (ID Facebook: 559832876901964) dupa incheierea perioadei de campanie electorala. Materialul promoveaza realizarile UDMR si indirect pe candidatul HUNOR KELEMEN, prin intermediul declaratiilor lui Viktor Orban despre succesul UDMR in negocierile Schengen, cu un indemn explicit de distribuire ("Oszd meg!"). Postarea a fost promovata dupa ora 18:00 pe 23.11.2024, avand un impact semnificativ cu 45.000-50.000 de afisari si un buget de aproximativ 650 RON.
+</message-for-police>
+</conclusion>
+</output>

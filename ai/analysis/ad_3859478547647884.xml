@@ -1,0 +1,48 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: No visible CMF number in the post.
+
+2. Refers to candidate(s): Yes
+- Mentions Cristian Terheș (presidential candidate)
+- References George Simion (presidential candidate)
+- The link title explicitly promotes voting for George Simion
+
+3. Addresses wide population: Yes
+- It's a paid advertisement on Facebook and Instagram
+- Targets an estimated audience of 100,001-500,000 people
+- Uses public communication channels
+
+4. Electoral objective: Yes
+- The link title explicitly states "De ce și eu voi vota pentru GEORGE SIMION"
+- Clear intention to influence others' voting decisions
+- Creates a narrative against one candidate (Terheș) while promoting another (Simion)
+
+5. Journalism: No
+- This is not journalistic content
+- It's clearly campaign material promoting one candidate over another
+
+6. Personal opinion: While presented as a personal choice ("eu voi vota"), this is a paid advertisement meant to influence voters, making it electoral propaganda rather than mere personal expression.
+</analysis>
+
+<conclusion>
+<post_id>3859478547647884</post_id>
+<electoral-propaganda-analysis>
+This content constitutes electoral propaganda because:
+- It explicitly promotes voting for a specific presidential candidate
+- It's a paid advertisement reaching a large audience
+- It attempts to influence voting decisions
+- It's being run after the end of the legal campaign period
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate><name>GEORGE-NICOLAE SIMION</name><impact>POSITIVE</impact></candidate>
+  <candidate><name>CRISTIAN-VASILE TERHEȘ</name><impact>NEGATIVE</impact></candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>INDEPENDENT</responsible-party-or-group>
+<message-for-police>
+Peter Costea, pentru incalcarea articolului 55 t) din Legea 370/2004, prin difuzarea de materiale de propagandă electorală după încheierea campaniei electorale, constând într-o reclamă plătită pe Facebook (ID: 3859478547647884) care îndeamnă explicit la votarea candidatului George Simion ("De ce și eu voi vota pentru GEORGE SIMION") și discreditează candidatul Cristian Terheș. Materialul propagandistic este difuzat după ora 18:00 pe 23.11.2024, încălcând explicit prevederile legale privind încheierea campaniei electorale. Reclama este configurată să ajungă la un public țintă de 100,001-500,000 de persoane, demonstrând intenția clară de influențare a votului.
+</message-for-police>
+</conclusion>
+</output>

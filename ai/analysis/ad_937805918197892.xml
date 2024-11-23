@@ -1,0 +1,45 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: No visible CMF number, though this is from an official party page.
+
+2. Refers to candidate: While this is posted on Ludovic Orban's page (who is a presidential candidate), the message itself doesn't directly reference him as a candidate. However, it's clearly promoting "Forța Dreptei".
+
+3. Addresses wide population: Yes, this is a paid advertisement with significant reach (200,000-250,000 impressions) and substantial spend (2000-2500 RON).
+
+4. Electoral objective: Yes. The message uses metaphorical language about traffic lights but clearly ends with a direct call to vote: "Votați verde, votați Forța Dreptei!"
+
+5. Journalism: No, this is clearly campaign material, not journalistic content.
+
+6. Personal opinion: No, this is a structured campaign message using metaphorical language to convey a political message.
+
+This is clearly electoral propaganda as it:
+- Uses metaphorical language to criticize current leadership
+- Makes promises about future governance
+- Ends with a direct call to vote
+- Is a paid advertisement with significant reach
+- Comes from an official party channel
+</analysis>
+
+<conclusion>
+<post_id>937805918197892</post_id>
+<electoral-propaganda-analysis>
+This post constitutes electoral propaganda because:
+1. It's a paid political advertisement
+2. Contains a direct call to vote
+3. Makes campaign promises
+4. Criticizes current governance
+5. Uses party colors and symbolism
+6. Has significant reach through paid promotion
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+<candidate><name>LUDOVIC ORBAN</name><impact>POSITIVE</impact></candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>Forța Dreptei</responsible-party-or-group>
+<message-for-police>
+Forța Dreptei, pentru incalcarea articolului 55 t) din Legea 370/2004, prin difuzarea de materiale de propagandă electorală după încheierea campaniei electorale pentru alegerile prezidențiale. Postarea cu ID-ul 937805918197892 conține un îndemn explicit la vot ("Votați verde, votați Forța Dreptei!"), fiind promovată ca reclamă plătită pe Facebook după ora 18:00 pe 23.11.2024. Materialul folosește metafore politice și critici la adresa guvernării actuale, având un evident caracter de propagandă electorală, cu un buget semnificativ de promovare (2000-2500 RON) și o audiență estimată de peste 200,000 de persoane.
+</message-for-police>
+</conclusion>
+</output>

@@ -1,0 +1,59 @@
+<output>
+<analysis>
+Let's analyze this post according to the required criteria:
+
+1. CMF Number:
+- Present: CMF 11240015, indicating this is official electoral propaganda
+
+2. Reference to Candidate:
+- Directly mentions "Elena Lasconi" multiple times
+- Explicitly promotes her as presidential candidate
+- Clearly identifies her as USR's presidential candidate
+
+3. Addresses Wide Population:
+- High impression count (200,000-250,000)
+- Large estimated audience (100,001-500,000)
+- Paid advertisement on Facebook and Instagram
+- Addresses "argeșeni" and Romanians in general
+
+4. Electoral Objective:
+- Clear call to vote ("Fiecare vot contează")
+- Explicitly promotes "Elena Lasconi la Președinție"
+- Presents campaign promises and vision
+- Direct electoral messaging combining presidential and parliamentary campaigns
+
+5. Journalism vs Propaganda:
+- This is clearly campaign material, not journalism
+- Contains campaign promises and political messaging
+- Includes party slogans and direct electoral calls to action
+
+6. Personal Opinion:
+- This is not a personal opinion but an official party communication
+- Contains structured campaign messaging
+- Uses official campaign identifier (CMF)
+</analysis>
+
+<conclusion>
+<post_id>569180649096733</post_id>
+<electoral-propaganda-analysis>
+This is clearly electoral propaganda because:
+- Contains official CMF number
+- Directly promotes a presidential candidate
+- Makes campaign promises
+- Calls for votes
+- Is a paid advertisement reaching a large audience
+- Uses official party channels and messaging
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate>
+    <name>ELENA-VALERICA LASCONI</name>
+    <impact>POSITIVE</impact>
+  </candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>USR</responsible-party-or-group>
+<message-for-police>
+USR, pentru incalcarea articolului 55 t) din Legea 370/2004, prin promovarea unui mesaj electoral platit pe Facebook (ID: 569180649096733) care continua propaganda electorala pentru candidatul prezidential Elena Lasconi dupa incheierea perioadei legale de campanie. Postarea, activa dupa ora 18:00 pe 23.11.2024, contine un mesaj explicit de sustinere electorala ("Elena Lasconi la Președinție"), are numar CMF (11240015), si a ajuns la un public estimat intre 200,000 si 250,000 de persoane, reprezentand o clara continuare a propagandei electorale in afara perioadei permise de lege.
+</message-for-police>
+</conclusion>
+</output>

@@ -1,0 +1,56 @@
+<output>
+<analysis>
+Let me analyze this post against the provided criteria:
+
+1. Has CMF: No CMF number is present in the post.
+
+2. Refers to candidate: Yes, explicitly refers to Elena Lasconi (USR presidential candidate) by surname.
+
+3. Addresses wide population: Yes
+- It's a paid advertisement on Facebook and Instagram
+- High impression count (100,000-124,999)
+- Large estimated audience size (>1,000,001)
+- Significant spend (200-299 RON)
+
+4. Electoral objective: Yes
+- The content aims to discredit a presidential candidate's foreign policy stance
+- Presents the candidate in a mocking, simplistic way
+- Timing during election period
+- Format and presentation suggests intention to influence voters
+
+5. Journalism: No
+- This is not presenting balanced journalistic content
+- While it quotes Cristoiu, it's selective and used for electoral impact
+- Lacks context and balanced reporting
+
+6. Personal opinion: No
+- This is a paid, targeted campaign
+- Organized distribution through paid channels
+- Professional page running political content
+
+</analysis>
+
+<conclusion>
+<post_id>2320121051682166</post_id>
+<electoral-propaganda-analysis>
+This constitutes electoral propaganda because:
+- Directly targets a presidential candidate
+- Uses paid distribution channels
+- Has clear electoral objective to influence voters
+- Timing during sensitive electoral period
+- Large scale distribution
+- Not journalistic or personal opinion content
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate>
+    <name>ELENA-VALERICA LASCONI</name>
+    <impact>NEGATIVE</impact>
+  </candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>60m.RO</responsible-party-or-group>
+<message-for-police>
+60m.RO, pentru incalcarea articolului 55 t) din Legea 370/2004, prin promovarea unei reclame platite pe Facebook si Instagram (ID: 2320121051682166) dupa ora 18:00 pe 23.11.2024, cu continut de propaganda electorala negativa la adresa candidatei Elena Lasconi. Postarea a avut un impact semnificativ, ajungand la peste 100.000 de afisari, fiind platita cu 200-299 RON. Continutul prezinta in mod denigrator pozitia candidatei pe politica externa, cu scopul clar de a influenta alegatorii in perioada de interdictie a propagandei electorale.
+</message-for-police>
+</conclusion>
+</output>

@@ -1,0 +1,42 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: Yes, contains "CMF 11240014"
+2. Refers to candidate: Yes, explicitly mentions George Simion, who is a presidential candidate (Position 2)
+3. Addresses wide population: Yes, it's a paid advertisement targeting 500,001-1,000,000 people
+4. Electoral objective: Yes, clearly presents a campaign message with electoral promises
+5. Journalism: No, this is clearly campaign material
+6. Personal opinion: No, this is a structured campaign message
+
+The post contains several elements that classify it as electoral propaganda:
+- Direct reference to George Simion
+- Campaign promises ("voi lupta pentru dreptate, transparență și respect pentru lege")
+- Use of political hashtags and campaign messaging
+- Presence of CMF number
+- Large targeted audience through paid advertising
+</analysis>
+
+<conclusion>
+<post_id>1195555961926959</post_id>
+<electoral-propaganda-analysis>
+This is clearly electoral propaganda because:
+- It contains a CMF number (11240014)
+- Makes direct reference to a presidential candidate (George Simion)
+- Contains campaign promises
+- Is a paid advertisement reaching a large audience
+- Uses campaign slogans and political messaging
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate>
+    <name>GEORGE-NICOLAE SIMION</name>
+    <impact>POSITIVE</impact>
+  </candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>AUR</responsible-party-or-group>
+<message-for-police>
+TOP DUO CONSULTING S.R.L., pentru incalcarea articolului 55 t) din Legea 370/2004, prin difuzarea de materiale de propagandă electorală după încheierea campaniei electorale pentru alegerile prezidențiale, constând într-o postare plătită pe Facebook (ID: 1195555961926959) care promovează candidatul George Simion și conține mesaje electorale explicit formulate. Postarea include număr CMF (11240014), promisiuni electorale și este difuzată după ora 18:00 pe 23.11.2024, încălcând astfel prevederea legală privind încetarea campaniei electorale. Impactul postării este semnificativ, având o audiență estimată între 500,001 și 1,000,000 de persoane.
+</message-for-police>
+</conclusion>
+</output>

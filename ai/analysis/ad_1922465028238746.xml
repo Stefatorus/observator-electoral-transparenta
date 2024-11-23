@@ -1,0 +1,58 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. CMF Number:
+- Present: CMF:11200014
+- This confirms it's electoral propaganda
+
+2. Refers to candidate:
+- Directly mentions and tags George Simion
+- Clear presidential candidate reference
+- Also mentions other parties (PSD, PNL, USR) in negative context
+
+3. Addresses wide population:
+- Paid advertisement with 20,000-24,999 impressions
+- Uses inclusive language ("ne-au adus")
+- Calls for action ("Duminică votez")
+- Targets 500,001-1,000,000 potential viewers
+
+4. Electoral objective:
+- Clear call to vote for George Simion
+- Contains campaign hashtags (#GeorgeSimion #Președinte)
+- Explicitly states "Duminică votez altceva"
+- Criticizes other parties to promote AUR's candidate
+
+5. Journalism:
+- Not journalistic content
+- Clear campaign material with political messaging
+
+6. Personal opinion:
+- While expressing opinions about other parties, this is clearly structured as campaign material
+- Contains official campaign elements (CMF number, hashtags)
+</analysis>
+
+<conclusion>
+<post_id>1922465028238746</post_id>
+<electoral-propaganda-analysis>
+This is clearly electoral propaganda because:
+- Contains official campaign elements (CMF number)
+- Direct call to vote for a specific candidate
+- Paid distribution targeting large audience
+- Clear electoral messaging and campaign hashtags
+- Negative messaging about other parties
+- Timing during electoral period
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate><name>GEORGE-NICOLAE SIMION</name><impact>POSITIVE</impact></candidate>
+  <candidate><name>ION-MARCEL CIOLACU</name><impact>NEGATIVE</impact></candidate>
+  <candidate><name>NICOLAE-IONEL CIUCĂ</name><impact>NEGATIVE</impact></candidate>
+  <candidate><name>ELENA-VALERICA LASCONI</name><impact>NEGATIVE</impact></candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>AUR</responsible-party-or-group>
+<message-for-police>
+Voga Design & Architecture, pentru incalcarea articolului 55 t) din Legea 370/2004, prin difuzarea unui material de propaganda electorala (ID postare Facebook: 1922465028238746) dupa ora 18:00 pe 23.11.2024. Materialul prezinta caracteristici clare de propaganda electorala: numar unic de inregistrare CMF:11200014, indeamna explicit la vot pentru candidatul George Simion, contine hashtag-uri de campanie (#GeorgeSimion #Președinte), si este distribuit ca reclama platita pe Facebook cu impact intre 20.000-24.999 impresii. Mesajul denigreaza alte partide si candidati, promovand in mod direct un candidat la presedintie, incalcand astfel prevederile legale privind perioada de campanie electorala.
+</message-for-police>
+</conclusion>
+</output>

@@ -1,0 +1,53 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. CMF Number:
+- Present: CMF:11240015, indicating this is electoral propaganda
+
+2. Candidate Reference:
+- Mentions "Lasconi" who is a presidential candidate (ELENA-VALERICA LASCONI)
+- Also mentions "Stancu" and references USR
+- References both parliamentary and presidential candidates
+
+3. Wide Population Address:
+- Clearly addresses the general public
+- Uses paid advertising with significant reach (40,000-45,000 impressions)
+- Uses broad call to action "Votați USR!"
+
+4. Electoral Objective:
+- Clear electoral objective with direct call to vote ("Votați USR!")
+- Presents a political message against "clanuri" and for "schimbarea sistemului"
+
+5. Journalism vs Propaganda:
+- This is clearly campaign material, not journalism
+- Contains campaign slogans and direct calls to action
+
+6. Personal Opinion:
+- Not a personal opinion but an official party communication (has CMF number)
+- Published by USR officially (as per byline)
+
+The post mixes parliamentary election messaging (which is still allowed) with presidential candidate messaging (Lasconi) after the propaganda period has ended for presidential elections.
+
+</analysis>
+
+<conclusion>
+<post_id>1075626137371290</post_id>
+<electoral-propaganda-analysis>
+This post constitutes electoral propaganda because:
+- Contains official campaign elements (CMF number)
+- Makes direct reference to presidential candidate Lasconi
+- Contains explicit call to vote
+- Is a paid advertisement with significant reach
+- Mixes parliamentary and presidential messaging
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate><name>ELENA-VALERICA LASCONI</name><impact>POSITIVE</impact></candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>USR</responsible-party-or-group>
+<message-for-police>
+Uniunea Salvați România (USR), pentru incalcarea articolului 55 t) din Legea 370/2004, prin continuarea propagandei electorale pentru candidatul prezidențial Elena Lasconi după încheierea perioadei legale de campanie, prin intermediul unei postări sponsorizate pe Facebook (ID: 1075626137371290). Postarea, difuzată după ora 18:00 pe 23.11.2024, conține referințe directe la candidatul prezidențial și îndemnuri explicite la vot, având un impact semnificativ demonstrat prin reach-ul de peste 40,000 de impresii. Materialul este în mod clar propagandă electorală, având număr CMF (11240015) și fiind plătit de partidul USR.
+</message-for-police>
+</conclusion>
+</output>

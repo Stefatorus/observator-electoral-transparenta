@@ -1,0 +1,46 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: Yes, CMF: 11240014 is present, indicating this is electoral material.
+
+2. Refers to candidate: Yes, explicitly mentions "George Simion", who is a presidential candidate (Position 2 on the presidential ballot).
+
+3. Addresses wide population: Yes, this is a paid advertisement with significant reach (15,000-19,999 impressions) and targets a large estimated audience (500,001-1,000,000 people).
+
+4. Electoral objective: Yes, it clearly promotes both AUR and George Simion in a political context, using hashtags like #AURÎnParlament and expressing support for political actions.
+
+5. Journalism: No, this is not journalistic content but rather a campaign message.
+
+6. Personal opinion: While expressed as a personal statement, this is a paid political advertisement with clear campaign messaging.
+
+Important context:
+- The post was created and started running on November 22, 2024
+- It mentions both parliamentary and presidential campaigns (George Simion)
+- The presidential campaign period has ended
+- It's a paid advertisement with significant reach
+</analysis>
+
+<conclusion>
+<post_id>492205546486907</post_id>
+<electoral-propaganda-analysis>
+This post constitutes electoral propaganda because:
+- It contains a CMF number
+- It explicitly promotes both a party (AUR) and a presidential candidate (George Simion)
+- It's a paid advertisement with significant reach
+- It contains clear campaign messaging and calls for political support
+- It continues to promote a presidential candidate after the campaign period has ended
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate>
+    <name>GEORGE-NICOLAE SIMION</name>
+    <impact>POSITIVE</impact>
+  </candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>AUR</responsible-party-or-group>
+<message-for-police>
+TOP DUO CONSULTING S.R.L., pentru incalcarea articolului 55 t) din Legea 370/2004, prin difuzarea de materiale de propagandă electorală după încheierea perioadei de campanie pentru alegerile prezidențiale. Postarea cu ID-ul 492205546486907 promovează în mod explicit candidatul la președinție George Simion, fiind o reclamă plătită cu impact semnificativ (15.000-19.999 impresii), difuzată după ora 18:00 pe 23.11.2024. Materialul conține număr CMF (11240014), hashtag-uri electorale și mesaje clare de susținere politică, constituind astfel propagandă electorală în afara perioadei legale permise.
+</message-for-police>
+</conclusion>
+</output>

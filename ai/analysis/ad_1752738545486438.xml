@@ -1,0 +1,55 @@
+<output>
+<analysis>
+Let's analyze this post according to the given criteria:
+
+1. Has CMF: Yes, CMF 11240022 is present, indicating this is electoral propaganda.
+
+2. Refers to candidate: The post mentions Ludovic Orban and his party "Forța Dreptei". Ludovic Orban is one of the presidential candidates.
+
+3. Addresses wide population: Yes, this is a paid Facebook/Instagram post targeting a large audience (estimated 100,001-500,000 people), specifically addressing business owners and entrepreneurs.
+
+4. Electoral objective: Yes, the post:
+- Criticizes PSD and PNL governments
+- Promotes Forța Dreptei's fiscal policies
+- Highlights Ludovic Orban's previous achievements
+- Uses campaign hashtags and CMF number
+- Clearly aims to influence voters by presenting their economic platform
+
+5. Journalism: No, this is clearly campaign material, not journalistic content.
+
+6. Personal opinion: No, this is a structured campaign message with clear political objectives.
+
+</analysis>
+
+<conclusion>
+<post_id>1752738545486438</post_id>
+<electoral-propaganda-analysis>
+This is clearly electoral propaganda because:
+- Contains CMF number
+- Promotes a specific political party and candidate
+- Has clear electoral messaging
+- Is a paid advertisement
+- Uses campaign hashtags
+- Criticizes other political parties
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate>
+    <name>LUDOVIC ORBAN</name>
+    <impact>POSITIVE</impact>
+  </candidate>
+  <candidate>
+    <name>ION-MARCEL CIOLACU</name>
+    <impact>NEGATIVE</impact>
+  </candidate>
+  <candidate>
+    <name>NICOLAE-IONEL CIUCĂ</name>
+    <impact>NEGATIVE</impact>
+  </candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>FORTA DREPTEI</responsible-party-or-group>
+<message-for-police>
+Andrei Carabelea și Forța Dreptei, pentru incalcarea articolului 55 t) din Legea 370/2004, prin difuzarea unei reclame platite pe Facebook și Instagram (ID postare: 1752738545486438) după ora 18:00 pe 23.11.2024, cu continut de propaganda electorala pentru candidatul prezidențial Ludovic Orban. Postarea conține număr de înregistrare CMF (11240022), promovează explicit realizările și propunerile candidatului și ale partidului său, în timp ce critică direct contracandidații, având un evident scop electoral de influențare a votului. Reclama a fost targetată către un public larg (100,001-500,000 persoane) și a generat între 8,000 și 8,999 de afișări.
+</message-for-police>
+</conclusion>
+</output>

@@ -1,0 +1,44 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: No CMF number is visible in the post, but this isn't conclusive by itself.
+
+2. Refers to candidate: Yes, explicitly mentions George Simion, who is a presidential candidate (Position 2), multiple times including hashtags like #GeorgeSimionPresedinte.
+
+3. Addresses wide population: Yes, this is a paid advertisement on Facebook and Instagram, targeting an estimated audience of 500,001-1,000,000 people.
+
+4. Electoral objective: Yes, clear electoral intent with hashtags like #vinalegerile #GeorgeSimionPresedinte #alegeri2024, promoting George Simion's candidacy by associating him with positive actions during the pandemic period.
+
+5. Journalism: No, this is not journalistic content. It's a political message promoting a candidate's past actions and current candidacy.
+
+6. Personal opinion: While it expresses an opinion about the vaccination period, it's clearly structured as campaign messaging, not just personal expression.
+
+The post is clearly electoral propaganda as it:
+- Directly promotes George Simion
+- Links to current elections (#alegeri2024)
+- Uses campaign-specific hashtags (#GeorgeSimionPresedinte)
+- Is a paid advertisement reaching a mass audience
+- Has clear electoral intent
+</analysis>
+
+<conclusion>
+<post_id>3822009734713369</post_id>
+<electoral-propaganda-analysis>
+This is clearly electoral propaganda because:
+1. Directly promotes a presidential candidate
+2. Uses campaign hashtags and electoral messaging
+3. Is a paid advertisement reaching mass audience
+4. Has clear electoral intent through its messaging and hashtags
+5. Links past actions to current candidacy
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate><name>GEORGE-NICOLAE SIMION</name><impact>POSITIVE</impact></candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>AUR</responsible-party-or-group>
+<message-for-police>
+SC VIDEO DANCRYS-STUDIO S.R.L, pentru incalcarea articolului 55 t) din Legea 370/2004, prin promovarea unui mesaj de propaganda electorală pentru candidatul George Nicolae Simion (AUR) după încheierea perioadei de campanie electorală. Postarea cu ID 3822009734713369 reprezintă un anunț plătit pe Facebook și Instagram, care promovează explicit candidatul la președinție George Simion prin hashtag-uri precum #GeorgeSimionPresedinte și conținut care îl prezintă într-o lumină favorabilă în contextul alegerilor prezidențiale. Postarea a fost activă și distribuită după ora 18:00 pe 23.11.2024, încălcând astfel prevederile legale privind încetarea campaniei electorale.
+</message-for-police>
+</conclusion>
+</output>

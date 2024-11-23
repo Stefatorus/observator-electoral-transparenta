@@ -1,0 +1,55 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. CMF presence: Yes, CMF 11240014 is present at the end of the post, indicating this is electoral material.
+
+2. Reference to candidates:
+- Directly mentions George Simion, who is a presidential candidate
+- Also mentions Răzvan Daniel BIRO as a parliamentary candidate
+
+3. Addresses wide population:
+- Yes, it's a paid advertisement on Facebook and Instagram
+- Targets a large audience (100,001-500,000 people)
+- Addresses the entire Sărmașu community and Mureș county
+
+4. Electoral objective:
+- Clear electoral messaging
+- Promotes AUR's vision and candidates
+- Makes campaign promises about development and revitalization
+- Uses electoral slogans and campaign rhetoric
+
+5. Journalism vs Propaganda:
+- This is clearly campaign material, not journalism
+- Makes political promises and promotes party agenda
+- Uses campaign-specific formatting and messaging
+
+6. Personal opinion:
+- This is not a personal opinion but an official campaign communication
+- Contains party slogans and structured campaign messages
+</analysis>
+
+<conclusion>
+<post_id>916525717157198</post_id>
+<electoral-propaganda-analysis>
+This post constitutes electoral propaganda because:
+- Has official CMF number
+- Makes campaign promises
+- Promotes both parliamentary and presidential candidates
+- Uses official party messaging and branding
+- Is a paid advertisement reaching a large audience
+- Contains direct electoral messaging
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate>
+    <name>GEORGE-NICOLAE SIMION</name>
+    <impact>POSITIVE</impact>
+  </candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>AUR</responsible-party-or-group>
+<message-for-police>
+AUR Mureș și Răzvan Daniel BIRO, pentru incalcarea articolului 55 t) din Legea 370/2004, prin promovarea candidatului prezidențial George Simion într-o postare sponsorizată pe Facebook (ID: 916525717157198) după încheierea perioadei de campanie electorală prezidențială. Postarea, activă după ora 18:00 pe 23.11.2024, conține mesaje electorale explicite și promovează imaginea candidatului prezidențial într-un mod care încalcă prevederile legale privind încheierea campaniei electorale. Materialul include CMF 11240014, confirmând natura sa de propagandă electorală, și a fost distribuit către un public estimat între 100,001 și 500,000 de persoane.
+</message-for-police>
+</conclusion>
+</output>

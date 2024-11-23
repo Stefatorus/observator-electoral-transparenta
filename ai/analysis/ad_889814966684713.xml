@@ -1,0 +1,42 @@
+<output>
+<analysis>
+Let me analyze this post according to our criteria:
+
+1. Has CMF: No CMF number is present in the post.
+
+2. Refers to candidate: Yes, the post directly mentions "George Simion", who is a presidential candidate (Position 2 on the official list).
+
+3. Addresses wide population: Yes, this is a paid advertisement on Facebook and Instagram, targeting an estimated audience of 100,001-500,000 people.
+
+4. Electoral objective: Yes, the post appears to have an electoral objective by attempting to discredit a presidential candidate by making allegations about tax evasion and making light of his personal preferences.
+
+5. Journalism: No, this does not follow journalistic standards. It's a mocking post using emojis and making unsubstantiated claims.
+
+6. Personal opinion: While it could be argued this is personal opinion, the fact that it's a paid advertisement from a page called "Lasă-i acasă" (Leave them at home) suggests this is organized electoral messaging rather than genuine personal expression.
+
+The timing (November 23, 2024) is particularly relevant as this is during the period when presidential election propaganda is prohibited.
+</analysis>
+
+<conclusion>
+<post_id>889814966684713</post_id>
+<electoral-propaganda-analysis>
+This constitutes electoral propaganda because:
+- It directly targets a presidential candidate
+- It's a paid advertisement reaching a large audience
+- It makes negative claims about the candidate
+- It's being distributed during the prohibition period
+- The page name "Lasă-i acasă" suggests an organized campaign to influence voting behavior
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate>
+    <name>GEORGE-NICOLAE SIMION</name>
+    <impact>NEGATIVE</impact>
+  </candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>INDEPENDENT</responsible-party-or-group>
+<message-for-police>
+Pagina "Lasă-i acasă" (ID: 248488498687026), pentru incalcarea articolului 55 t) din Legea 370/2004, prin difuzarea de materiale de propagandă electorală (ID postare: 889814966684713) după încheierea perioadei de campanie. Postarea vizează în mod direct candidatul GEORGE-NICOLAE SIMION, într-o manieră negativă, făcând referire la presupuse fapte de evaziune fiscală. Materialul este promovat ca reclamă plătită pe Facebook și Instagram, cu un impact estimat între 100,001 și 500,000 de persoane, fiind difuzat după ora 18:00 pe 23.11.2024, în perioada de prohibiție electorală. Conținutul are caracter explicit electoral și urmărește influențarea comportamentului de vot al alegătorilor.
+</message-for-police>
+</conclusion>
+</output>

@@ -1,0 +1,56 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. CMF Number:
+- No CMF number is visible in the post, though this doesn't automatically disqualify it as electoral propaganda
+
+2. Refers to candidate:
+- Directly refers to Ludovic Orban
+- Explicitly mentions him as a presidential candidate
+- Clear identification of party affiliation (Forța Dreptei)
+- Mentions supporting parties (PMP, Alternativa Dreaptă, PNȚMM)
+
+3. Addresses wide population:
+- Large scale Facebook ad campaign
+- High impression count (450,000-500,000)
+- Significant spend (5,000-6,000 RON)
+- Uses hashtags for wider reach (#Prezidențiale2024)
+
+4. Electoral objective:
+- Clear campaign promises ("Ne propunem...")
+- Presents vision for Romania's future
+- Uses campaign slogan (#CinstitCuRomanii)
+- Explicitly frames content in context of presidential elections
+
+5. Journalism vs Propaganda:
+- This is clearly campaign material, not journalism
+- Presents political promises and platform points
+- Direct quotes from the candidate
+- Campaign-style messaging
+
+</analysis>
+
+<conclusion>
+<post_id>568335808926391</post_id>
+<electoral-propaganda-analysis>
+This is clearly electoral propaganda because:
+- Direct promotion of a presidential candidate
+- Contains campaign promises and political platform
+- Significant paid reach and distribution
+- Clear electoral messaging and campaign hashtags
+- Official campaign communication style
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate>
+    <name>LUDOVIC ORBAN</name>
+    <impact>POSITIVE</impact>
+  </candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>FORȚA DREPTEI</responsible-party-or-group>
+<message-for-police>
+Antonel Tanase, pentru incalcarea articolului 55 t) din Legea 370/2004, prin promovarea unui mesaj de propaganda electorală pentru candidatul Ludovic Orban după încheierea perioadei de campanie electorală. Postarea cu ID-ul 568335808926391 pe facebook conține promisiuni electorale explicite ("Ne propunem ca obiectiv ca în decurs de 5 ani venitul mediu al cetățenilor români să atingă venitul mediu la nivel european"), promovare directă a candidatului și a platformei sale electorale, fiind difuzată ca reclamă plătită cu un impact semnificativ (450,000-500,000 impresii) după ora 18:00 pe 23.11.2024, încălcând astfel prevederile legale privind încheierea campaniei electorale.
+</message-for-police>
+</conclusion>
+</output>

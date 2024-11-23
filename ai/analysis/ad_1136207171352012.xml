@@ -1,0 +1,52 @@
+<output>
+<analysis>
+Let's analyze this post according to the given criteria:
+
+1. Has CMF: Yes, CMF 31240006 is present, indicating this is electoral propaganda
+
+2. Refers to candidate: Yes, explicitly mentions "George Simion" who is one of the official presidential candidates (Position 2)
+
+3. Addresses wide population: Yes
+- It's a paid advertisement on Facebook and Instagram
+- Reaches between 500,001 and 1,000,000 people
+- Has already gathered 10,000-14,999 impressions
+- Uses national flag emojis and hashtags to maximize reach
+
+4. Electoral objective: Yes
+- Direct call for "George Simion Președinte" (George Simion President)
+- Uses campaign-specific hashtags (#Alegeri2024 #Președinte)
+- Clear endorsement for presidency
+
+5. Journalism: No
+- This is not journalistic content
+- No informational or educational value
+- Pure campaign slogan and endorsement
+
+6. Personal opinion: No
+- This is a paid, structured campaign message
+- Contains official campaign elements (CMF number)
+- Posted by a company (SC VIDEO DANCRYS-STUDIO SRL)
+</analysis>
+
+<conclusion>
+<post_id>1136207171352012</post_id>
+<electoral-propaganda-analysis>
+This is clearly electoral propaganda because:
+- Contains official campaign identifier (CMF)
+- Direct presidential endorsement
+- Paid distribution
+- Wide reach
+- Clear electoral message
+- Posted by a media company
+- Uses campaign hashtags and symbols
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate><name>GEORGE-NICOLAE SIMION</name><impact>POSITIVE</impact></candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>AUR</responsible-party-or-group>
+<message-for-police>
+SC VIDEO DANCRYS-STUDIO SRL, pentru incalcarea articolului 55 t) din Legea 370/2004, prin promovarea unui mesaj de propaganda electorala pentru candidatul GEORGE-NICOLAE SIMION (AUR) dupa incheierea perioadei de campanie electorala. Postarea cu ID-ul 1136207171352012 este un anunt platit pe Facebook si Instagram, cu un buget de 100-199 RON, care a ajuns la 10.000-14.999 de persoane, continand mesajul explicit "George Simion Președinte" insotit de CMF 31240006, hashtag-uri electorale si simboluri nationale, constituind astfel propaganda electorala activa dupa ora 18:00 pe 23.11.2024.
+</message-for-police>
+</conclusion>
+</output>

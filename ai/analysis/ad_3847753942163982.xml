@@ -1,0 +1,51 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: Yes, contains "CUI MFC 11240014"
+
+2. Refers to candidate: Yes, explicitly mentions "George Simion", who is a presidential candidate (Position 2)
+
+3. Addresses wide population: Yes
+- It's a paid advertisement with significant reach (10,000-14,999 impressions)
+- Uses inclusive language ("vino la vot")
+- Addresses general public issues (infrastructure)
+
+4. Electoral objective: Yes
+- Directly calls for votes ("vino la vot")
+- Promotes "planul Simion"
+- Uses campaign hashtags (#VoteazăAUR)
+- Clear electoral messaging
+
+5. Journalism: No
+- This is clearly campaign material, not journalistic content
+- Promotes a specific candidate and party
+- Contains campaign slogans and calls to action
+
+6. Personal opinion: No
+- This is an official party communication (AUR Vâlcea)
+- Structured as campaign material
+- Contains official campaign identifiers (MFC number)
+</analysis>
+
+<conclusion>
+<post_id>3847753942163982</post_id>
+<electoral-propaganda-analysis>
+This post clearly constitutes electoral propaganda because:
+- Contains official campaign identifiers (MFC number)
+- Directly promotes a presidential candidate (George Simion)
+- Makes electoral promises about infrastructure
+- Contains explicit call to vote
+- Is paid advertising with significant reach
+- Uses official party channels
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate><name>GEORGE-NICOLAE SIMION</name><impact>POSITIVE</impact></candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>AUR</responsible-party-or-group>
+<message-for-police>
+Alianța pentru Unirea Românilor Vâlcea, pentru incalcarea articolului 55 t) din Legea 370/2004, prin continuarea propagandei electorale după încheierea campaniei electorale, manifestată prin postarea cu ID 3847753942163982 pe Facebook. Postarea promovează explicit candidatul George Simion și programul său electoral, conține îndemnuri directe la vot ("vino la vot"), folosește hashtag-uri electorale (#VoteazăAUR) și face promisiuni electorale despre infrastructură, toate acestea după ora 18:00 pe 23.11.2024. Postarea este sponsorizată și are un impact semnificativ, atingând între 10.000 și 14.999 de persoane.
+</message-for-police>
+</conclusion>
+</output>

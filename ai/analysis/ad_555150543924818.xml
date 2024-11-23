@@ -1,0 +1,58 @@
+<output>
+<analysis>
+Let's analyze this post according to the established criteria:
+
+1. Has CMF: Yes - "CMF 11240014" is present at the end of the post, indicating this is electoral propaganda material.
+
+2. Refers to candidate: Yes - Explicitly mentions "George Simion" as presidential candidate ("pentru susținerea lui George Simion - PREŞEDINTE").
+
+3. Addresses wide population: Yes
+- It's a paid advertisement with significant reach (70,000-79,999 impressions)
+- Targets a broad audience on Facebook and Instagram
+- Uses inclusive language ("Haideți să dăm împreună un vot")
+
+4. Electoral objective: Yes
+- Explicitly calls for voting support
+- Promotes George Simion as presidential candidate
+- Makes campaign promises and presents a vision for leadership
+- Uses persuasive language to influence voting decisions
+
+5. Journalism: No
+- This is clearly campaign material, not journalistic content
+- Contains partisan messaging and direct calls to action
+- Lacks journalistic objectivity and reporting standards
+
+6. Personal opinion: No
+- This is an official party communication (AUR local organization)
+- Contains structured campaign messaging
+- Has official CMF number
+</analysis>
+
+<conclusion>
+<post_id>555150543924818</post_id>
+<electoral-propaganda-analysis>
+This is clearly electoral propaganda because:
+- Contains official CMF number
+- Direct candidate promotion
+- Explicit call for votes
+- Paid distribution
+- Campaign promises and messaging
+- Official party channel communication
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate>
+    <name>GEORGE-NICOLAE SIMION</name>
+    <impact>POSITIVE</impact>
+  </candidate>
+  <candidate>
+    <name>ION-MARCEL CIOLACU</name>
+    <impact>NEGATIVE</impact>
+  </candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>AUR</responsible-party-or-group>
+<message-for-police>
+AUR - Sălașu de Sus, pentru incalcarea articolului 55 t) din Legea 370/2004, prin continuarea propagandei electorale după încheierea perioadei legale de campanie, prin promovarea unui mesaj electoral explicit în favoarea candidatului George Simion și în defavoarea PSD, într-o postare sponsorizată pe Facebook și Instagram (ID: 555150543924818). Postarea conține număr CMF (11240014), îndemn direct la vot și promisiuni electorale, fiind difuzată după ora 18:00 pe 23.11.2024, încălcând astfel prevederile legale privind încetarea campaniei electorale.
+</message-for-police>
+</conclusion>
+</output>

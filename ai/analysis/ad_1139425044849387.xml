@@ -1,0 +1,50 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. CMF Number: No CMF number is present, but this isn't decisive.
+
+2. Refers to candidate (Art 36.7.a):
+- Directly mentions George Simion, who is a presidential candidate
+- Also promotes AUR and the poster's own parliamentary candidacy
+
+3. Addresses wide population (Art 36.7.b):
+- This is a paid Facebook advertisement
+- Reached between 70,000-79,999 impressions
+- Clearly intended for mass distribution
+
+4. Electoral objective (Art 36.7.c):
+- The post has dual purposes:
+  * Promotes parliamentary candidacy (which is still allowed)
+  * References and endorses George Simion's "plan" (presidential candidate)
+
+5. Journalism/Personal Opinion:
+- This is clearly campaign material, not journalism
+- Structured as a political advertisement
+- Paid distribution confirms promotional nature
+
+The post is problematic because while parliamentary campaign is still allowed, it includes promotion of George Simion, a presidential candidate, after the presidential campaign period has ended.
+</analysis>
+
+<conclusion>
+<post_id>1139425044849387</post_id>
+<electoral-propaganda-analysis>
+This constitutes electoral propaganda because:
+1. It's a paid advertisement reaching a large audience
+2. It explicitly promotes George Simion's vision and plan
+3. It links parliamentary candidacy with presidential candidate's agenda
+4. Uses significant financial resources (600-699 RON) for distribution
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate>
+    <name>GEORGE-NICOLAE SIMION</name>
+    <impact>POSITIVE</impact>
+  </candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>AUR</responsible-party-or-group>
+<message-for-police>
+UNIWORLD - MEDIA SRL și Doina Mihăilescu, pentru incalcarea articolului 55 t) din Legea 370/2004, prin difuzarea unui material de propagandă electorală (ID postare Facebook: 1139425044849387) care promovează candidatul prezidențial George Simion după încheierea perioadei de campanie electorală. Materialul, difuzat după ora 18:00 pe 23.11.2024, face referire directă la "planul lui George Simion" și exprimă susținerea pentru acesta, constituind astfel propagandă electorală continuată după încheierea campaniei. Impactul a fost semnificativ, postarea având între 70.000-79.999 de afișări, fiind sponsorizată cu suma de 600-699 RON.
+</message-for-police>
+</conclusion>
+</output>

@@ -1,0 +1,56 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. CMF Number:
+- Present: "CMF 11240014" - This indicates it's electoral propaganda
+
+2. Refers to candidate:
+- Directly mentions "George Simion" who is a presidential candidate
+- Also mentions AUR (Alianța pentru Unirea Românilor)
+
+3. Addresses wide population:
+- Clearly addresses the general public ("România merită", "pentru toți românii")
+- Paid advertisement with significant reach (25,000-29,999 impressions)
+- Published on public platforms (Facebook and Instagram)
+
+4. Electoral objective:
+- Explicit call to action: "Susține-ne la alegeri"
+- Presents political messaging about leadership and anti-corruption
+- Clear campaign messaging with hashtags like #Alegeri2024
+
+5. Journalism vs Propaganda:
+- This is clearly campaign material, not journalism
+- Contains campaign slogans and political promises
+- Includes campaign identifiers (CMF number)
+
+6. Personal Opinion:
+- This is not a personal opinion but an organized campaign message
+- Paid distribution indicates organized campaign activity
+- Uses official campaign messaging and branding
+</analysis>
+
+<conclusion>
+<post_id>538309045777464</post_id>
+<electoral-propaganda-analysis>
+This is clearly electoral propaganda because:
+- Contains CMF number
+- Direct mention of candidate
+- Explicit call for electoral support
+- Paid distribution
+- Campaign messaging and branding
+- Clear political objectives
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate>
+    <name>GEORGE-NICOLAE SIMION</name>
+    <impact>POSITIVE</impact>
+  </candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>AUR</responsible-party-or-group>
+<message-for-police>
+TOP DUO CONSULTING S.R.L., pentru incalcarea articolului 55 t) din Legea 370/2004, prin difuzarea de materiale de propagandă electorală (ID postare Facebook: 538309045777464) după încheierea campaniei electorale pentru alegerile prezidențiale. Postarea conține mesaje directe de susținere a candidatului George Simion, folosește număr CMF (11240014), include îndemnuri explicite la vot ("Susține-ne la alegeri"), și a fost difuzată după ora 18:00 pe 23.11.2024. Impactul postării este semnificativ, având între 25.000 și 29.999 de afișări, fiind astfel o încălcare clară a prevederilor legale privind încheierea campaniei electorale.
+</message-for-police>
+</conclusion>
+</output>

@@ -1,0 +1,59 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: Yes - CMF 11240015 is present, indicating this is electoral propaganda
+
+2. Refers to candidates: 
+- Directly mentions Elena Lasconi (USR presidential candidate)
+- Mentions Ludovic Orban (another presidential candidate)
+- Makes direct electoral references to both
+
+3. Addresses wide population:
+- Posted on Facebook and Instagram as a paid advertisement
+- Uses inclusive language ("Hai să facem istorie împreună!")
+- Large estimated audience (100,001-500,000)
+- Uses call-to-action language targeting general public
+
+4. Electoral objective:
+- Clear electoral intent promoting Elena Lasconi
+- Explicitly discusses presidential elections
+- Makes direct appeal for votes ("Nu ne putem permite să irosim niciun vot")
+- States "Turul 1 = Turul decisiv!"
+- Encourages voting behavior
+
+5. Journalism vs Propaganda:
+- This is clearly propaganda, not journalism
+- Contains campaign slogans and emotional appeals
+- Uses campaign-specific hashtags
+- Has CMF number
+- Paid promotional content
+
+6. Personal Opinion:
+- This is not a personal opinion but a structured campaign message
+- Contains official campaign messaging
+- Is a paid advertisement with electoral objectives
+</analysis>
+
+<conclusion>
+<post_id>1534691147214423</post_id>
+<electoral-propaganda-analysis>
+This is clearly electoral propaganda because:
+- Contains CMF number
+- Direct promotion of a presidential candidate
+- Paid advertisement reaching large audience
+- Clear call to action for voting
+- Uses campaign slogans and messaging
+- Has explicit electoral objective
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate><name>ELENA-VALERICA LASCONI</name><impact>POSITIVE</impact></candidate>
+  <candidate><name>LUDOVIC ORBAN</name><impact>POSITIVE</impact></candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>USR</responsible-party-or-group>
+<message-for-police>
+Senatorul Artene Sîngeorzan și USR, pentru incalcarea articolului 55 t) din Legea 370/2004, prin promovarea unui mesaj electoral platit (ID Facebook: 1534691147214423) ce face propaganda electorala pentru candidatul prezidential Elena Lasconi dupa incheierea perioadei de campanie. Postarea, activa si dupa ora 18:00 pe 23.11.2024, contine numar CMF (11240015), indeamna explicit la vot ("Turul 1 = Turul decisiv!"), promoveaza direct candidatul si solicita activ sustinerea electoratului, fiind difuzata ca reclama platita pe Facebook si Instagram cu un reach estimat intre 100,001-500,000 persoane.
+</message-for-police>
+</conclusion>
+</output>

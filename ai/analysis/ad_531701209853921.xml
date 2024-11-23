@@ -1,0 +1,44 @@
+<output>
+<analysis>
+Let's analyze this post according to the given criteria:
+
+1. Has CMF: Yes, contains "Cod mandatar: 11240022"
+2. Refers to candidate: Yes, explicitly mentions Elena Lasconi and Ludovic Orban
+3. Addresses wide population: Yes, it's a paid post with significant reach (15,000-19,999 impressions)
+4. Electoral objective: Yes, explicitly calls for voting ("Pe 24 noiembrie, votăm Elena Lasconi")
+5. Journalism: No, this is clearly campaign material
+6. Personal opinion: No, this is an official party communication with electoral intent
+
+The post is clearly electoral propaganda because:
+- It explicitly calls for votes for Elena Lasconi
+- Contains campaign messaging and electoral strategy
+- Is paid advertising with significant reach
+- Has an official mandate code
+- Comes from a political party
+- Makes direct appeals to voters for the presidential election
+
+This violates Article 55 t) as it continues electoral propaganda for the presidential election after the campaign period has ended.
+
+</analysis>
+
+<conclusion>
+<post_id>531701209853921</post_id>
+<electoral-propaganda-analysis>
+This is clearly electoral propaganda because:
+1. Contains direct call to vote
+2. Paid distribution
+3. Official party communication
+4. Contains mandate code
+5. Explicit electoral messaging
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate><name>ELENA-VALERICA LASCONI</name><impact>POSITIVE</impact></candidate>
+  <candidate><name>LUDOVIC ORBAN</name><impact>POSITIVE</impact></candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>FORTA DREPTEI</responsible-party-or-group>
+<message-for-police>
+Forța Dreptei, prin reprezentantul Eugen Tomac, pentru incalcarea articolului 55 t) din Legea 370/2004, prin continuarea propagandei electorale după încheierea campaniei electorale pentru alegerile prezidențiale. Postarea cu ID 531701209853921 conține îndemnuri directe de vot pentru candidata Elena Lasconi ("Pe 24 noiembrie, votăm Elena Lasconi"), fiind o postare plătită pe Facebook cu un impact între 15.000-19.999 de afișări, difuzată după ora 18:00 pe 23.11.2024. Postarea include cod mandatar (11240022) și reprezintă propagandă electorală conform Art. 36(7), având obiectiv electoral explicit și adresându-se publicului larg.
+</message-for-police>
+</conclusion>
+</output>

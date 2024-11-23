@@ -1,0 +1,55 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: Yes - "Cod Mandatar Financiar Coordonator: 11240014"
+
+2. Refers to candidate: Yes - Explicitly mentions George Simion, who is a presidential candidate (Position 2 on the ballot)
+
+3. Addresses wide population: Yes
+- It's a paid advertisement with 30,000-35,000 impressions
+- Published on both Facebook and Instagram
+- Targets a large audience (100,001-500,000 people)
+
+4. Electoral objective: Yes
+- Explicitly calls for votes: "Pe 24 noiembrie, votați George Simion Președinte"
+- Shows endorsements from multiple mayors
+- Clear campaign message for presidential elections
+
+5. Journalism: No
+- This is clearly campaign material, not journalistic content
+- Contains direct call to action for voting
+- Presents endorsements rather than news
+
+6. Personal opinion: No
+- This is a structured campaign message with endorsements
+- Contains official campaign financial code
+- Paid advertisement with clear electoral intent
+
+This is a clear violation of Article 55 t) because:
+- It's active electoral propaganda for the presidential elections
+- The propaganda period has ended
+- It explicitly calls for votes for a specific presidential candidate
+- It's a paid advertisement with significant reach
+</analysis>
+
+<conclusion>
+<post_id>1324022541930513</post_id>
+<electoral-propaganda-analysis>
+This post constitutes electoral propaganda because:
+- Contains official campaign financial code
+- Direct call to vote for a specific candidate
+- Paid distribution for wide reach
+- Explicit electoral message
+- Uses endorsements from public officials
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate><name>GEORGE-NICOLAE SIMION</name><impact>POSITIVE</impact></candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>AUR</responsible-party-or-group>
+<message-for-police>
+I AM ONLINE SRL, pentru incalcarea articolului 55 t) din Legea 370/2004, prin difuzarea de materiale de propagandă electorală după încheierea campaniei electorale pentru alegerile prezidențiale. Postarea cu ID-ul 1324022541930513 conține un îndemn explicit de a vota candidatul George Simion la alegerile prezidențiale, fiind difuzată ca reclamă plătită pe Facebook și Instagram, cu un impact între 30.000 și 35.000 de afișări, după ora 18:00 pe 23.11.2024. Postarea include cod mandatar financiar (11240014) și reprezintă propagandă electorală conform Art. 36(7) prin prezența unui mesaj electoral explicit, identificarea clară a candidatului, și adresabilitatea către publicul larg prin natura sa de conținut sponsorizat.
+</message-for-police>
+</conclusion>
+</output>

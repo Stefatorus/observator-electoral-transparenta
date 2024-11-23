@@ -1,0 +1,52 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. CMF Number (has-cmf):
+- Yes, contains CMF: 31240006, which indicates this is electoral material
+
+2. Refers to candidate (refers-to-candidate):
+- Yes, explicitly mentions "George Simion Președinte" who is a presidential candidate (Position 2 on the ballot)
+
+3. Addresses wide population (addresses-the-wide-population):
+- Yes, this is a paid advertisement reaching 10,000-14,999 impressions
+- Targeted at a potential audience of 500,001-1,000,000 people
+- Published on both Facebook and Instagram
+- Uses broad hashtags like #Alegeri2024 #Președinte
+
+4. Electoral objective (electoral-objective):
+- Clear electoral objective with "George Simion Președinte!"
+- Uses national flag emojis for emotional appeal
+- Direct campaign slogan format
+
+5. Journalism (journalism):
+- No journalistic content
+- Pure campaign message
+
+6. Personal opinion (personal_opinion):
+- Not a personal opinion
+- Formal campaign communication with CMF number
+
+This is clearly electoral propaganda for the presidential election, being published and running after the campaign period has ended (after November 22, 2024, 7:00).
+</analysis>
+
+<conclusion>
+<post_id>451750557962158</post_id>
+<electoral-propaganda-analysis>
+This is clearly electoral propaganda because:
+- Contains official CMF number
+- Direct presidential campaign message
+- Paid advertisement with wide reach
+- Clear electoral objective
+- Published after campaign period ended
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate><name>GEORGE-NICOLAE SIMION</name><impact>POSITIVE</impact></candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>AUR</responsible-party-or-group>
+<message-for-police>
+SC VIDEO DANCRYS-STUDIO S.R.L, pentru incalcarea articolului 55 t) din Legea 370/2004, prin difuzarea de materiale de propagandă electorală după încheierea campaniei electorale. Postarea cu ID-ul 451750557962158 pe Facebook promovează explicit candidatul George Simion la funcția de președinte ("George Simion Președinte!"), conține număr CMF (31240006), este material publicitar plătit cu impact între 10.000-14.999 afișări, difuzat pe Facebook și Instagram după ora 18:00 pe 23.11.2024, când campania electorală era încheiată legal. Materialul are obiectiv electoral clar și vizează influențarea votului pentru candidatul AUR la președinție.
+</message-for-police>
+</conclusion>
+</output>

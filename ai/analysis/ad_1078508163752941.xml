@@ -1,0 +1,50 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. CMF Numbers: Contains "CMF: 11240015 CMF:31240009" - clear indication of electoral materials
+
+2. Direct Reference: Explicitly mentions "Elena Lasconi", a presidential candidate
+
+3. Wide Population Reach:
+- Paid advertisement on Instagram
+- Significant reach (45,000-50,000 impressions)
+- Substantial spend (400-499 RON)
+- Large estimated audience (100,001-500,000)
+
+4. Electoral Objective:
+- Direct call to vote ("Votăm Elena Lasconi")
+- Clear electoral messaging
+- Uses electoral hashtags (#alegeriprezidentiale)
+
+5. Journalism Assessment:
+- Not journalistic content
+- Clear campaign message with voting instructions
+
+6. Personal Opinion:
+- This is not a personal opinion but an official party communication (USR București)
+</analysis>
+
+<conclusion>
+<post_id>1078508163752941</post_id>
+<electoral-propaganda-analysis>
+This is clearly electoral propaganda because:
+- Contains explicit voting instructions
+- Uses official campaign material identifiers (CMF numbers)
+- Is a paid advertisement with significant reach
+- Direct call to vote for a specific candidate
+- Published by an official party channel
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate>
+    <name>ELENA-VALERICA LASCONI</name>
+    <impact>POSITIVE</impact>
+  </candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>USR</responsible-party-or-group>
+<message-for-police>
+USR București, pentru incalcarea articolului 55 t) din Legea 370/2004, prin publicarea și menținerea activă a unei reclame electorale (ID: 1078508163752941) după încheierea perioadei de campanie electorală. Reclama conține un îndemn explicit de vot pentru candidata Elena Lasconi ("Votăm Elena Lasconi duminica aceasta"), fiind difuzată pe Instagram cu un impact semnificativ (45,000-50,000 impresii). Materialul este marcat cu codurile CMF 11240015 și CMF:31240009, confirmând natura sa de propagandă electorală. Această activitate continuă după ora 18:00 pe 23.11.2024, încălcând astfel prevederile legale privind încheierea campaniei electorale.
+</message-for-police>
+</conclusion>
+</output>

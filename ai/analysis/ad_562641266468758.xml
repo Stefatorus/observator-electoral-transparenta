@@ -1,0 +1,54 @@
+<output>
+<analysis>
+Let me analyze this post according to the given criteria:
+
+1. CMF presence: Yes, CMF 11240014 is present, indicating this is official electoral content
+
+2. Candidate reference: 
+- Mentions George Simion (presidential candidate) in the title
+- Also mentions Ovidiu Cupșa, an AUR Senate candidate
+
+3. Wide population targeting:
+- This is a paid advertisement
+- Targeting Facebook and Instagram platforms
+- Large impression range (25,000-30,000)
+- Estimated audience size over 1 million
+
+4. Electoral objective:
+- The title "Susține George Simion" is a clear call for support
+- Features candidates from AUR
+- Official party communication (has CMF)
+
+5. Journalism vs Propaganda:
+- This is clearly marked as political content
+- Not journalistic as it's commissioned by AUR
+- Contains direct promotion of candidates
+
+6. Personal Opinion:
+- This is not a personal opinion but an official party communication
+</analysis>
+
+<conclusion>
+<post_id>562641266468758</post_id>
+<electoral-propaganda-analysis>
+This post constitutes electoral propaganda because:
+- It's a paid political advertisement
+- Has official CMF number
+- Directly promotes candidates
+- Large scale distribution
+- Clear electoral objective in supporting George Simion and AUR candidates
+- Is running during the presidential campaign blackout period while mentioning a presidential candidate
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate>
+    <name>GEORGE-NICOLAE SIMION</name>
+    <impact>POSITIVE</impact>
+  </candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>AUR</responsible-party-or-group>
+<message-for-police>
+Alianța pentru Unirea Românilor și SC Total Marketing SRL, pentru incalcarea articolului 55 t) din Legea 370/2004, prin difuzarea de materiale de propagandă electorală după încheierea campaniei electorale pentru alegerile prezidențiale, respectiv postarea cu ID-ul 562641266468758 pe platforma Facebook. Materialul promovat conține referințe directe la candidatul prezidențial George Simion, fiind difuzat după ora 18:00 pe 23.11.2024, într-un mod care încalcă perioada de black-out electoral. Postarea are caracter electoral evident, fiind comandată de partid (CMF 11240014), și a ajuns la un public de 25.000-30.000 persoane prin promovare plătită.
+</message-for-police>
+</conclusion>
+</output>

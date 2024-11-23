@@ -1,0 +1,56 @@
+<output>
+<analysis>
+Let me analyze this post according to the required criteria:
+
+1. CMF Number: There is no CMF number present in this post.
+
+2. Reference to Candidates:
+- The post mentions "G. Simion" which clearly refers to GEORGE-NICOLAE SIMION, a presidential candidate
+- It also mentions PSD (Partidul Social Democrat), implying connection to ION-MARCEL CIOLACU's party
+
+3. Addresses Wide Population:
+- This is a paid advertisement on Facebook and Instagram
+- Significant reach: 15,000-19,999 impressions
+- Targeted audience size: 100,001-500,000 people
+- Clearly intended for mass communication
+
+4. Electoral Objective:
+- The post suggests there's some form of collaboration or strategy between PSD and Simion
+- Uses the word "INCREDIBIL" to create sensation
+- The timing during electoral period and mentioning "turul 2" shows clear electoral context
+- This appears designed to influence voter perception
+
+5. Journalism vs Propaganda:
+- This does not appear to be journalistic content
+- No factual reporting or news value
+- Uses sensationalist language ("INCREDIBIL")
+- No supporting evidence or balanced reporting
+
+6. Personal Opinion:
+- This is not presented as personal opinion
+- It's a paid advertisement with significant reach
+- Structured as a political statement rather than personal view
+
+</analysis>
+
+<conclusion>
+<post_id>386674257771104</post_id>
+<electoral-propaganda-analysis>
+This constitutes electoral propaganda because:
+- Directly references presidential candidates
+- Uses paid advertising to reach a mass audience
+- Clear electoral context mentioning "turul 2"
+- Attempts to influence voter perception during election period
+- Not journalistic or personal opinion content
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate><name>GEORGE-NICOLAE SIMION</name><impact>NEGATIVE</impact></candidate>
+  <candidate><name>ION-MARCEL CIOLACU</name><impact>NEGATIVE</impact></candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>INDEPENDENT</responsible-party-or-group>
+<message-for-police>
+Pagina "Fruncea" (ID: 104898731336618), pentru incalcarea articolului 55 t) din Legea 370/2004, prin promovarea unui mesaj de propagandă electorală după încheierea perioadei legale de campanie, referitor la candidații GEORGE-NICOLAE SIMION și ION-MARCEL CIOLACU. Postarea (ID: 386674257771104) constituie propagandă electorală prin natura sa de mesaj plătit, cu impact între 15.000-19.999 de afișări, vizând să influențeze opinia alegătorilor despre candidați după ora 18:00 pe 23.11.2024. Mesajul folosește limbaj sensaționalist și face afirmații despre strategii electorale, depășind simpla exprimare a unei opinii personale.
+</message-for-police>
+</conclusion>
+</output>

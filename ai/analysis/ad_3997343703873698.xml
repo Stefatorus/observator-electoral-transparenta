@@ -1,0 +1,43 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: Yes - "CMF 11240022" is present at the end of the post, indicating this is electoral propaganda.
+
+2. Refers to candidate: Yes - The post specifically mentions "SIMION" (GEORGE-NICOLAE SIMION), a presidential candidate, and discusses his potential entry into the second round.
+
+3. Addresses wide population: Yes - This is a paid Facebook/Instagram advertisement with significant reach (30,000-35,000 impressions) and targets a wide audience, specifically mentioning "argeșenii" and discussing national politics.
+
+4. Electoral objective: Yes - While it's presented as commentary on the current political situation, it clearly has electoral objectives by:
+- Promoting Forța Dreptei candidates
+- Criticizing both the current government and AUR/Simion
+- Making electoral promises ("nu îi vom dezamăgi")
+
+5. Journalism: No - This is clearly a political message rather than journalistic content, containing personal opinions and campaign promises.
+
+6. Personal opinion: While it contains personal views, this is clearly a paid political advertisement with campaign messaging.
+
+This appears to be electoral propaganda concerning both parliamentary and presidential elections, with the presidential election references being problematic as that campaign period has ended.
+</analysis>
+
+<conclusion>
+<post_id>3997343703873698</post_id>
+<electoral-propaganda-analysis>
+This constitutes electoral propaganda because:
+- It's a paid political advertisement
+- Contains a CMF number
+- Makes electoral promises
+- Discusses multiple candidates and parties
+- Attempts to influence voter opinion about both parliamentary and presidential candidates
+- Specifically discusses presidential candidate Simion's potential second-round qualification
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate><name>GEORGE-NICOLAE SIMION</name><impact>NEGATIVE</impact></candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>FORTA DREPTEI</responsible-party-or-group>
+<message-for-police>
+SC EURO MEDIA BIS SRL, pentru incalcarea articolului 55 t) din Legea 370/2004, prin difuzarea unui mesaj de propaganda electorala (ID Facebook: 3997343703873698) dupa ora 18:00 pe 23.11.2024, referitor la alegerile prezidentiale. Mesajul face referire directa la candidatul prezidential George Nicolae Simion si posibilitatea intrarii acestuia in turul doi, constituind astfel propaganda electorala in afara perioadei permise. Materialul este platit si distribuit pe platformele Facebook si Instagram, cu un impact semnificativ (30.000-35.000 impresii), continand si numar CMF (11240022), demonstrand natura sa de propaganda electorala.
+</message-for-police>
+</conclusion>
+</output>

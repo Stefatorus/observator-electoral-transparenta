@@ -1,0 +1,52 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. CMF Number: Not present in the post, but this doesn't automatically disqualify it as propaganda.
+
+2. References to Candidates:
+- Directly mentions "Burtică Mariana, Snejana Popovici și Alexandra Cruțan" as AUR candidates
+- References "Planul Simion" (George Simion, presidential candidate)
+
+3. Addresses Wide Population:
+- Yes, it's a paid Facebook advertisement
+- Targets a large estimated audience (100,001-500,000 people)
+- Uses inclusive language ("noi", "votați")
+
+4. Electoral Objective:
+- Clear call to action for voting: "Pe 24 noiembrie, 1 decembrie și 8 decembrie, votați AUR"
+- Promotes specific candidates and their platform
+- Mentions multiple election dates, including both parliamentary and presidential elections
+
+5. Journalism vs Propaganda:
+- This is clearly campaign material, not journalism
+- Contains direct advocacy for candidates and party
+- Includes explicit voting instructions
+
+6. Personal Opinion:
+- This is not a personal opinion but an organized campaign message
+- Structured as a political advertisement with clear electoral objectives
+
+The post mixes parliamentary election campaigning (which is allowed) with presidential election references (which is not allowed after the propaganda period ended), making it problematic under Article 55 t).
+</analysis>
+
+<conclusion>
+<post_id>588232327103229</post_id>
+<electoral-propaganda-analysis>
+This constitutes electoral propaganda because:
+- It's a paid advertisement reaching a wide audience
+- Contains explicit voting instructions
+- References both parliamentary and presidential elections
+- Makes campaign promises and promotes party platform
+- Includes reference to presidential candidate through "Planul Simion"
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+<candidate><name>GEORGE-NICOLAE SIMION</name><impact>POSITIVE</impact></candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>AUR</responsible-party-or-group>
+<message-for-police>
+UNIWORLD - MEDIA SRL, pentru incalcarea articolului 55 t) din Legea 370/2004, prin promovarea unui mesaj de propaganda electorala pentru candidatul prezidențial George Simion (prin referirea la "Planul Simion") după încheierea perioadei de campanie electorală. Postarea cu ID-ul 588232327103229 pe facebook, publicată și promovată după ora 18:00 pe 23.11.2024, reprezintă o continuare a propagandei electorale pentru alegerile prezidențiale prin promovarea explicită a planului candidatului AUR la președinție, încălcând astfel prevederile legale privind încheierea campaniei electorale. Efectul electoral este evident prin îndemnul direct la vot și asocierea cu candidatul prezidențial.
+</message-for-police>
+</conclusion>
+</output>

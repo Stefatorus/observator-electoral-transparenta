@@ -1,0 +1,51 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: YES - "CMF: 11240014" is present, indicating this is electoral propaganda
+
+2. Refers to candidate: YES - Explicitly mentions "George Simion" who is one of the presidential candidates (Position 2)
+
+3. Addresses wide population: YES
+- Paid advertisement with significant reach (25,000-29,999 impressions)
+- Uses inclusive language ("Poporul român", "fiecare român")
+- Targets a broad audience (100,001-500,000 estimated audience)
+
+4. Electoral objective: YES
+- Explicitly promotes George Simion for president ("Cu AUR la guvernare și George Simion președinte")
+- Makes campaign promises about agricultural policy
+- Uses hashtag "#AlbaVoteazaAUR"
+- Clear call for political support
+
+5. Journalism: NO
+- This is clearly promotional content, not journalistic
+- Makes promises and political statements rather than providing objective information
+
+6. Personal opinion: NO
+- This is a paid advertisement from "I AM ONLINE SRL"
+- Structured as campaign messaging
+- Contains official campaign identifier (CMF)
+
+</analysis>
+
+<conclusion>
+<post_id>1693913901167510</post_id>
+<electoral-propaganda-analysis>
+This is clearly electoral propaganda because it:
+- Contains an official CMF number
+- Explicitly promotes a presidential candidate
+- Makes campaign promises
+- Uses campaign slogans and hashtags
+- Is a paid advertisement with significant reach
+- Has clear electoral messaging and intent
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate><name>GEORGE-NICOLAE SIMION</name><impact>POSITIVE</impact></candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>AUR</responsible-party-or-group>
+<message-for-police>
+I AM ONLINE SRL, pentru incalcarea articolului 55 t) din Legea 370/2004, prin promovarea candidatului George Simion la președinție prin intermediul unei reclame plătite pe Facebook (ID: 1693913901167510) după ora 18:00 pe 23.11.2024. Postarea conține promisiuni electorale explicite ("Cu AUR la guvernare și George Simion președinte, agricultorii vor fi sprijiniți"), identificator CMF 11240014, și îndeamnă în mod direct la susținerea candidatului în perioada în care propaganda electorală este interzisă. Impactul postării este semnificativ, având între 25.000 și 29.999 de afișări, reprezentând o încălcare clară a prevederilor legale privind încheierea campaniei electorale.
+</message-for-police>
+</conclusion>
+</output>

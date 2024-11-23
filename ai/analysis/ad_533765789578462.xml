@@ -1,0 +1,57 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. CMF Presence:
+- Yes, contains "CMF: 11240014" which indicates this is electoral propaganda material
+
+2. Candidate Reference:
+- Directly refers to George Simion, a confirmed presidential candidate
+- Uses the word "președinte" explicitly
+- Tags the candidate directly using @[100044563410651:2048:George Simion]
+
+3. Wide Population Addressing:
+- This is a paid advertisement with significant reach (30,000-35,000 impressions)
+- Targeting a large estimated audience (500,001-1,000,000 people)
+- Published on both Facebook and Instagram platforms
+
+4. Electoral Objective:
+- Clear electoral message promoting George Simion for president
+- Uses campaign slogan "Timpul României noastre a început"
+- Explicitly promotes him as "președinte"
+
+5. Journalism vs Propaganda:
+- This is clearly campaign material, not journalistic content
+- Contains campaign identifier (CMF)
+- Promotional in nature rather than informative
+
+6. Personal Opinion:
+- This is not a personal opinion but an official campaign message
+- Posted by party representative with party byline
+- Contains official campaign elements (CMF number)
+
+</analysis>
+
+<conclusion>
+<post_id>533765789578462</post_id>
+<electoral-propaganda-analysis>
+This clearly constitutes electoral propaganda because:
+- Contains official campaign elements (CMF number)
+- Directly promotes a presidential candidate
+- Is a paid advertisement with significant reach
+- Has clear electoral objective
+- Published under party banner
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate>
+    <name>GEORGE-NICOLAE SIMION</name>
+    <impact>POSITIVE</impact>
+  </candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>AUR</responsible-party-or-group>
+<message-for-police>
+Partidul Alianta pentru Unirea Romanilor (AUR), pentru incalcarea articolului 55 t) din Legea 370/2004, prin difuzarea de materiale de propaganda electorala (postare Facebook ID: 533765789578462) dupa incheierea perioadei de campanie electorala. Postarea, publicata si promovata ca reclama platita dupa ora 18:00 pe 23.11.2024, promoveaza explicit candidatul George Simion pentru functia de presedinte, continand elementele specifice materialelor de propaganda electorala (CMF 11240014), si fiind distribuita catre un public larg (30,000-35,000 impresii). Mesajul "George Simion președinte!" reprezinta in mod clar un indemn electoral, care incalca prevederile legale privind perioada de campanie electorala.
+</message-for-police>
+</conclusion>
+</output>

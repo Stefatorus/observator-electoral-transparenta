@@ -1,0 +1,46 @@
+<output>
+<analysis>
+Let me analyze this post according to the established criteria:
+
+1. Has CMF: No CMF number is present in the post, but this isn't determinative.
+
+2. Refers to candidate: Yes, explicitly references "George Simion" who is a presidential candidate (Position 2 on the ballot).
+
+3. Addresses wide population: Yes, this is a paid advertisement on Facebook and Instagram with an estimated reach of over 1 million people.
+
+4. Electoral objective: Yes, very clear electoral objective:
+- Declares "George Simion - Președintele tuturor românilor" (President of all Romanians)
+- Title includes "Votez George Simion!" (I vote for George Simion)
+- Uses national flag emoji 🇹🇩 to emphasize nationalist messaging
+- Clear call to support the candidate
+
+5. Journalism: No journalistic content - this is purely promotional material.
+
+6. Personal opinion: While presented as a personal endorsement ("Votez"), this is a paid advertisement meant to influence others, not merely personal expression.
+
+</analysis>
+
+<conclusion>
+<post_id>429882539993488</post_id>
+<electoral-propaganda-analysis>
+This constitutes electoral propaganda because:
+- Explicitly promotes a presidential candidate
+- Paid advertisement with wide reach
+- Clear electoral objective
+- Running during prohibited period
+- Not journalistic or informative content
+- Uses persuasive language and national symbols
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate>
+    <name>GEORGE-NICOLAE SIMION</name>
+    <impact>POSITIVE</impact>
+  </candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>AUR</responsible-party-or-group>
+<message-for-police>
+Ciprian Paraschiv, pentru incalcarea articolului 55 t) din Legea 370/2004, prin difuzarea de materiale de propaganda electorala pentru candidatul GEORGE-NICOLAE SIMION dupa incheierea perioadei de campanie electorala. Materialul promotional, identificat prin ID-ul facebook 429882539993488, contine indemnuri directe de vot ("Votez George Simion!") si promovarea explicita a candidatului ca "Președintele tuturor românilor", fiind distribuit ca reclama platita pe Facebook si Instagram, cu un impact estimat de peste 1 milion de persoane, dupa ora 18:00 pe 23.11.2024, incalcand astfel prevederile legale privind incetarea campaniei electorale.
+</message-for-police>
+</conclusion>
+</output>

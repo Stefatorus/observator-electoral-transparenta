@@ -1,0 +1,279 @@
+{
+  "analysis_timestamp": "2024-11-24_00-48-05",
+  "violations_summary": {
+    "total_analyzed": 674,
+    "total_violations": 464,
+    "total_false_positives": 210,
+    "false_positive_rate": 0.3115727002967359,
+    "violations_by_party": {
+      "PSD": 175,
+      "PNL": 77,
+      "AUR": 76,
+      "INDEPENDENT": 38,
+      "USR": 33,
+      "FORTA DREPTEI": 20,
+      "60MRO": 9,
+      "5NEWSRO": 8,
+      "4MEDIAINFO": 7,
+      "UDMR": 4,
+      "DREPT": 3,
+      "PNCR": 2,
+      "PS NEWS": 2,
+      "INDEPENDENTFRUNCEA": 1,
+      "UNKNOWN": 1,
+      "AGENTIADEINFORMATIIRO": 1,
+      "PRESALIBERARO": 1,
+      "INDEPENDENT5NEWSRO": 1,
+      "DECLIC": 1,
+      "PARTIDUL NATIONAL CONSERVATOR ROMAN": 1,
+      "DIGIPRES": 1,
+      "COMENTATORIIRO": 1,
+      "FD": 1
+    },
+    "false_positives_by_party": {
+      "PSD": 80,
+      "USR": 30,
+      "PNL": 27,
+      "AUR": 17,
+      "INDEPENDENT": 17,
+      "FORTA DREPTEI": 10,
+      "NA": 6,
+      "REPER": 5,
+      "FD": 2,
+      "UNKNOWN": 2,
+      "DECLIC": 2,
+      "ACTIUNEARO": 2,
+      "PNCR": 1,
+      "MEDIA": 1,
+      "NONE": 1,
+      "PPR": 1,
+      "INDEPENDENT MEDIA": 1,
+      "PS NEWS": 1,
+      "NEWSOUTLET": 1,
+      "NGO": 1,
+      "UNABLE TO DETERMINE": 1,
+      "SOS": 1
+    },
+    "precision_by_party": {
+      "INDEPENDENT": 0.6909090909090909,
+      "DREPT": 1.0,
+      "PSD": 0.6862745098039216,
+      "PNL": 0.7403846153846154,
+      "INDEPENDENT MEDIA": 0.0,
+      "REPER": 0.0,
+      "AUR": 0.8172043010752689,
+      "USR": 0.5238095238095238,
+      "UNABLE TO DETERMINE": 0.0,
+      "4MEDIAINFO": 1.0,
+      "UNKNOWN": 0.3333333333333333,
+      "UDMR": 1.0,
+      "FORTA DREPTEI": 0.6666666666666666,
+      "INDEPENDENTFRUNCEA": 1.0,
+      "NGO": 0.0,
+      "5NEWSRO": 1.0,
+      "PNCR": 0.6666666666666666,
+      "FD": 0.3333333333333333,
+      "NA": 0.0,
+      "DECLIC": 0.3333333333333333,
+      "60MRO": 1.0,
+      "AGENTIADEINFORMATIIRO": 1.0,
+      "PS NEWS": 0.6666666666666666,
+      "NEWSOUTLET": 0.0,
+      "PRESALIBERARO": 1.0,
+      "INDEPENDENT5NEWSRO": 1.0,
+      "ACTIUNEARO": 0.0,
+      "PPR": 0.0,
+      "PARTIDUL NATIONAL CONSERVATOR ROMAN": 1.0,
+      "NONE": 0.0,
+      "MEDIA": 0.0,
+      "DIGIPRES": 1.0,
+      "COMENTATORIIRO": 1.0,
+      "SOS": 0.0
+    },
+    "total_reach": 121541528.0,
+    "total_spend": 161968.0,
+    "avg_severity_by_party": {
+      "4MEDIAINFO": 78.07142857142857,
+      "5NEWSRO": 174.5,
+      "60MRO": 193.94444444444446,
+      "AGENTIADEINFORMATIIRO": 949.5,
+      "AUR": 321.86842105263156,
+      "COMENTATORIIRO": 649.5,
+      "DECLIC": 249.5,
+      "DIGIPRES": 49.5,
+      "DREPT": 249.5,
+      "FD": 1749.5,
+      "FORTA DREPTEI": 612.0,
+      "INDEPENDENT": 417.92105263157896,
+      "INDEPENDENT5NEWSRO": 149.5,
+      "INDEPENDENTFRUNCEA": 449.5,
+      "PARTIDUL NATIONAL CONSERVATOR ROMAN": 49.5,
+      "PNCR": 49.5,
+      "PNL": 274.1753246753247,
+      "PRESALIBERARO": 249.5,
+      "PS NEWS": 49.5,
+      "PSD": 302.64285714285717,
+      "UDMR": 1637.0,
+      "UNKNOWN": 449.5,
+      "USR": 579.8030303030303
+    }
+  },
+  "impact_analysis": {
+    "positive_impact": {
+      "total_spend": 129803.0,
+      "total_reach": 110554011.0,
+      "total_posts": 394,
+      "by_candidate": [
+        {
+          "candidate": "ION-MARCEL CIOLACU",
+          "total_spend": 51116.0,
+          "total_reach": 48432624.0,
+          "impact_score": 14055.729838,
+          "promoting_parties": [
+            "PSD"
+          ]
+        },
+        {
+          "candidate": "GEORGE-NICOLAE SIMION",
+          "total_spend": 26108.5,
+          "total_reach": 26100028.5,
+          "impact_score": 7126.95956075,
+          "promoting_parties": [
+            "PRESALIBERARO",
+            "COMENTATORIIRO",
+            "PS NEWS",
+            "AUR",
+            "60MRO",
+            "INDEPENDENT"
+          ]
+        },
+        {
+          "candidate": "NICOLAE-IONEL CIUCĂ",
+          "total_spend": 18963.0,
+          "total_reach": 16183830.5,
+          "impact_score": 5077.60645975,
+          "promoting_parties": [
+            "PS NEWS",
+            "PNL"
+          ]
+        },
+        {
+          "candidate": "ELENA-VALERICA LASCONI",
+          "total_spend": 13831.5,
+          "total_reach": 8587514.5,
+          "impact_score": 2513.08721775,
+          "promoting_parties": [
+            "FD",
+            "FORTA DREPTEI",
+            "USR",
+            "INDEPENDENT"
+          ]
+        },
+        {
+          "candidate": "HUNOR KELEMEN",
+          "total_spend": 6548.0,
+          "total_reach": 1200002.0,
+          "impact_score": 1761.9032739999998,
+          "promoting_parties": [
+            "UDMR"
+          ]
+        }
+      ]
+    },
+    "negative_impact": {
+      "total_spend": 69113.5,
+      "total_reach": 39787554.5,
+      "total_posts": 173,
+      "by_candidate": [
+        {
+          "candidate": "ION-MARCEL CIOLACU",
+          "total_spend": 20520.5,
+          "total_reach": 15982523.0,
+          "impact_score": 7842.6432885,
+          "attacking_parties": [
+            "FD",
+            "PNL",
+            "DREPT",
+            "AUR",
+            "5NEWSRO",
+            "DECLIC",
+            "FORTA DREPTEI",
+            "DIGIPRES",
+            "INDEPENDENT",
+            "4MEDIAINFO",
+            "PNCR",
+            "USR"
+          ]
+        },
+        {
+          "candidate": "NICOLAE-IONEL CIUCĂ",
+          "total_spend": 14783.0,
+          "total_reach": 8625011.0,
+          "impact_score": 5999.4432445,
+          "attacking_parties": [
+            "PSD",
+            "AUR",
+            "5NEWSRO",
+            "FORTA DREPTEI",
+            "60MRO",
+            "INDEPENDENT",
+            "4MEDIAINFO",
+            "FD",
+            "USR"
+          ]
+        },
+        {
+          "candidate": "GEORGE-NICOLAE SIMION",
+          "total_spend": 17635.0,
+          "total_reach": 7830012.0,
+          "impact_score": 4353.592069,
+          "attacking_parties": [
+            "PS NEWS",
+            "PNL",
+            "DREPT",
+            "INDEPENDENT5NEWSRO",
+            "FORTA DREPTEI",
+            "INDEPENDENT",
+            "FD",
+            "USR",
+            "UDMR"
+          ]
+        },
+        {
+          "candidate": "MIRCEA-DAN GEOANĂ",
+          "total_spend": 3695.0,
+          "total_reach": 2250003.0,
+          "impact_score": 1191.3766484999999,
+          "attacking_parties": [
+            "PSD",
+            "AGENTIADEINFORMATIIRO",
+            "INDEPENDENTFRUNCEA",
+            "60MRO",
+            "FORTA DREPTEI",
+            "INDEPENDENT",
+            "USR",
+            "UNKNOWN"
+          ]
+        },
+        {
+          "candidate": "ELENA-VALERICA LASCONI",
+          "total_spend": 11683.0,
+          "total_reach": 3000003.5,
+          "impact_score": 523.50072325,
+          "attacking_parties": [
+            "COMENTATORIIRO",
+            "AUR",
+            "DREPT",
+            "PNL",
+            "5NEWSRO",
+            "60MRO",
+            "INDEPENDENT",
+            "4MEDIAINFO",
+            "USR",
+            "UDMR"
+          ]
+        }
+      ]
+    }
+  }
+}

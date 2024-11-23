@@ -1,0 +1,55 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. CMF/AEP Code Present: Yes, contains "Cod AEP: 11240015" and "Cod AEP: 31240009"
+
+2. Direct Reference to Candidate:
+- Explicitly mentions "Elena Lasconi" multiple times
+- Identifies her as "candidata USR la Președinția României"
+
+3. Addresses Wide Population:
+- It's a paid Facebook advertisement with significant reach (175,000-199,999 impressions)
+- Uses inclusive language ("toți cei care ne dorim")
+- Calls for action from general public ("haideți să alegem")
+
+4. Electoral Objective:
+- Clear campaign messaging
+- Presents campaign platform points
+- Direct call to vote on November 24
+- Uses campaign hashtags (#ElenaLasconiPreședinte)
+
+5. Journalism vs Propaganda:
+- This is clearly campaign material, not journalism
+- Presents partisan viewpoint and campaign promises
+- Contains explicit electoral messaging
+
+6. Personal Opinion:
+- While containing personal elements, this is clearly structured as campaign material
+- Official party communication (byline shows USR Buzău)
+</analysis>
+
+<conclusion>
+<post_id>2283471848692348</post_id>
+<electoral-propaganda-analysis>
+This is clearly electoral propaganda because:
+- Contains official campaign messaging
+- Paid advertisement with significant reach
+- Direct candidate promotion
+- Contains AEP codes
+- Explicit call to vote
+- Presents campaign platform
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+<candidate>
+<name>ELENA-VALERICA LASCONI</name>
+<impact>POSITIVE</impact>
+</candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>USR</responsible-party-or-group>
+<message-for-police>
+Partidul Uniunea Salvați România - Buzău, pentru incalcarea articolului 55 t) din Legea 370/2004, prin promovarea pe Facebook a unui material de propagandă electorală (ID postare: 2283471848692348) după încheierea perioadei de campanie electorală. Materialul promovează explicit candidatul ELENA-VALERICA LASCONI la funcția de președinte, prezintă programul electoral și îndeamnă direct la vot pentru data de 24 noiembrie. Postarea a fost promovată ca reclamă plătită, având un impact semnificativ (175,000-199,999 impresii), după ora 18:00 pe 23.11.2024, încălcând astfel prevederile legale privind încheierea campaniei electorale.
+</message-for-police>
+</conclusion>
+</output>

@@ -1,0 +1,52 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: Yes - CMF11240014 is present at the end of the post, indicating this is electoral propaganda material
+
+2. Refers to candidate: Yes - Explicitly mentions George Simion, who is a presidential candidate (Position 2 on the ballot)
+
+3. Addresses wide population: Yes
+- It's a paid advertisement with significant reach (20,000-24,999 impressions)
+- Uses hashtags like #GeorgeSimionPresedinte
+- Addresses a national audience regarding housing projects
+- Budget spent: 200-299 RON
+
+4. Electoral objective: Yes
+- Uses campaign-specific hashtags (#GeorgeSimionPresedinte)
+- Explicitly promotes George Simion as a leader
+- Links a housing project to political support for Simion
+- Uses campaign slogans ("Unirea face puterea!")
+
+5. Journalism: No
+- This is clearly promotional content, not journalistic
+- Contains personal endorsement and campaign messaging
+
+6. Personal opinion: While it contains personal experience, it's structured as campaign material with clear electoral intent
+
+</analysis>
+
+<conclusion>
+<post_id>3925497371059759</post_id>
+<electoral-propaganda-analysis>
+This is clearly electoral propaganda because:
+- Contains official CMF number
+- Directly promotes presidential candidate George Simion
+- Uses campaign hashtags and slogans
+- Links social issues (housing) to political support
+- Is a paid advertisement with significant reach
+- Contains clear electoral messaging
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate>
+    <name>GEORGE-NICOLAE SIMION</name>
+    <impact>POSITIVE</impact>
+  </candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>AUR</responsible-party-or-group>
+<message-for-police>
+UNIWORLD - MEDIA SRL, pentru incalcarea articolului 55 t) din Legea 370/2004, prin promovarea unui material de propaganda electorala (ID Facebook: 3925497371059759) dupa incheierea perioadei de campanie electorala. Materialul promoveaza explicit candidatul GEORGE-NICOLAE SIMION pentru functia de presedinte, folosind hashtag-uri specifice campaniei (#GeorgeSimionPresedinte), continut electoral explicit si numar unic de inregistrare CMF11240014. Postarea a fost promovata ca reclama platita pe Facebook, cu un impact intre 20.000 si 24.999 de afisari, dupa ora 18:00 pe 23.11.2024, incalcand astfel prevederile legale privind incetarea propagandei electorale.
+</message-for-police>
+</conclusion>
+</output>

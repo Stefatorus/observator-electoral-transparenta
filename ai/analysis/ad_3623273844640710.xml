@@ -1,0 +1,42 @@
+<output>
+<analysis>
+Let's analyze this post according to the given criteria:
+
+1. Has CMF number: Yes - "CMF 11240014" is present at the end of the post, indicating this is electoral propaganda.
+
+2. Refers to candidate: Yes - directly mentions "George Simion" and includes hashtag "#GeorgeSimionPresedinte", who is a presidential candidate.
+
+3. Addresses wide population: Yes - this is a paid Facebook advertisement with significant reach (125,000-150,000 impressions) targeting Timiș region.
+
+4. Electoral objective: Yes - clearly promotes both:
+- AUR's parliamentary candidates
+- George Simion for president
+The message "George Simion are cea mai bună echipă pentru a reconstrui România!" is clearly electoral messaging.
+
+5. Journalism: No - this is clearly promotional content, not journalistic work.
+
+6. Personal opinion: No - this is a structured, paid advertisement with clear electoral messaging and CMF number.
+
+The post violates Article 55 t) as it continues presidential electoral propaganda after the conclusion of the allowed period, while mixing it with parliamentary election messaging.
+</analysis>
+
+<conclusion>
+<post_id>3623273844640710</post_id>
+<electoral-propaganda-analysis>
+This is clearly electoral propaganda because:
+- Contains CMF number
+- Paid advertisement with significant reach
+- Direct promotion of both parliamentary candidates and presidential candidate
+- Clear electoral messaging and calls to support
+- Uses official party channels and messaging
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate><name>GEORGE-NICOLAE SIMION</name><impact>POSITIVE</impact></candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>AUR</responsible-party-or-group>
+<message-for-police>
+UNIWORLD - MEDIA SRL, pentru incalcarea articolului 55 t) din Legea 370/2004, prin difuzarea unei reclame platite pe Facebook (ID: 3623273844640710) ce continua propaganda electorala pentru candidatul prezidential George Simion dupa incheierea perioadei legale de campanie. Postarea, activa dupa ora 18:00 pe 23.11.2024, promoveaza explicit candidatura prezidentiala prin utilizarea hashtag-ului "#GeorgeSimionPresedinte" si mesaje de sustinere directa, fiind o reclama platita cu impact semnificativ (125,000-150,000 afisari). Materialul include cod CMF 11240014, confirmand natura sa de propaganda electorala.
+</message-for-police>
+</conclusion>
+</output>
