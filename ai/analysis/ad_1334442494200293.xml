@@ -1,0 +1,52 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: Yes - CMF:11240017 is present at the end of the post, indicating this is electoral propaganda
+
+2. Refers to candidate: Yes - explicitly mentions Marcel Ciolacu, who is a presidential candidate, and directly calls for voting for him ("duminică, 24 noiembrie, votăm Marcel Ciolacu!")
+
+3. Addresses wide population: Yes
+- It's a paid advertisement on Facebook and Instagram
+- Targets a large audience (100,001-500,000 people)
+- Uses collective language ("ne dorim", "pentru toți românii")
+
+4. Electoral objective: Yes
+- Explicitly calls for votes ("votăm Marcel Ciolacu!")
+- Promotes the candidate's program and vision
+- Contrasts with "20 de ani de experimente nefaste"
+- Clear campaign messaging with hashtags like #CaleaSigură
+
+5. Journalism: No
+- This is clearly campaign material, not journalistic content
+- Contains partisan messaging and direct call to action for voting
+
+6. Personal opinion: No
+- This is an official party communication (PSD Dolj)
+- Contains formal campaign elements (CMF number, party hashtags)
+</analysis>
+
+<conclusion>
+<post_id>1334442494200293</post_id>
+<electoral-propaganda-analysis>
+This is clearly electoral propaganda because:
+- Has official CMF number
+- Direct call to vote for a specific candidate
+- Paid distribution on social media
+- Official party communication
+- Contains campaign messaging and slogans
+- Explicitly aims to influence voting behavior
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+<candidate>
+<name>ION-MARCEL CIOLACU</name>
+<impact>POSITIVE</impact>
+</candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>PSD</responsible-party-or-group>
+<message-for-police>
+PSD Dolj, pentru incalcarea articolului 55 t) din Legea 370/2004, prin promovarea unui mesaj electoral platit pe Facebook (ID: 1334442494200293) dupa incheierea perioadei de campanie electorala. Materialul promoveaza explicit candidatul ION-MARCEL CIOLACU si indeamna direct la vot ("duminică, 24 noiembrie, votăm Marcel Ciolacu!"), continand elemente specifice de propaganda electorala (CMF 11240017, hashtag-uri de campanie, mesaje electorale). Postarea este activa si promovata dupa ora 18:00 pe 23.11.2024, incalcand astfel prevederile legale privind incetarea campaniei electorale.
+</message-for-police>
+</conclusion>
+</output>

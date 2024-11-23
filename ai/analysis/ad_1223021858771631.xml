@@ -1,0 +1,58 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. CMF Present: Yes (CMF 11240017) - This indicates it's electoral propaganda material
+
+2. Candidate Reference:
+- Directly mentions Marcel Ciolacu, who is a presidential candidate
+- Also promotes Adrian Păduraru as a Senate candidate
+
+3. Wide Population Address:
+- This is a paid advertisement on Facebook/Instagram
+- Estimated audience size: 100,001-500,000
+- Clear addressing of "stimați cetățeni"
+- Speaks about "toți românii"
+
+4. Electoral Objective:
+- Promotes PSD's achievements
+- Associates Marcel Ciolacu's government with the Schengen success
+- Explicitly asks for citizens' support ("demnă de susținerea dvs")
+- Uses political messaging ("noi, social-democrații")
+
+5. Journalism vs Propaganda:
+- This is clearly not journalism
+- It's a promotional message with clear party affiliation
+- Contains campaign messaging and political promises
+
+6. Personal Opinion:
+- This is not a personal opinion but an official party communication
+- Uses formal political communication language
+- Has CMF number indicating official campaign material
+
+The post violates Article 55 t) as it promotes presidential candidate Marcel Ciolacu after the conclusion of the presidential campaign period, while trying to maintain the appearance of being solely about parliamentary elections.
+</analysis>
+
+<conclusion>
+<post_id>1223021858771631</post_id>
+<electoral-propaganda-analysis>
+This constitutes electoral propaganda because:
+- Contains official campaign material (CMF number)
+- Promotes both parliamentary and presidential candidates
+- Is a paid advertisement reaching a large audience
+- Has clear electoral messaging and call for support
+- Uses achievements in government as campaign material
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate>
+    <name>ION-MARCEL CIOLACU</name>
+    <impact>POSITIVE</impact>
+  </candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>PSD</responsible-party-or-group>
+<message-for-police>
+PSD Neamț, prin reprezentantul Adrian Păduraru, pentru incalcarea articolului 55 t) din Legea 370/2004, prin promovarea candidatului la președinție Marcel Ciolacu într-o reclamă plătită pe Facebook (ID: 1223021858771631) după încheierea perioadei de campanie electorală prezidențială. Postarea, difuzată după ora 18:00 pe 23.11.2024, prezintă realizările guvernamentale ale lui Marcel Ciolacu în contextul aderării la Schengen, asociind direct acest succes cu candidatul la președinție și solicitând explicit sprijinul alegătorilor. Materialul include număr CMF (11240017), confirmând natura sa de propagandă electorală, și a fost distribuit către un public țintă de 100.001-500.000 persoane.
+</message-for-police>
+</conclusion>
+</output>

@@ -1,0 +1,58 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: Yes - CMF 11240002 is present at the end of the post, indicating this is electoral propaganda
+
+2. Refers to candidate: Yes - Directly refers to Nicolae-Ionel Ciucă, who is a presidential candidate (Position 4)
+
+3. Addresses wide population: Yes
+- It's a paid advertisement on Facebook and Instagram
+- Targets a large audience (100,001-500,000 people)
+- Uses broad messaging addressing voters in general
+- Has received significant impressions (35,000-39,999)
+
+4. Electoral objective: Yes
+- Explicitly promotes Nicolae Ciucă for president
+- Contains multiple endorsements from party leaders
+- Uses campaign slogans and calls for voting
+- Directly asks for votes on November 24
+- Presents Ciucă as the best choice for president
+
+5. Journalism: No
+- This is clearly promotional content, not journalistic
+- Contains party endorsements and campaign messaging
+- Has a CMF number
+
+6. Personal opinion: No
+- These are official party statements
+- Structured as campaign messaging
+- Paid promotional content
+
+The post is clearly electoral propaganda targeting the presidential election after the campaign period has ended.
+</analysis>
+
+<conclusion>
+<post_id>510922691951131</post_id>
+<electoral-propaganda-analysis>
+This is clearly electoral propaganda because:
+- Contains CMF number
+- Direct promotion of presidential candidate
+- Paid distribution
+- Clear electoral messaging
+- Multiple endorsements
+- Call to vote on election day
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate>
+    <name>NICOLAE-IONEL CIUCĂ</name>
+    <impact>POSITIVE</impact>
+  </candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>PNL</responsible-party-or-group>
+<message-for-police>
+PNL SĂLAJ, pentru incalcarea articolului 55 t) din Legea 370/2004, prin difuzarea de materiale de propaganda electorala pentru candidatul la presedintie Nicolae-Ionel Ciucă dupa incheierea perioadei de campanie electorala. Materialul, având ID-ul postării pe facebook 510922691951131, constituie propaganda electorală conform Art. 36(7) prin: (a) referirea directă la candidatul Nicolae-Ionel Ciucă, (b) utilizarea în afara perioadei permise, (c) obiectivul electoral explicit de influențare a votului prin îndemnuri directe de a-l vota pe candidat, și (d) depășirea limitelor activității jurnalistice. Postarea a fost promovată după ora 18:00 pe 23.11.2024, având un impact semnificativ prin atingerea a 35,000-39,999 de persoane.
+</message-for-police>
+</conclusion>
+</output>

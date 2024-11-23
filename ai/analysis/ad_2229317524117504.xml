@@ -1,0 +1,51 @@
+<output>
+<analysis>
+Let's analyze this post according to the given criteria:
+
+1. Has CMF: Yes - CMF 11240017 is present at the end of the post, indicating this is electoral propaganda
+
+2. Refers to candidate: Yes - Explicitly mentions Marcel Ciolacu both as Prime Minister and as presidential candidate
+
+3. Addresses wide population: Yes
+- It's a paid Facebook post
+- Targets a large audience (100,001-500,000 people)
+- Uses political slogans (#DRUMUL_CEL_BUN, #Calea_sigură_pentru_România)
+
+4. Electoral objective: Yes
+- Explicitly calls for votes for PSD in parliamentary elections
+- Directly advocates for voting for Marcel Ciolacu in presidential elections
+- Links local achievements to support for Marcel Ciolacu
+
+5. Journalism: No
+- This is clearly a campaign message, not journalistic content
+- Combines administrative announcements with electoral messages
+
+6. Personal opinion: No
+- This is an official communication from a PSD official
+- Contains structured campaign messaging
+</analysis>
+
+<conclusion>
+<post_id>2229317524117504</post_id>
+<electoral-propaganda-analysis>
+This is clearly electoral propaganda because:
+- Contains explicit call to vote
+- Uses campaign slogans
+- Has CMF number
+- Links administrative achievements to electoral support
+- Paid distribution on Facebook
+- Direct candidate promotion
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate>
+    <name>ION-MARCEL CIOLACU</name>
+    <impact>POSITIVE</impact>
+  </candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>PSD</responsible-party-or-group>
+<message-for-police>
+Aladin Georgescu și Partidul Social Democrat, pentru incalcarea articolului 55 t) din Legea 370/2004, prin continuarea propagandei electorale după încheierea acesteia, într-o postare plătită pe Facebook (ID: 2229317524117504) care îndeamnă explicit la votarea candidatului ION-MARCEL CIOLACU la alegerile prezidențiale, cu mesajul "La fel de important este votul din data de 24 noiembrie pentru viitorul președinte al României, Marcel Ciolacu!". Postarea este activă și promovată după ora 18:00 pe 23.11.2024, încălcând perioada legală de campanie electorală. Postarea include număr CMF (11240017), confirmând natura sa de propagandă electorală, și este distribuită către un public țintă estimat între 100,001 și 500,000 de persoane.
+</message-for-police>
+</conclusion>
+</output>

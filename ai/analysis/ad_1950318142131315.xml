@@ -1,0 +1,45 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: No explicit CMF number is visible, but this doesn't automatically disqualify it as propaganda.
+
+2. Refers to candidate: Yes, explicitly mentions Marcel Ciolacu, a presidential candidate, using his full name and clearly promoting him for the position of President.
+
+3. Addresses wide population: Yes, this is a paid advertisement on Facebook and Instagram, targeting an estimated audience of 100,001-500,000 people, with current impressions between 6,000-6,999.
+
+4. Electoral objective: Yes, very clear electoral objective:
+- Direct call to action ("Duminică alegem")
+- Explicit endorsement of a presidential candidate
+- Uses hashtags like #Președinte
+- Clear attempt to influence voters ("alegeți calea sigură pentru România!")
+
+5. Journalism: No, this is not journalistic content. It's a clear campaign message promoting a candidate.
+
+6. Personal opinion: While presented as a personal endorsement, the paid promotion and clear campaign messaging make this electoral propaganda rather than just personal opinion.
+</analysis>
+
+<conclusion>
+<post_id>1950318142131315</post_id>
+<electoral-propaganda-analysis>
+This post constitutes electoral propaganda because:
+- Explicitly promotes a presidential candidate (Marcel Ciolacu)
+- Uses campaign slogans and messaging
+- Is a paid advertisement reaching a large audience
+- Contains direct calls to vote
+- Uses campaign-specific hashtags
+- Timing coincides with the election period
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate>
+    <name>ION-MARCEL CIOLACU</name>
+    <impact>POSITIVE</impact>
+  </candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>PSD</responsible-party-or-group>
+<message-for-police>
+Andreka Adrian-Dan, pentru incalcarea articolului 55 t) din Legea 370/2004, prin promovarea unui mesaj de propaganda electorala pentru candidatul ION-MARCEL CIOLACU după încheierea campaniei electorale. Postarea cu ID-ul 1950318142131315 pe Facebook constituie propagandă electorală activă după data de 23.11.2024, ora 18:00, prin faptul că îndeamnă explicit la vot ("Duminică alegem"), promovează direct un candidat la președinție și folosește hashtag-uri și mesaje specifice campaniei electorale. Postarea este promovată ca reclamă plătită, având un impact semnificativ, cu o audiență estimată între 100,001-500,000 de persoane și impresii între 6,000-6,999.
+</message-for-police>
+</conclusion>
+</output>

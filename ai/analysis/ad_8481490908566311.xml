@@ -1,0 +1,52 @@
+<output>
+<analysis>
+Let me analyze this post according to the given criteria:
+
+1. CMF Presence: Yes, "CMF: 11240015" appears at the end of the post
+2. References to Candidates: 
+- Direct mentions of Marcel Ciolacu (PSD)
+- Mentions of George Simion (AUR)
+- Mentions of Nicolae Ciucă (PNL)
+- Mentions of Elena Lasconi (USR)
+3. Addresses Wide Population:
+- Yes, it's a paid Facebook/Instagram post with significant reach (20,000-25,000 impressions)
+- Uses inclusive language ("haideți", "să-i oprim")
+4. Electoral Objective:
+- Clear electoral intent
+- Explicitly discourages voting for Ciolacu, Simion, and Ciucă
+- Promotes Elena Lasconi indirectly
+5. Journalism vs Propaganda:
+- This is not journalism as it doesn't maintain objectivity
+- Uses emotional language and call-to-action phrases
+- Contains clear partisan messaging
+6. Personal Opinion:
+- While it contains opinions, it's structured as campaign messaging rather than personal views
+- Published by USR Constanța, making it official party communication
+
+This post clearly constitutes electoral propaganda during the presidential campaign period.
+</analysis>
+
+<conclusion>
+<post_id>8481490908566311</post_id>
+<electoral-propaganda-analysis>
+This is electoral propaganda because:
+- Contains CMF number
+- Directly targets multiple presidential candidates
+- Has clear electoral objective
+- Uses campaign messaging tactics
+- Is paid political advertising
+- Reaches a wide audience
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate><name>ION-MARCEL CIOLACU</name><impact>NEGATIVE</impact></candidate>
+  <candidate><name>GEORGE-NICOLAE SIMION</name><impact>NEGATIVE</impact></candidate>
+  <candidate><name>NICOLAE-IONEL CIUCĂ</name><impact>NEGATIVE</impact></candidate>
+  <candidate><name>ELENA-VALERICA LASCONI</name><impact>POSITIVE</impact></candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>USR</responsible-party-or-group>
+<message-for-police>
+USR Constanța, pentru incalcarea articolului 55 t) din Legea 370/2004, prin difuzarea unui mesaj de propagandă electorală după încheierea campaniei electorale pentru alegerile prezidențiale, prin postarea cu ID 8481490908566311 pe Facebook. Postarea, publicată și promovată după ora 18:00 pe 23.11.2024, conține mesaje clare de propagandă electorală, având CMF 11240015, atacând direct candidații Marcel Ciolacu, George Simion și Nicolae Ciucă, în timp ce promovează candidatul Elena Lasconi. Postarea a fost distribuită către un public larg (20.000-25.000 de persoane) prin publicitate plătită pe Facebook și Instagram, având un obiectiv electoral explicit.
+</message-for-police>
+</conclusion>
+</output>

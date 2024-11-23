@@ -1,0 +1,51 @@
+<output>
+<analysis>
+Let's analyze this post according to the given criteria:
+
+1. CMF Number: Yes, contains CMF 11240017, indicating it's electoral propaganda.
+
+2. Reference to candidates:
+- Directly mentions Marcel Ciolacu, a presidential candidate
+- Mentions Gabriel Ghilea as senate candidate
+- Makes direct appeals for voting for both
+
+3. Addresses wide population:
+- Uses paid advertising on Facebook and Instagram
+- Targets a large audience (100,001-500,000 people)
+- Uses inclusive language ("bunicii noștri, ai tuturor")
+
+4. Electoral objective:
+- Clear call to action for voting ("votați Marcel Ciolacu președinte")
+- Promotes specific campaign promises (pension increase to 810 euros)
+- Explicit request for electoral support
+
+5. Journalism/Personal Opinion:
+- This is not journalism or personal opinion
+- It's clearly campaign material with specific electoral promises and calls to action
+
+The post explicitly promotes Marcel Ciolacu for the presidential election, which has ended its propaganda period, making this a clear violation of Article 55 t).
+</analysis>
+
+<conclusion>
+<post_id>3986809324924481</post_id>
+<electoral-propaganda-analysis>
+This is clearly electoral propaganda because:
+- Contains official CMF number
+- Makes specific electoral promises
+- Direct calls to vote for specific candidates
+- Paid advertisement reaching large audience
+- Combines presidential and parliamentary messaging
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate>
+    <name>ION-MARCEL CIOLACU</name>
+    <impact>POSITIVE</impact>
+  </candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>PSD</responsible-party-or-group>
+<message-for-police>
+Infomed Pro SRL, pentru incalcarea articolului 55 t) din Legea 370/2004, prin promovarea unui mesaj electoral platit pe Facebook (ID postare: 3986809324924481) care face propaganda electorala pentru candidatul prezidential Marcel Ciolacu dupa incheierea perioadei de campanie. Postarea contine indemnuri directe la vot ("votați Marcel Ciolacu președinte"), promisiuni electorale specifice (cresterea pensiilor) si are un caracter vadit de propaganda electorala, fiind difuzata dupa ora 18:00 pe 23.11.2024, cand perioada de campanie electorala pentru alegerile prezidentiale s-a incheiat. Postarea este platita si targetata catre un public larg (100,001-500,000 persoane), folosind platformele Facebook si Instagram.
+</message-for-police>
+</conclusion>
+</output>

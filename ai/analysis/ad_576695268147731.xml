@@ -1,0 +1,54 @@
+<output>
+<analysis>
+Let's analyze this post according to the given criteria:
+
+1. Has CMF: Yes - "CMF 11240017" is present at the end of the post, indicating this is electoral propaganda.
+
+2. Refers to candidate: Yes - The post directly mentions:
+- Nicolae Ciucă (presidential candidate)
+- Marcel Ciolacu (presidential candidate)
+- Klaus Iohannis (current president)
+
+3. Addresses wide population: Yes
+- It's a paid advertisement on Facebook/Instagram
+- Uses broad language addressing general public issues
+- Targets a large estimated audience (100,001-500,000 people)
+
+4. Electoral objective: Yes
+- Criticizes PNL and their presidential candidate (Ciucă)
+- Promotes PSD and their presidential candidate (Ciolacu)
+- Lists specific measures and achievements of PSD
+- Uses campaign hashtag "#caleasigurăpentruRomânia"
+
+5. Journalism: No
+- This is clearly campaign material, not journalistic content
+- Contains partisan messaging and campaign promises
+- Has CMF number indicating it's official campaign material
+
+6. Personal opinion: No
+- This is a structured, paid political advertisement
+- Contains official party positions and promises
+- Uses campaign formatting and messaging
+</analysis>
+
+<conclusion>
+<post_id>576695268147731</post_id>
+<electoral-propaganda-analysis>
+This is clearly electoral propaganda because:
+- Contains CMF number
+- Directly promotes/criticizes presidential candidates
+- Is a paid advertisement
+- Contains campaign promises and party positions
+- Uses campaign formatting and hashtags
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate><name>NICOLAE-IONEL CIUCĂ</name><impact>NEGATIVE</impact></candidate>
+  <candidate><name>ION-MARCEL CIOLACU</name><impact>POSITIVE</impact></candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>PSD</responsible-party-or-group>
+<message-for-police>
+Infomed Pro SRL, pentru incalcarea articolului 55 t) din Legea 370/2004, prin difuzarea de materiale de propagandă electorală (ID postare Facebook: 576695268147731) după încheierea perioadei de campanie electorală. Postarea promovează explicit candidatul PSD Marcel Ciolacu și denigrează candidatul PNL Nicolae Ciucă, conține număr CMF (11240017), și este difuzată ca reclamă plătită pe Facebook și Instagram după ora 18:00 pe 23.11.2024. Materialul include promisiuni electorale specifice și mesaje de campanie, fiind în mod clar propagandă electorală conform Art. 36(7) din Legea 334/2006.
+</message-for-police>
+</conclusion>
+</output>

@@ -1,0 +1,43 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: Yes, contains "CMF: 11240022"
+2. Refers to candidate: Yes, explicitly mentions Elena Lasconi and references Marcel Ciolacu and George Simion
+3. Addresses wide population: Yes, this is a paid Facebook post with significant reach (20,000-25,000 impressions)
+4. Electoral objective: Yes, explicitly calls for votes ("Votați Elena Lasconi pentru președinte")
+5. Journalism: No, this is clearly campaign material, not journalistic content
+6. Personal opinion: No, this is a structured campaign message with clear call to action
+
+The post is clearly electoral propaganda because:
+- It has a CMF number
+- Makes direct reference to presidential candidates
+- Contains explicit voting instructions
+- Is a paid advertisement reaching a wide audience
+- Has clear electoral objectives for both presidential and parliamentary elections
+
+Most importantly, this is promoting Elena Lasconi for the presidential election, which is prohibited after the campaign period has ended.
+</analysis>
+
+<conclusion>
+<post_id>2631054730430413</post_id>
+<electoral-propaganda-analysis>
+This is clearly electoral propaganda because it:
+1. Contains explicit voting instructions
+2. Names specific candidates
+3. Has a CMF number
+4. Is a paid advertisement
+5. Makes campaign promises and political statements
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate><name>ELENA-VALERICA LASCONI</name><impact>POSITIVE</impact></candidate>
+  <candidate><name>GEORGE-NICOLAE SIMION</name><impact>NEGATIVE</impact></candidate>
+  <candidate><name>ION-MARCEL CIOLACU</name><impact>NEGATIVE</impact></candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>FORTA DREPTEI</responsible-party-or-group>
+<message-for-police>
+Digidev Innotech, pentru incalcarea articolului 55 t) din Legea 370/2004, prin continuarea propagandei electorale după încheierea campaniei electorale pentru alegerile prezidențiale, prin publicarea și menținerea activă a unei reclame platite pe Facebook (ID: 2631054730430413) după ora 18:00 pe 23.11.2024. Reclama conține îndemnuri explicite de vot pentru candidata Elena Lasconi la funcția de președinte ("Votați Elena Lasconi pentru președinte"), precum și referințe negative la adresa altor candidați prezidențiali (Ciolacu și Simion). Materialul prezintă toate elementele constitutive ale propagandei electorale conform Art. 36(7): identifică clar candidații, are obiectiv electoral explicit, se adresează publicului larg prin intermediul unei reclame plătite, și depășește limitele activității jurnalistice.
+</message-for-police>
+</conclusion>
+</output>

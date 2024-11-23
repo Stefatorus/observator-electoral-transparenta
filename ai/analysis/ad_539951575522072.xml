@@ -1,0 +1,51 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: Yes - "CMF 11240017" is present at the end of the post, indicating this is electoral propaganda.
+
+2. Refers to candidate: Yes
+- Explicitly mentions Marcel Ciolacu (presidential candidate)
+- Also mentions Gabriel Ghilea (parliamentary candidate)
+
+3. Addresses wide population: Yes
+- Addresses "dragi bihoreni" (dear Bihor residents)
+- Paid advertisement with significant reach (1000-1999 impressions)
+- Published on public platforms (Facebook and Instagram)
+
+4. Electoral objective: Yes
+- Directly asks for votes: "vă așteptăm să-l votați pe președințele Marcel Ciolacu"
+- Specifies voting dates for both elections
+- Claims it's "calea sigură pentru România" (the safe path for Romania)
+
+5. Journalism: No
+- This is clearly campaign material, not journalistic content
+- Contains direct call to action for voting
+
+6. Personal opinion: No
+- This is a structured campaign message with clear electoral objectives
+</analysis>
+
+<conclusion>
+<post_id>539951575522072</post_id>
+<electoral-propaganda-analysis>
+This is clearly electoral propaganda because:
+- Contains CMF number
+- Direct call to vote for specific candidates
+- Paid advertisement reaching wide audience
+- Clear electoral messaging and timing
+- Mentions specific election dates and candidates
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate>
+    <name>ION-MARCEL CIOLACU</name>
+    <impact>POSITIVE</impact>
+  </candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>PSD</responsible-party-or-group>
+<message-for-police>
+Infomed Pro SRL, pentru incalcarea articolului 55 t) din Legea 370/2004, prin promovarea unui mesaj electoral platit (ID Facebook: 539951575522072) ce îndeamnă explicit la votarea candidatului prezidențial Marcel Ciolacu, după încheierea perioadei legale de campanie electorală. Mesajul conține îndemnuri directe de vot ("vă așteptăm să-l votați pe președințele Marcel Ciolacu"), fiind difuzat după ora 18:00 pe 23.11.2024, încălcând astfel prevederile legale privind încheierea campaniei electorale. Materialul este identificabil ca propagandă electorală prin prezența codului CMF 11240017 și natura sa de conținut sponsorizat pe platformele Facebook și Instagram.
+</message-for-police>
+</conclusion>
+</output>

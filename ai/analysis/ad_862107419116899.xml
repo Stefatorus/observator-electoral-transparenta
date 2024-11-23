@@ -1,0 +1,54 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: Yes - "CMF 11240017" is present, indicating this is electoral propaganda
+
+2. Refers to candidate: Yes
+- Directly mentions Marcel Ciolacu, who is a presidential candidate
+- Also mentions Gabriel Ghilea for Senate position
+
+3. Addresses wide population: Yes
+- Posted on Facebook/Instagram as a paid advertisement
+- Uses inclusive language ("toți românii")
+- Targets a large estimated audience (100,001-500,000 people)
+
+4. Electoral objective: Yes
+- Explicitly calls for votes ("Pe 24 noiembrie, votați Marcel Ciolacu")
+- Uses campaign slogans ("pentru un viitor sigur")
+- Clear electoral messaging with party identification (PSD)
+
+5. Journalism: No
+- This is clearly campaign material, not journalistic content
+- Contains direct call to action for voting
+- Uses campaign slogans and party messaging
+
+6. Personal opinion: No
+- This is an official campaign communication with CMF number
+- Paid advertisement from "Infomed Pro SRL"
+- Structured as campaign messaging
+</analysis>
+
+<conclusion>
+<post_id>862107419116899</post_id>
+<electoral-propaganda-analysis>
+This is clearly electoral propaganda because:
+- Contains CMF number
+- Direct call to vote for specific candidates
+- Paid advertisement targeting large audience
+- Clear campaign messaging and slogans
+- Promotes both presidential and parliamentary candidates
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate>
+    <name>ION-MARCEL CIOLACU</name>
+    <impact>POSITIVE</impact>
+  </candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>PSD</responsible-party-or-group>
+<message-for-police>
+Infomed Pro SRL, pentru incalcarea articolului 55 t) din Legea 370/2004, prin promovarea unui mesaj electoral explicit pentru candidatul prezidențial Marcel Ciolacu după încheierea perioadei de campanie electorală. Postarea cu ID-ul 862107419116899 conține îndemnuri directe de vot ("votați Marcel Ciolacu pentru un viitor sigur") și a fost difuzată după ora 18:00 pe 23.11.2024, încălcând astfel prevederile legale privind încetarea propagandei electorale. Mesajul are caracter electoral evident, fiind marcat cu CMF 11240017, și vizează influențarea directă a votului pentru alegerile prezidențiale.
+</message-for-police>
+</conclusion>
+</output>

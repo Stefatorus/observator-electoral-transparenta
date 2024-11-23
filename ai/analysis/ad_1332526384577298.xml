@@ -1,0 +1,57 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. CMF Presence:
+- Yes, contains CMF 11240017 at the end, indicating it's electoral propaganda
+
+2. Refers to Candidate:
+- Directly mentions "Marcel Ciolacu" as presidential candidate
+- Also promotes Gabriel Ghilea for senator (parliamentary elections)
+
+3. Addresses Wide Population:
+- Paid advertisement on Facebook/Instagram
+- Targets large audience (100,001-500,000 people)
+- Messages addressed to general public in Bihor
+
+4. Electoral Objective:
+- Clear call to vote ("votați Marcel Ciolacu președinte")
+- Promotes PSD as "calea sigură pentru România"
+- Explicitly asks for votes for both presidential and parliamentary elections
+
+5. Journalism vs Propaganda:
+- This is clearly campaign material, not journalism
+- Contains direct calls to action for voting
+- Promotes specific candidates and party
+
+6. Personal Opinion:
+- This is not a personal opinion but an organized campaign message
+- Has official CMF number
+- Structured political message
+
+The post violates Article 55 t) as it continues presidential electoral propaganda while promoting Marcel Ciolacu's presidential candidacy after the campaign period has ended, while mixing it with parliamentary campaign messages.
+</analysis>
+
+<conclusion>
+<post_id>1332526384577298</post_id>
+<electoral-propaganda-analysis>
+This is clearly electoral propaganda because:
+- Contains official CMF number
+- Direct calls to vote for specific candidates
+- Paid distribution on social media
+- Clear electoral message and campaign content
+- Mixes allowed parliamentary campaign with prohibited presidential campaign content
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate>
+    <name>ION-MARCEL CIOLACU</name>
+    <impact>POSITIVE</impact>
+  </candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>PSD</responsible-party-or-group>
+<message-for-police>
+Infomed Pro SRL și Gabriel Traian Ghilea, pentru incalcarea articolului 55 t) din Legea 370/2004, prin promovarea și îndemnul direct de a vota candidatul prezidențial Marcel Ciolacu după încheierea perioadei de campanie electorală. Postarea cu ID-ul 1332526384577298 conține mesaje explicite de susținere și îndemn la vot ("votați Marcel Ciolacu președinte pe 24 noiembrie"), fiind promovată după ora 18:00 pe 23.11.2024. Postarea este plătită și distribuită activ pe platformele Facebook și Instagram, având un CMF alocat (11240017), ceea ce confirmă natura sa de propagandă electorală.
+</message-for-police>
+</conclusion>
+</output>

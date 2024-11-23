@@ -1,0 +1,51 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: Yes - CMF 11240015 is present, indicating this is electoral propaganda
+
+2. Refers to candidate:
+- Directly mentions Marcel Ciolacu, who is a presidential candidate
+- Also promotes USR and Position 1 (Elena Lasconi) indirectly
+
+3. Addresses wide population:
+- Yes, it's a paid advertisement on Facebook/Instagram
+- Uses broad language addressing all Romanians
+- Has significant reach (2000-2999 impressions)
+
+4. Electoral objective:
+- Clear electoral intent with "Votăm USR – Poziția 1 pe TOATE buletinele de vot!"
+- Negative campaign against Marcel Ciolacu
+- Uses hashtags like #USR1Decembrie #USRlaGuvernare
+- Explicitly calls for voting action
+
+5. Journalism:
+- While it references g4media.ro as a source, this is not journalistic content
+- The tone and call to action are clearly campaign-oriented
+
+6. Personal opinion:
+- This is not a personal opinion but an organized campaign message
+- Contains official party messaging and calls to action
+</analysis>
+
+<conclusion>
+<post_id>1102673304560545</post_id>
+<electoral-propaganda-analysis>
+This is clearly electoral propaganda because:
+- Contains CMF number
+- Direct attacks on presidential candidate Marcel Ciolacu
+- Explicit call to vote for USR
+- Paid distribution on social media
+- Official party messaging
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate><name>ION-MARCEL CIOLACU</name><impact>NEGATIVE</impact></candidate>
+  <candidate><name>ELENA-VALERICA LASCONI</name><impact>POSITIVE</impact></candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>USR</responsible-party-or-group>
+<message-for-police>
+USR Galați, pentru incalcarea articolului 55 t) din Legea 370/2004, prin difuzarea unui mesaj de propaganda electorala (ID Facebook: 1102673304560545) dupa ora 18:00 pe 23.11.2024. Postarea contine materiale de propaganda electorala clara, cu referire directa la candidatul prezidential Marcel Ciolacu si indemnuri explicite de vot pentru USR, fiind distribuita ca reclama platita pe Facebook si Instagram. Materialul include CMF 11240015, confirmand natura sa de propaganda electorala, si continua sa fie activ dupa incheierea perioadei legale de campanie pentru alegerile prezidentiale.
+</message-for-police>
+</conclusion>
+</output>

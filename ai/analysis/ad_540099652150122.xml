@@ -1,0 +1,54 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. CMF Number:
+- Contains CMF 11240017, which indicates this is electoral propaganda material
+
+2. Candidate Reference:
+- Directly mentions "Marcel Ciolacu", who is one of the presidential candidates
+- References his program and proposals
+
+3. Wide Population Address:
+- Paid advertisement on Facebook and Instagram
+- Targets a large audience (100,001-500,000 people)
+- Uses hashtag #caleasigurapentrubihor
+- Clearly meant for wide distribution
+
+4. Electoral Objective:
+- Promotes Ciolacu's governance program
+- Mentions "creșterea veniturilor tuturor bihorenilor" (increasing income for all Bihor residents)
+- Part of a campaign day ("ziua de campanie")
+
+5. Journalism vs Propaganda:
+- This is clearly campaign material, not journalism
+- Presents a political program and campaign activities
+- Has CMF number
+
+6. Personal Opinion:
+- This is not a personal opinion but an official campaign communication
+</analysis>
+
+<conclusion>
+<post_id>540099652150122</post_id>
+<electoral-propaganda-analysis>
+This post constitutes electoral propaganda because:
+- Contains official campaign messaging (CMF number)
+- Directly promotes a presidential candidate
+- Is a paid advertisement reaching a large audience
+- Promotes specific campaign promises
+- Is clearly part of an organized campaign effort
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate>
+    <name>ION-MARCEL CIOLACU</name>
+    <impact>POSITIVE</impact>
+  </candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>PSD</responsible-party-or-group>
+<message-for-police>
+Infomed Pro SRL, pentru incalcarea articolului 55 t) din Legea 370/2004, prin promovarea unui material de propaganda electorala pentru candidatul ION-MARCEL CIOLACU dupa incheierea perioadei de campanie electorala. Postarea cu ID 540099652150122 promoveaza programul de guvernare si propunerile candidatului, fiind distribuit ca reclama platita pe Facebook si Instagram, cu un impact estimat intre 100,001 si 500,000 de persoane, dupa ora 18:00 pe 23.11.2024. Materialul contine numarul de inregistrare CMF 11240017, confirmand natura sa de propaganda electorala.
+</message-for-police>
+</conclusion>
+</output>

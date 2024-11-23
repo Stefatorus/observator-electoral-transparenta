@@ -1,0 +1,46 @@
+<output>
+<analysis>
+Let's analyze this post according to the given criteria:
+
+1. Has CMF: Yes, it contains "Cod AEP 11240002" which is an electoral campaign identifier.
+
+2. Refers to candidate: Yes, explicitly mentions "Nicolae Ciucă" as candidate for President of Romania.
+
+3. Addresses wide population: Yes, it's a paid advertisement on Facebook and Instagram, targeting a potential audience of 100,001-500,000 people.
+
+4. Electoral objective: Yes, clearly promotes:
+- Nicolae Ciucă for president
+- PNL candidates for Parliament
+- Explicitly asks for support for both causes
+
+5. Journalism: No, this is clearly campaign material, not journalistic content.
+
+6. Personal opinion: No, this is an official party communication with electoral objectives.
+
+This post appears to be electoral propaganda that continues after the conclusion of the presidential campaign period, while mixing parliamentary election messaging (which is still allowed) with presidential campaign messaging (which is not allowed after the campaign period ended).
+
+</analysis>
+
+<conclusion>
+<post_id>1287775152348244</post_id>
+<electoral-propaganda-analysis>
+This is clearly electoral propaganda because:
+- Contains official campaign identifier (AEP code)
+- Directly promotes a presidential candidate
+- Is a paid advertisement reaching a large audience
+- Has clear electoral objectives
+- Comes from an official party channel (PNL SĂLAJ)
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate>
+    <name>NICOLAE-IONEL CIUCĂ</name>
+    <impact>POSITIVE</impact>
+  </candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>PNL</responsible-party-or-group>
+<message-for-police>
+PNL SĂLAJ, pentru incalcarea articolului 55 t) din Legea 370/2004, prin promovarea candidatului la președinție Nicolae-Ionel Ciucă într-o postare plătită pe Facebook și Instagram (ID postare: 1287775152348244) după încheierea perioadei de campanie electorală prezidențială. Postarea, publicată și promovată după ora 18:00 pe 23.11.2024, conține în mod explicit îndemnul de susținere a candidatului la președinție și reprezintă propagandă electorală conform Art. 36(7), având cod AEP 11240002, obiectiv electoral explicit, și fiind distribuită către un public larg estimat între 100,001 și 500,000 de persoane.
+</message-for-police>
+</conclusion>
+</output>

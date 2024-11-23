@@ -1,0 +1,45 @@
+<output>
+<analysis>
+Let's analyze this post according to the given criteria:
+
+1. Has CMF: Yes, contains "CMF: 11240022" at the end of the message.
+
+2. Refers to candidate: Yes, specifically mentions Marcel Ciolacu and George Simion in a negative context ("să spargem blatul dintre Ciolacu și Simion").
+
+3. Addresses wide population: Yes, this is a paid Facebook advertisement with significant reach (25,000-29,999 impressions) and calls for action ("Mergi la vot!").
+
+4. Electoral objective: Yes. The post has clear electoral objectives:
+- Promotes Forța Dreptei candidates for parliamentary elections
+- Explicitly calls for voting ("Pe 24 noiembrie, ieșiți la vot")
+- Mentions position on ballot (poziția 2)
+- Has a CMF number indicating it's campaign material
+
+5. Journalism: No, this is clearly campaign material, not journalistic content.
+
+6. Personal opinion: No, this is an official party communication with CMF number.
+
+The post contains both parliamentary and presidential election content. While parliamentary campaign is still allowed, the negative references to presidential candidates (Ciolacu and Simion) after the campaign period constitute a violation.
+</analysis>
+
+<conclusion>
+<post_id>491308380618000</post_id>
+<electoral-propaganda-analysis>
+This constitutes electoral propaganda because:
+1. Contains CMF number
+2. Makes direct references to presidential candidates
+3. Has clear electoral messaging
+4. Is a paid advertisement reaching large audience
+5. Contains direct call to action for voting
+6. Attempts to influence voting behavior against specific candidates
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate><name>ION-MARCEL CIOLACU</name><impact>NEGATIVE</impact></candidate>
+  <candidate><name>GEORGE-NICOLAE SIMION</name><impact>NEGATIVE</impact></candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>FORTA DREPTEI</responsible-party-or-group>
+<message-for-police>
+Digidev Innotech, pentru incalcarea articolului 55 t) din Legea 370/2004, prin difuzarea unei reclame platite pe Facebook (ID: 491308380618000) dupa ora 18:00 pe 23.11.2024, care continua propaganda electorala pentru alegerile prezidentiale, facand referire directa la candidatii Marcel Ciolacu si George Simion intr-un mod negativ ("sa spargem blatul dintre Ciolacu si Simion"). Materialul are caracter electoral evident, fiind insotit de CMF 11240022, si a avut un impact semnificativ, atingand intre 25.000 si 29.999 de afisari. Mesajul indeamna in mod explicit la vot si incearca sa influenteze comportamentul electoral al alegatorilor in contextul alegerilor prezidentiale, dupa incheierea perioadei legale de campanie.
+</message-for-police>
+</conclusion>
+</output>

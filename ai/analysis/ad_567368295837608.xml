@@ -1,0 +1,46 @@
+<output>
+<analysis>
+Let's analyze this post according to the given criteria:
+
+1. Has CMF: Yes, contains "CMF 11240017"
+2. Refers to candidate: Yes, explicitly mentions "Marcel Ciolacu, candidatul Partidului Social Democrat (PSD) la Președinția României"
+3. Addresses wide population: Yes, it's a paid advertisement with significant reach (90,000-99,999 impressions)
+4. Electoral objective: Yes, presents Ciolacu's vision and proposals as a presidential candidate
+5. Journalism: No, this is clearly promotional content rather than journalistic
+6. Personal opinion: No, this is an official party communication with electoral purpose
+
+The post contains several elements that classify it as electoral propaganda:
+- Official party communication (PSD Brasov)
+- Direct reference to presidential candidate Marcel Ciolacu
+- Presents campaign promises and vision
+- Uses campaign marketing ID (CMF)
+- Significant paid reach
+- Promotes candidate's presidential platform
+
+This is being promoted after the conclusion of the presidential campaign period, which ended at 7:00 AM on November 23, 2024.
+</analysis>
+
+<conclusion>
+<post_id>567368295837608</post_id>
+<electoral-propaganda-analysis>
+This constitutes electoral propaganda because:
+- Contains official CMF number
+- Directly promotes a presidential candidate
+- Presents electoral promises
+- Is a paid advertisement
+- Reaches a wide audience
+- Promotes specific policy positions of the candidate
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate>
+    <name>ION-MARCEL CIOLACU</name>
+    <impact>POSITIVE</impact>
+  </candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>PSD</responsible-party-or-group>
+<message-for-police>
+PSD Brașov, pentru incalcarea articolului 55 t) din Legea 370/2004, prin continuarea propagandei electorale după încheierea acesteia, promovând în mod activ candidatul ION-MARCEL CIOLACU prin intermediul unei reclame plătite pe Facebook (ID: 567368295837608) care prezintă viziunea și promisiunile electorale ale candidatului pentru funcția de președinte. Materialul, care include numărul de marketing electoral CMF 11240017, promovează în mod direct platforma prezidențială a candidatului după ora 18:00 pe 23.11.2024, constituind astfel o încălcare clară a prevederilor legale privind încheierea campaniei electorale.
+</message-for-police>
+</conclusion>
+</output>

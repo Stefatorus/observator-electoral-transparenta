@@ -1,0 +1,51 @@
+<output>
+<analysis>
+Let's analyze this post according to the given criteria:
+
+1. Has CMF: Yes, the post includes "CMF 11240017"
+
+2. Refers to candidate: Yes, it explicitly mentions "Marcel Ciolacu" who is a presidential candidate (Position 3)
+
+3. Addresses wide population: Yes
+- It's a paid advertisement on Facebook and Instagram
+- High impression count (80,000-90,000)
+- Large estimated audience (500,001-1,000,000)
+- Significant spend (700-799 RON)
+
+4. Electoral objective: Yes
+- Presents Marcel Ciolacu in a positive light
+- Associates him with positive development plans for Brașov
+- Uses his position and influence as a campaign tool
+- Links him to strategic economic development
+
+5. Journalism: No
+- This is clearly a promotional message from PSD Brașov
+- Contains campaign messaging rather than journalistic content
+- Has CMF number indicating it's campaign material
+
+6. Personal opinion: No
+- This is an official party communication
+- Paid advertisement with clear political messaging
+</analysis>
+
+<conclusion>
+<post_id>1744268173063704</post_id>
+<electoral-propaganda-analysis>
+This constitutes electoral propaganda because:
+- Contains CMF number
+- Directly promotes a presidential candidate
+- Is a paid advertisement with wide reach
+- Has clear electoral objectives
+- Comes from an official party channel (PSD Brașov)
+- Promotes the candidate's vision and promises
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate><name>ION-MARCEL CIOLACU</name><impact>POSITIVE</impact></candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>PSD</responsible-party-or-group>
+<message-for-police>
+PSD Brașov, pentru incalcarea articolului 55 t) din Legea 370/2004, prin difuzarea unei reclame platite pe Facebook si Instagram (ID: 1744268173063704) dupa ora 18:00 pe 23.11.2024, care promoveaza candidatul prezidential Marcel Ciolacu. Materialul contine numar CMF (11240017), prezinta explicit candidatul si promisiunile sale pentru regiunea Brasov, are caracter electoral evident si a fost distribuit catre un public larg (80,000-90,000 impresii), fiind o continuare clara a propagandei electorale dupa incheierea perioadei legale de campanie.
+</message-for-police>
+</conclusion>
+</output>

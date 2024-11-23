@@ -1,0 +1,55 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: Yes, CMF 11240015 is present, indicating this is electoral material.
+
+2. Refers to candidates:
+- Direct reference to Elena Lasconi as candidate for president
+- Direct reference to Marcel Ciolacu, another presidential candidate
+- Makes claims about Ciolacu's behavior and actions
+
+3. Addresses wide population:
+- Yes, it's a paid advertisement on Facebook/Instagram
+- Large reach (60,000-70,000 impressions)
+- Uses calls to action addressing the general public
+
+4. Electoral objective:
+- Clear electoral objective with "Veniți la vot. #ElenaLasconiPreședinte"
+- Attempts to influence voters by presenting negative information about Ciolacu
+- Promotes USR's candidate while criticizing the opponent
+
+5. Journalism:
+- This is not journalistic content
+- It's clearly campaign material with political messaging
+- Contains partisan accusations and campaign slogans
+
+6. Personal opinion:
+- This is not a personal opinion but an official party communication
+- Contains structured political messaging
+- Has official CMF number and party attribution
+
+</analysis>
+
+<conclusion>
+<post_id>463364796334558</post_id>
+<electoral-propaganda-analysis>
+This is clearly electoral propaganda because:
+- Contains official CMF number
+- Direct candidate promotion and opponent criticism
+- Clear call to vote
+- Paid distribution
+- Official party communication
+- Electoral messaging structure
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate><name>ELENA-VALERICA LASCONI</name><impact>POSITIVE</impact></candidate>
+  <candidate><name>ION-MARCEL CIOLACU</name><impact>NEGATIVE</impact></candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>USR</responsible-party-or-group>
+<message-for-police>
+Uniunea Salvați România - USR, pentru incalcarea articolului 55 t) din Legea 370/2004, prin continuarea propagandei electorale după încheierea campaniei electorale pentru alegerile prezidențiale, prin publicarea și menținerea activă a unei reclame plătite pe Facebook (ID: 463364796334558) după ora 18:00 pe 23.11.2024. Postarea conține mesaje explicite de susținere a candidatului Elena Lasconi și critici la adresa candidatului Marcel Ciolacu, având scop electoral evident prin îndemnul direct "Veniți la vot. #ElenaLasconiPreședinte". Materialul este marcat oficial ca propagandă electorală prin prezența numărului CMF 11240015.
+</message-for-police>
+</conclusion>
+</output>

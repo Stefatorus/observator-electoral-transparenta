@@ -1,0 +1,42 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: Yes (CMF11240017)
+2. Refers to candidate: Yes, mentions Marcel Ciolacu directly, who is a presidential candidate
+3. Addresses wide population: Yes, it's a paid advertisement with significant reach (10,000-14,999 impressions)
+4. Electoral objective: Yes, promotes PSD's governance program and Marcel Ciolacu's candidacy
+5. Journalism: No, this is clearly a campaign message
+6. Personal opinion: No, this is an organized campaign message with official CMF number
+
+The post describes a campaign meeting and explicitly promotes Marcel Ciolacu and PSD's governance program. It's clearly electoral propaganda as it:
+- Has an official CMF number
+- Promotes a presidential candidate (Marcel Ciolacu)
+- Is a paid advertisement reaching thousands
+- Promotes electoral promises and program
+- Uses campaign hashtag #caleasigurapentruromania
+</analysis>
+
+<conclusion>
+<post_id>1696543720906867</post_id>
+<electoral-propaganda-analysis>
+This is clearly electoral propaganda because:
+- Contains official CMF number
+- Directly promotes a presidential candidate
+- Makes electoral promises
+- Is a paid advertisement with significant reach
+- Uses campaign messaging and hashtags
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate>
+    <name>ION-MARCEL CIOLACU</name>
+    <impact>POSITIVE</impact>
+  </candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>PSD</responsible-party-or-group>
+<message-for-police>
+Infomed Pro SRL, pentru incalcarea articolului 55 t) din Legea 370/2004, prin promovarea unui mesaj de propaganda electorala pentru candidatul prezidential Marcel Ciolacu dupa incheierea perioadei de campanie. Postarea cu ID-ul 1696543720906867 contine numar CMF (CMF11240017), promoveaza explicit programul electoral si candidatul la prezidentiale Marcel Ciolacu, foloseste hashtag-uri de campanie si este promovata ca reclama platita pe Facebook dupa ora 18:00 pe 23.11.2024. Mesajul are caracter electoral explicit si vizeaza influentarea votului pentru alegerile prezidentiale.
+</message-for-police>
+</conclusion>
+</output>

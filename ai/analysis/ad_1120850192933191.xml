@@ -1,0 +1,46 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: No explicit CMF number is visible in the post, but this doesn't automatically disqualify it as electoral propaganda.
+
+2. Refers to candidate: Yes, explicitly mentions "Marcel Ciolacu" who is a presidential candidate (Position 3 on the ballot).
+
+3. Addresses wide population: Yes, it's a paid Facebook/Instagram advertisement targeting a potential audience of 100,001-500,000 people, specifically addressing "bihoreni" and Romanian citizens in general.
+
+4. Electoral objective: Yes, clear electoral objective evidenced by:
+- Direct call to action: "Votează Marcel Ciolacu"
+- Campaign slogan: "calea sigură pentru România"
+- Presents achievements attributed to Ciolacu's government
+- Links positive news (Schengen accession) to the candidate
+
+5. Journalism: No, this is not journalistic content as it:
+- Contains explicit campaign messaging
+- Includes direct voting instructions
+- Lacks journalistic objectivity
+- Is paid political advertising
+
+6. Personal opinion: No, this is structured campaign messaging paid for by "Infomed Pro SRL"
+</analysis>
+
+<conclusion>
+<post_id>1120850192933191</post_id>
+<electoral-propaganda-analysis>
+This is clearly electoral propaganda because:
+- Explicitly promotes a presidential candidate
+- Contains direct call to vote
+- Links positive achievements to the candidate
+- Is paid advertising reaching a mass audience
+- Uses campaign messaging and slogans
+- Attempts to influence voter behavior through positive association
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate><name>ION-MARCEL CIOLACU</name><impact>POSITIVE</impact></candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>PSD</responsible-party-or-group>
+<message-for-police>
+Infomed Pro SRL, pentru incalcarea articolului 55 t) din Legea 370/2004, prin difuzarea de materiale de propagandă electorală după încheierea perioadei de campanie, constând într-o postare sponsorizată pe Facebook/Instagram (ID: 1120850192933191) care îndeamnă explicit la votarea candidatului Marcel Ciolacu ("Votează Marcel Ciolacu, calea sigură pentru România!"), asociază realizări guvernamentale cu candidatul și folosește mesaje de campanie pentru influențarea votului. Postarea a fost activă și după ora 18:00 pe 23.11.2024, încălcând astfel prevederile legale privind încheierea campaniei electorale.
+</message-for-police>
+</conclusion>
+</output>

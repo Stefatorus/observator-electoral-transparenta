@@ -1,0 +1,42 @@
+<output>
+<analysis>
+Let's analyze this post according to the given criteria:
+
+1. Has CMF - Yes, the post ends with "CMF 11240017" which indicates it's electoral propaganda
+
+2. Refers to candidate - Yes, mentions "premierul Marcel Ciolacu" who is a presidential candidate
+
+3. Addresses wide population - Yes, this is a paid Facebook/Instagram post targeting between 100,001-500,000 people, specifically addressing young families and broader social issues
+
+4. Electoral objective - Yes, while it discusses social policies, it's clearly promoting PSD and Marcel Ciolacu's vision and leadership, with official PSD hashtags (#caleasigurăpentruromânia)
+
+5. Journalism - No, this is clearly a promotional message from a PSD deputy, not journalistic content
+
+6. Personal opinion - No, this is an official paid political message with CMF number, not a personal opinion
+
+The post continues to promote electoral messages after the conclusion of the presidential campaign period (which ended on November 23rd at 7:00). The spending suggests active promotion (200-299 RON) with significant reach (5,000-5,999 impressions).
+</analysis>
+
+<conclusion>
+<post_id>1839933430165436</post_id>
+<electoral-propaganda-analysis>
+This constitutes electoral propaganda because:
+- Contains official CMF number
+- Directly promotes PSD and Marcel Ciolacu
+- Is a paid advertisement reaching a wide audience
+- Uses official party hashtags and messaging
+- Promotes political agenda and policies
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate>
+    <name>ION-MARCEL CIOLACU</name>
+    <impact>POSITIVE</impact>
+  </candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>PSD</responsible-party-or-group>
+<message-for-police>
+Infomed Pro SRL, pentru incalcarea articolului 55 t) din Legea 370/2004, prin promovarea unui mesaj de propaganda electorala (ID Facebook: 1839933430165436) dupa ora 18:00 pe 23.11.2024, in favoarea candidatului ION-MARCEL CIOLACU. Materialul include numar CMF (11240017), promoveaza explicit candidatul si partidul sau prin referinte directe, hashtag-uri oficiale ale partidului (#caleasigurăpentruromânia), si prezinta un mesaj electoral explicit care influenteaza alegatorii. Reclama este platita si activa, cu un buget intre 200-299 RON si o audienta estimata intre 100,001-500,000 persoane.
+</message-for-police>
+</conclusion>
+</output>

@@ -1,0 +1,35 @@
+<output>
+<analysis>
+Let's analyze this post according to the given criteria:
+
+1. CMF Number: None present, suggesting this might not be direct candidate propaganda.
+
+2. Reference to Candidate: Yes, directly mentions "Marcel Ciolacu" and PSD, who is a presidential candidate.
+
+3. Addresses Wide Population: Yes, this is a paid post on Facebook/Instagram with significant reach (9,000-9,999 impressions).
+
+4. Electoral Objective: While the post criticizes Marcel Ciolacu and PSD, its primary focus is on environmental policy (Codul Silvic) and not explicitly about the presidential elections. The criticism is based on specific policy actions rather than direct electoral messaging.
+
+5. Journalism: The post appears to be more of an advocacy/activist message from Declic (an NGO) about environmental concerns, presenting specific policy issues and their consequences.
+
+6. Personal Opinion: This is not a personal opinion but an organizational stance on a policy issue.
+
+The post appears to be primarily focused on environmental advocacy and policy criticism rather than electoral propaganda. While it mentions Ciolacu, the context is his current role and actions as a government official rather than his presidential candidacy.
+</analysis>
+
+<conclusion>
+<post_id>595489879713780</post_id>
+<electoral-propaganda-analysis>
+While the post is critical of Marcel Ciolacu, its primary purpose appears to be environmental advocacy and policy criticism. The timing during the electoral period is notable, but the content focuses on specific policy issues (Codul Silvic) rather than electoral messaging. The post comes from an NGO (Declic) known for environmental advocacy, and the criticism is based on concrete policy actions rather than electoral considerations.
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>FALSE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate>
+    <name>ION-MARCEL CIOLACU</name>
+    <impact>NEGATIVE</impact>
+  </candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>DECLIC</responsible-party-or-group>
+<message-for-police></message-for-police>
+</conclusion>
+</output>

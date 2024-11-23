@@ -1,0 +1,54 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: Yes, contains "CMF11240017" which indicates this is electoral content
+
+2. Refers to candidate: Yes, mentions "Marcel Ciolacu" who is a presidential candidate
+
+3. Addresses wide population: Yes, this is a paid advertisement with significant reach (15,000-19,999 impressions)
+
+4. Electoral objective: Yes
+- Uses campaign hashtag "#caleasigurapentruromania"
+- Promotes government achievements under Marcel Ciolacu's leadership
+- Is clearly part of a door-to-door campaign effort
+- Has significant paid reach
+
+5. Journalism: No, this is clearly campaign material, not journalistic content
+
+6. Personal opinion: No, this is a structured campaign message with:
+- Organized door-to-door campaign activity
+- Promotion of government achievements
+- Official campaign messaging (CMF number)
+- Paid distribution
+
+This post constitutes electoral propaganda because it:
+- Directly promotes a presidential candidate (Marcel Ciolacu)
+- Is part of an organized campaign effort
+- Has paid distribution to reach a wide audience
+- Contains official campaign elements (CMF number, hashtag)
+</analysis>
+
+<conclusion>
+<post_id>2312255482440591</post_id>
+<electoral-propaganda-analysis>
+This constitutes electoral propaganda because:
+- Contains official campaign identifier (CMF)
+- Directly promotes presidential candidate Marcel Ciolacu
+- Highlights government achievements under his leadership
+- Is part of an organized campaign effort
+- Has significant paid reach (15,000-19,999 impressions)
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate>
+    <name>ION-MARCEL CIOLACU</name>
+    <impact>POSITIVE</impact>
+  </candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>PSD</responsible-party-or-group>
+<message-for-police>
+Infomed Pro SRL, pentru incalcarea articolului 55 t) din Legea 370/2004, prin promovarea unui mesaj de propaganda electorala pentru candidatul ION-MARCEL CIOLACU dupa incheierea perioadei de campanie, prin intermediul unei reclame platite pe Facebook (ID: 2312255482440591). Postarea, publicata dupa ora 18:00 pe 23.11.2024, promoveaza realizarile guvernamentale ale candidatului, foloseste hashtag-ul de campanie "#caleasigurapentruromania", si are numarul de inregistrare CMF11240017, confirmand natura sa de propaganda electorala. Impactul estimat este intre 15.000 si 19.999 de afisari, cu un buget intre 200-299 RON.
+</message-for-police>
+</conclusion>
+</output>

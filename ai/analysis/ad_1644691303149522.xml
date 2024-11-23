@@ -1,0 +1,40 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF (CMF: 11240017) - Yes, this indicates it's electoral propaganda
+2. Refers to candidate (Marcel Ciolacu) - Yes, who is a presidential candidate
+3. Addresses wide population - Yes, it's a paid post with significant reach (2000-2999 impressions)
+4. Electoral objective - Yes, it promotes Marcel Ciolacu's achievement as Prime Minister
+5. Journalism - No, this is clearly promotional content
+6. Personal opinion - No, this is an official party communication (PSD Dolj)
+
+The post promotes Marcel Ciolacu's achievement regarding Romania's Schengen accession. While this could be seen as government communication, several factors make it electoral propaganda:
+- Use of hashtags like #MarcelCiolacu and #PSD
+- Presence of CMF number
+- Timing during electoral period
+- Paid promotion
+- Party attribution (PSD Dolj)
+</analysis>
+
+<conclusion>
+<post_id>1644691303149522</post_id>
+<electoral-propaganda-analysis>
+This constitutes electoral propaganda because:
+- Official party communication (PSD Dolj)
+- Promotes a presidential candidate's achievements
+- Contains CMF number
+- Is a paid advertisement
+- Uses campaign hashtags
+- Targets large audience (100,001-500,000 people)
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate><name>ION-MARCEL CIOLACU</name><impact>POSITIVE</impact></candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>PSD</responsible-party-or-group>
+<message-for-police>
+PSD Dolj, pentru incalcarea articolului 55 t) din Legea 370/2004, prin promovarea unui mesaj de propaganda electorala (ID Facebook: 1644691303149522) dupa incheierea perioadei de campanie, respectiv dupa ora 18:00 pe 23.11.2024. Postarea promoveaza realizarile candidatului prezidential Marcel Ciolacu, folosind hashtag-uri electorale (#MarcelCiolacu, #PSD), continand numar CMF (11240017) si fiind promovata platit pe platformele Facebook si Instagram catre un public tinta de 100.001-500.000 persoane, cu scopul evident de influentare a votului.
+</message-for-police>
+</conclusion>
+</output>

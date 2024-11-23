@@ -1,0 +1,42 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: Yes, the post includes "CMF 11240017" which indicates it's electoral propaganda
+
+2. Refers to candidate: Yes, explicitly mentions "Marcel Ciolacu președinte" and uses the hashtag "#MarcelCiolacupreședinte". Marcel Ciolacu is one of the presidential candidates.
+
+3. Addresses wide population: Yes, this is a paid advertisement targeting a large audience (35,000-39,999 impressions) on Facebook and Instagram.
+
+4. Electoral objective: Yes, clear electoral objective promoting Marcel Ciolacu for president and using campaign slogans like "calea sigură pentru România"
+
+5. Journalism: No, this is clearly campaign material, not journalistic content
+
+6. Personal opinion: No, this is an organized campaign post with CMF number and official party messaging
+
+The post is clearly electoral propaganda for the presidential elections, which is problematic as the propaganda period has ended. The post was created on November 20 and appears to still be running, which violates the campaign period restrictions.
+</analysis>
+
+<conclusion>
+<post_id>1650154845845951</post_id>
+<electoral-propaganda-analysis>
+This is clearly electoral propaganda because:
+- Contains official CMF number
+- Explicitly promotes a presidential candidate
+- Uses campaign slogans and messaging
+- Is a paid advertisement reaching large audiences
+- Directly calls for support of Marcel Ciolacu as president
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate>
+    <name>ION-MARCEL CIOLACU</name>
+    <impact>POSITIVE</impact>
+  </candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>PSD</responsible-party-or-group>
+<message-for-police>
+PSDMM, pentru incalcarea articolului 55 t) din Legea 370/2004, prin continuarea propagandei electorale după încheierea campaniei electorale pentru alegerile prezidențiale, prin promovarea activă și plătită a candidatului Marcel Ciolacu la funcția de președinte (postare ID: 1650154845845951). Postarea conține număr CMF (11240017), folosește explicit sloganuri de campanie și hashtag-ul "#MarcelCiolacupreședinte", fiind o formă clară de propagandă electorală difuzată după ora 18:00 pe 23.11.2024. Impactul postării este semnificativ, atingând între 35.000 și 39.999 de persoane, cu un buget între 1.000 și 1.499 RON.
+</message-for-police>
+</conclusion>
+</output>

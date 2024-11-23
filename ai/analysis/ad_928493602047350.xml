@@ -1,0 +1,51 @@
+<output>
+<analysis>
+Let me analyze this post according to the given criteria:
+
+1. CMF Number:
+- No explicit CMF number is visible, but this is from an official party page (PSD OLT)
+
+2. Refers to candidate:
+- Yes, explicitly mentions "MARCEL CIOLACU, PREȘEDINTE" who is a presidential candidate
+- Position #3 on the presidential ballot
+
+3. Addresses wide population:
+- Yes, it's a paid advertisement on Facebook/Instagram
+- Targets a specific demographic (young farmers)
+- Estimated reach of 100,001-500,000 people
+- Currently active advertisement
+
+4. Electoral objective:
+- Clear electoral objective present
+- Explicitly calls for voting on Sunday, November 24
+- Uses phrases like "ALEGEM CALEA SIGURĂ"
+- Links agricultural development to presidential candidate
+
+5. Journalism:
+- This is not journalistic content
+- Clear campaign messaging
+- No informational or educational content
+- Direct call to action for voting
+</analysis>
+
+<conclusion>
+<post_id>928493602047350</post_id>
+<electoral-propaganda-analysis>
+This is clearly electoral propaganda because:
+- Direct mention of presidential candidate
+- Call to action for voting
+- Running during prohibited period
+- Paid distribution
+- Large audience reach
+- Clear electoral messaging
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate><name>ION-MARCEL CIOLACU</name><impact>POSITIVE</impact></candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>PSD</responsible-party-or-group>
+<message-for-police>
+PSD OLT, pentru incalcarea articolului 55 t) din Legea 370/2004, prin difuzarea de materiale de propagandă electorală după încheierea campaniei electorale pentru alegerile prezidențiale. Postarea cu ID-ul 928493602047350 promovează explicit candidatul ION-MARCEL CIOLACU pentru funcția de președinte, conținând îndemnuri directe la vot ("duminică, 24 noiembrie ALEGEM...MARCEL CIOLACU, PREȘEDINTE"). Aceasta este o reclamă plătită, cu un impact estimat între 100,001-500,000 de persoane, difuzată după ora 18:00 pe 23.11.2024, încălcând astfel perioada de restricție electorală. Materialul întrunește toate criteriile propagandei electorale conform Art. 36(7): identifică clar candidatul, are obiectiv electoral explicit și se adresează publicului larg prin intermediul platformelor de social media.
+</message-for-police>
+</conclusion>
+</output>

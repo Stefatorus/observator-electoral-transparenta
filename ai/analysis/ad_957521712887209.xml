@@ -1,0 +1,56 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. CMF presence:
+- Yes, contains "CMF: 11240017" which indicates this is electoral content
+
+2. Candidate Reference:
+- Directly mentions "Marcel Ciolacu" who is a presidential candidate
+- References PSD (Partidul Social Democrat)
+
+3. Wide Population Addressing:
+- This is a paid advertisement on Facebook and Instagram
+- Reaching between 15,000-19,999 impressions
+- Estimated audience size of 100,001-500,000
+- Clearly intended for mass communication
+
+4. Electoral Objective:
+- Explicitly promotes Marcel Ciolacu and PSD
+- Uses campaign slogan "#CaleaSiguraPentruRomania"
+- Attempts to build confidence in Ciolacu's leadership
+- Clear electoral messaging
+
+5. Journalism vs Propaganda:
+- This is not journalistic content
+- It's a promotional message from PSD Dolj
+- Contains campaign messaging and slogans
+
+6. Personal Opinion:
+- While presented as a personal perspective of a director, it's clearly campaign material
+- Paid distribution indicates organized campaign activity
+</analysis>
+
+<conclusion>
+<post_id>957521712887209</post_id>
+<electoral-propaganda-analysis>
+This constitutes electoral propaganda because:
+- Contains official CMF number
+- Directly promotes a presidential candidate
+- Is a paid advertisement reaching mass audience
+- Uses campaign slogans and messaging
+- Posted by party organization (PSD Dolj)
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate>
+    <name>ION-MARCEL CIOLACU</name>
+    <impact>POSITIVE</impact>
+  </candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>PSD</responsible-party-or-group>
+<message-for-police>
+PSD Dolj, pentru incalcarea articolului 55 t) din Legea 370/2004, prin difuzarea de conținut propagandistic electoral (ID postare Facebook: 957521712887209) după încheierea perioadei de campanie electorală. Postarea promovează explicit candidatul ION-MARCEL CIOLACU și partidul PSD, folosind slogan de campanie și număr CMF (11240017), constituind astfel propagandă electorală activă după ora 18:00 pe 23.11.2024. Mesajul a fost distribuit ca reclamă plătită pe Facebook și Instagram, cu un impact estimat între 15.000-19.999 de afișări, demonstrând intenția clară de influențare a votului prin continuarea propagandei electorale în afara perioadei legale.
+</message-for-police>
+</conclusion>
+</output>

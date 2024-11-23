@@ -1,0 +1,53 @@
+<output>
+<analysis>
+Let's analyze this post according to the required criteria:
+
+1. Has CMF: YES - Contains two CMF numbers (31240010 and 11240017), which is a clear indicator of electoral propaganda material
+
+2. Refers to candidate: YES - Directly mentions "Marcel Ciolacu" who is a presidential candidate (Position 3)
+
+3. Addresses wide population: YES
+- It's a paid advertisement on Facebook and Instagram
+- Reaches between 10,000-14,999 impressions
+- Estimated audience size of 100,001-500,000
+- Clear call to action using plural form "VOTĂM" (We vote)
+
+4. Electoral objective: YES
+- Direct call to vote for a specific candidate ("VOTĂM Marcel Ciolacu președinte!")
+- Clear party endorsement ("VOTĂM PSD!")
+- Uses imperative form to influence voting behavior
+
+5. Journalism: NO
+- This is not journalistic content
+- No informative or educational content
+- Pure campaign message
+
+6. Personal opinion: NO
+- This is an official party communication (byline: PSD BN)
+- Contains official CMF numbers
+- Structured as a campaign message
+</analysis>
+
+<conclusion>
+<post_id>2310944462575110</post_id>
+<electoral-propaganda-analysis>
+This is clearly electoral propaganda because:
+- Contains official CMF numbers
+- Direct call to vote for a specific presidential candidate
+- Paid advertisement with wide reach
+- Posted by an official party account (PSD BN)
+- Clear electoral objective with no journalistic or personal opinion elements
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate>
+    <name>ION-MARCEL CIOLACU</name>
+    <impact>POSITIVE</impact>
+  </candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>PSD</responsible-party-or-group>
+<message-for-police>
+PSD BN, pentru incalcarea articolului 55 t) din Legea 370/2004, prin continuarea propagandei electorale după încheierea campaniei electorale pentru alegerile prezidențiale, manifestată prin publicarea și menținerea activă a unei reclame plătite pe Facebook (ID: 2310944462575110) care îndeamnă direct la votarea candidatului ION-MARCEL CIOLACU și a partidului PSD. Postarea include numere oficiale CMF (31240010 și 11240017), demonstrând natura sa de propagandă electorală, și a continuat să fie difuzată după ora 18:00 pe 23.11.2024, încălcând astfel perioada legală de campanie electorală. Impactul acestei încălcări este amplificat de audiența estimată între 100,001 și 500,000 de persoane și numărul de afișări între 10,000 și 14,999.
+</message-for-police>
+</conclusion>
+</output>

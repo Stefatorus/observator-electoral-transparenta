@@ -1,0 +1,49 @@
+<output>
+<analysis>
+Let's analyze this post according to the given criteria:
+
+1. Has CMF: Yes, CMF 11240014 is present at the end of the post, indicating it's electoral propaganda.
+
+2. Refers to candidate: Yes, specifically mentions multiple presidential candidates negatively (Ciolacu, Ciucă, Lasconi) and explicitly promotes George Simion for president.
+
+3. Addresses wide population: Yes, it's a paid Facebook/Instagram post targeting a large audience (estimated 1M+ people).
+
+4. Electoral objective: Clearly yes. The post:
+- Criticizes current leadership and other candidates
+- Explicitly calls for voting for George Simion
+- Uses emotional language to influence voters
+- Directly asks people to vote on November 24
+- Includes the phrase "votezi George Simion președinte"
+
+5. Journalism: No, this is not journalistic content. It's a clear campaign message with emotional appeals and direct voting instructions.
+
+6. Personal opinion: While it contains opinions, it's structured as a campaign message with clear electoral intent, complete with CMF number and direct voting instructions.
+
+The post is clearly continuing electoral propaganda for the presidential election after the campaign period has ended, which violates Article 55 t).
+</analysis>
+
+<conclusion>
+<post_id>495679523503238</post_id>
+<electoral-propaganda-analysis>
+This is clearly electoral propaganda because:
+- Has official CMF number
+- Directly promotes a presidential candidate
+- Explicitly calls for voting action
+- Uses campaign messaging
+- Is a paid advertisement
+- Targets mass audience
+- Contains direct voting instructions
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate><name>ION-MARCEL CIOLACU</name><impact>NEGATIVE</impact></candidate>
+  <candidate><name>NICOLAE-IONEL CIUCĂ</name><impact>NEGATIVE</impact></candidate>
+  <candidate><name>ELENA-VALERICA LASCONI</name><impact>NEGATIVE</impact></candidate>
+  <candidate><name>GEORGE-NICOLAE SIMION</name><impact>POSITIVE</impact></candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>AUR</responsible-party-or-group>
+<message-for-police>
+Ciprian Paraschiv, pentru incalcarea articolului 55 t) din Legea 370/2004, prin continuarea propagandei electorale după încheierea campaniei electorale, promovând în mod explicit candidatul George Simion și atacând contracandidații (Ciolacu, Ciucă, Lasconi) într-o postare sponsorizată pe Facebook/Instagram (ID: 495679523503238) după ora 18:00 pe 23.11.2024. Postarea conține îndemnuri directe de vot ("votezi George Simion președinte"), număr CMF (11240014), și targetează un public larg estimat la peste 1 milion de persoane, constituind astfel propagandă electorală conform Art. 36(7) din Legea 334/2006.
+</message-for-police>
+</conclusion>
+</output>

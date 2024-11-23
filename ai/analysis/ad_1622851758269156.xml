@@ -1,0 +1,48 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: Yes - CMF 11240022 is present, indicating this is electoral content
+
+2. Refers to candidates:
+- Mentions Călin Georgescu (presidential candidate)
+- Mentions Ion Marian Ciofica (parliamentary candidate)
+- References Iohannis and Viorica Dăncilă (historical context)
+
+3. Addresses wide population:
+- Yes, it's a paid Facebook/Instagram ad reaching thousands
+- Uses plural forms and direct calls to action
+- Targets multiple counties
+
+4. Electoral objective:
+- Clear electoral intent with "Eu votez Călin Georgescu"
+- Explicit call to vote on November 24, 2024
+- Attempts to influence voters against "oamenii susținuți de Iohannis"
+
+5. Journalism:
+- This is not journalistic content
+- It's a personal endorsement and call to action
+- Contains subjective opinions and direct electoral advocacy
+
+The post explicitly campaigns for the presidential election (November 24) after the campaign period has ended, while also promoting a parliamentary candidacy (which is still allowed).
+
+<conclusion>
+<post_id>1622851758269156</post_id>
+<electoral-propaganda-analysis>
+This constitutes electoral propaganda because:
+- Contains explicit call to vote for a presidential candidate
+- Uses paid promotion to reach wide audience
+- Has CMF number
+- Direct electoral messaging
+- Timing coincides with post-campaign period for presidential election
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate><name>CĂLIN GEORGESCU</name><impact>POSITIVE</impact></candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>INDEPENDENT</responsible-party-or-group>
+<message-for-police>
+Marian Ciofîcă, pentru incalcarea articolului 55 t) din Legea 370/2004, prin distribuirea unui anunț sponsorizat pe Facebook și Instagram (ID post: 1622851758269156) după ora 18:00 pe 23.11.2024, care conține îndemnuri explicite de a vota candidatul prezidențial Călin Georgescu în ziua alegerilor ("Eu votez Călin Georgescu, iar dacă vă regăsiți în propunerea mea haideți vă rog să susținem pe 24 Noiembrie 2024 candidatura dânsului"). Postarea constituie propagandă electorală conform Art. 36(7) prin prezența numărului CMF (11240022), adresarea către public larg prin promovare plătită, și obiectivul electoral explicit de influențare a votului pentru alegerile prezidențiale.
+</message-for-police>
+</conclusion>
+</output>

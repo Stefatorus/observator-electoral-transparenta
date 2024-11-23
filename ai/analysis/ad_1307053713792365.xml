@@ -1,0 +1,44 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: YES (CMF: 11240017) - This indicates it's electoral propaganda
+2. Refers to candidate: YES - Specifically mentions "Marcel Ciolacu, candidatul nostru la Președinția României"
+3. Addresses wide population: YES - It's a paid post targeting a large audience (125,000-150,000 impressions)
+4. Electoral objective: YES - Clearly promotes both parliamentary candidates and Marcel Ciolacu as presidential candidate
+5. Journalism: NO - This is clearly campaign communication, not journalism
+6. Personal opinion: NO - This is an official party communication from PSD Maramureș
+
+Key points:
+- The post is promoting both parliamentary and presidential candidates
+- Has significant reach with high impressions and spend
+- Contains explicit electoral messaging
+- Has official CMF number
+- Posted during electoral period
+- Specifically promotes Marcel Ciolacu as presidential candidate
+</analysis>
+
+<conclusion>
+<post_id>1307053713792365</post_id>
+<electoral-propaganda-analysis>
+This is clearly electoral propaganda because:
+1. Contains official CMF number
+2. Directly promotes a presidential candidate
+3. Has clear electoral messaging
+4. Is a paid advertisement with wide reach
+5. Promotes both parliamentary and presidential campaigns
+6. Contains direct call to action for voting
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+<candidate>
+<name>ION-MARCEL CIOLACU</name>
+<impact>POSITIVE</impact>
+</candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>PSD</responsible-party-or-group>
+<message-for-police>
+PSD Maramureș, pentru incalcarea articolului 55 t) din Legea 370/2004, prin promovarea unui mesaj electoral plătit (ID Facebook: 1307053713792365) ce conține propagandă electorală pentru candidatul prezidențial Marcel Ciolacu după încheierea perioadei de campanie. Postarea, ce include număr CMF 11240017, a fost difuzată pe Facebook și Instagram cu un buget între 1000-1499 RON și a ajuns la 125.000-150.000 de persoane, reprezentând astfel o încălcare clară a prevederilor legale privind încetarea propagandei electorale după ora 18:00 pe 23.11.2024. Mesajul conține referiri directe la candidatura prezidențială și solicită explicit sprijin electoral.
+</message-for-police>
+</conclusion>
+</output>

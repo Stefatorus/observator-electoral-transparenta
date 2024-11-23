@@ -1,0 +1,43 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: Yes, contains "CMF 11240002" at the end, indicating it's electoral propaganda.
+
+2. Refers to candidate: Yes, specifically mentions "Nicolae Ciucă" who is a presidential candidate (Position 4 on the ballot).
+
+3. Addresses wide population: Yes, it's a paid Facebook post targeting 50,001-100,000 people, clearly addressing a wide audience.
+
+4. Electoral objective: Yes, contains direct call to action "Pe 24 noiembrie, votăm împreună Nicolae Ciucă!" which is explicit electoral messaging.
+
+5. Journalism: No, this is clearly campaign material, not journalistic content.
+
+6. Personal opinion: No, this is an organized campaign message from PNL Maramureș.
+
+The post violates Article 55 t) because:
+- It continues electoral propaganda for presidential elections after the campaign period ended
+- Contains explicit call to vote for Nicolae Ciucă for the presidential election
+- Is an active paid advertisement reaching thousands of people
+- Was posted/active after the presidential campaign period ended
+</analysis>
+
+<conclusion>
+<post_id>1628682881410360</post_id>
+<electoral-propaganda-analysis>
+This is clearly electoral propaganda because:
+1. Has official CMF number
+2. Direct call to vote for specific candidate
+3. Paid distribution
+4. Wide audience reach
+5. Official party communication
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate><name>NICOLAE-IONEL CIUCĂ</name><impact>POSITIVE</impact></candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>PNL</responsible-party-or-group>
+<message-for-police>
+PNL Maramureș, prin reprezentanții săi, pentru incalcarea articolului 55 t) din Legea 370/2004, prin continuarea propagandei electorale după încheierea campaniei electorale pentru alegerile prezidențiale, manifestată prin postarea plătită pe Facebook cu ID 1628682881410360, care îndeamnă explicit la votarea candidatului Nicolae Ciucă ("Pe 24 noiembrie, votăm împreună Nicolae Ciucă!"). Postarea este activă și distribuită după ora 18:00 pe 23.11.2024, încălcând astfel perioada legală de campanie electorală. Materialul are caracter explicit de propagandă electorală, fiind marcat cu cod CMF 11240002, țintind un public între 50,001-100,000 de persoane, cu un buget de promovare între 100-199 RON.
+</message-for-police>
+</conclusion>
+</output>

@@ -1,0 +1,53 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: Yes - "CMF11240017" is present at the end of the post, indicating this is electoral propaganda
+
+2. Refers to candidate: Yes - Mentions "Marcel Ciolacu" who is a presidential candidate (Position 3)
+
+3. Addresses wide population: Yes
+- It's a paid advertisement on Facebook and Instagram
+- Has significant reach (25,000-29,999 impressions)
+- Uses campaign hashtag "#caleasigurapentruromania"
+
+4. Electoral objective: Yes
+- Promotes government achievements under Marcel Ciolacu's leadership
+- Uses positive messaging about government programs
+- Links local success stories to Ciolacu's leadership
+- Is part of a door-to-door campaign effort
+
+5. Journalism: No
+- This is clearly a campaign message, not journalistic content
+- Personal experience narrative with political messaging
+- Contains campaign identifier (CMF)
+
+6. Personal opinion: No
+- This is a structured campaign message
+- Paid distribution
+- Official campaign materials with CMF
+</analysis>
+
+<conclusion>
+<post_id>792635229631100</post_id>
+<electoral-propaganda-analysis>
+This post constitutes electoral propaganda because:
+- Contains official campaign identifier (CMF)
+- Directly promotes a presidential candidate (Marcel Ciolacu)
+- Is a paid advertisement with wide reach
+- Links positive achievements to the candidate
+- Uses campaign hashtags and messaging
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate>
+    <name>ION-MARCEL CIOLACU</name>
+    <impact>POSITIVE</impact>
+  </candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>PSD</responsible-party-or-group>
+<message-for-police>
+Infomed Pro SRL, pentru incalcarea articolului 55 t) din Legea 370/2004, prin difuzarea de materiale de propaganda electorala dupa incheierea perioadei de campanie, prin postarea cu ID 792635229631100 pe Facebook. Postarea promoveaza explicit candidatul ION-MARCEL CIOLACU, contine numar CMF (11240017), si a fost difuzata ca reclama platita dupa ora 18:00 pe 23.11.2024. Materialul face referire directa la realizarile guvernamentale ale candidatului, foloseste hashtag-uri de campanie, si are scop electoral explicit, fiind distribuit contra cost catre un public larg (25,000-29,999 impresii).
+</message-for-police>
+</conclusion>
+</output>

@@ -1,0 +1,55 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: Yes, CMF 11240015 is present, indicating this is electoral propaganda
+
+2. Refers to candidate(s): 
+- Direct reference to Marcel Ciolacu (presidential candidate)
+- Direct reference to Elena Lasconi (presidential candidate)
+- Uses hashtag #ElenaLasconiPreședinte
+
+3. Addresses wide population:
+- Yes, this is a paid advertisement with significant reach (25,000-29,999 impressions)
+- Uses direct call to action "Veniți la vot!"
+- Published on multiple platforms (Facebook, Instagram)
+
+4. Electoral objective:
+- Clear electoral objective with "Veniți la vot!"
+- Uses negative messaging against one candidate (Ciolacu)
+- Promotes another candidate (Lasconi)
+- Hashtag explicitly promotes presidential candidacy
+
+5. Journalism:
+- This is not journalism but rather campaign messaging
+- Makes accusations without providing journalistic context
+- Uses emotional language ("i-a mințit", "nu are pic de caracter")
+
+6. Personal opinion:
+- This is not a personal opinion but an organized campaign message
+- Has official CMF number
+- Paid advertisement by USR
+</analysis>
+
+<conclusion>
+<post_id>571074518803045</post_id>
+<electoral-propaganda-analysis>
+This is clearly electoral propaganda because:
+- Contains official CMF number
+- Directly attacks one presidential candidate while promoting another
+- Is a paid advertisement with significant reach
+- Has clear electoral objective
+- Uses direct call to action for voting
+- Is sponsored by a political party
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate><name>ION-MARCEL CIOLACU</name><impact>NEGATIVE</impact></candidate>
+  <candidate><name>ELENA-VALERICA LASCONI</name><impact>POSITIVE</impact></candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>USR</responsible-party-or-group>
+<message-for-police>
+Uniunea Salvați România (USR), pentru incalcarea articolului 55 t) din Legea 370/2004, prin continuarea propagandei electorale după încheierea perioadei legale, prin publicarea și menținerea activă a unei reclame pe Facebook (ID: 571074518803045) după ora 18:00 pe 23.11.2024. Postarea conține propagandă electorală explicită, având CMF 11240015, promovând candidatul USR la președinție și atacând direct un contracandidat, folosind hashtag-ul #ElenaLasconiPreședinte și îndemnuri directe la vot. Postarea a avut un impact semnificativ, atingând între 25.000 și 29.999 de persoane, fiind difuzată pe multiple platforme (Facebook și Instagram).
+</message-for-police>
+</conclusion>
+</output>

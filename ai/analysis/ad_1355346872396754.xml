@@ -1,0 +1,53 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. CMF Number: Yes, contains "CMF:11240017" - indicating it's electoral propaganda
+
+2. Refers to candidate: Yes, explicitly mentions "@Marcel Ciolacu" who is a presidential candidate
+
+3. Addresses wide population: Yes
+- It's a paid advertisement on Facebook/Instagram
+- Targets a large audience (100,001-500,000 people)
+- Uses inclusive language ("împreună", "pentru o Românie sănătoasă")
+
+4. Electoral objective: Yes
+- Promotes Marcel Ciolacu's "project for the country"
+- Uses campaign slogans like "#caleasigura"
+- Presents PSD's governance program
+- Aims to build trust and support for the candidate
+
+5. Journalism: No
+- This is clearly a promotional message
+- Contains campaign promises and political messaging
+- Not informative journalism
+
+6. Personal opinion: No
+- This is an official party communication (PSD Dolj)
+- Contains structured campaign messaging
+- Uses official campaign materials and CMF number
+</analysis>
+
+<conclusion>
+<post_id>1355346872396754</post_id>
+<electoral-propaganda-analysis>
+This is clearly electoral propaganda because:
+- Contains official CMF number
+- Directly promotes a presidential candidate (Marcel Ciolacu)
+- Is paid advertising reaching a large audience
+- Contains campaign promises and political messaging
+- Uses official campaign hashtags and slogans
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+<candidate>
+<name>ION-MARCEL CIOLACU</name>
+<impact>POSITIVE</impact>
+</candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>PSD</responsible-party-or-group>
+<message-for-police>
+PSD Dolj, pentru incalcarea articolului 55 t) din Legea 370/2004, prin continuarea propagandei electorale după încheierea campaniei electorale pentru alegerile prezidențiale, prin promovarea unui material electoral plătit pe Facebook (ID: 1355346872396754) care îl promovează direct pe candidatul ION-MARCEL CIOLACU, folosind numărul CMF 11240017, hashtag-uri de campanie și mesaje electorale. Materialul a fost activ și distribuit după ora 18:00 pe 23.11.2024, încălcând astfel perioada legală de campanie electorală pentru alegerile prezidențiale.
+</message-for-police>
+</conclusion>
+</output>

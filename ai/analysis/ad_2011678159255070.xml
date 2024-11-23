@@ -1,0 +1,54 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: Yes - CMF11240017 is present at the end of the post, indicating this is electoral propaganda.
+
+2. Refers to candidate: While it doesn't directly mention a presidential candidate, it heavily promotes PSD and the "Guvernul Ciolacu" (Marcel Ciolacu being a presidential candidate).
+
+3. Addresses wide population: Yes
+- It's a paid Facebook advertisement
+- Has reached between 100,000-124,999 impressions
+- Uses broad language addressing all citizens
+- Discusses national pension policy
+
+4. Electoral objective: Yes
+- Promotes PSD's achievements
+- Criticizes other parties (PNL-USR)
+- Presents PSD as the only party caring about certain social issues
+- Timing during election period
+- High spend (800-899 RON) for wide reach
+
+5. Journalism: No
+- This is clearly a promotional message, not journalistic content
+- Contains partisan messaging and party promotion
+
+6. Personal opinion: No
+- This is an official party communication (byline: PSD Org. Jud. Botosani)
+- Structured as political messaging
+</analysis>
+
+<conclusion>
+<post_id>2011678159255070</post_id>
+<electoral-propaganda-analysis>
+This post constitutes electoral propaganda because:
+- Contains CMF number
+- High reach and paid promotion
+- Promotes party achievements
+- Criticizes opposition
+- Uses official party channels
+- Timing during election period
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate>
+    <name>ION-MARCEL CIOLACU</name>
+    <impact>POSITIVE</impact>
+  </candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>PSD</responsible-party-or-group>
+<message-for-police>
+Partidul Social Democrat Org. Jud. Botosani, pentru incalcarea articolului 55 t) din Legea 370/2004, prin publicarea si promovarea unei reclame platite pe Facebook (ID: 2011678159255070) dupa ora 18:00 pe 23.11.2024, continand propaganda electorala care promoveaza in mod explicit realizarile guvernului condus de candidatul prezidential Marcel Ciolacu si partidul PSD. Postarea contine numar CMF (11240017), are caracter electoral explicit, a fost promovata cu sume semnificative (800-899 RON) si a avut un impact larg (100,000-124,999 impresii), reprezentand astfel o continuare clara a propagandei electorale dupa incheierea perioadei legale.
+</message-for-police>
+</conclusion>
+</output>

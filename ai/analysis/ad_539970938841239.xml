@@ -1,0 +1,42 @@
+<output>
+<analysis>
+Let's analyze this post according to the given criteria:
+
+1. CMF Number: Yes, contains "CMF11240017" - indicating this is electoral propaganda
+2. Refers to candidate: Yes, mentions "Marcel Ciolacu" explicitly
+3. Addresses wide population: Yes, this is a paid Facebook/Instagram post targeting a large audience (100,001-500,000 people)
+4. Electoral objective: Yes, clearly encourages voting for PSD and Marcel Ciolacu's program
+5. Journalism: No, this is not journalism but rather a political promotion
+6. Personal opinion: No, this is a structured political message with campaign promises
+
+The post contains:
+- Direct mention of PSD's governance program
+- Explicit mention of Marcel Ciolacu as prime minister
+- Clear call to action: "Vino la vot și susține ajutorul oferit tinerilor de către Partidul Social Democrat"
+- Campaign hashtags and CMF number
+- Specific policy promises and programs
+</analysis>
+
+<conclusion>
+<post_id>539970938841239</post_id>
+<electoral-propaganda-analysis>
+This is clearly electoral propaganda because:
+- Contains official campaign identifiers (CMF number)
+- Makes specific electoral promises
+- Directly promotes PSD and Marcel Ciolacu
+- Explicitly calls for votes
+- Is a paid advertisement reaching a large audience
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+<candidate>
+<name>ION-MARCEL CIOLACU</name>
+<impact>POSITIVE</impact>
+</candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>PSD</responsible-party-or-group>
+<message-for-police>
+Infomed Pro SRL, pentru incalcarea articolului 55 t) din Legea 370/2004, prin continuarea propagandei electorale după încheierea campaniei pentru alegerile prezidențiale, promovând candidatul ION-MARCEL CIOLACU și PSD prin postarea cu ID 539970938841239 pe Facebook. Postarea conține promisiuni electorale specifice, îndemnuri directe la vot și folosește numărul CMF11240017, fiind difuzată după ora 18:00 pe 23.11.2024. Postarea a avut un impact semnificativ, atingând între 15.000 și 19.999 de persoane, reprezentând o încălcare clară a prevederilor legale privind încheierea campaniei electorale.
+</message-for-police>
+</conclusion>
+</output>

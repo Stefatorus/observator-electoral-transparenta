@@ -1,0 +1,39 @@
+<output>
+<analysis>
+Let me analyze this post according to our criteria:
+
+1. Has CMF: Yes, contains "C.U.I. Mandatar Financiar 11240017"
+2. Refers to candidate: Yes, explicitly mentions "Marcel Ciolacu" as presidential candidate
+3. Addresses wide population: Yes, it's a paid Facebook ad with 10,000-14,999 impressions
+4. Electoral objective: Yes, clearly states "Alegem Marcel Ciolacu - Președintele României!"
+5. Journalism: No, this is clearly campaign material
+6. Personal opinion: No, this is structured campaign messaging
+
+The post is clearly electoral propaganda because:
+- It directly promotes Marcel Ciolacu for president
+- Uses campaign slogans ("Calea Sigură Pentru România")
+- Has official campaign financial identifier
+- Is being actively promoted after campaign period ended
+- Is reaching a significant audience (10,000+ impressions)
+</analysis>
+
+<conclusion>
+<post_id>562233786388115</post_id>
+<electoral-propaganda-analysis>
+This is clearly electoral propaganda because:
+- Explicitly promotes a presidential candidate
+- Uses official campaign elements (CUI number)
+- Is a paid promotion reaching thousands
+- Contains campaign slogans and calls to action
+- Is running after the legal campaign period ended
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate><name>ION-MARCEL CIOLACU</name><impact>POSITIVE</impact></candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>PSD</responsible-party-or-group>
+<message-for-police>
+Raluca Giorgiana Dumitrescu, pentru incalcarea articolului 55 t) din Legea 370/2004, prin continuarea propagandei electorale după încheierea campaniei electorale, promovând în mod activ candidatul ION-MARCEL CIOLACU la funcția de președinte prin intermediul unei reclame plătite pe Facebook (ID: 562233786388115) care îndeamnă explicit la alegerea acestuia ca președinte ("Alegem Marcel Ciolacu - Președintele României!"). Postarea, fiind activă și promovată după ora 18:00 pe 23.11.2024, încalcă în mod direct prevederile legale privind încetarea campaniei electorale. Materialul conține elemente clare de propagandă electorală, inclusiv număr de mandatar financiar (CUI 11240017), și a avut un impact semnificativ, atingând între 10.000 și 14.999 de afișări.
+</message-for-police>
+</conclusion>
+</output>

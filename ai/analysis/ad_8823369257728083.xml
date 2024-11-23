@@ -1,0 +1,49 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: Yes - "Cmf: 11240022" appears at the end of the post, indicating this is electoral propaganda
+
+2. Refers to candidate: Yes - Explicitly mentions "Călin Georgescu" multiple times, who is one of the presidential candidates listed
+
+3. Addresses wide population: Yes
+- Starts with "Români" addressing all Romanians
+- Uses paid advertising on Facebook and Instagram
+- Targets multiple counties with significant reach
+- Uses plural forms and calls to action for groups
+
+4. Electoral objective: Yes
+- Direct call to vote for Călin Georgescu
+- Contains explicit electoral messaging: "Alegeți Călin Georgescu!"
+- Encourages mobilization of others to vote
+- Uses electoral campaign rhetoric about change and hope
+
+5. Journalism: No
+- This is clearly campaign material, not journalistic content
+- Contains emotional appeals and campaign slogans
+- Directly advocates for a candidate
+- Includes a campaign mobilization phone number
+
+</analysis>
+
+<conclusion>
+<post_id>8823369257728083</post_id>
+<electoral-propaganda-analysis>
+This is clearly electoral propaganda because:
+- Contains CMF number
+- Directly promotes a presidential candidate
+- Makes explicit calls to vote
+- Uses campaign rhetoric and mobilization tactics
+- Is a paid advertisement targeting multiple regions
+- Contains direct electoral messaging
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+<candidate><name>CĂLIN GEORGESCU</name><impact>POSITIVE</impact></candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>INDEPENDENT</responsible-party-or-group>
+<message-for-police>
+Domnul Marian Ciofîcă, pentru incalcarea articolului 55 t) din Legea 370/2004, prin publicarea și promovarea unei reclame plătite pe Facebook (ID: 8823369257728083) după încheierea perioadei de campanie electorală pentru alegerile prezidențiale. Postarea conține îndemnuri directe de vot pentru candidatul Călin Georgescu, folosește un număr CMF (11240022), și include mesaje explicite de mobilizare electorală ("Alegeți Călin Georgescu!", "Ieșiți la vot"). Materialul a fost promovat după ora 18:00 pe 23.11.2024, încălcând astfel prevederile legale privind încheierea campaniei electorale pentru alegerile prezidențiale.
+</message-for-police>
+</conclusion>
+</output>

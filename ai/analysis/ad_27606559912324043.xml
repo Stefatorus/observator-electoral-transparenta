@@ -1,0 +1,36 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: Yes, contains "CMF: 11240015" at the end
+2. Refers to candidates: Yes, specifically mentions Marcel Ciolacu and Ciucă, who are presidential candidates
+3. Addresses wide population: Yes, it's a paid Facebook/Instagram post targeting 100,001-500,000 people
+4. Electoral objective: Yes, it explicitly mentions the upcoming elections ("alegeri peste 3 zile") and attempts to influence voting behavior
+5. Journalism: No, this is not journalistic content but rather political messaging
+6. Personal opinion: No, this is an organized political message from USR Constanța
+
+The post contains direct electoral messaging, criticizing PSD-PNL and their presidential candidates (Ciolacu and Ciucă) while encouraging people to vote against them. The timing (3 days before elections) and the presence of a CMF number confirms this is electoral propaganda.
+
+This post covers both parliamentary and presidential elections, but since it specifically targets presidential candidates during the prohibition period, it violates Article 55 t).
+
+<conclusion>
+<post_id>27606559912324043</post_id>
+<electoral-propaganda-analysis>
+This is clearly electoral propaganda because:
+- Contains CMF number
+- Directly targets presidential candidates
+- Makes electoral promises/criticisms
+- Calls for voting action
+- Paid advertisement with wide reach
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+<candidate><name>ION-MARCEL CIOLACU</name><impact>NEGATIVE</impact></candidate>
+<candidate><name>NICOLAE-IONEL CIUCĂ</name><impact>NEGATIVE</impact></candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>USR</responsible-party-or-group>
+<message-for-police>
+USR Constanța, pentru incalcarea articolului 55 t) din Legea 370/2004, prin publicarea și promovarea unei reclame pe Facebook (ID: 27606559912324043) ce conține propagandă electorală după încheierea perioadei legale de campanie, criticând direct candidații prezidențiali Marcel Ciolacu și Nicolae Ciucă, cu scopul de a influența comportamentul electoral al votanților. Postarea, efectuată după ora 18:00 pe 23.11.2024, conține număr CMF (11240015), demonstrând caracterul său electoral explicit, și a fost promovată către un public țintă de 100,001-500,000 persoane, reprezentând o încălcare clară a prevederilor legale privind încheierea campaniei electorale.
+</message-for-police>
+</conclusion>
+</output>

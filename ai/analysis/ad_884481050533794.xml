@@ -1,0 +1,44 @@
+<output>
+<analysis>
+Let's analyze this post according to the given criteria:
+
+1. Has CMF: Yes, contains "CMF: 11240015"
+2. Refers to candidates: Yes, explicitly mentions Elena Lasconi (USR), Ciolacu, Simion, Ciucă, and Geoană
+3. Addresses wide population: Yes, it's a paid advertisement with significant reach (10,000-14,999 impressions)
+4. Electoral objective: Yes, clearly promoting Elena Lasconi and opposing other candidates
+5. Journalism: No, this is clearly campaign material
+6. Personal opinion: No, this is an official party communication (USR) with electoral purpose
+
+The post contains direct electoral messaging, including:
+- Support for Elena Lasconi
+- Opposition to other presidential candidates
+- Clear campaign messaging ("Mai avem o săptămână până la primul tur")
+- Official party communication (includes CMF number)
+- Significant paid reach
+</analysis>
+
+<conclusion>
+<post_id>884481050533794</post_id>
+<electoral-propaganda-analysis>
+This clearly constitutes electoral propaganda because:
+- Has official CMF number
+- Directly promotes a presidential candidate
+- Explicitly opposes other candidates
+- Uses campaign messaging
+- Is a paid advertisement with significant reach
+- Contains clear electoral objectives
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate><name>ELENA-VALERICA LASCONI</name><impact>POSITIVE</impact></candidate>
+  <candidate><name>ION-MARCEL CIOLACU</name><impact>NEGATIVE</impact></candidate>
+  <candidate><name>GEORGE-NICOLAE SIMION</name><impact>NEGATIVE</impact></candidate>
+  <candidate><name>NICOLAE-IONEL CIUCĂ</name><impact>NEGATIVE</impact></candidate>
+  <candidate><name>MIRCEA-DAN GEOANĂ</name><impact>NEGATIVE</impact></candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>USR</responsible-party-or-group>
+<message-for-police>
+Uniunea Salvați România, pentru incalcarea articolului 55 t) din Legea 370/2004, prin continuarea propagandei electorale după încheierea campaniei electorale, prin promovarea unui material electoral plătit pe platformele Facebook și Instagram (ID postare: 884481050533794) care promovează candidatul Elena Lasconi și denigrează candidații Ciolacu, Simion, Ciucă și Geoană. Materialul este activ și după ora 18:00 pe 23.11.2024, conține număr CMF (11240015), are caracter electoral explicit și este distribuit către un public larg (10,000-14,999 impresii). Postarea reprezintă propagandă electorală conform Art. 36(7) din Legea 334/2006, îndeplinind toate criteriile legale pentru această încadrare.
+</message-for-police>
+</conclusion>
+</output>

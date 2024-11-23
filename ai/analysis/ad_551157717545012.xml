@@ -1,0 +1,55 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. CMF Presence: Yes, contains "CMF: 11240015" which indicates electoral material.
+
+2. Direct Reference to Candidates:
+- Mentions "Ciolacu" (ION-MARCEL CIOLACU) - presidential candidate
+- References "PSD-PNL" government
+
+3. Wide Population Targeting:
+- This is a paid advertisement with significant reach (35,000-39,999 impressions)
+- Published on Facebook and Instagram
+- High estimated audience size (100,001-500,000)
+- Spend of 600-699 RON indicates significant promotion
+
+4. Electoral Objective:
+- Explicitly calls for voting ("Votează USR")
+- However, this is specifically for parliamentary elections, not presidential
+- Criticizes current government leadership
+
+5. Journalistic Content:
+- This is not journalistic content
+- Clear campaign message with call to action
+
+6. Personal Opinion:
+- This is not a personal opinion but a structured campaign message with CMF
+</analysis>
+
+<conclusion>
+<post_id>551157717545012</post_id>
+<electoral-propaganda-analysis>
+This post constitutes electoral propaganda because:
+- Has official CMF number
+- Directly mentions candidates and parties
+- Has clear electoral objective
+- Is paid advertisement with wide reach
+However, it specifically targets parliamentary elections which are still in their legal campaign period, not the presidential election.
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>FALSE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+<candidate>
+<name>ION-MARCEL CIOLACU</name>
+<impact>NEGATIVE</impact>
+</candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>USR</responsible-party-or-group>
+<message-for-police></message-for-police>
+</conclusion>
+
+While this is clearly electoral propaganda, it does not violate Article 55 t) because:
+1. It primarily targets parliamentary elections, which are still in their legal campaign period
+2. Does not advise voters at polling stations
+3. While it mentions Ciolacu, it does so in context of his current government role, not specifically his presidential candidacy
+</output>

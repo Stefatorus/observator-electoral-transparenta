@@ -1,0 +1,42 @@
+<output>
+<analysis>
+Let's analyze this post according to the given criteria:
+
+1. Has CMF: Yes, the post contains "CMF 11240017" at the end, indicating it's electoral propaganda material.
+
+2. Refers to candidate: Yes, it directly references "Guvernul Ciolacu" and includes hashtags "#CiolacuPresedinte", referring to ION-MARCEL CIOLACU, a presidential candidate.
+
+3. Addresses wide population: Yes, this is a paid advertisement with significant reach (150,000-175,000 impressions) targeting a broad audience on Facebook and Instagram.
+
+4. Electoral objective: Yes, the post combines social policy announcements with clear electoral messaging through hashtags like "#CiolacuPresedinte" and party promotion "#GuvernulPSD".
+
+5. Journalism: No, this is not journalistic content but rather a promotional message combining government announcements with party/candidate promotion.
+
+6. Personal opinion: No, this is a structured, paid political message with clear campaign elements.
+
+The post violates Article 55 t) as it continues electoral propaganda after the conclusion of the official campaign period for presidential elections, mixing social policy announcements with presidential campaign messaging.
+</analysis>
+
+<conclusion>
+<post_id>376470698883242</post_id>
+<electoral-propaganda-analysis>
+This constitutes electoral propaganda because:
+- Contains official CMF number
+- Directly promotes a presidential candidate (Ciolacu)
+- Uses campaign hashtags
+- Combines government announcements with electoral messaging
+- Is a paid advertisement with significant reach
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate>
+    <name>ION-MARCEL CIOLACU</name>
+    <impact>POSITIVE</impact>
+  </candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>PSD</responsible-party-or-group>
+<message-for-police>
+Infomed Pro SRL, pentru incalcarea articolului 55 t) din Legea 370/2004, prin promovarea unui material de propaganda electorala (ID Facebook: 376470698883242) dupa incheierea perioadei de campanie. Materialul promoveaza explicit candidatul ION-MARCEL CIOLACU prin utilizarea hashtag-ului "#CiolacuPresedinte" si continut electoral specific (CMF 11240017), fiind difuzat ca reclama platita pe Facebook si Instagram dupa ora 18:00 pe 23.11.2024. Impactul este semnificativ, atingand intre 150.000 si 175.000 de afisari, reprezentand o incalcare clara a prevederilor legale privind incetarea propagandei electorale.
+</message-for-police>
+</conclusion>
+</output>

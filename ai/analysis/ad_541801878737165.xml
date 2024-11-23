@@ -1,0 +1,51 @@
+<output>
+<analysis>
+Let's analyze this post according to the given criteria:
+
+1. CMF presence: Yes, CMF 11240017 is present, indicating this is electoral propaganda
+
+2. Candidate reference: Yes, directly mentions Marcel Ciolacu, who is a presidential candidate (Position 3)
+
+3. Wide population addressing: Yes
+- It's a paid advertisement
+- Targets 100,001-500,000 people
+- Has received 40,000-44,999 impressions
+- Uses inclusive language ("Împreună", "pentru toți")
+
+4. Electoral objective: Yes
+- Uses campaign slogans ("Calea Sigură Pentru Buzău")
+- Promotes candidates as "garanția unei dezvoltări sigure"
+- Contains party symbols (🌹) and hashtags (#PSD)
+
+5. Journalism: No
+- This is clearly a promotional message, not journalistic content
+
+6. Personal opinion: No
+- This is an official party communication (PSD Buzau)
+- Contains official campaign elements (CMF number)
+</analysis>
+
+<conclusion>
+<post_id>541801878737165</post_id>
+<electoral-propaganda-analysis>
+This post constitutes electoral propaganda because:
+- It's a paid political advertisement
+- Contains official campaign elements (CMF number)
+- Directly promotes a presidential candidate
+- Uses campaign slogans and party symbols
+- Has significant reach through paid promotion
+- Is published by an official party channel
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate>
+    <name>ION-MARCEL CIOLACU</name>
+    <impact>POSITIVE</impact>
+  </candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>PSD</responsible-party-or-group>
+<message-for-police>
+PSD Buzau, pentru incalcarea articolului 55 t) din Legea 370/2004, prin promovarea continua a candidatului prezidential Marcel Ciolacu prin intermediul unei reclame platite pe Facebook (ID: 541801878737165) dupa incheierea perioadei de campanie electorala. Postarea, activa dupa ora 18:00 pe 23.11.2024, include elemente clare de propaganda electorala (CMF 11240017), promoveaza explicit candidatul la presedintie si foloseste sloganuri de campanie, atingand un public tinta de peste 40,000 de persoane prin investitii publicitare semnificative (1000-1499 RON).
+</message-for-police>
+</conclusion>
+</output>

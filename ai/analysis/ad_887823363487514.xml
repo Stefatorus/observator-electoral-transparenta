@@ -1,0 +1,42 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: Yes, CMF 11240017 is present at the end of the post, indicating this is electoral propaganda.
+
+2. Refers to candidate: Yes, explicitly mentions "Marcel Ciolacu la președinția României" who is a presidential candidate (Position 3 on the ballot).
+
+3. Addresses wide population: Yes, this is a paid advertisement targeting a large audience (estimated 1,000,001+ potential reach).
+
+4. Electoral objective: Yes, clearly states "Echipa social-democrată, prin Marcel Ciolacu la președinția României și candidații la Parlament, sunt calea sigură pentru București și România."
+
+5. Journalism: No, this is clearly campaign material, not journalistic content.
+
+6. Personal opinion: No, this is an official party communication with clear electoral messaging.
+
+This post combines both parliamentary and presidential election messaging, which is problematic as the presidential campaign period has ended while the parliamentary one continues.
+</analysis>
+
+<conclusion>
+<post_id>887823363487514</post_id>
+<electoral-propaganda-analysis>
+This constitutes electoral propaganda because:
+- Contains official CMF number
+- Explicitly promotes Marcel Ciolacu for president
+- Is a paid advertisement reaching a large audience
+- Contains clear electoral messaging
+- Promotes both parliamentary candidates (allowed) and presidential candidate (not allowed after campaign period)
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+<candidate>
+<name>ION-MARCEL CIOLACU</name>
+<impact>POSITIVE</impact>
+</candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>PSD</responsible-party-or-group>
+<message-for-police>
+Partidul Social Democrat București, pentru incalcarea articolului 55 t) din Legea 370/2004, prin promovarea unui mesaj de propagandă electorală pentru candidatul la președinție Marcel Ciolacu după încheierea perioadei de campanie electorală. Postarea cu ID-ul 887823363487514, publicată și promovată după ora 18:00 pe 23.11.2024, conține mesaje clare de susținere electorală precum "Echipa social-democrată, prin Marcel Ciolacu la președinția României [...] sunt calea sigură pentru București și România", constituind astfel propagandă electorală interzisă în această perioadă. Postarea este sponsorizată și targetată către un public larg (peste 1 milion de persoane potențiale), având un caracter explicit de propagandă electorală, demonstrat și prin prezența numărului CMF 11240017.
+</message-for-police>
+</conclusion>
+</output>

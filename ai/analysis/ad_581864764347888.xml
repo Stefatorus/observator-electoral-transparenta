@@ -1,0 +1,41 @@
+<output>
+<analysis>
+Let's analyze this post according to the given criteria:
+
+1. Has CMF: Yes, CMF 11240017 is present at the end of the post.
+2. Refers to candidate: Yes, mentions "Marcel Ciolacu" who is a presidential candidate.
+3. Addresses wide population: Yes, this is a paid advertisement targeting 100,001-500,000 people.
+4. Electoral objective: Yes, the post clearly promotes both:
+   - Parliamentary candidates (which is allowed as that campaign is ongoing)
+   - Marcel Ciolacu as a leader, suggesting Romania's progress depends on his leadership
+5. Journalism: No, this is clearly promotional content, not journalistic.
+6. Personal opinion: No, this is an official party communication with CMF number.
+
+The post mixes content about:
+- Infrastructure development (A7 and A8 highways)
+- Parliamentary elections (which is allowed)
+- Presidential candidate promotion (which is not allowed after campaign end)
+
+The line "Cu o guvernare social-democrată și Marcel Ciolacu în fruntea țării, România are șansa unui progres pe termen lung" is clearly presidential campaign messaging.
+</analysis>
+
+<conclusion>
+<post_id>581864764347888</post_id>
+<electoral-propaganda-analysis>
+This constitutes electoral propaganda because:
+- Has official CMF number
+- Is paid advertisement
+- Directly promotes a presidential candidate
+- Makes promises about future progress under specific leadership
+- Uses party resources for promotion
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate><name>ION-MARCEL CIOLACU</name><impact>POSITIVE</impact></candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>PSD</responsible-party-or-group>
+<message-for-police>
+PSD Pascani, pentru incalcarea articolului 55 t) din Legea 370/2004, prin promovarea unui mesaj electoral in favoarea candidatului prezidential ION-MARCEL CIOLACU dupa incheierea campaniei electorale, prin postarea cu ID 581864764347888 pe facebook. Postarea, efectuata dupa ora 18:00 pe 23.11.2024, contine mesaje clare de propaganda electorala cum ar fi "Cu o guvernare social-democrată și Marcel Ciolacu în fruntea țării, România are șansa unui progres pe termen lung", are numar CMF 11240017, si este o reclama platita care a ajuns la intre 10.000 si 15.000 de persoane, constituind astfel o clara actiune de propaganda electorala in afara perioadei permise de lege.
+</message-for-police>
+</conclusion>
+</output>

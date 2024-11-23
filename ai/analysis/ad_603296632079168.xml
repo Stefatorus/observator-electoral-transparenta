@@ -1,0 +1,52 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: Yes, "CMF 11240017" is present at the end of the post, indicating this is electoral propaganda.
+
+2. Refers to candidates: Yes
+- Mentions Mihai Suciu as parliamentary candidate
+- Explicitly mentions Marcel Ciolacu as presidential candidate
+
+3. Addresses wide population: Yes
+- Paid advertisement on Facebook and Instagram
+- Reaches between 100,001-500,000 people
+- Uses formal language addressing voters ("votul dumneavoastră")
+
+4. Electoral objective: Yes
+- Clear call to vote ("Pe 24 noiembrie și 8 decembrie votăm")
+- Explicitly promotes PSD candidates
+- Uses campaign slogans ("#CaleaSigură")
+
+5. Journalism: No
+- This is clearly a campaign message, not journalistic content
+- Contains campaign promises and calls to action
+
+6. Personal opinion: No
+- This is an official party communication (PSD Bistrița-Năsăud)
+- Contains formal campaign messaging
+</analysis>
+
+<conclusion>
+<post_id>603296632079168</post_id>
+<electoral-propaganda-analysis>
+This is clearly electoral propaganda because:
+- Contains official CMF number
+- Explicitly promotes presidential candidate after campaign period
+- Makes direct calls to vote
+- Is paid advertising reaching a wide audience
+- Contains campaign promises and party slogans
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate>
+    <name>ION-MARCEL CIOLACU</name>
+    <impact>POSITIVE</impact>
+  </candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>PSD</responsible-party-or-group>
+<message-for-police>
+Partidul Social Democrat - Organizația Județeană Bistrița-Năsăud, pentru incalcarea articolului 55 t) din Legea 370/2004, prin continuarea propagandei electorale pentru candidatul prezidențial Marcel Ciolacu după încheierea perioadei legale de campanie. Postarea cu ID-ul 603296632079168 pe facebook conține îndemnuri directe de vot ("Pe 24 noiembrie și 8 decembrie votăm — Marcel Ciolacu, Președinte al României!"), fiind o reclamă plătită care a continuat să ruleze după ora 18:00 pe 23.11.2024, încălcând astfel prevederile legale privind încheierea campaniei electorale. Postarea include număr CMF (11240017), confirmând natura sa de propagandă electorală, și a avut un impact semnificativ, ajungând la un public țintă de peste 100.000 de persoane.
+</message-for-police>
+</conclusion>
+</output>

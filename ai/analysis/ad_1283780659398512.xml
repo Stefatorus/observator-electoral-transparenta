@@ -1,0 +1,41 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: Yes, contains "CMF 11240017"
+2. Refers to candidate: Yes, explicitly mentions "Marcel Ciolacu" for president
+3. Addresses wide population: Yes, it's a paid Facebook/Instagram ad targeting 100,001-500,000 people
+4. Electoral objective: Yes, explicitly asks for votes ("votați Marcel Ciolacu președinte")
+5. Journalism: No, this is clearly campaign material
+6. Personal opinion: No, this is an official campaign communication with CMF number
+
+The post clearly violates Article 55 t) because:
+- It's running after the conclusion of the presidential campaign period
+- It explicitly asks people to vote for Marcel Ciolacu as president
+- It's a paid advertisement reaching a large audience
+- Contains official campaign elements (CMF number)
+</analysis>
+
+<conclusion>
+<post_id>1283780659398512</post_id>
+<electoral-propaganda-analysis>
+This is clearly electoral propaganda because:
+- Contains official campaign identifiers (CMF)
+- Directly asks for votes
+- Targets large audience through paid advertising
+- Makes specific electoral promises
+- Names specific candidates and positions
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate>
+    <name>ION-MARCEL CIOLACU</name>
+    <impact>POSITIVE</impact>
+  </candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>PSD</responsible-party-or-group>
+<message-for-police>
+Infomed Pro SRL și Gabriel Traian Ghilea, pentru incalcarea articolului 55 t) din Legea 370/2004, prin difuzarea de materiale de propagandă electorală după încheierea campaniei electorale prezidențiale, constând într-o postare sponsorizată pe Facebook (ID: 1283780659398512) care îndeamnă explicit la votarea candidatului Marcel Ciolacu pentru funcția de președinte ("votați Marcel Ciolacu președinte"). Postarea, difuzată după ora 18:00 pe 23.11.2024, include număr CMF (11240017), are caracter electoral explicit și targetează un public larg (100,001-500,000 persoane) prin intermediul unei reclame plătite pe platformele Facebook și Instagram.
+</message-for-police>
+</conclusion>
+</output>

@@ -1,0 +1,44 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF (CMF 11240017) - Yes, this clearly indicates it's electoral propaganda
+2. Refers to candidate - Yes, explicitly mentions "Marcel Ciolacu" as presidential candidate
+3. Addresses wide population - Yes, it's a paid Facebook/Instagram ad targeting 100,001-500,000 people
+4. Electoral objective - Yes, explicitly asks for votes using phrases like "Susține-ne duminica aceasta, votând Marcel Ciolacu președinte!"
+5. Journalism - No, this is clearly campaign material, not journalistic content
+6. Personal opinion - No, this is structured campaign messaging with clear call to action for voting
+
+The post violates Article 55 t) because:
+- It continues electoral propaganda for the presidential election after the campaign period ended
+- It explicitly calls for voting for Marcel Ciolacu as president
+- It's a paid advertisement reaching a large audience
+- Contains official campaign messaging (CMF number)
+- Has significant spend (100-199 RON) and reach (10,000-14,999 impressions)
+
+</analysis>
+
+<conclusion>
+<post_id>386986527742462</post_id>
+<electoral-propaganda-analysis>
+This is clearly electoral propaganda because:
+- Contains official CMF number
+- Direct call to vote for specific candidate
+- Paid distribution
+- Large audience reach
+- Official campaign messaging
+- Explicit electoral purpose
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate>
+    <name>ION-MARCEL CIOLACU</name>
+    <impact>POSITIVE</impact>
+  </candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>PSD</responsible-party-or-group>
+<message-for-police>
+Infomed Pro SRL, pentru incalcarea articolului 55 t) din Legea 370/2004, prin difuzarea de materiale de propaganda electorala pentru candidatul ION-MARCEL CIOLACU dupa incheierea campaniei electorale. Postarea cu ID-ul 386986527742462 contine indemnuri directe la vot ("Susține-ne duminica aceasta, votând Marcel Ciolacu președinte!"), fiind o reclama platita pe Facebook si Instagram, cu un buget intre 100-199 RON si o audienta estimata intre 100,001-500,000 persoane. Postarea include numarul oficial de campanie CMF 11240017, confirmand natura sa de propaganda electorala. Aceasta activitate continua dupa ora 18:00 pe 23.11.2024, incalcand astfel prevederile legale privind perioada de campanie electorala.
+</message-for-police>
+</conclusion>
+</output>

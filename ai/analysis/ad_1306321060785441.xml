@@ -1,0 +1,43 @@
+<output>
+<analysis>
+Let's analyze this post according to the given criteria:
+
+1. Has CMF: Yes, contains "CMF 11240017"
+2. Refers to candidate: Yes, explicitly mentions Marcel Ciolacu, a presidential candidate
+3. Addresses wide population: Yes, targets "bihoreni" and has a paid reach of 3,000-3,999 impressions
+4. Electoral objective: Yes, explicitly calls for votes using "votează Marcel Ciolacu la alegerile prezidențiale"
+5. Journalism: No, this is clearly campaign material
+6. Personal opinion: No, this is a structured campaign message
+
+The post is problematic because:
+- It's running after the campaign period for presidential elections
+- Contains direct call to vote for Marcel Ciolacu
+- Is a paid advertisement reaching thousands
+- Contains CMF number indicating it's official campaign material
+- Is clearly electoral propaganda continuing after the legal deadline
+</analysis>
+
+<conclusion>
+<post_id>1306321060785441</post_id>
+<electoral-propaganda-analysis>
+This is clearly electoral propaganda because:
+- Contains explicit call to vote
+- Mentions specific candidate
+- Uses campaign messaging
+- Has CMF number
+- Is paid advertisement
+- Targets wide audience
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate>
+    <name>ION-MARCEL CIOLACU</name>
+    <impact>POSITIVE</impact>
+  </candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>PSD</responsible-party-or-group>
+<message-for-police>
+Infomed Pro SRL, pentru incalcarea articolului 55 t) din Legea 370/2004, prin difuzarea unei reclame platite pe Facebook (ID: 1306321060785441) ce continua propaganda electorala dupa incheierea campaniei pentru alegerile prezidentiale. Postarea contine un indemn explicit de a vota candidatul Marcel Ciolacu la alegerile prezidentiale ("votează Marcel Ciolacu la alegerile prezidențiale"), fiind difuzata dupa ora 18:00 pe 23.11.2024. Materialul este unul de propaganda electorala conform Art. 36(7), continand numar CMF (11240017), fiind platit pentru a ajunge la un public larg (3000-3999 impresii), si avand obiectiv electoral explicit.
+</message-for-police>
+</conclusion>
+</output>

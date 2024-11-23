@@ -1,0 +1,42 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF (CMF:11240017) - Yes, this indicates it's electoral propaganda
+2. Refers to candidate - Yes, mentions Marcel Ciolacu directly
+3. Addresses wide population - Yes, it's a paid Facebook ad with significant reach (8,000+ impressions)
+4. Electoral objective - Yes, promotes PSD's economic vision and Marcel Ciolacu's leadership
+5. Journalism - No, this is clearly campaign material, not journalistic content
+6. Personal opinion - No, this is an official party communication with CMF number
+
+The post is promoting both:
+- Parliamentary elections (Remus Lăpușan for Chamber of Deputies)
+- Presidential elections (mentioning Marcel Ciolacu)
+
+The post combines messaging for both presidential and parliamentary campaigns, which is problematic as the presidential campaign period has ended.
+</analysis>
+
+<conclusion>
+<post_id>1655170358449919</post_id>
+<electoral-propaganda-analysis>
+This constitutes electoral propaganda because:
+- Contains CMF number
+- Directly promotes a presidential candidate (Marcel Ciolacu)
+- Is a paid advertisement
+- Has clear electoral messaging
+- Reaches a wide audience (8,000+ impressions)
+- Is posted after the end of the presidential campaign period
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate>
+    <name>ION-MARCEL CIOLACU</name>
+    <impact>POSITIVE</impact>
+  </candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>PSD</responsible-party-or-group>
+<message-for-police>
+WEDEV NOVAT SRL și PSD Cluj-Organizatia Judeteana, pentru incalcarea articolului 55 t) din Legea 370/2004, prin difuzarea unei reclame platite pe Facebook (ID: 1655170358449919) dupa ora 18:00 pe 23.11.2024, care promoveaza candidatul prezidential Marcel Ciolacu. Postarea contine numar CMF (11240017), are caracter electoral explicit, promoveaza direct candidatul la presedintie si viziunea sa economica, si a avut un impact semnificativ, ajungand la peste 8000 de persoane. Materialul constituie propaganda electorala conform Art. 36(7) din Legea 334/2006, intrucat se refera direct la candidat, are obiectiv electoral si se adreseaza publicului larg prin intermediul unei platforme de social media.
+</message-for-police>
+</conclusion>
+</output>

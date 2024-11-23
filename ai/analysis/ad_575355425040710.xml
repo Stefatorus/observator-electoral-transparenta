@@ -1,0 +1,39 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: Yes, CMF:11240017 is present at the end of the post
+2. Refers to candidate: Yes, explicitly mentions "Marcel Ciolacu"
+3. Addresses wide population: Yes, it's a paid Facebook post with potential reach of 100,001-500,000 people
+4. Electoral objective: Yes, promotes PSD's economic plan and explicitly asks people to join them ("Haideți cu noi pe calea sigură!")
+5. Journalism: No, this is clearly a campaign message, not journalistic content
+6. Personal opinion: No, this is an official party message with CMF number
+
+The post was created and started delivery on November 22, 2024, and is still active. Given that the presidential election campaign period has ended, and Marcel Ciolacu is a presidential candidate, this constitutes continued electoral propaganda after the campaign period.
+
+</analysis>
+
+<conclusion>
+<post_id>575355425040710</post_id>
+<electoral-propaganda-analysis>
+This is clearly electoral propaganda because:
+- Contains official CMF number
+- Directly mentions presidential candidate Marcel Ciolacu
+- Promotes party (PSD) economic platform
+- Uses campaign rhetoric
+- Is a paid advertisement reaching large audience
+- Continues to run after campaign period ended
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate>
+    <name>ION-MARCEL CIOLACU</name>
+    <impact>POSITIVE</impact>
+  </candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>PSD</responsible-party-or-group>
+<message-for-police>
+MEGASOFT SYSTEMS SRL și Partidul Social Democrat, pentru incalcarea articolului 55 t) din Legea 370/2004, prin continuarea propagandei electorale după încheierea campaniei, prin promovarea unui mesaj electoral plătit (ID Facebook: 575355425040710) care îl menționează explicit pe candidatul prezidențial Marcel Ciolacu și programul PSD, folosind număr CMF (11240017), într-un mod care vizează influențarea votului. Postarea continuă să fie activă și după ora 18:00 pe 23.11.2024, încălcând astfel perioada legală de campanie electorală. Mesajul are caracter electoral evident, solicitând explicit susținerea ("Haideți cu noi pe calea sigură!") și promovând platforma electorală a candidatului.
+</message-for-police>
+</conclusion>
+</output>

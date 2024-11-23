@@ -1,0 +1,52 @@
+<output>
+<analysis>
+Let's analyze this post according to the given criteria:
+
+1. Has CMF: Yes, the post contains "CMF: 11240017" which indicates it's electoral propaganda
+
+2. Refers to candidate: Yes, mentions "Marcel Ciolacu" who is a presidential candidate (Position 3)
+
+3. Addresses wide population: Yes
+- It's a paid Facebook/Instagram post with significant reach (15,000-19,999 impressions)
+- Targets a general audience in Maramureș
+- Spent 300-399 RON on promotion
+
+4. Electoral objective: Yes
+- Promotes PSD's parliamentary team
+- Specifically mentions Marcel Ciolacu and his plan
+- Uses electoral slogans ("Calea sigură pentru România!")
+- Clearly aims to influence voting behavior
+
+5. Journalism: No
+- This is clearly a campaign message, not journalistic content
+- Contains political promotion and campaign messaging
+
+6. Personal opinion: No
+- This is an official party communication (PSD Maramureș)
+- Contains structured campaign messaging
+- Has CMF number
+</analysis>
+
+<conclusion>
+<post_id>620276456991285</post_id>
+<electoral-propaganda-analysis>
+This constitutes electoral propaganda because:
+- Official party communication with CMF number
+- Promotes both parliamentary and presidential candidates
+- Paid distribution on social media
+- Clear electoral messaging and call to action
+- References to presidential candidate Marcel Ciolacu
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+<candidate>
+<name>ION-MARCEL CIOLACU</name>
+<impact>POSITIVE</impact>
+</candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>PSD</responsible-party-or-group>
+<message-for-police>
+PSD Maramures, pentru incalcarea articolului 55 t) din Legea 370/2004, prin promovarea unui mesaj electoral platit (ID: 620276456991285) ce face referire directă la candidatul prezidențial Marcel Ciolacu, după încheierea perioadei de campanie electorală. Postarea, având CMF 11240017, a fost distribuită pe Facebook și Instagram cu un buget între 300-399 RON, atingând între 15.000-19.999 de persoane, promovând explicit mesaje electorale și planul de măsuri al candidatului, după ora 18:00 pe 23.11.2024, încălcând astfel prevederile legale privind încheierea campaniei electorale.
+</message-for-police>
+</conclusion>
+</output>

@@ -1,0 +1,45 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. CMF Number: Present (CMF: 11240017) - This indicates it's electoral propaganda
+2. Candidate Reference: The post mentions both parliamentary and presidential campaigns ("campanie parlamentară și prezidențială")
+3. Wide Population Address: Yes - It's a paid Facebook post targeting 100,001-500,000 people
+4. Electoral Objective: Yes - It explicitly discusses electoral campaign activities and strategy
+5. Journalism vs Propaganda: This is clearly campaign communication, not journalism
+6. Personal Opinion: No - This is official party communication from PSD Maramureș
+
+The post shows several characteristics of electoral propaganda:
+- It's an official party communication (PSD Maramureș)
+- Contains a CMF number
+- Discusses campaign activities
+- Uses campaign slogans (#CaleaSigurăPentruRomânia)
+- Is a paid advertisement reaching a large audience
+- Mentions both parliamentary and presidential campaigns while the presidential campaign period has ended
+
+</analysis>
+
+<conclusion>
+<post_id>445600828269259</post_id>
+<electoral-propaganda-analysis>
+This constitutes electoral propaganda because:
+1. It's a paid political advertisement
+2. Contains official campaign messaging
+3. Has a CMF number
+4. Explicitly mentions presidential campaign activities
+5. Targets a large audience
+6. Uses campaign slogans and messaging
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate>
+    <name>ION-MARCEL CIOLACU</name>
+    <impact>POSITIVE</impact>
+  </candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>PSD</responsible-party-or-group>
+<message-for-police>
+PSD Maramureș, pentru incalcarea articolului 55 t) din Legea 370/2004, prin promovarea unui mesaj de propagandă electorală pentru alegerile prezidențiale (menționând explicit "campanie prezidențială") după încheierea perioadei legale de campanie, într-o postare sponsorizată pe Facebook (ID: 445600828269259) cu impact între 40.000 și 45.000 de afișări. Postarea, realizată după ora 18:00 pe 23.11.2024, conține elemente clare de propagandă electorală, inclusiv număr CMF (11240017), slogan de campanie și mesaje care promovează candidatul PSD la președinție, încălcând astfel prevederile legale privind încheierea campaniei electorale.
+</message-for-police>
+</conclusion>
+</output>

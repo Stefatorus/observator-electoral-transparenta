@@ -1,0 +1,54 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: Yes - CMF 11240017 is present at the end of the post, indicating this is electoral propaganda
+
+2. Refers to candidate: Yes
+- Directly mentions Marcel Ciolacu as presidential candidate
+- Also mentions Gabriel Ghilea as senate candidate
+
+3. Addresses wide population: Yes
+- It's a paid Facebook/Instagram advertisement
+- Targets a large estimated audience (100,001-500,000 people)
+- Uses broad, public appeal language
+
+4. Electoral objective: Yes
+- Explicitly calls for votes ("vă îndemn să ne susțineți, votând Marcel Ciolacu președinte")
+- Includes direct voting instructions
+- Promotes both presidential and parliamentary candidates
+
+5. Journalism: No
+- This is clearly campaign material, not journalistic content
+- Contains direct vote solicitation
+- Includes campaign messaging and candidate promotion
+
+6. Personal opinion: No
+- This is an organized, paid campaign message
+- Contains official campaign elements (CMF number)
+- Structured as electoral propaganda
+</analysis>
+
+<conclusion>
+<post_id>1501110307184723</post_id>
+<electoral-propaganda-analysis>
+This is clearly electoral propaganda because:
+- Contains CMF number
+- Direct call to vote for specific candidates
+- Paid advertisement reaching large audience
+- Explicit electoral messaging
+- Organized campaign content
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate>
+    <name>ION-MARCEL CIOLACU</name>
+    <impact>POSITIVE</impact>
+  </candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>PSD</responsible-party-or-group>
+<message-for-police>
+Infomed Pro SRL, pentru incalcarea articolului 55 t) din Legea 370/2004, prin promovarea unui mesaj de propaganda electorala pentru candidatul prezidential Marcel Ciolacu dupa incheierea perioadei de campanie. Postarea cu ID 1501110307184723 contine indemnuri directe de vot ("vă îndemn să ne susțineți, votând Marcel Ciolacu președinte"), are caracter electoral explicit, fiind difuzata ca reclama platita pe Facebook si Instagram dupa ora 18:00 pe 23.11.2024. Postarea include numar CMF (11240017), confirmand natura sa de propaganda electorala, si vizeaza un public larg estimat intre 100,001-500,000 persoane.
+</message-for-police>
+</conclusion>
+</output>

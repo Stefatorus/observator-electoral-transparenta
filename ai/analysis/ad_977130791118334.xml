@@ -1,0 +1,37 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. CMF Present: Yes - "CMF:11240017" - This is a clear indicator of electoral material
+2. Refers to candidate: Yes - Mentions "Marcel Ciolacu" directly, who is a presidential candidate
+3. Addresses wide population: Yes - It's a paid Facebook post with 25,000-29,999 impressions
+4. Electoral objective: Yes - Promotes PSD's economic vision and explicitly asks people to join them ("Haideți cu noi pe calea sigură!")
+5. Journalism: No - This is clearly promotional content, not journalistic
+6. Personal opinion: No - This is an official party message with CMF number
+
+The post combines presidential electoral messaging (mentioning Ciolacu) with parliamentary campaign content. Since Marcel Ciolacu is a presidential candidate and this post was made after the end of the presidential campaign period, this constitutes continued electoral propaganda.
+
+The message promotes both PSD's parliamentary platform and Marcel Ciolacu as a leader, which makes it problematic given the timing.
+</analysis>
+
+<conclusion>
+<post_id>977130791118334</post_id>
+<electoral-propaganda-analysis>
+This constitutes electoral propaganda because:
+- Contains official CMF number
+- Directly mentions presidential candidate Marcel Ciolacu
+- Has clear electoral messaging
+- Is a paid advertisement reaching a large audience
+- Promotes both the candidate and party platform
+- Continues after the presidential campaign period ended
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate><name>ION-MARCEL CIOLACU</name><impact>POSITIVE</impact></candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>PSD</responsible-party-or-group>
+<message-for-police>
+MEGASOFT SYSTEMS SRL și PSD, pentru incalcarea articolului 55 t) din Legea 370/2004, prin continuarea propagandei electorale după încheierea campaniei prezidențiale, promovând candidatul ION-MARCEL CIOLACU într-un material publicitar plătit pe Facebook (ID: 977130791118334). Materialul, publicat după ora 18:00 pe 23.11.2024, conține număr CMF (11240017), promovează explicit candidatul și partidul, și îndeamnă alegătorii să urmeze "calea sigură" propusă de candidat, având un impact semnificativ cu peste 25.000 de afișări. Mesajul combină în mod deliberat elementele campaniei parlamentare cu promovarea candidatului prezidențial, încălcând astfel perioada de restricție pentru campania prezidențială.
+</message-for-police>
+</conclusion>
+</output>

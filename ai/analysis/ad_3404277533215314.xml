@@ -1,0 +1,43 @@
+<output>
+<analysis>
+Let's analyze this post according to the given criteria:
+
+1. Has CMF (CMF: 11240015) - Yes, this indicates it's electoral propaganda
+2. Refers to candidates:
+   - Mentions Marcel Ciolacu (presidential candidate)
+   - Mentions Cătălin Drulă (USR)
+   - References PSD and PNL negatively
+3. Addresses wide population:
+   - Paid advertisement with significant reach (45,000-50,000 impressions)
+   - Direct call to action for voting ("veniți la vot")
+4. Electoral objective:
+   - Clear call for voting USR
+   - Explicitly promotes parliamentary elections ("pe 1 Decembrie, la alegerile parlamentare")
+   - Contains party program link
+5. Journalism: No, this is clearly campaign material
+6. Personal opinion: No, this is structured campaign communication
+
+However, this post is focused on the parliamentary elections (December 1st) which are still in the legal campaign period. While it mentions Ciolacu, it does so in his capacity as PSD leader/PM, not as presidential candidate. The main focus is clearly on parliamentary elections.
+
+</analysis>
+
+<conclusion>
+<post_id>3404277533215314</post_id>
+<electoral-propaganda-analysis>
+This is clearly electoral propaganda, but it's LEGAL propaganda because:
+1. It's primarily focused on parliamentary elections
+2. The campaign period for parliamentary elections is still active
+3. References to presidential candidates are incidental and in their current roles
+4. The call to action is specifically for December 1st parliamentary elections
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>FALSE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+<candidate>
+<name>ION-MARCEL CIOLACU</name>
+<impact>NEGATIVE</impact>
+</candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>USR</responsible-party-or-group>
+<message-for-police></message-for-police>
+</conclusion>
+</output>

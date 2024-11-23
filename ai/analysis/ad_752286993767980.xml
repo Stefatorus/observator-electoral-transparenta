@@ -1,0 +1,53 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: Yes - "CMF 11240002" is present at the end of the post, indicating this is electoral propaganda material.
+
+2. Refers to candidate: Yes
+- Directly mentions Nicolae Ciucă as presidential candidate
+- Also mentions Marcel Ciolacu (PSD) in a negative context
+
+3. Addresses wide population: Yes
+- Paid advertisement with significant reach (15,000-20,000 impressions)
+- Uses inclusive language ("vom reuși uniți")
+- Addresses general public about national interests
+
+4. Electoral objective: Yes
+- Clearly promotes Nicolae Ciucă as the future president
+- Explicitly states "România are nevoie de un președinte de dreapta"
+- Positions PNL against other parties (PSD, AUR)
+- Uses campaign messaging about future direction of country
+
+5. Journalism: No
+- This is clearly campaign material, not journalistic content
+- Contains partisan messaging and clear political positioning
+
+6. Personal opinion: No
+- This is a structured, paid campaign message
+- Contains official party messaging (has CMF number)
+- Published by a media company (SC EURO MEDIA BIS SRL)
+
+</analysis>
+
+<conclusion>
+<post_id>752286993767980</post_id>
+<electoral-propaganda-analysis>
+This is clearly electoral propaganda because:
+- Has official CMF number
+- Directly promotes a presidential candidate
+- Paid advertisement with significant reach
+- Contains explicit electoral messaging
+- Published by a media company on behalf of political interests
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate><name>NICOLAE-IONEL CIUCĂ</name><impact>POSITIVE</impact></candidate>
+  <candidate><name>ION-MARCEL CIOLACU</name><impact>NEGATIVE</impact></candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>PNL</responsible-party-or-group>
+<message-for-police>
+SC EURO MEDIA BIS SRL, pentru incalcarea articolului 55 t) din Legea 370/2004, prin difuzarea de materiale de propagandă electorală (ID postare Facebook: 752286993767980) după încheierea perioadei de campanie electorală. Materialul promovat reprezintă propagandă electorală explicită în favoarea candidatului Nicolae Ciucă (PNL) la președinție, conținând mesaje care îndeamnă direct la susținerea acestuia și critici la adresa contracandidaților, fiind difuzat după ora 18:00 pe 23.11.2024. Postarea include număr CMF (11240002), confirmând natura sa de material de propagandă electorală, și a fost distribuită ca reclamă plătită pe Facebook și Instagram, cu un impact semnificativ (15,000-20,000 impresii).
+</message-for-police>
+</conclusion>
+</output>

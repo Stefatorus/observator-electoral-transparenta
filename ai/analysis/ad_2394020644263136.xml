@@ -1,0 +1,45 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: Yes - "CMF 11240017 PSD GIURGIU SENAT" is present at the end of the post.
+
+2. Refers to candidate: Yes - Makes direct reference to "Marcel Ciolacu" as "viitorul președinte", who is one of the presidential candidates.
+
+3. Addresses wide population: Yes - This is a paid post targeting Giurgiu county with significant reach (250,000-300,000 impressions) and substantial spending (2500-3000 RON).
+
+4. Electoral objective: Yes - The post clearly has electoral objectives:
+- Promotes Marcel Ciolacu as "viitorul președinte"
+- Criticizes the current liberal administration
+- Calls for votes ("VOTAȚI PENTRU FAMILIILE VOASTRE!")
+- Makes electoral promises
+
+5. Journalism: No - This is clearly campaign material, not journalistic content.
+
+6. Personal opinion: No - This is a structured campaign message with clear electoral objectives, posted by "PSD Giurgiu" as indicated in the byline.
+</analysis>
+
+<conclusion>
+<post_id>2394020644263136</post_id>
+<electoral-propaganda-analysis>
+This constitutes electoral propaganda because:
+- Contains CMF number
+- Makes direct references to presidential candidate
+- Contains clear calls to vote
+- Makes electoral promises
+- Is paid advertising with wide reach
+- Uses campaign messaging structure
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate>
+    <name>ION-MARCEL CIOLACU</name>
+    <impact>POSITIVE</impact>
+  </candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>PSD</responsible-party-or-group>
+<message-for-police>
+PSD Giurgiu, pentru incalcarea articolului 55 t) din Legea 370/2004, prin promovarea unui mesaj electoral platit pe Facebook (ID: 2394020644263136) dupa incheierea perioadei de campanie electorala pentru alegerile prezidentiale. Postarea promoveaza explicit candidatul ION-MARCEL CIOLACU ca "viitorul președinte" si face promisiuni electorale in numele acestuia, avand un impact direct asupra alegerilor prezidentiale. Mesajul a fost promovat dupa ora 18:00 pe 23.11.2024, incalcand astfel perioada legala de campanie electorala. Postarea a avut o audienta semnificativa, atingand intre 250.000 si 300.000 de afisari, cu o investitie intre 2.500 si 3.000 RON.
+</message-for-police>
+</conclusion>
+</output>

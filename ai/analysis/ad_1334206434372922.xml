@@ -1,0 +1,50 @@
+<output>
+<analysis>
+Let me analyze this post according to the required criteria:
+
+1. Has CMF: No direct CMF number is visible in the post, though it's a political message.
+
+2. Refers to candidate: Yes, explicitly mentions two presidential candidates:
+- Ludovic Orban (mentioning his withdrawal)
+- Călin Georgescu (actively promoting him)
+
+3. Addresses wide population: Yes
+- Directly addresses "Stimați cetățeni ai județului Gorj"
+- Uses paid promotion on Facebook and Instagram
+- Targets multiple counties in Romania
+- Has reached between 3,000-3,999 impressions
+
+4. Electoral objective: Yes
+- Explicitly calls for support of Călin Georgescu
+- Contains direct voting appeal: "Vă chem alături de mine să susținem..."
+- States "Votul pentru Călin Georgescu este un vot pentru independență"
+
+5. Journalism: No
+- This is clearly a campaign message
+- Contains personal endorsement
+- Includes direct call to action for voting
+
+The post is clearly electoral propaganda as it meets all criteria from Article 36(7).
+</analysis>
+
+<conclusion>
+<post_id>1334206434372922</post_id>
+<electoral-propaganda-analysis>
+This is clearly electoral propaganda because:
+- Directly promotes a presidential candidate
+- Makes explicit voting recommendations
+- Uses paid distribution channels
+- Addresses the general public
+- Contains political messaging and endorsement
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate><name>CĂLIN GEORGESCU</name><impact>POSITIVE</impact></candidate>
+  <candidate><name>LUDOVIC ORBAN</name><impact>NEUTRAL</impact></candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>FORȚA DREPTEI</responsible-party-or-group>
+<message-for-police>
+Ion Marian Ciofîcă, candidat Camera Deputaților Forța Dreptei Gorj, pentru incalcarea articolului 55 t) din Legea 370/2004, prin promovarea unui mesaj de propagandă electorală pentru candidatul prezidențial Călin Georgescu după încheierea perioadei de campanie electorală. Postarea cu ID-ul 1334206434372922 pe facebook conține îndemnuri directe la vot ("Vă chem alături de mine să susținem", "Votul pentru Călin Georgescu este un vot pentru independență"), fiind promovată după ora 18:00 pe 23.11.2024, într-o postare plătită ce a ajuns la 3000-4000 de persoane din mai multe județe. Mesajul încalcă prevederile legale prin continuarea propagandei electorale după încheierea acesteia.
+</message-for-police>
+</conclusion>
+</output>

@@ -1,0 +1,47 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: No CMF number is present in this post.
+
+2. Refers to candidate: Yes, specifically mentions and endorses Călin Georgescu, who is a presidential candidate, and also mentions Ludovic Orban's withdrawal.
+
+3. Addresses wide population: Yes
+- It's a paid advertisement on Facebook/Instagram
+- Starts with "Oameni buni" (Dear people)
+- Targets multiple regions and age groups
+- Has significant reach (2000-2999 impressions)
+
+4. Electoral objective: Yes
+- Explicitly declares support for Călin Georgescu
+- Attempts to influence voting behavior by discussing "votul util" (useful vote)
+- Makes arguments about why people should vote for alternative candidates
+- Criticizes the current PSD-PNL coalition
+
+5. Journalism: No
+- This is clearly a personal endorsement
+- Contains subjective opinions and political positioning
+- Lacks journalistic objectivity and reporting standards
+</analysis>
+
+<conclusion>
+<post_id>1303880497450662</post_id>
+<electoral-propaganda-analysis>
+This constitutes electoral propaganda because:
+- Directly endorses a presidential candidate (Călin Georgescu)
+- Attempts to influence voting behavior
+- Is a paid advertisement reaching thousands of people
+- Makes political arguments against other candidates/parties
+- Uses persuasive language to convince voters
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate><name>CĂLIN GEORGESCU</name><impact>POSITIVE</impact></candidate>
+  <candidate><name>LUDOVIC ORBAN</name><impact>NEGATIVE</impact></candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>INDEPENDENT</responsible-party-or-group>
+<message-for-police>
+Marian Ciofîcă, pentru incalcarea articolului 55 t) din Legea 370/2004, prin publicarea și promovarea unei reclame plătite pe Facebook (ID: 1303880497450662) după ora 18:00 pe 23.11.2024, în care face propagandă electorală explicită în favoarea candidatului Călin Georgescu, încercând să influențeze decizia de vot a alegătorilor prin argumentarea în favoarea acestuia și împotriva altor candidați. Postarea a fost promovată cu bani (între 0-99 RON) și a ajuns la 2000-2999 de persoane, constituind astfel o acțiune deliberată de propagandă electorală în perioada în care aceasta este interzisă prin lege.
+</message-for-police>
+</conclusion>
+</output>
