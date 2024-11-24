@@ -1,0 +1,41 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF (CMF 11240017) - Yes, this indicates it's electoral propaganda
+2. Refers to candidate - Yes, specifically mentions Marcel Ciolacu, who is a presidential candidate
+3. Addresses wide population - Yes, targeting "bihoreni" and has paid distribution
+4. Electoral objective - Yes, explicitly asks people to vote for Marcel Ciolacu on November 24
+5. Journalism - No, this is clearly campaign material
+6. Personal opinion - No, this is a structured campaign message with electoral call to action
+
+The post contains several problematic elements:
+- Direct call to vote for Marcel Ciolacu for president
+- Includes CMF number indicating official campaign material
+- Is being promoted after campaign period ended
+- Explicitly mentions the election date and voting instructions
+</analysis>
+
+<conclusion>
+<post_id>937024215153673</post_id>
+<electoral-propaganda-analysis>
+This is clearly electoral propaganda because:
+- Contains official campaign identifier (CMF)
+- Directly asks for votes for a specific presidential candidate
+- Is structured as campaign material
+- Makes electoral promises ("calea sigură pentru România")
+- Uses paid promotion to reach wider audience
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+<candidate>
+<name>ION-MARCEL CIOLACU</name>
+<impact>POSITIVE</impact>
+</candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>PSD</responsible-party-or-group>
+<message-for-police>
+Infomed Pro SRL, pentru incalcarea articolului 55 t) din Legea 370/2004, prin difuzarea unui material de propaganda electorala (ID Facebook: 937024215153673) dupa incheierea perioadei de campanie electorala, respectiv dupa ora 18:00 pe 23.11.2024. Materialul promovat contine un indemn explicit la vot pentru candidatul Marcel Ciolacu la alegerile prezidentiale din 24 noiembrie, folosind formulari precum "vă așteptăm să-l votați pe președințele Marcel Ciolacu" si include numar CMF 11240017, confirmand natura sa de material de propaganda electorala. Postarea este promovata activ prin instrumente de advertising pe Facebook si Instagram, targetand populatia din judetul Bihor, avand un impact estimat intre 2000 si 2999 de afisari, reprezentand astfel o incalcare clara a interdictiei de a continua propaganda electorala dupa incheierea campaniei.
+</message-for-police>
+</conclusion>
+</output>

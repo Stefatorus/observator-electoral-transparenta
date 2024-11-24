@@ -1,0 +1,38 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. CMF Number: Present (CMF 11240017) - This indicates it's electoral propaganda material
+2. Candidate Reference: Yes - explicitly mentions "Marcel Ciolacu, candidatul Partidului Social Democrat (PSD) la Președinția României"
+3. Wide Population Targeting: Yes - it's a paid advertisement with 90,000-99,999 impressions
+4. Electoral Objective: Yes - presents Ciolacu's vision and proposals as a presidential candidate
+5. Journalism: No - this is clearly a promotional message rather than journalistic content
+6. Personal Opinion: No - this is an official party communication with campaign promises
+
+The post discusses Ciolacu's vision for sports in Romania, presenting him specifically as a presidential candidate. The presence of a CMF number, combined with the explicit presidential candidate mention, makes this clearly electoral propaganda.
+
+</analysis>
+
+<conclusion>
+<post_id>567368295837608</post_id>
+<electoral-propaganda-analysis>
+This constitutes electoral propaganda because:
+- Contains official CMF number
+- Explicitly presents Ciolacu as presidential candidate
+- Makes campaign promises about sports development
+- Is a paid advertisement reaching a large audience
+- Links to an article specifically about his presidential campaign vision
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+<candidate>
+<name>ION-MARCEL CIOLACU</name>
+<impact>POSITIVE</impact>
+</candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>PSD</responsible-party-or-group>
+<message-for-police>
+PSD Brașov, pentru incalcarea articolului 55 t) din Legea 370/2004, prin continuarea propagandei electorale după încheierea campaniei electorale pentru alegerile prezidențiale, prin difuzarea unei reclame plătite pe Facebook (ID: 567368295837608) care îl promovează explicit pe Marcel Ciolacu în calitate de candidat la președinție, prezentând viziunea sa pentru dezvoltarea sportului românesc. Materialul conține număr CMF (11240017), are caracter explicit electoral prin prezentarea candidatului și a promisiunilor electorale, și a continuat să fie difuzat după ora 18:00 pe 23.11.2024, încălcând astfel perioada legală de campanie electorală. Efectul electoral este evident prin promovarea explicită a candidatului și a programului său prezidențial în domeniul sportului.
+</message-for-police>
+</conclusion>
+</output>

@@ -1,0 +1,56 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. CMF Number:
+- Contains "CMF: 11240014" which is a clear indicator of electoral propaganda
+
+2. Refers to candidate:
+- Directly mentions "George Simion președinte!" who is a presidential candidate (#2 on the ballot)
+- The reference is explicit and unambiguous
+
+3. Addresses wide population:
+- Paid advertisement with significant reach (30,000-35,000 impressions)
+- Uses broad language "Timpul României noastre" (Our Romania's time)
+- Targets a large estimated audience (500,001-1,000,000)
+
+4. Electoral objective:
+- Clear campaign slogan "George Simion președinte!"
+- Uses nationalist symbolism (Romanian flag emoji)
+- Direct call for leadership position
+- The message is clearly meant to promote Simion's presidential candidacy
+
+5. Journalism:
+- Not journalistic content
+- No informative or educational value
+- Pure campaign message
+
+6. Personal opinion:
+- This is not a personal opinion but an official party communication (posted by AUR)
+- Includes official campaign elements (CMF number)
+</analysis>
+
+<conclusion>
+<post_id>533765789578462</post_id>
+<electoral-propaganda-analysis>
+This is clearly electoral propaganda because:
+- Contains official campaign elements (CMF number)
+- Directly promotes a presidential candidate
+- Is paid advertising reaching a large audience
+- Has clear electoral objective
+- Uses campaign slogans and symbolism
+- Is sponsored by a political party
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate>
+    <name>GEORGE-NICOLAE SIMION</name>
+    <impact>POSITIVE</impact>
+  </candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>AUR</responsible-party-or-group>
+<message-for-police>
+Partidul Alianta pentru Unirea Romanilor (AUR), pentru incalcarea articolului 55 t) din Legea 370/2004, prin difuzarea unui mesaj de propaganda electorală după încheierea perioadei de campanie, respectiv după ora 18:00 pe 23.11.2024. Postarea cu ID-ul 533765789578462 conține elementele clare ale propagandei electorale: folosește un număr CMF (11240014), promovează direct candidatul George Simion pentru funcția de președinte ("George Simion președinte!"), utilizează simboluri naționale în context electoral, și este difuzată ca reclamă plătită cu impact semnificativ (30.000-35.000 impresii). Mesajul are un obiectiv electoral clar și direct, vizând influențarea votului în favoarea candidatului AUR la alegerile prezidențiale.
+</message-for-police>
+</conclusion>
+</output>

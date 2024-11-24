@@ -1,0 +1,45 @@
+<output>
+<analysis>
+Let me analyze this post according to the required criteria:
+
+1. Has CMF: No CMF number is present in this post.
+
+2. Refers to candidate: Yes, it explicitly mentions "Simion" who is GEORGE-NICOLAE SIMION, a registered presidential candidate (Position 2).
+
+3. Addresses wide population: Yes, this is a paid advertisement on Facebook and Instagram, targeting a potential audience of over 1 million people, specifically mentioning Botoșani region.
+
+4. Electoral objective: Yes, this appears to be electoral propaganda as:
+- Uses hashtag "#VoteazăAUR"
+- Promotes "Planul Simion"
+- Is clearly designed to influence voters
+- Uses campaign-specific messaging
+
+5. Journalism: No, this is not journalistic content as it's a direct campaign message from a political party.
+
+6. Personal opinion: No, this is an official paid advertisement from a political party account "Alegerea de AUR".
+
+</analysis>
+
+<conclusion>
+<post_id>1123473639412728</post_id>
+<electoral-propaganda-analysis>
+This post constitutes electoral propaganda because:
+- It directly promotes a presidential candidate (Simion)
+- Uses explicit voting-related hashtags
+- Is a paid advertisement reaching a large audience
+- Has clear electoral objectives
+- Is published by an official party channel
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+<candidate>
+<name>GEORGE-NICOLAE SIMION</name>
+<impact>POSITIVE</impact>
+</candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>AUR</responsible-party-or-group>
+<message-for-police>
+Pagina "Alegerea de AUR", pentru incalcarea articolului 55 t) din Legea 370/2004, prin continuarea propagandei electorale după încheierea perioadei legale de campanie, prin promovarea unui mesaj electoral explicit pentru candidatul George Nicolae Simion la funcția de președinte. Postarea cu ID 1123473639412728, publicată și promovată după ora 18:00 pe 23.11.2024, folosește hashtag-uri precum "#VoteazăAUR" și promovează "Planul Simion", reprezentând o încercare clară de a influența alegătorii în favoarea candidatului AUR la președinție, într-o perioadă în care propaganda electorală este interzisă prin lege.
+</message-for-police>
+</conclusion>
+</output>

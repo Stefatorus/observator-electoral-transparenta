@@ -1,0 +1,51 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. CMF Number:
+- Contains CMF 11240014, indicating this is electoral propaganda material
+
+2. Reference to Candidates:
+- Directly mentions George Simion, who is a presidential candidate (Position 2)
+- References AUR (Alianța pentru Unirea Românilor)
+
+3. Addresses Wide Population:
+- Paid advertisement with significant reach (25,000-30,000 impressions)
+- Uses inclusive language ("pentru toți românii")
+- Calls for action ("Susține-ne la alegeri")
+
+4. Electoral Objective:
+- Clear call to support in elections ("Susține-ne la alegeri")
+- Presents candidate in positive light ("lideri integri")
+- Uses electoral hashtags (#Alegeri2024)
+
+5. Journalism vs Propaganda:
+- This is clearly campaign material, not journalism
+- Contains campaign promises and political messaging
+- Has a clear persuasive intent
+
+The post contains all elements of electoral propaganda as defined by Article 36(7) of Law 334/2006.
+
+</analysis>
+
+<conclusion>
+<post_id>538309045777464</post_id>
+<electoral-propaganda-analysis>
+This post constitutes electoral propaganda because:
+- Contains official CMF number
+- Directly references a presidential candidate
+- Makes electoral promises
+- Calls for electoral support
+- Uses campaign messaging and hashtags
+- Is a paid advertisement with significant reach
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate><name>GEORGE-NICOLAE SIMION</name><impact>POSITIVE</impact></candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>AUR</responsible-party-or-group>
+<message-for-police>
+TOP DUO CONSULTING S.R.L., pentru incalcarea articolului 55 t) din Legea 370/2004, prin difuzarea de materiale de propaganda electorala pentru candidatul prezidential George Nicolae Simion dupa incheierea perioadei de campanie electorala. Postarea cu ID-ul 538309045777464 contine elemente clare de propaganda electorala, inclusiv numar CMF (11240014), indemnuri directe la vot ("Susține-ne la alegeri"), prezentarea candidatului intr-o lumina pozitiva ("lideri integri"), si folosirea hashtag-urilor electorale. Postarea are un efect electoral direct, vizand influentarea intentiei de vot a alegatorilor prin promovarea candidatului si a partidului sau, fiind difuzata dupa ora 18:00 pe 23.11.2024, incalcand astfel prevederile legale privind perioada de campanie electorala.
+</message-for-police>
+</conclusion>
+</output>

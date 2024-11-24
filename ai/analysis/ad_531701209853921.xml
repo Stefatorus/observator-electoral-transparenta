@@ -1,0 +1,42 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: Yes - "Cod mandatar: 11240022" is present
+2. Refers to candidates: Yes - directly mentions Elena Lasconi and Ludovic Orban, both presidential candidates
+3. Addresses wide population: Yes - it's a paid advertisement reaching 15,000-20,000 people
+4. Electoral objective: Yes - explicitly calls for voting ("Pe 24 noiembrie, votăm Elena Lasconi")
+5. Journalism: No - this is clearly campaign material, not journalistic content
+6. Personal opinion: No - this is an official party communication with electoral intent
+
+The post contains several elements that make it electoral propaganda:
+- Direct call to vote for a specific candidate
+- Uses campaign mandate code
+- Paid distribution
+- Clear electoral messaging
+- Addresses the general public
+- Has a clear electoral objective
+
+</analysis>
+
+<conclusion>
+<post_id>531701209853921</post_id>
+<electoral-propaganda-analysis>
+This is clearly electoral propaganda because:
+- Contains explicit call to vote for Elena Lasconi
+- Uses official campaign mandate code
+- Direct electoral messaging
+- Paid distribution for wide reach
+- Clear attempt to influence voting behavior
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate><name>ELENA-VALERICA LASCONI</name><impact>POSITIVE</impact></candidate>
+  <candidate><name>LUDOVIC ORBAN</name><impact>POSITIVE</impact></candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>FORTA DREPTEI</responsible-party-or-group>
+<message-for-police>
+Forta Dreptei, pentru incalcarea articolului 55 t) din Legea 370/2004, prin publicarea si promovarea unei reclame platite (ID: 531701209853921) care continua propaganda electorala dupa incheierea perioadei legale de campanie pentru alegerile prezidentiale. Postarea contine un indemn explicit de vot pentru candidata Elena Lasconi ("Pe 24 noiembrie, votăm Elena Lasconi"), foloseste cod mandatar electoral (11240022), si are un caracter vadit de propaganda electorala, fiind promovata dupa ora 18:00 pe 23.11.2024. Impactul electoral este direct si substantial, postarea avand o audienta estimata intre 15.000 si 20.000 de persoane, cu un buget de promovare intre 300-399 RON, reprezentand o incercare clara de influentare a votului in ziua alegerilor.
+</message-for-police>
+</conclusion>
+</output>

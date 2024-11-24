@@ -1,0 +1,50 @@
+<output>
+<analysis>
+Let me analyze this post according to the required criteria:
+
+1. Has CMF: No visible CMF number, but this doesn't automatically disqualify it as propaganda.
+
+2. Refers to candidate: Yes, explicitly mentions "George Simion președinte", who is one of the presidential candidates (Position 2).
+
+3. Addresses wide population: Yes, this is a paid Facebook advertisement with an estimated reach of 100,001-500,000 people and actual impressions between 40,000-44,999.
+
+4. Electoral objective: Yes, clearly has an electoral objective:
+- Direct call to vote ("Votați AUR")
+- Explicit support for George Simion as president
+- Uses campaign-specific hashtags
+- Promises a "stronger Romania" as a result of voting for them
+
+5. Journalism: No, this is clearly campaign material, not journalistic content. It's a direct appeal for votes with campaign slogans.
+
+6. Personal opinion: No, this is a paid advertisement from "UNIWORLD - MEDIA SRL" with clear campaign messaging.
+
+This is a clear example of electoral propaganda as it meets all criteria under Article 36(7):
+- Directly references a candidate (George Simion)
+- Used during campaign period
+- Has clear electoral objective
+- Is not journalistic content
+</analysis>
+
+<conclusion>
+<post_id>959848279534435</post_id>
+<electoral-propaganda-analysis>
+This post constitutes electoral propaganda because:
+- Explicitly calls for votes for a specific presidential candidate
+- Is a paid advertisement reaching a large audience
+- Contains campaign promises and electoral messaging
+- Uses campaign-specific hashtags and calls to action
+- Is clearly intended to influence voting behavior
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate>
+    <name>GEORGE-NICOLAE SIMION</name>
+    <impact>POSITIVE</impact>
+  </candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>AUR</responsible-party-or-group>
+<message-for-police>
+UNIWORLD - MEDIA SRL, pentru incalcarea articolului 55 t) din Legea 370/2004, prin difuzarea de materiale de propaganda electorala dupa incheierea perioadei de campanie electorala pentru alegerile prezidentiale, prin intermediul unei reclame platite pe Facebook (ID: 959848279534435) care continua sa ruleze dupa data de 23.11.2024, ora 18:00. Postarea contine un indemn explicit de vot pentru candidatul George Simion la functia de presedinte ("Votați AUR pentru o Românie puternică și pe George Simion președinte"), având un evident caracter de propaganda electorala prin promisiuni electorale si indemnuri directe la vot, atingand un public intre 40.000 si 45.000 de persoane, cu un buget de aproximativ 250 RON, reprezentand astfel o incercare clara de influentare a comportamentului electoral al alegatorilor dupa incheierea perioadei legale de campanie.
+</message-for-police>
+</conclusion>
+</output>

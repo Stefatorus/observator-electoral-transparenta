@@ -1,0 +1,47 @@
+<output>
+<analysis>
+Let me analyze this post according to the given criteria:
+
+1. Has CMF: Yes, CMF 11240022 is present, indicating this is electoral content.
+
+2. Refers to candidates: Yes, multiple presidential candidates are mentioned:
+- Elena Lasconi (USR)
+- Mircea Geoană (Independent)
+- Ludovic Orban (Forța Dreptei)
+- George Simion (AUR)
+
+3. Addresses wide population: Yes, this is a paid Facebook advertisement with significant reach (15,000-19,999 impressions).
+
+4. Electoral objective: Yes, it clearly has an electoral objective:
+- Discusses electoral strategy
+- Mentions support for specific candidates
+- Discusses electoral chances and polls
+- Aims to influence voting preferences
+
+5. Journalism: No, while it references a ProTV interview, the post itself is campaign material rather than journalistic content.
+
+6. Personal opinion: While it includes Băsescu's opinions, the context and CMF number indicate this is campaign material.
+</analysis>
+
+<conclusion>
+<post_id>932946168775192</post_id>
+<electoral-propaganda-analysis>
+This post constitutes electoral propaganda because:
+1. It has a CMF number
+2. It explicitly discusses presidential candidates and electoral strategies
+3. It's a paid advertisement reaching a wide audience
+4. It clearly aims to influence voting preferences
+5. It promotes specific candidates while discussing electoral chances
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate><name>ELENA-VALERICA LASCONI</name><impact>POSITIVE</impact></candidate>
+  <candidate><name>MIRCEA-DAN GEOANĂ</name><impact>NEGATIVE</impact></candidate>
+  <candidate><name>GEORGE-NICOLAE SIMION</name><impact>NEUTRAL</impact></candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>FORTA DREPTEI</responsible-party-or-group>
+<message-for-police>
+FORȚA DREPTEI MUREȘ, pentru incalcarea articolului 55 t) din Legea 370/2004, prin continuarea propagandei electorale pentru alegerile prezidentiale dupa incheierea perioadei legale de campanie, prin postarea cu ID 932946168775192 pe Facebook, dupa ora 18:00 pe 23.11.2024. Postarea constituie propaganda electorala deoarece contine numar CMF (11240022), promoveaza explicit candidati la presedintie (Elena Lasconi - pozitiv, Mircea Geoana - negativ), discuta strategii electorale si sondaje, si urmareste influentarea votului prin promovarea unei anumite optiuni electorale. Postarea este platita si are un reach semnificativ (15,000-19,999 impresii), demonstrand intent clar de a influenta corpul electoral.
+</message-for-police>
+</conclusion>
+</output>

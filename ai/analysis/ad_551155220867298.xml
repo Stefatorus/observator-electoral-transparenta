@@ -1,0 +1,44 @@
+<output>
+<analysis>
+Let's analyze this post according to the given criteria:
+
+1. Has CMF: Yes, the post ends with "CMF 11240017" which indicates it's electoral propaganda material.
+
+2. Refers to candidate: Yes, explicitly mentions "Marcel Ciolacu, candidatul PSD la președinția României"
+
+3. Addresses wide population: Yes, this is a paid advertisement with significant reach (175,000-199,999 impressions) on Facebook and Instagram.
+
+4. Electoral objective: Yes, the post clearly promotes Marcel Ciolacu as presidential candidate and PSD's vision, ending with "PSD este CALEA SIGURĂ PENTRU BRAȘOV ȘI PENTRU ROMÂNIA!"
+
+5. Journalism: No, this is clearly campaign material, not journalistic content.
+
+6. Personal opinion: No, this is an official party communication with CMF number.
+
+The post combines Ciolacu's current role as Prime Minister with his candidacy for president, making it electoral propaganda. While discussing economic development is allowed, the explicit connection to his presidential candidacy makes this problematic after the campaign period has ended.
+
+</analysis>
+
+<conclusion>
+<post_id>551155220867298</post_id>
+<electoral-propaganda-analysis>
+This constitutes electoral propaganda because:
+- Contains official CMF number
+- Explicitly promotes Marcel Ciolacu as presidential candidate
+- Links current PM activities to presidential campaign
+- Has clear electoral messaging
+- Uses party slogans and campaign promises
+- Is a paid advertisement reaching a large audience
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+<candidate>
+<name>ION-MARCEL CIOLACU</name>
+<impact>POSITIVE</impact>
+</candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>PSD</responsible-party-or-group>
+<message-for-police>
+PSD Brașov, pentru incalcarea articolului 55 t) din Legea 370/2004, prin promovarea unui material de propaganda electorala (ID Facebook: 551155220867298) dupa incheierea perioadei de campanie electorala pentru alegerile prezidentiale. Materialul promovat dupa ora 18:00 pe 23.11.2024 face referire directa la Marcel Ciolacu ca "candidatul PSD la președinția României", prezinta programul sau electoral, foloseste sloganuri de campanie ("CALEA SIGURĂ PENTRU BRAȘOV ȘI PENTRU ROMÂNIA"), si include numar CMF (11240017), demonstrand natura sa de propaganda electorala. Postarea are un efect electoral direct, promovand candidatul si programul sau prezidential, fiind distribuita ca reclama platita pe Facebook si Instagram cu un impact semnificativ (peste 175,000 afisari).
+</message-for-police>
+</conclusion>
+</output>

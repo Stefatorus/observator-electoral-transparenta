@@ -1,0 +1,41 @@
+<output>
+<analysis>
+Let me analyze this post according to the given criteria:
+
+1. Has CMF: No CMF number is present in this post.
+
+2. Refers to candidate: Yes, it directly refers to George Simion, who is a presidential candidate (Position #2 on the ballot).
+
+3. Addresses wide population: Yes, this is a paid advertisement on Facebook and Instagram, with a significant reach (30,000-35,000 impressions) and a substantial budget (200-299 RON).
+
+4. Electoral objective: While not explicitly calling for votes, the context of discussing how "to conquer a people" during election period, coming from a presidential candidate, can be interpreted as having electoral objectives.
+
+5. Journalism: This does not appear to be journalistic content as it lacks the characteristics of news reporting or objective analysis.
+
+6. Personal opinion: This appears to be a promoted message about a candidate's views rather than a personal opinion.
+
+The timing of this post (November 22, 2024) and its continuation beyond the electoral propaganda period makes it problematic under Article 55 t).
+</analysis>
+
+<conclusion>
+<post_id>1326414468524628</post_id>
+<electoral-propaganda-analysis>
+This post constitutes electoral propaganda because:
+- It features a presidential candidate during the electoral period
+- It's a paid advertisement reaching a large audience
+- The message about "conquering a people" has political implications
+- The timing extends beyond the legal propaganda period
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate>
+    <name>GEORGE-NICOLAE SIMION</name>
+    <impact>POSITIVE</impact>
+  </candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>AUR</responsible-party-or-group>
+<message-for-police>
+4media.INFO, pentru incalcarea articolului 55 t) din Legea 370/2004, prin promovarea unui material de propaganda electorala cu candidatul GEORGE-NICOLAE SIMION dupa incheierea perioadei de campanie. Materialul, cu ID-ul 1326414468524628 pe facebook, promovat dupa ora 18:00 pe 23.11.2024, prezinta continut electoral explicit referitor la candidatul la presedintie George Simion, sub forma unei reclame platite care a ajuns la 30.000-35.000 de persoane. Mesajul "George Simion explică cum se cucerește un popor" reprezinta un element de propaganda electorala care urmareste influentarea alegatorilor in perioada de interdictie, avand un evident obiectiv electoral prin asocierea candidatului cu un mesaj de leadership si putere politica.
+</message-for-police>
+</conclusion>
+</output>

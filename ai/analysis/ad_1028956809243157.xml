@@ -1,0 +1,55 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. CMF Presence:
+- Yes, contains CMF 11240017, indicating this is electoral propaganda
+
+2. Candidate Reference:
+- Directly mentions Marcel Ciolacu, a presidential candidate
+- Also mentions Gabriel Ghilea for senator
+- Clear identification of candidates and positions
+
+3. Wide Population Targeting:
+- Paid advertisement on Facebook and Instagram
+- Reaching between 100,001-500,000 people
+- Clearly addresses voters ("avem nevoie de voturile tale")
+
+4. Electoral Objective:
+- Explicit call to vote for Marcel Ciolacu for president on November 24
+- Direct request for votes
+- Uses electoral slogans and campaign messaging
+
+5. Journalism:
+- Not journalistic content
+- Personal story used as campaign material
+
+6. Personal Opinion:
+- While it includes a personal story about piloting, it's clearly structured as campaign material
+
+This is a clear example of electoral propaganda that continues beyond the allowed period for the presidential elections.
+</analysis>
+
+<conclusion>
+<post_id>1028956809243157</post_id>
+<electoral-propaganda-analysis>
+This post constitutes electoral propaganda because:
+- Contains official CMF number
+- Directly calls for votes for a presidential candidate
+- Is a paid advertisement reaching a large audience
+- Has clear electoral objectives
+- Uses campaign messaging and direct vote solicitation
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate>
+    <name>ION-MARCEL CIOLACU</name>
+    <impact>POSITIVE</impact>
+  </candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>PSD</responsible-party-or-group>
+<message-for-police>
+Infomed Pro SRL, pentru incalcarea articolului 55 t) din Legea 370/2004, prin difuzarea unei reclame platite pe Facebook si Instagram (ID: 1028956809243157) dupa ora 18:00 pe 23.11.2024, care continua propaganda electorala pentru candidatul la presedintie Marcel Ciolacu. Postarea contine un indemn direct la vot pentru alegerile prezidentiale ("Duminică, 24 noiembrie, votează Marcel Ciolacu - președinte!"), foloseste un cod CMF (11240017), si are un obiectiv electoral explicit, atingand un public estimat intre 100,001-500,000 de persoane. Materialul depaseste limitele comunicarii permise in aceasta perioada si reprezinta o continuare clara a propagandei electorale dupa incheierea campaniei pentru alegerile prezidentiale.
+</message-for-police>
+</conclusion>
+</output>

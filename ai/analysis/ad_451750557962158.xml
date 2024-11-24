@@ -1,0 +1,43 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: Yes, CMF 31240006 is present, indicating this is electoral content
+2. Refers to candidate: Yes, directly mentions "George Simion Președinte"
+3. Addresses wide population: Yes, it's a paid advertisement reaching 10,000-14,999 impressions
+4. Electoral objective: Yes, clear electoral messaging with "George Simion Președinte" and campaign hashtags
+5. Journalism: No, this is purely campaign material
+6. Personal opinion: No, this is structured as campaign messaging
+
+The post is a clear example of electoral propaganda because:
+- It directly promotes George Simion for president
+- Uses campaign identifiers (CMF number)
+- Is being actively promoted through paid advertising
+- Uses campaign-specific hashtags (#GeorgeSimionPresedinte #Alegeri2024)
+- Has significant reach (10,000+ impressions)
+- Is targeting the presidential election specifically
+
+This post is particularly problematic because it's continuing to run after the campaign period has ended for the presidential elections.
+</analysis>
+
+<conclusion>
+<post_id>451750557962158</post_id>
+<electoral-propaganda-analysis>
+This is clearly electoral propaganda because:
+- Contains official campaign identifier (CMF)
+- Directly promotes a presidential candidate
+- Uses campaign slogans and hashtags
+- Is a paid promotion
+- Targets presidential elections specifically
+- Has wide reach through paid distribution
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate><name>GEORGE-NICOLAE SIMION</name><impact>POSITIVE</impact></candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>AUR</responsible-party-or-group>
+<message-for-police>
+SC VIDEO DANCRYS-STUDIO S.R.L., pentru incalcarea articolului 55 t) din Legea 370/2004, prin continuarea propagandei electorale după încheierea campaniei pentru alegerile prezidențiale, prin promovarea activă și plătită a mesajului "George Simion Președinte" pe platformele Facebook și Instagram, cu hashtag-uri specifice campaniei prezidențiale (#GeorgeSimionPreședinte #Alegeri2024), având un CMF alocat (31240006), ceea ce demonstrează clar intenția de propagandă electorală. Postarea, cu ID-ul 451750557962158, a continuat să fie difuzată și după ora 18:00 pe 23.11.2024, atingând între 10.000 și 14.999 de persoane, având un efect electoral direct prin îndemnul explicit de a-l susține pe George Simion la funcția de președinte.
+</message-for-police>
+</conclusion>
+</output>

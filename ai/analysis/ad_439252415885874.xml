@@ -1,0 +1,50 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: Yes, "CMF: 11240015" is present at the end, indicating this is electoral propaganda.
+
+2. Refers to candidates: 
+- Mentions "Marcel Ciolacu" (presidential candidate)
+- Mentions "Elena Lasconi" (presidential candidate)
+- Mentions "Simion" (presidential candidate)
+
+3. Addresses wide population:
+- Yes, this is a paid Facebook/Instagram ad with significant reach (10,000-14,999 impressions)
+- Uses call-to-action language addressing the general public
+
+4. Electoral objective:
+- Clear electoral objective evidenced by "Votează USR la Parlamentare și #ElenaLasconiPresedinte!"
+- Combines both parliamentary and presidential messaging
+- Criticizes one candidate (Ciolacu) while promoting another (Lasconi)
+
+5. Journalism:
+- This is not journalistic content but rather political messaging and campaign material
+
+6. Personal opinion:
+- This is not a personal opinion but an official party communication (USR Constanța)
+</analysis>
+
+<conclusion>
+<post_id>439252415885874</post_id>
+<electoral-propaganda-analysis>
+This post constitutes electoral propaganda because:
+- It has an official CMF number
+- It explicitly calls for votes for specific candidates
+- Contains both allowed (parliamentary) and prohibited (presidential) electoral messaging
+- Makes direct comparisons between presidential candidates
+- Uses campaign slogans and calls to action
+- Is a paid advertisement reaching a wide audience
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate><name>ELENA-VALERICA LASCONI</name><impact>POSITIVE</impact></candidate>
+  <candidate><name>ION-MARCEL CIOLACU</name><impact>NEGATIVE</impact></candidate>
+  <candidate><name>GEORGE-NICOLAE SIMION</name><impact>NEGATIVE</impact></candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>USR</responsible-party-or-group>
+<message-for-police>
+USR Constanța, pentru incalcarea articolului 55 t) din Legea 370/2004, prin publicarea si promovarea unei reclame platite pe Facebook (ID: 439252415885874) dupa ora 18:00 pe 23.11.2024, care constituie propaganda electorala pentru alegerile prezidentiale. Postarea promoveaza explicit candidatul Elena Lasconi la presedintie prin indemnul direct "Elena Lasconi Presedinte", in timp ce denigreaza candidatii Marcel Ciolacu si George Simion. Postarea include elemente clare de propaganda electorala, cum ar fi numarul CMF 11240015, foloseste un mesaj de indemn la vot pentru un candidat specific la prezidentiale si ataca alti candidati, depasind astfel cadrul permis al comunicarii politice in perioada post-campanie pentru alegerile prezidentiale.
+</message-for-police>
+</conclusion>
+</output>

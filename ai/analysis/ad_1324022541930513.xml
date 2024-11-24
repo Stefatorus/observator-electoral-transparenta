@@ -1,0 +1,42 @@
+<output>
+<analysis>
+Analyzing this post according to the required criteria:
+
+1. Has CMF: Yes - "Cod Mandatar Financiar Coordonator: 11240014" is present
+2. Refers to candidate: Yes - Explicitly mentions "George Simion" as presidential candidate
+3. Addresses wide population: Yes - It's a paid advertisement with broad reach (30,000-35,000 impressions)
+4. Electoral objective: Yes - Explicitly calls for voting ("votați George Simion Președinte")
+5. Journalism: No - This is clearly campaign material, not journalistic content
+6. Personal opinion: No - This is an orchestrated campaign message with multiple public figures' endorsements
+
+The post is a clear example of electoral propaganda because:
+- It explicitly promotes George Simion for the presidential election
+- Contains a direct call to vote ("votați George Simion Președinte")
+- Uses multiple mayors' endorsements to influence voters
+- Has a CMF number indicating it's official campaign material
+- Is being promoted after the campaign period has ended
+</analysis>
+
+<conclusion>
+<post_id>1324022541930513</post_id>
+<electoral-propaganda-analysis>
+This is clearly electoral propaganda because:
+1. Contains explicit call to vote for a specific presidential candidate
+2. Uses official endorsements from mayors
+3. Has CMF number
+4. Is paid advertising reaching a wide audience
+5. Direct campaign message for presidential elections
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+<candidate>
+<name>GEORGE-NICOLAE SIMION</name>
+<impact>POSITIVE</impact>
+</candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>AUR</responsible-party-or-group>
+<message-for-police>
+I AM ONLINE SRL, pentru incalcarea articolului 55 t) din Legea 370/2004, prin promovarea unui material de propaganda electorala pentru candidatul George Nicolae Simion la alegerile prezidentiale, dupa incheierea perioadei de campanie electorala. Postarea cu ID 1324022541930513 contine un indemn explicit la vot ("votați George Simion Președinte pentru o Românie cinstită și unită!"), foloseste sustinerea mai multor primari pentru a influenta alegatorii, si include cod mandatar financiar (11240014), demonstrand caracterul sau oficial de propaganda electorala. Materialul este difuzat dupa ora 18:00 pe 23.11.2024, incalcand astfel prevederile legale privind perioada de campanie electorala, cu un impact semnificativ avand in vedere audienta estimata intre 30.000 si 35.000 de persoane.
+</message-for-police>
+</conclusion>
+</output>

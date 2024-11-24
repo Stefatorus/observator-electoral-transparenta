@@ -1,0 +1,50 @@
+<output>
+<analysis>
+Analyzing the post according to the required criteria:
+
+1. Has CMF: Yes - CMF 11240003 and CMF 31240004 are present, indicating this is electoral propaganda.
+
+2. Refers to candidates: Yes
+- Mentions Marcel Ciolacu (Position 3 - PSD)
+- Promotes Cristian-Vasile Terheș (Position 13 - PNCR)
+- Uses hashtags #TerhesPresedinte and tags Cristian Terheș
+
+3. Addresses wide population: Yes
+- Paid advertisement on Facebook/Instagram
+- Targets large audience (estimated 500,001-1,000,000 people)
+- Addresses Diaspora and general Romanian population
+
+4. Electoral objective: Yes
+- Uses presidential campaign hashtag #alegeriprezidentiale2024
+- Clearly promotes Terheș while criticizing other candidates
+- Attempts to influence voter opinion by criticizing PSD and AUR while promoting PNCR
+
+5. Journalism: No
+- This is not journalistic content but rather campaign messaging
+- Contains political accusations and campaign rhetoric
+
+6. Personal opinion: No
+- This is a structured, paid political message
+- Contains CMF numbers indicating official campaign material
+</analysis>
+
+<conclusion>
+<post_id>1255773598984272</post_id>
+<electoral-propaganda-analysis>
+This post constitutes electoral propaganda because:
+1. Contains official CMF numbers
+2. Directly promotes a presidential candidate while attacking others
+3. Is a paid advertisement targeting a large audience
+4. Has clear electoral objectives
+5. Uses campaign hashtags and mentions
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate><name>CRISTIAN-VASILE TERHEȘ</name><impact>POSITIVE</impact></candidate>
+  <candidate><name>ION-MARCEL CIOLACU</name><impact>NEGATIVE</impact></candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>PNCR</responsible-party-or-group>
+<message-for-police>
+TOHANEANU NICOLAE-VLADUT PERSOANA FIZICA AUTORIZATA, pentru incalcarea articolului 55 t) din Legea 370/2004, prin difuzarea de materiale de propaganda electorala dupa incheierea perioadei de campanie, respectiv dupa ora 18:00 pe 23.11.2024. Postarea cu ID-ul 1255773598984272 reprezinta propaganda electorala evidenta, continand numere CMF (11240003 si 31240004), promovand direct candidatul Cristian-Vasile Terheș prin hashtag-ul #TerhesPresedinte si atacand contracandidati precum Marcel Ciolacu. Postarea este platita si targetata catre un public larg (500,001-1,000,000 persoane), cu scop electoral explicit, utilizand hashtag-ul #alegeriprezidentiale2024, reprezentand astfel o incercare clara de influentare a votului in perioada in care propaganda electorala este interzisa prin lege.</message-for-police>
+</conclusion>
+</output>

@@ -1,0 +1,41 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: Yes, "CMF:11240017" is present at the end of the post, indicating this is electoral propaganda material.
+
+2. Refers to candidate: Yes, explicitly mentions "Marcel Ciolacu" who is a presidential candidate (Position 3 on the ballot).
+
+3. Addresses wide population: Yes, this is a paid advertisement on Facebook and Instagram with an estimated reach of 500,001-1,000,000 people and actual impressions of 8,000-8,999.
+
+4. Electoral objective: Yes, clearly aims to influence voters by stating that Ciolacu is "the only one who has proven that stability is possible," directly promoting his candidacy.
+
+5. Journalism: No, this is not journalistic content as it makes a direct endorsement without any balanced reporting or factual analysis.
+
+6. Personal opinion: While presented as an opinion, this is a paid advertisement with significant reach and includes a CMF number, making it clear campaign material rather than personal expression.
+</analysis>
+
+<conclusion>
+<post_id>2459673824239734</post_id>
+<electoral-propaganda-analysis>
+This post constitutes electoral propaganda because:
+- Contains an official CMF number
+- Directly promotes a presidential candidate
+- Is a paid advertisement with wide reach
+- Makes explicit endorsement
+- Aims to influence voting behavior
+- Published during the period when presidential campaign propaganda is prohibited
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate>
+    <name>ION-MARCEL CIOLACU</name>
+    <impact>POSITIVE</impact>
+  </candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>PSD</responsible-party-or-group>
+<message-for-police>
+MEGASOFT SYSTEMS SRL, pentru incalcarea articolului 55 t) din Legea 370/2004, prin publicarea si promovarea unei reclame platite pe Facebook si Instagram (ID: 2459673824239734) dupa ora 18:00 pe 23.11.2024, ce constituie propaganda electorala in favoarea candidatului ION-MARCEL CIOLACU. Postarea include numarul CMF 11240017, are un caracter electoral explicit prin afirmatia "Stabilitatea este cea mai importantă și singurul care a dovedit că se poate acest lucru este Marcel Ciolacu", vizeaza un public larg (intre 500,001 si 1,000,000 de persoane) si are ca scop influentarea intentiei de vot a alegatorilor in perioada in care propaganda electorala pentru alegerile prezidentiale este interzisa prin lege.
+</message-for-police>
+</conclusion>
+</output>

@@ -1,0 +1,44 @@
+<output>
+<analysis>
+Let me analyze this post according to our criteria:
+
+1. Has CMF: No visible CMF number, but this doesn't automatically disqualify it as propaganda.
+
+2. Refers to candidate: Yes, explicitly mentions "Marcel Ciolacu" who is a presidential candidate (Position 3).
+
+3. Addresses wide population: Yes, it's a paid advertisement targeting a large estimated audience (100,001-500,000 people).
+
+4. Electoral objective: Yes, clearly visible through:
+- Direct call to vote: "Votează Marcel Ciolacu"
+- Campaign slogan: "calea sigură pentru România"
+- Presents achievements to boost candidate's image
+- Links government success (Schengen entry) to the candidate
+
+5. Journalism: No, this is not journalistic content. While it reports on news about Schengen, it's clearly formatted as campaign material with a direct call to vote.
+
+6. Personal opinion: No, this is a structured campaign message paid for by "Infomed Pro SRL"
+</analysis>
+
+<conclusion>
+<post_id>1120850192933191</post_id>
+<electoral-propaganda-analysis>
+This is clearly electoral propaganda because:
+- It directly promotes a presidential candidate
+- Contains explicit call to vote
+- Uses government achievements to boost candidate's image
+- Is a paid advertisement reaching a wide audience
+- Has clear electoral messaging and campaign slogans
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate>
+    <name>ION-MARCEL CIOLACU</name>
+    <impact>POSITIVE</impact>
+  </candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>PSD</responsible-party-or-group>
+<message-for-police>
+Infomed Pro SRL, pentru incalcarea articolului 55 t) din Legea 370/2004, prin difuzarea de materiale de propaganda electorala pentru candidatul Ion-Marcel Ciolacu dupa incheierea perioadei de campanie electorala, prin intermediul unei reclame platite pe Facebook (ID: 1120850192933191) difuzata dupa ora 18:00 pe 23.11.2024. Postarea contine un indemn direct la vot ("Votează Marcel Ciolacu, calea sigură pentru România!"), promoveaza realizarile candidatului in calitate de prim-ministru (aderarea la Schengen) si are un evident caracter de propaganda electorala, fiind o comunicare platita care vizeaza influentarea votului in favoarea candidatului PSD la alegerile prezidentiale.
+</message-for-police>
+</conclusion>
+</output>

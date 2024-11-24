@@ -1,0 +1,53 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. CMF presence: Yes, "CMF:11240017" is present, indicating this is electoral propaganda material.
+
+2. Candidate reference: Yes, directly mentions "Marcel Ciolacu" who is a presidential candidate (Position 3 - PSD).
+
+3. Addresses wide population: Yes, this is a paid Facebook advertisement with significant reach (25,000-29,999 impressions).
+
+4. Electoral objective: Yes, the post:
+- Promotes PSD's economic vision
+- Uses "Haideți cu noi pe calea sigură!" as a call to action
+- Directly associates Marcel Ciolacu with the economic plan
+- Uses "noi, cei de la #PSD" to create group identity
+
+5. Journalism: No, this is clearly a promotional message rather than journalistic content.
+
+6. Personal opinion: No, this is a structured campaign message with CMF number and party positioning.
+
+This post appears to be electoral propaganda because:
+- It has an official CMF number
+- Directly references a presidential candidate
+- Makes campaign promises
+- Calls for public support
+- Is paid advertising reaching a large audience
+</analysis>
+
+<conclusion>
+<post_id>977130791118334</post_id>
+<electoral-propaganda-analysis>
+This post constitutes electoral propaganda as it meets all criteria under Article 36(7):
+- Direct reference to candidate and party
+- Used during campaign period
+- Has electoral objective
+- Exceeds journalistic activity
+- Contains CMF number
+- Makes campaign promises
+- Calls for public support ("Haideți cu noi")
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+<candidate>
+<name>ION-MARCEL CIOLACU</name>
+<impact>POSITIVE</impact>
+</candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>PSD</responsible-party-or-group>
+<message-for-police>
+MEGASOFT SYSTEMS SRL, pentru incalcarea articolului 55 t) din Legea 370/2004, prin continuarea propagandei electorale după încheierea campaniei electorale pentru alegerile prezidențiale, prin publicarea și menținerea activă a unei reclame pe Facebook (ID: 977130791118334) după ora 18:00 pe 23.11.2024. Postarea constituie propagandă electorală conform Art. 36(7) deoarece: menționează explicit candidatul prezidențial Marcel Ciolacu, conține număr CMF (11240017), prezintă promisiuni electorale privind reindustrializarea României, și face apel direct la susținerea publicului ("Haideți cu noi pe calea sigură!"). Efectul electoral este evident prin asocierea pozitivă a candidatului cu un plan economic și prin încercarea de a influența decizia de vot prin prezentarea unei "căi sigure" sub conducerea candidatului menționat.
+</message-for-police>
+</conclusion>
+</output>

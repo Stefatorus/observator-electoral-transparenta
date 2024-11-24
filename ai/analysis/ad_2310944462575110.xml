@@ -1,0 +1,39 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: YES (CMF 31240010, CMF 11240017)
+2. Refers to candidate: YES - directly mentions "Marcel Ciolacu" who is a presidential candidate
+3. Addresses wide population: YES - it's a paid advertisement with significant reach (10,000-14,999 impressions)
+4. Electoral objective: YES - explicitly calls for voting ("VOTĂM Marcel Ciolacu președinte!")
+5. Journalism: NO - this is clearly campaign material, not journalistic content
+6. Personal opinion: NO - this is an official party communication (PSD BN) with CMF numbers
+
+This post is a clear example of electoral propaganda because:
+- It contains CMF numbers, indicating it's official campaign material
+- Directly advocates voting for a specific presidential candidate
+- Is paid advertising reaching a wide audience
+- Has a clear electoral objective with the direct call to vote
+- Is sponsored by a political party (PSD BN)
+</analysis>
+
+<conclusion>
+<post_id>2310944462575110</post_id>
+<electoral-propaganda-analysis>
+This is unambiguously electoral propaganda because:
+- Contains official campaign identifiers (CMF numbers)
+- Direct call to vote for a presidential candidate
+- Paid distribution through Facebook and Instagram
+- Clear electoral message without any informative or journalistic value
+- Official party communication (PSD BN)
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate><name>ION-MARCEL CIOLACU</name><impact>POSITIVE</impact></candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>PSD</responsible-party-or-group>
+<message-for-police>
+PSD BN, pentru incalcarea articolului 55 t) din Legea 370/2004, prin distribuirea unui mesaj de propaganda electorala platit pe Facebook si Instagram (ID postare: 2310944462575110) dupa incheierea perioadei de campanie electorala pentru alegerile prezidentiale. Postarea contine un indemn direct la vot pentru candidatul Marcel Ciolacu ("VOTĂM Marcel Ciolacu președinte!"), este marcata cu coduri CMF (31240010, 11240017), are caracter explicit electoral si a fost distribuita ca reclama platita dupa ora 18:00 pe 23.11.2024, continuand sa fie activa si sa influenteze alegatorii in perioada de interdictie a propagandei electorale.
+</message-for-police>
+</conclusion>
+</output>

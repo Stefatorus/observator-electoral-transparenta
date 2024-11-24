@@ -1,0 +1,50 @@
+<output>
+<analysis>
+Let me analyze this post according to the required criteria:
+
+1. Has CMF: Yes, contains "CMF 11240014"
+
+2. Refers to candidate: Yes, explicitly mentions "George Simion" who is a presidential candidate (Position 2)
+
+3. Addresses wide population: Yes, this is a paid advertisement targeting 500,001-1,000,000 people across Facebook and Instagram
+
+4. Electoral objective: Yes, the post clearly has an electoral objective:
+- Uses campaign rhetoric ("candidatura mea")
+- Makes electoral promises ("voi lupta pentru dreptate")
+- Associates with a presidential candidate
+- Uses political campaign hashtags
+- Makes commitment statements typical of electoral campaigns
+
+5. Journalism: No, this is clearly campaign material, not journalistic content
+
+6. Personal opinion: No, this is a structured campaign message with CMF number and formal political promises
+
+The post is particularly problematic because:
+- It's a paid political advertisement
+- Contains clear campaign messaging
+- Makes electoral promises
+- Uses campaign hashtags
+- Includes CMF number indicating official campaign material
+</analysis>
+
+<conclusion>
+<post_id>1195555961926959</post_id>
+<electoral-propaganda-analysis>
+This clearly constitutes electoral propaganda because:
+- Contains official campaign material identifiers (CMF)
+- Makes electoral promises
+- Associates with presidential candidate George Simion
+- Uses campaign rhetoric and hashtags
+- Is a paid advertisement reaching a large audience
+- Contains direct electoral messaging
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate><name>GEORGE-NICOLAE SIMION</name><impact>POSITIVE</impact></candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>AUR</responsible-party-or-group>
+<message-for-police>
+TOP DUO CONSULTING S.R.L., pentru incalcarea articolului 55 t) din Legea 370/2004, prin difuzarea de materiale de propaganda electorala dupa incheierea campaniei electorale pentru alegerile prezidentiale, prin promovarea unui mesaj platit pe Facebook si Instagram (ID: 1195555961926959) dupa ora 18:00 pe 23.11.2024. Postarea contine material de propaganda electorala explicit, incluzand numar CMF 11240014, promovand candidatul George Simion, facand promisiuni electorale directe ("voi lupta pentru dreptate, transparență și respect pentru lege"), si folosind hashtag-uri de campanie. Mesajul are scop electoral clar, fiind dirijat catre un public larg (500,001-1,000,000 persoane) si depasind limitele comunicarii obisnuite sau jurnalistice.
+</message-for-police>
+</conclusion>
+</output>

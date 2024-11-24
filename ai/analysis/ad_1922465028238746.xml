@@ -1,0 +1,53 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. CMF Number:
+- The post contains CMF:11200014, which is a clear indicator of electoral propaganda material
+
+2. Candidate Reference:
+- Directly mentions and tags George Simion, who is a presidential candidate
+- Uses hashtag #GeorgeSimion #Președinte
+
+3. Wide Population Targeting:
+- Paid advertisement with significant reach (20,000-24,999 impressions)
+- Large estimated audience (500,001-1,000,000)
+- Uses public platform (Facebook)
+
+4. Electoral Objective:
+- Explicit call to vote ("Duminică votez")
+- Presents candidate as "familist, cinstit, patriot"
+- Criticizes other parties (PSD, PNL, USR)
+- Clear campaign messaging with hashtags related to presidency
+
+5. Journalism/Personal Opinion:
+- This is not journalistic content
+- This is clearly campaign material with direct call to action
+- Contains CMF number indicating official campaign material
+
+</analysis>
+
+<conclusion>
+<post_id>1922465028238746</post_id>
+<electoral-propaganda-analysis>
+This is clearly electoral propaganda because:
+- Contains official campaign identifier (CMF)
+- Direct call to vote for a specific candidate
+- Criticizes other political parties
+- Uses campaign hashtags
+- Paid distribution
+- Contains explicit electoral messaging
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate><name>GEORGE-NICOLAE SIMION</name><impact>POSITIVE</impact></candidate>
+  <candidate><name>ELENA-VALERICA LASCONI</name><impact>NEGATIVE</impact></candidate>
+  <candidate><name>ION-MARCEL CIOLACU</name><impact>NEGATIVE</impact></candidate>
+  <candidate><name>NICOLAE-IONEL CIUCĂ</name><impact>NEGATIVE</impact></candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>AUR</responsible-party-or-group>
+<message-for-police>
+Voga Design & Architecture, pentru incalcarea articolului 55 t) din Legea 370/2004, prin distribuirea unui material de propaganda electorala (ID Facebook: 1922465028238746) dupa ora 18:00 pe 23.11.2024, continand un indemn explicit de vot pentru candidatul George Simion la alegerile prezidentiale ("Duminică votez altceva: un familist, cinstit, patriot – pe George Simion!"). Materialul include numar CMF (11200014), foloseste hashtag-uri electorale (#GeorgeSimion #Președinte), si contine mesaje negative la adresa altor candidati prin criticarea partidelor acestora. Postarea este promovata ca reclama platita pe Facebook, cu un impact estimat intre 20.000 si 24.999 de afisari, reprezentand o incercare clara de influentare a votului in perioada in care propaganda electorala este interzisa prin lege.
+</message-for-police>
+</conclusion>
+</output>

@@ -1,0 +1,52 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: Yes, the post ends with "CMF 11240014", indicating it's electoral propaganda.
+
+2. Refers to candidate: Yes, explicitly mentions "George Simion - PREŞEDINTE" who is a presidential candidate (Position #2).
+
+3. Addresses wide population: Yes, this is a paid Facebook/Instagram post targeting 100,001-500,000 people, specifically addressing the community of Sălașu de Sus but with broader implications.
+
+4. Electoral objective: Clearly yes. The post:
+- Explicitly promotes George Simion for president
+- Calls for votes ("Haideți să dăm împreună un vot")
+- Presents him as the solution for national leadership
+- Contrasts him with current leadership
+- Uses campaign messaging about "o Românie mai bună"
+
+5. Journalism: No, this is clearly campaign material, not journalistic content.
+
+6. Personal opinion: No, this is an official AUR party communication with CMF number.
+
+The post is clearly electoral propaganda for the presidential election, containing all elements defined in Article 36(7):
+- Direct reference to candidate
+- Electoral campaign material
+- Clear electoral objective
+- Not journalistic content
+</analysis>
+
+<conclusion>
+<post_id>555150543924818</post_id>
+<electoral-propaganda-analysis>
+This is unequivocally electoral propaganda because:
+- Contains official CMF number
+- Directly promotes a presidential candidate
+- Calls for votes
+- Uses campaign messaging
+- Is paid advertising reaching large audience
+- Has clear electoral objective
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate>
+    <name>GEORGE-NICOLAE SIMION</name>
+    <impact>POSITIVE</impact>
+  </candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>AUR</responsible-party-or-group>
+<message-for-police>
+AUR - Sălașu de Sus, pentru incalcarea articolului 55 t) din Legea 370/2004, prin continuarea propagandei electorale după încheierea perioadei legale de campanie, prin publicarea și menținerea activă a unei reclame pe Facebook și Instagram (ID: 555150543924818) care promovează explicit candidatul George Simion la funcția de președinte. Postarea include număr CMF (11240014), conține îndemnuri directe la vot ("Haideți să dăm împreună un vot"), promovează explicit candidatul pentru funcția de președinte ("George Simion - PREŞEDINTE"), și prezintă un mesaj electoral clar orientat spre influențarea votului ("Este șansa noastră de a pune capăt unui sistem care a cultivat nesiguranța"). Publicitatea este activă și după ora 18:00 pe 23.11.2024, atingând un public între 100,001 și 500,000 de persoane, cu un buget între 300-399 RON, reprezentând astfel o încălcare clară a prevederilor legale privind încheierea campaniei electorale.
+</message-for-police>
+</conclusion>
+</output>

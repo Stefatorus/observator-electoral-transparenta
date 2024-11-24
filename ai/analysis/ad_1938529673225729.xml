@@ -1,0 +1,42 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. CMF Number: Yes, contains "CMF 11240017" which indicates this is electoral propaganda.
+
+2. Candidate Reference: Yes, explicitly mentions "Marcel Ciolacu, Președinte!" who is a presidential candidate (Position 3 on the ballot).
+
+3. Addresses Wide Population: Yes, this is a paid Facebook/Instagram post with significant reach (15,000-19,999 impressions).
+
+4. Electoral Objective: Yes, the post explicitly mentions "asigurându-ne de susținerea lor în alegerile prezidențiale" and promotes PSD's campaign slogan "Calea Sigură pentru România!"
+
+5. Journalism: No, this is clearly a campaign activity report, not journalistic content.
+
+6. Personal Opinion: No, this is an official campaign communication with CMF number.
+
+The post describes campaign activities and explicitly seeks support for both presidential and parliamentary elections. It's important to note that while parliamentary election campaigning is still allowed, presidential election campaigning has concluded.
+</analysis>
+
+<conclusion>
+<post_id>1938529673225729</post_id>
+<electoral-propaganda-analysis>
+This post constitutes electoral propaganda because:
+- Contains official CMF number
+- Explicitly mentions presidential candidate Marcel Ciolacu
+- Seeks electoral support for presidential elections
+- Is a paid advertisement reaching a wide audience
+- Contains official party slogans and campaign messaging
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+<candidate>
+<name>ION-MARCEL CIOLACU</name>
+<impact>POSITIVE</impact>
+</candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>PSD</responsible-party-or-group>
+<message-for-police>
+Infomed Pro SRL, pentru incalcarea articolului 55 t) din Legea 370/2004, prin promovarea unui mesaj de propaganda electorala pentru alegerile prezidentiale dupa incheierea perioadei de campanie, la data de 23.11.2024 dupa ora 18:00. Postarea cu ID-ul 1938529673225729 promoveaza explicit candidatul ION-MARCEL CIOLACU la alegerile prezidentiale, contine numar CMF 11240017, si mentioneza explicit sustinerea pentru alegerile prezidentiale ("asigurându-ne de susținerea lor în alegerile prezidențiale"). Postarea este sponsorizata si are un impact semnificativ, atingand intre 15.000 si 19.999 de persoane, folosind slogan-ul de campanie "PSD, Calea Sigură pentru România!" si promovand explicit candidatul la presedintie Marcel Ciolacu.
+</message-for-police>
+</conclusion>
+</output>

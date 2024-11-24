@@ -1,0 +1,45 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: Yes, CMF 11240014 is present at the end of the post.
+
+2. Refers to candidate: Yes, explicitly mentions "George Simion" who is a presidential candidate (Position 2).
+
+3. Addresses wide population: Yes, this is a paid advertisement on Facebook/Instagram with significant reach (15,000-19,999 impressions).
+
+4. Electoral objective: Yes, the post has multiple objectives:
+- Promotes AUR for parliamentary elections (which is allowed)
+- Promotes George Simion for president (which is not allowed after campaign end)
+- Uses hashtag #GeorgeSimionPresedinte
+- Criticizes PNL and PSD administration
+
+5. Journalism: No, this is clearly campaign material, not journalistic content.
+
+6. Personal opinion: No, this is an official party communication with CMF number.
+
+The post mixes parliamentary election campaign (which is allowed) with presidential campaign elements (which is not allowed after the campaign period).
+</analysis>
+
+<conclusion>
+<post_id>1261056901921116</post_id>
+<electoral-propaganda-analysis>
+This post constitutes electoral propaganda because:
+- Contains CMF number
+- Directly promotes a presidential candidate
+- Uses campaign hashtags for presidential race
+- Has clear electoral objective
+- Is a paid advertisement reaching large audience
+- Combines allowed parliamentary campaign with prohibited presidential campaign elements
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate><name>GEORGE-NICOLAE SIMION</name><impact>POSITIVE</impact></candidate>
+  <candidate><name>NICOLAE-IONEL CIUCĂ</name><impact>NEGATIVE</impact></candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>AUR</responsible-party-or-group>
+<message-for-police>
+Partidul AUR, pentru incalcarea articolului 55 t) din Legea 370/2004, prin publicarea si promovarea unei reclame platite pe Facebook (ID: 1261056901921116) dupa data de 23.11.2024, ora 18:00, care contine elemente clare de propaganda electorala pentru candidatul la presedintie George Simion. Postarea include hashtag-ul "#GeorgeSimionPresedinte", promoveaza explicit candidatura sa la presedintie, si contine numarul CMF 11240014, specific materialelor de propaganda electorala. Efectul electoral al postarii este evident prin promovarea directa a candidatului AUR la presedintie si criticarea adversarilor politici, depasind sfera permisa a campaniei parlamentare si intrând în sfera propagandei electorale prezidentiale interzise dupa încheierea campaniei.
+</message-for-police>
+</conclusion>
+</output>

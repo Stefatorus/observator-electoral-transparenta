@@ -1,0 +1,42 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: No CMF number is present in this post.
+
+2. Refers to candidate: Yes, it refers to Ion-Marcel Ciolacu, who is both the current Prime Minister and a presidential candidate.
+
+3. Addresses wide population: Yes, this is a paid advertisement on Facebook and Instagram, targeting a potential audience of over 1 million people.
+
+4. Electoral objective: This is a complex case. While the post criticizes Ciolacu, it does so in his capacity as Prime Minister regarding his meeting with Viktor Orban, not specifically as a presidential candidate. The criticism is focused on his current role and actions as PM.
+
+5. Journalism: While critical, this appears to be an opinion piece/news article about a specific diplomatic event. The criticism, while harsh, is focused on a specific political action (meeting with Orban) rather than electoral messaging.
+
+6. Personal opinion: This is presented as a news article/opinion piece rather than personal communication.
+
+The context is important here - while Ciolacu is a presidential candidate, this article criticizes his actions as Prime Minister in a specific diplomatic context. The timing is sensitive (during the electoral period), but the content itself focuses on his current role as PM rather than his candidacy.
+</analysis>
+
+<conclusion>
+<post_id>539308318987599</post_id>
+<electoral-propaganda-analysis>
+While this post is critical of Marcel Ciolacu, several factors suggest this might not constitute electoral propaganda:
+- The criticism is specifically about his role as Prime Minister
+- The content focuses on a specific diplomatic event
+- There's no direct reference to the presidential election or his candidacy
+- It follows a journalistic format, albeit with strong opinion elements
+- The criticism is based on current events rather than electoral messaging
+
+However, the timing and the negative portrayal could have indirect electoral effects.
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>FALSE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+<candidate>
+<name>ION-MARCEL CIOLACU</name>
+<impact>NEGATIVE</impact>
+</candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>INDEPENDENT</responsible-party-or-group>
+<message-for-police></message-for-police>
+</conclusion>
+</output>

@@ -1,0 +1,41 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: No CMF, but has CUI (which is different), showing it's from a political party
+2. Refers to candidate: Yes, directly references Elena Lasconi, a presidential candidate
+3. Addresses wide population: Yes, it's a paid advertisement with significant reach (70,000-80,000 impressions)
+4. Electoral objective: Yes, clearly shows support for a presidential candidate through an influential political figure
+5. Journalism: No, this is clearly a political message of support
+6. Personal opinion: While it includes Băsescu's opinion, it's being used in a paid political advertisement to influence voters
+
+The post is particularly problematic because:
+- It directly promotes Elena Lasconi for the presidential election
+- It's being run after the campaign period has ended
+- It's a paid advertisement with significant reach
+- It uses a former president's endorsement to influence voters
+</analysis>
+
+<conclusion>
+<post_id>1232129874723325</post_id>
+<electoral-propaganda-analysis>
+This is clearly electoral propaganda because:
+- It directly promotes a presidential candidate (Elena Lasconi)
+- It uses a former president's endorsement
+- It's a paid advertisement with significant reach
+- It's clearly intended to influence voters' decisions
+- The timing coincides with the post-campaign period for presidential elections
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate>
+    <name>ELENA-VALERICA LASCONI</name>
+    <impact>POSITIVE</impact>
+  </candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>FORTA DREPTEI</responsible-party-or-group>
+<message-for-police>
+Forta Dreptei, pentru incalcarea articolului 55 t) din Legea 370/2004, prin difuzarea unui mesaj electoral platit pe Facebook si Instagram (ID postare: 1232129874723325) dupa ora 18:00 pe 23.11.2024, in care se promoveaza candidatul Elena Lasconi la presedintie prin intermediul unei declaratii de sustinere din partea fostului presedinte Traian Basescu. Postarea reprezinta propaganda electorala conform Art. 36(7) din Legea 334/2006, avand obiectiv electoral explicit, adresandu-se publicului larg prin reclama platita (reach 70.000-80.000 impresii), si facand referire directa la un candidat la presedintie. Efectul electoral urmarit este influentarea intentiei de vot in favoarea candidatului mentionat, utilizand autoritatea si notorietatea fostului presedinte pentru a convinge electoratul.
+</message-for-police>
+</conclusion>
+</output>

@@ -1,0 +1,49 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: Yes - "CMF: 11240014" is present at the end of the post, indicating this is electoral propaganda material.
+
+2. Refers to candidate: Yes - Directly mentions "George Simion președinte", who is one of the presidential candidates (Position 2).
+
+3. Addresses wide population: Yes - The post is targeting a wide audience (100,001-500,000 people estimated reach), using paid promotion on Facebook and Instagram.
+
+4. Electoral objective: Yes - The post clearly aims to influence voters by:
+- Promoting George Simion as president
+- Making campaign promises about agricultural policy
+- Using campaign hashtag "#AlbaVoteazaAUR"
+- Making political statements about sovereignty and EU relations
+
+5. Journalism: No - This is clearly campaign material, not journalistic content.
+
+6. Personal opinion: No - This is a paid, structured campaign message with CMF number.
+
+The post contains classic elements of electoral propaganda:
+- Campaign promises
+- Direct candidate promotion
+- Political messaging
+- Call to action (implied through the hashtag)
+- Official CMF number
+</analysis>
+
+<conclusion>
+<post_id>1693913901167510</post_id>
+<electoral-propaganda-analysis>
+This post clearly constitutes electoral propaganda because:
+1. It contains an official CMF number
+2. Directly promotes a presidential candidate
+3. Makes campaign promises
+4. Uses official party messaging
+5. Is a paid advertisement targeting a large audience
+6. Contains political program elements
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate><name>GEORGE-NICOLAE SIMION</name><impact>POSITIVE</impact></candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>AUR</responsible-party-or-group>
+<message-for-police>
+I AM ONLINE SRL, pentru incalcarea articolului 55 t) din Legea 370/2004, prin promovarea unui mesaj de propaganda electorala dupa incheierea perioadei de campanie, difuzat după ora 18:00 pe 23.11.2024 prin intermediul unei reclame platite pe Facebook si Instagram (ID: 1693913901167510). Postarea promoveaza direct candidatura lui George Simion la presedintie ("Cu AUR la guvernare și George Simion președinte"), face promisiuni electorale specifice privind agricultura, contine numar CMF (11240014) si foloseste hashtag-ul de campanie "#AlbaVoteazaAUR", demonstrand astfel caracterul sau explicit de propaganda electorala pentru alegerile prezidentiale, cu intentia clara de a influenta votul in favoarea candidatului AUR.
+</message-for-police>
+</conclusion>
+</output>

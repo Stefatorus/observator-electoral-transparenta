@@ -1,0 +1,39 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: No CMF number is present, which suggests this might not be direct candidate communication.
+
+2. Refers to candidate: While it doesn't explicitly name a candidate, it appears to be referencing Mircea Geoană, who has been publicly discussed in relation to masonry. However, the reference is implicit rather than explicit.
+
+3. Addresses wide population: Yes, this is a paid advertisement reaching between 200,000-250,000 impressions, clearly targeting a wide audience.
+
+4. Electoral objective: The question "România are nevoie de un președinte mason?" appears designed to influence voters' opinions about a potential presidential candidate by raising concerns about masonry, which could be seen as attempting to influence voting behavior.
+
+5. Journalism: This doesn't appear to be journalistic content as it's just a question without any accompanying analysis, context, or information.
+
+6. Personal opinion: This isn't presented as a personal opinion but rather as a provocative question meant to raise doubts about a candidate's suitability for office.
+
+<conclusion>
+<post_id>1208628637065056</post_id>
+<electoral-propaganda-analysis>
+This post constitutes electoral propaganda for several reasons:
+- It's a paid advertisement reaching a large audience
+- It raises a controversial topic (masonry) in the context of the presidential election
+- The timing and context suggest it's aimed at influencing voter opinion
+- It lacks journalistic or educational value
+- While not explicitly naming a candidate, the context and timing make the target clear
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+<candidate>
+<name>MIRCEA-DAN GEOANĂ</name>
+<impact>NEGATIVE</impact>
+</candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>AgentiadeInformatii.ro</responsible-party-or-group>
+<message-for-police>
+AgentiadeInformatii.ro, pentru incalcarea articolului 55 t) din Legea 370/2004, prin promovarea după ora 18:00 pe 23.11.2024 a unui mesaj de propagandă electorală negativă care vizează un candidat la președinție, folosind întrebarea retorică "România are nevoie de un președinte mason?". Mesajul are un caracter electoral evident, fiind difuzat ca reclamă plătită pe Facebook și Instagram cu un buget între 900-999 RON și atingând între 200.000-250.000 de persoane, având ca scop influențarea votului prin asocierea negativă a candidatului cu masoneria. Postarea cu ID-ul 1208628637065056 reprezintă o formă de propagandă electorală care continuă după încheierea perioadei legale de campanie.
+</message-for-police>
+</conclusion>
+</output>

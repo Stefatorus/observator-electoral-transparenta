@@ -1,0 +1,44 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: Yes, contains "CUI MFC 11240014"
+2. Refers to candidate: Yes, mentions "George Simion" explicitly, who is a presidential candidate
+3. Addresses wide population: Yes, it's a paid advertisement targeting 100,001-500,000 people
+4. Electoral objective: Yes, contains direct call to action "Vino la vot" and "Votează AUR"
+5. Journalism: No, this is clearly campaign material
+6. Personal opinion: No, this is an official party communication
+
+The post combines several elements that make it electoral propaganda:
+- Direct mention of presidential candidate George Simion
+- Uses campaign hashtags (#VoteazăAUR)
+- Contains explicit call to vote
+- Presents a campaign promise (Planul Simion)
+- Has official campaign financial identification (MFC number)
+- Is a paid advertisement with significant reach
+</analysis>
+
+<conclusion>
+<post_id>914482113515376</post_id>
+<electoral-propaganda-analysis>
+This post clearly constitutes electoral propaganda because:
+- It promotes a specific presidential candidate (George Simion)
+- Makes campaign promises about education
+- Contains direct call to vote
+- Uses official campaign identifiers
+- Is paid advertising reaching a wide audience
+- Uses campaign-specific hashtags and messaging
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+<candidate>
+<name>GEORGE-NICOLAE SIMION</name>
+<impact>POSITIVE</impact>
+</candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>AUR</responsible-party-or-group>
+<message-for-police>
+Alianța pentru Unirea Românilor Vâlcea, pentru incalcarea articolului 55 t) din Legea 370/2004, prin continuarea propagandei electorale după încheierea perioadei legale de campanie, prin postarea cu ID 914482113515376 pe Facebook. Postarea promovează candidatul prezidențial George Simion și programul său electoral "Planul Simion", conține îndemnuri directe la vot ("Vino la vot", "Votează AUR"), face promisiuni electorale privind educația și salariile profesorilor, și folosește hashtag-uri de campanie (#VoteazăAUR). Postarea este sponsorizată și distribuită după ora 18:00 pe 23.11.2024, având un impact semnificativ cu o audiență estimată între 100,001 și 500,000 de persoane, constituind astfel propagandă electorală activă în afara perioadei legale de campanie.
+</message-for-police>
+</conclusion>
+</output>

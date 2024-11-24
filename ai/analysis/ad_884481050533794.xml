@@ -1,0 +1,58 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. CMF Presence:
+- Yes, contains "CMF: 11240015" which is a clear indicator of electoral material
+
+2. Candidate Reference:
+- Directly mentions multiple presidential candidates: Elena Lasconi, Ciolacu, Simion, Ciucă, and Geoană
+- Makes clear references to the presidential election ("Mai avem o săptămână până la primul tur")
+
+3. Wide Population Address:
+- This is a paid advertisement on Facebook and Instagram
+- Targeting a large audience (100,001-500,000 people)
+- Uses hashtags for wider reach
+- Clearly meant for mass communication
+
+4. Electoral Objective:
+- Clear electoral messaging promoting Elena Lasconi
+- Explicitly negative messaging against other candidates
+- Direct call to prevent other candidates from "killing democracy"
+- Uses campaign rhetoric and electoral positioning
+
+5. Journalism vs Propaganda:
+- This is clearly campaign material, not journalism
+- Contains partisan messaging and campaign slogans
+- Includes official campaign identifier (CMF)
+
+6. Personal Opinion:
+- This is not a personal opinion but an official campaign message
+- Posted by USR representative with party byline
+</analysis>
+
+<conclusion>
+<post_id>884481050533794</post_id>
+<electoral-propaganda-analysis>
+This post constitutes electoral propaganda because:
+- Contains official campaign identifier (CMF)
+- Direct promotion of a presidential candidate
+- Direct criticism of opposing candidates
+- Clear electoral messaging and campaign rhetoric
+- Paid distribution on social media platforms
+- Contains party byline and official campaign elements
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate><name>ELENA-VALERICA LASCONI</name><impact>POSITIVE</impact></candidate>
+  <candidate><name>ION-MARCEL CIOLACU</name><impact>NEGATIVE</impact></candidate>
+  <candidate><name>GEORGE-NICOLAE SIMION</name><impact>NEGATIVE</impact></candidate>
+  <candidate><name>NICOLAE-IONEL CIUCĂ</name><impact>NEGATIVE</impact></candidate>
+  <candidate><name>MIRCEA-DAN GEOANĂ</name><impact>NEGATIVE</impact></candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>USR</responsible-party-or-group>
+<message-for-police>
+Uniunea Salvați România, pentru incalcarea articolului 55 t) din Legea 370/2004, prin continuarea propagandei electorale după încheierea campaniei electorale, prin intermediul unei postări sponsorizate pe Facebook (ID: 884481050533794) care promovează candidatul Elena Lasconi și atacă direct contracandidații Ciolacu, Simion, Ciucă și Geoană. Postarea conține număr CMF (11240015), mesaje clare de susținere electorală și îndemnuri directe împotriva altor candidați, având un efect electoral direct prin atingerea unui public țintă de peste 100.000 de persoane. Mesajul este distribuit după ora 18:00 pe 23.11.2024, încălcând astfel perioada legală de campanie electorală și constituind propagandă electorală explicit interzisă în această perioadă.
+</message-for-police>
+</conclusion>
+</output>

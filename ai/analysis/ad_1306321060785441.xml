@@ -1,0 +1,45 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: Yes, CMF 11240017 is present at the end of the post.
+
+2. Refers to candidate: Yes, explicitly mentions "Marcel Ciolacu" as a presidential candidate.
+
+3. Addresses wide population: Yes, it's a paid advertisement targeting "bihoreni" (people from Bihor county) with an estimated audience of 100,001-500,000 people.
+
+4. Electoral objective: Yes, explicitly calls for votes with "votează Marcel Ciolacu la alegerile prezidențiale" and includes campaign messaging about "calea sigură pentru România."
+
+5. Journalism: No, this is clearly campaign material, not journalistic content.
+
+6. Personal opinion: No, this is a structured campaign message with clear call-to-action for voting.
+
+This post is problematic because:
+- It explicitly promotes voting for Marcel Ciolacu in the presidential election
+- It's being run after the end of the presidential campaign period
+- It's a paid advertisement reaching a large audience
+- It contains a CMF number, confirming its nature as campaign material
+</analysis>
+
+<conclusion>
+<post_id>1306321060785441</post_id>
+<electoral-propaganda-analysis>
+This is clearly electoral propaganda because:
+- Contains explicit call to vote for a presidential candidate
+- Uses campaign messaging and CMF number
+- Is a paid advertisement reaching large audience
+- Combines presidential and parliamentary messaging
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+<candidate>
+<name>ION-MARCEL CIOLACU</name>
+<impact>POSITIVE</impact>
+</candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>PSD</responsible-party-or-group>
+<message-for-police>
+Infomed Pro SRL, pentru incalcarea articolului 55 t) din Legea 370/2004, prin difuzarea unui mesaj de propaganda electorala pentru alegerile prezidentiale dupa incheierea perioadei de campanie, concretizat prin postarea cu ID 1306321060785441 pe Facebook. Postarea contine un indemn explicit la vot pentru candidatul Marcel Ciolacu la alegerile prezidentiale ("votează Marcel Ciolacu la alegerile prezidențiale"), fiind o reclama platita cu impact semnificativ (audienta estimata 100,001-500,000 persoane), difuzata dupa ora 18:00 pe 23.11.2024. Postarea include numarul CMF 11240017, confirmand natura sa de material de propaganda electorala, si are ca scop influentarea directa a votului pentru alegerile prezidentiale prin prezentarea candidatului ca "calea sigură pentru România".
+</message-for-police>
+</conclusion>
+</output>

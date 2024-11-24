@@ -1,0 +1,51 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. CMF Number:
+- Present: CMF 11240014, indicating this is electoral propaganda
+
+2. Candidate Reference:
+- Directly mentions George Simion, who is a presidential candidate
+- Also mentions Florin Cornel Popovici as a parliamentary candidate
+
+3. Wide Population Targeting:
+- It's a paid Facebook advertisement
+- Uses inclusive language ("vă invit", "să ne susținem")
+- Clearly meant for mass distribution
+
+4. Electoral Objective:
+- For Parliament: Yes, explicitly campaigning for Chamber of Deputies
+- For Presidential: Includes support for George Simion, linking parliamentary and presidential campaigns
+
+5. Journalism vs Propaganda:
+- This is clearly campaign material, not journalism
+- Contains direct appeal for support
+- Uses campaign messaging and party hashtags
+
+6. Personal Opinion:
+- This is not a personal opinion but a structured campaign message
+</analysis>
+
+<conclusion>
+<post_id>914473200271350</post_id>
+<electoral-propaganda-analysis>
+This post constitutes electoral propaganda because:
+- Contains CMF number
+- Directly references presidential candidate George Simion
+- Makes electoral promises and calls for support
+- Links parliamentary campaign with presidential support
+- Uses official campaign messaging and party hashtags
+
+While the parliamentary campaign is still allowed, the mention and support of George Simion for presidential elections makes this problematic after the presidential campaign period has ended.
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate><name>GEORGE-NICOLAE SIMION</name><impact>POSITIVE</impact></candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>AUR</responsible-party-or-group>
+<message-for-police>
+TOP DUO CONSULTING S.R.L., pentru incalcarea articolului 55 t) din Legea 370/2004, prin promovarea unui material electoral (ID Facebook: 914473200271350) care face referire directă la candidatul la președinție George Simion, ulterior încheierii perioadei de campanie electorală prezidențială (după ora 18:00 pe 23.11.2024). Materialul promovat prezintă susținerea explicită pentru George Simion în contextul alegerilor prezidențiale prin afirmația "lupt alături de George Simion pentru un viitor curat și liber de corupție", având un evident efect electoral de influențare a votului pentru alegerile prezidențiale, deși este mascat sub forma unei campanii parlamentare. Prezența codului CMF 11240014 confirmă natura de material de propagandă electorală a acestei comunicări.
+</message-for-police>
+</conclusion>
+</output>

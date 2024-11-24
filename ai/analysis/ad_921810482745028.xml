@@ -1,0 +1,43 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: Yes, "CMF 11240014" is present, indicating this is electoral propaganda
+2. Refers to candidate: Yes, directly mentions "George Simion", who is a presidential candidate
+3. Addresses wide population: Yes, this is a paid advertisement with significant reach (20,000-24,999 impressions)
+4. Electoral objective: Yes, explicitly calls for voting ("Duminică votăm George Simion președinte!")
+5. Journalism: No, this is clearly a call to action for voting
+6. Personal opinion: No, this is a clear campaign message with CMF number
+
+The post is a clear violation because:
+- It explicitly promotes a presidential candidate after the campaign period
+- Uses campaign funds (has CMF number)
+- Is a paid advertisement with significant reach
+- Directly calls for voting for a specific candidate
+- Is running during the electoral silence period
+</analysis>
+
+<conclusion>
+<post_id>921810482745028</post_id>
+<electoral-propaganda-analysis>
+This is clearly electoral propaganda because:
+- Contains CMF number (11240014)
+- Direct call to vote for a specific candidate
+- Paid distribution
+- Large reach (20,000+ impressions)
+- Clear electoral message
+- Running during electoral silence period
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate>
+    <name>GEORGE-NICOLAE SIMION</name>
+    <impact>POSITIVE</impact>
+  </candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>AUR</responsible-party-or-group>
+<message-for-police>
+Răzvan Biro, pentru incalcarea articolului 55 t) din Legea 370/2004, prin difuzarea unei reclame platite pe Facebook (ID: 921810482745028) dupa ora 18:00 pe 23.11.2024, care continua propaganda electorala pentru candidatul prezidential George Simion. Postarea contine un indemn direct la vot ("Duminică votăm George Simion președinte!"), foloseste fonduri de campanie (dovada prin prezenta CMF 11240014), si are un impact semnificativ fiind o reclama platita cu 200-299 RON si un reach de 20,000-24,999 impresii. Mesajul are un evident caracter de propaganda electorala, fiind conceput si distribuit cu scopul explicit de a influenta alegatorii in favoarea unui candidat specific in perioada de restrictie electorala.
+</message-for-police>
+</conclusion>
+</output>

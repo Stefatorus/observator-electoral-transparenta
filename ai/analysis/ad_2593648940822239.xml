@@ -1,0 +1,49 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: Yes, it includes "CUI 11240022" which is a form of identification number.
+
+2. Refers to candidate: Yes, directly mentions Elena Lasconi and explicitly calls for voting for her as President.
+
+3. Addresses wide population: Yes, this is a paid Facebook/Instagram ad targeting a potential audience of 500,001-1,000,000 people.
+
+4. Electoral objective: Yes, clearly has electoral objectives:
+- Explicitly calls for voting Elena Lasconi for President
+- Makes direct campaign statements against PSD and current leadership
+- Contains clear voting instructions for both presidential and parliamentary elections
+
+5. Journalism: No, this is clearly campaign material, not journalistic content.
+
+6. Personal opinion: No, this is structured as a political campaign message with clear calls to action.
+
+The post clearly combines both parliamentary and presidential election propaganda. While parliamentary election propaganda is still allowed, the presidential election propaganda is not allowed after the campaign period ended.
+
+Key problematic phrases:
+"Pe 24 noiembrie, votați Elena Lasconi Președinte!"
+This is a direct instruction to vote for a specific presidential candidate after the campaign period has ended.
+</analysis>
+
+<conclusion>
+<post_id>2593648940822239</post_id>
+<electoral-propaganda-analysis>
+This post constitutes electoral propaganda because:
+- It explicitly calls for voting for a specific presidential candidate
+- It's a paid advertisement reaching a wide audience
+- Contains clear electoral messaging and voting instructions
+- Uses campaign rhetoric and political positioning
+- Has electoral identification number (CUI)
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate>
+    <name>ELENA-VALERICA LASCONI</name>
+    <impact>POSITIVE</impact>
+  </candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>FORȚA DREPTEI</responsible-party-or-group>
+<message-for-police>
+FORȚA DREPTEI ILFOV, pentru incalcarea articolului 55 t) din Legea 370/2004, prin continuarea propagandei electorale pentru candidatul la președinție Elena Lasconi după încheierea campaniei electorale, prin postarea cu ID 2593648940822239 pe Facebook după ora 18:00 pe 23.11.2024. Postarea conține în mod explicit îndemnul "Pe 24 noiembrie, votați Elena Lasconi Președinte!", reprezentând propagandă electorală activă pentru alegerile prezidențiale. Postarea este sponsorizată și targetată către un public larg (500,001-1,000,000 persoane), având un caracter clar de propagandă electorală prin prezența elementelor specifice: CUI, mesaje de mobilizare la vot și susținere explicită a unui candidat la președinție. Efectul electoral urmărit este influențarea directă a votului în favoarea candidatului Elena Lasconi în ziua alegerilor, încălcând astfel perioada de restricție a propagandei electorale.
+</message-for-police>
+</conclusion>
+</output>

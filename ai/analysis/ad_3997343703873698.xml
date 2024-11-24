@@ -1,0 +1,44 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: Yes, contains "CMF 11240022" which indicates it's electoral propaganda
+
+2. Refers to candidate: Yes, specifically mentions "SIMION" who is a presidential candidate (GEORGE-NICOLAE SIMION)
+
+3. Addresses wide population: Yes, this is a paid Facebook/Instagram post with significant reach (30,000-35,000 impressions)
+
+4. Electoral objective: Yes, the post discusses electoral matters and specifically talks about Simion entering the second round of elections, which is clearly related to the presidential elections
+
+5. Journalism: No, this is not journalistic content but rather a political message with clear electoral implications
+
+6. Personal opinion: While it contains personal opinions, it's clearly structured as electoral messaging, especially given the CMF number and paid distribution
+
+The post is particularly problematic because:
+- It discusses presidential election outcomes ("intră Simion în turul doi")
+- Contains CMF number indicating electoral propaganda
+- Is being actively promoted after the end of the presidential campaign period
+- Directly references a presidential candidate's electoral prospects
+
+</analysis>
+
+<conclusion>
+<post_id>3997343703873698</post_id>
+<electoral-propaganda-analysis>
+This constitutes electoral propaganda because:
+- Contains official CMF number
+- Discusses presidential electoral outcomes
+- Is a paid promotion reaching a wide audience
+- Directly references presidential candidate Simion
+- Discusses electoral dynamics and second-round prospects
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+<candidate><name>GEORGE-NICOLAE SIMION</name><impact>NEGATIVE</impact></candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>FORTA DREPTEI</responsible-party-or-group>
+<message-for-police>
+SC EURO MEDIA BIS SRL, pentru incalcarea articolului 55 t) din Legea 370/2004, prin promovarea unui mesaj de propaganda electorala (ID postare Facebook: 3997343703873698) dupa ora 18:00 pe 23.11.2024, cu referire directa la candidatul GEORGE-NICOLAE SIMION si sansele acestuia de a intra in turul doi al alegerilor prezidentiale. Postarea contine numar CMF (11240022), este platita pentru distributie pe Facebook si Instagram, cu un impact intre 30.000 si 35.000 de afisari, si discuta explicit despre perspectivele electorale ale unui candidat la prezidentiale ("cei de la putere se vaită că intră Simion în turul doi"), reprezentand astfel o forma clara de propaganda electorala in afara perioadei permise de lege.
+</message-for-police>
+</conclusion>
+</output>

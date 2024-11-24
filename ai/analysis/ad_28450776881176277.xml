@@ -1,0 +1,56 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: Yes, CMF 11240015 is present, indicating this is electoral propaganda material.
+
+2. Refers to candidate: Yes, specifically mentions:
+- Elena Lasconi (USR presidential candidate)
+- Ludovic Orban (who withdrew from the presidential race)
+
+3. Addresses wide population: Yes
+- Uses paid advertising on Facebook and Instagram
+- Uses collective calls to action ("Hai să facem istorie împreună!")
+- Targets a large estimated audience (100,001-500,000 people)
+
+4. Electoral objective: Clear electoral intent
+- Explicitly promotes Elena Lasconi as a presidential candidate
+- Calls for votes ("Nu ne putem permite să irosim niciun vot")
+- States "Turul 1 = Turul decisiv!"
+- Uses campaign hashtags (#ElenaLasconi #Alegeri2024)
+
+5. Journalism: No
+- This is clearly campaign material, not journalistic content
+- Contains direct advocacy and calls to action
+- Uses campaign messaging and slogans
+
+6. Personal opinion: No
+- This is a structured campaign message
+- Contains CMF number
+- Is a paid advertisement
+</analysis>
+
+<conclusion>
+<post_id>28450776881176277</post_id>
+<electoral-propaganda-analysis>
+This post clearly constitutes electoral propaganda because:
+- Contains CMF number
+- Directly promotes a presidential candidate
+- Makes explicit calls for voting
+- Is a paid advertisement reaching a wide audience
+- Uses campaign slogans and messaging
+- Has clear electoral objective
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate>
+    <name>ELENA-VALERICA LASCONI</name>
+    <impact>POSITIVE</impact>
+  </candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>USR</responsible-party-or-group>
+<message-for-police>
+Rus Marinel, pentru incalcarea articolului 55 t) din Legea 370/2004, prin continuarea propagandei electorale pentru candidatul USR la președinție Elena Lasconi după încheierea perioadei legale de campanie, prin postarea cu ID 28450776881176277 pe Facebook după ora 18:00 pe 23.11.2024. Postarea constituie propaganda electorală conform Art. 36(7) prin prezența numărului CMF 11240015, referirea directă la candidat, obiectivul electoral explicit ("Turul 1 = Turul decisiv!"), și îndemnul direct la vot ("Nu ne putem permite să irosim niciun vot în aceste alegeri!"). Postarea este una plătită, cu audiență estimată între 100,001-500,000 persoane, amplificând astfel impactul mesajului electoral după încheierea campaniei.
+</message-for-police>
+</conclusion>
+</output>

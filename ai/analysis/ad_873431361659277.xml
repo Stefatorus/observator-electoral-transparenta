@@ -1,0 +1,40 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. CMF Present: Yes (CMF: 11240017) - This indicates it's electoral propaganda
+2. Candidate Reference: While not directly naming Marcel Ciolacu, it promotes PSD's presidential campaign through "alegerea unui președinte" context
+3. Wide Population: Yes - This is a paid advertisement targeting 10,000-14,999 people
+4. Electoral Objective: Yes - The post explicitly calls for votes on specific dates (24 November, 1 and 8 December) and promotes "Calea Sigură Pentru România" which is PSD's campaign slogan
+5. Journalism: No - This is clearly campaign material, not journalistic content
+6. Personal Opinion: No - This is an official party communication with CMF number
+
+The post contains several problematic elements:
+- Explicit call for votes on election days
+- Campaign slogan usage
+- Reference to choosing a president
+- Official party communication (CMF present)
+- Paid distribution after campaign period
+</analysis>
+
+<conclusion>
+<post_id>873431361659277</post_id>
+<electoral-propaganda-analysis>
+This constitutes electoral propaganda because:
+- Contains official CMF number
+- Makes direct reference to presidential elections
+- Contains explicit call to vote
+- Uses campaign slogans
+- Is paid advertising reaching thousands
+- Promotes party's presidential agenda
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate><name>ION-MARCEL CIOLACU</name><impact>POSITIVE</impact></candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>PSD</responsible-party-or-group>
+<message-for-police>
+PSD Dolj, pentru incalcarea articolului 55 t) din Legea 370/2004, prin continuarea propagandei electorale după încheierea campaniei, prin intermediul unei postări sponsorizate pe Facebook (ID: 873431361659277) care îndeamnă explicit la vot pentru data de 24 noiembrie și promovează sloganul campaniei prezidențiale "Calea Sigură Pentru România". Postarea conține număr CMF (11240017), face referire directă la alegerea președintelui și include îndemnuri explicite la vot pentru datele de 24 noiembrie, 1 și 8 decembrie, fiind difuzată după ora 18:00 pe 23.11.2024. Efectul electoral urmărit este influențarea alegătorilor în favoarea candidatului PSD la președinție, prin utilizarea unei comunicări electorale plătite în perioada în care acest lucru este interzis de lege.
+</message-for-police>
+</conclusion>
+</output>

@@ -1,0 +1,43 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: YES (CMF: 11240002) - This indicates it's electoral propaganda
+2. Refers to candidate: YES - Mentions Nicolae Ciucă, who is a presidential candidate
+3. Addresses wide population: YES - It's a paid advertisement targeting 100,001-500,000 people
+4. Electoral objective: MIXED - While it primarily focuses on parliamentary elections (which are allowed), it also promotes Nicolae Ciucă as President
+5. Journalism: NO - This is clearly a campaign message, not journalistic content
+6. Personal opinion: NO - This is an official party communication with CMF number
+
+Key problematic elements:
+- Explicitly mentions "Cu Nicolae Ciucă Președinte"
+- Contains CMF number indicating official campaign material
+- Is being actively promoted after the presidential campaign period ended
+- Combines parliamentary campaign (allowed) with presidential messaging (not allowed)
+
+The post primarily discusses PNL's parliamentary platform, which would be allowed, but it specifically promotes Nicolae Ciucă as President, which violates the post-campaign restrictions for presidential elections.
+</analysis>
+
+<conclusion>
+<post_id>581946374325171</post_id>
+<electoral-propaganda-analysis>
+This post constitutes electoral propaganda because:
+- It contains an official CMF number
+- Directly promotes a presidential candidate (Nicolae Ciucă)
+- Targets a wide audience through paid promotion
+- Has clear electoral objectives
+- Combines allowed parliamentary campaigning with prohibited presidential campaigning
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+<candidate>
+<name>NICOLAE-IONEL CIUCĂ</name>
+<impact>POSITIVE</impact>
+</candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>PNL</responsible-party-or-group>
+<message-for-police>
+Partidul Național Liberal (PNL), pentru incalcarea articolului 55 t) din Legea 370/2004, prin promovarea unui material de propagandă electorală (ID postare Facebook: 581946374325171) după încheierea perioadei de campanie electorală pentru alegerile prezidențiale. Materialul, publicat și promovat după ora 18:00 pe 23.11.2024, face referire directă la candidatul Nicolae Ciucă în calitate de președinte ("Cu Nicolae Ciucă Președinte"), având scop electoral explicit și fiind distribuit către public larg prin intermediul unei reclame plătite pe Facebook. Materialul este marcat cu cod CMF 11240002, confirmând natura sa de propagandă electorală, și urmărește influențarea opțiunilor de vot pentru funcția de președinte al României, încălcând astfel restricțiile legale privind perioada de campanie electorală.
+</message-for-police>
+</conclusion>
+</output>

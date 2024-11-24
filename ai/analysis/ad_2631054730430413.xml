@@ -1,0 +1,54 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. CMF Presence:
+- Yes, contains "CMF: 11240022" which is a clear indicator of electoral material
+
+2. References to Candidates:
+- Directly mentions Elena Lasconi as a presidential candidate
+- References Marcel Ciolacu and George Simion negatively
+- Promotes Forța Dreptei candidates for Parliament
+
+3. Addresses Wide Population:
+- This is a paid Facebook advertisement with significant reach (20,000-24,999 impressions)
+- Clearly addresses a wide audience with calls to action for voting
+
+4. Electoral Objective:
+- Explicit call to vote for Elena Lasconi for president
+- Clear electoral messaging against Ciolacu and Simion
+- Promotes parliamentary candidates from Forța Dreptei
+- Uses terms like "vom sparge blatul" and makes direct voting recommendations
+
+5. Journalism vs Propaganda:
+- This is clearly campaign material, not journalism
+- Contains direct voting instructions and campaign promises
+- Uses persuasive language rather than informative reporting
+
+6. Personal Opinion:
+- This is not a personal opinion but an organized campaign message with CMF number
+- Structured as political propaganda with clear voting instructions
+</analysis>
+
+<conclusion>
+<post_id>2631054730430413</post_id>
+<electoral-propaganda-analysis>
+This is clearly electoral propaganda because:
+- Contains CMF number
+- Makes direct voting recommendations
+- Has clear electoral objective
+- Addresses wide audience through paid promotion
+- Contains explicit campaign messaging
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate><name>ELENA-VALERICA LASCONI</name><impact>POSITIVE</impact></candidate>
+  <candidate><name>GEORGE-NICOLAE SIMION</name><impact>NEGATIVE</impact></candidate>
+  <candidate><name>ION-MARCEL CIOLACU</name><impact>NEGATIVE</impact></candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>FORTA DREPTEI</responsible-party-or-group>
+<message-for-police>
+Digidev Innotech, pentru incalcarea articolului 55 t) din Legea 370/2004, prin publicarea si promovarea activa a unui mesaj de propaganda electorala (ID Facebook: 2631054730430413) dupa incheierea perioadei de campanie electorala pentru alegerile prezidentiale. Postarea contine in mod explicit indemnuri la vot pentru candidatul Elena Lasconi la functia de presedinte ("Votați Elena Lasconi pentru președinte"), precum si mesaje negative la adresa contracandidatilor Marcel Ciolacu si George Simion, fiind realizata cu intentie clara de influentare a votului. Materialul este marcat ca propaganda electorala prin prezenta codului CMF 11240022, are caracter platit si a fost difuzat dupa ora 18:00 pe 23.11.2024, incalcand astfel prevederile legale privind perioada de campanie electorala.
+</message-for-police>
+</conclusion>
+</output>

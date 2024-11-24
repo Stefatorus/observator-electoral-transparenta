@@ -1,0 +1,51 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: No CMF number is present, but this isn't determinative.
+
+2. Refers to candidate: Yes, explicitly mentions two presidential candidates:
+- Elena Lasconi (USR)
+- Marcel Ciolacu (PSD, mentioned indirectly)
+
+3. Addresses wide population: Yes, this is a paid Facebook/Instagram advertisement with a potential reach of 100,001-500,000 people.
+
+4. Electoral objective: Yes, clearly aims to influence voting behavior by:
+- Explicitly endorsing Elena Lasconi for presidential elections
+- Positioning her as "the only right-wing candidate who can defeat Ciolacu"
+- Calling for support against PSD
+
+5. Journalism: No, this is clearly campaign messaging, not journalistic content.
+
+6. Personal opinion: No, this is an official party position announced through paid advertising.
+
+This post meets all criteria for electoral propaganda under Article 36(7):
+a) Directly refers to candidates
+b) Used during campaign period
+c) Has clear electoral objective
+d) Exceeds journalistic activity
+
+Since this is continuing after the presidential campaign period has ended, it violates Article 55 t).
+</analysis>
+
+<conclusion>
+<post_id>894985495946854</post_id>
+<electoral-propaganda-analysis>
+This constitutes electoral propaganda because:
+- It explicitly endorses a presidential candidate
+- Uses paid advertising to reach a wide audience
+- Has clear electoral messaging
+- Attempts to influence voting behavior
+- Positions candidates in competitive stance
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate><name>ELENA-VALERICA LASCONI</name><impact>POSITIVE</impact></candidate>
+  <candidate><name>ION-MARCEL CIOLACU</name><impact>NEGATIVE</impact></candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>FORTA DREPTEI</responsible-party-or-group>
+<message-for-police>
+Forța Dreptei, prin intermediul Buyer Brain SRL, pentru incalcarea articolului 55 t) din Legea 370/2004, prin difuzarea unei reclame platite pe Facebook si Instagram (ID: 894985495946854) care continua propaganda electorala pentru alegerile prezidentiale dupa incheierea campaniei. Materialul promoveaza explicit candidatura Elenei Lasconi la presedintie, prezentand-o drept "singurul candidat de dreapta care poate să il invinga pe Ciolacu", constituind astfel un mesaj cu clar obiectiv electoral. Postarea, difuzata dupa ora 18:00 pe 23.11.2024, reprezinta o continuare a propagandei electorale in afara perioadei permise legal, cu potential de a influenta alegatorii prin promovarea unui candidat si denigrarea altuia, atingand un public estimat intre 100.001 si 500.000 de persoane.
+</message-for-police>
+</conclusion>
+</output>

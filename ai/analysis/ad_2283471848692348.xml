@@ -1,0 +1,52 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: Yes - Contains "Cod AEP: 11240015" and "Cod AEP: 31240009"
+
+2. Refers to candidate: Yes - Explicitly mentions Elena Lasconi as a presidential candidate
+
+3. Addresses wide population: Yes
+- It's a paid Facebook post with significant reach (200,000-250,000 impressions)
+- Uses inclusive language ("pentru toți cei care ne dorim")
+- Directly calls for action ("haideți să alegem")
+
+4. Electoral objective: Yes
+- Promotes Elena Lasconi's presidential campaign launch
+- Details her campaign promises and vision
+- Explicitly calls for voting ("Pe 24 noiembrie, haideți să alegem o cale nouă!")
+- Uses campaign hashtags (#ElenaLasconiPreședinte)
+
+5. Journalism: No
+- This is clearly campaign material, not journalistic content
+- Presents a partisan view promoting a specific candidate
+
+6. Personal opinion: No
+- While written from a personal perspective, it's clearly campaign material
+- Contains official campaign messaging and calls to action
+</analysis>
+
+<conclusion>
+<post_id>2283471848692348</post_id>
+<electoral-propaganda-analysis>
+This post constitutes electoral propaganda because:
+- It explicitly promotes a presidential candidate
+- Contains official campaign messaging and promises
+- Uses campaign codes (AEP)
+- Makes direct electoral appeals
+- Is a paid advertisement reaching a large audience
+- Aims to influence voting behavior
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+<candidate>
+<name>ELENA-VALERICA LASCONI</name>
+<impact>POSITIVE</impact>
+</candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>USR</responsible-party-or-group>
+<message-for-police>
+Partidul Uniunea Salvați România - Buzău, pentru incalcarea articolului 55 t) din Legea 370/2004, prin continuarea propagandei electorale după încheierea campaniei electorale pentru alegerile prezidențiale, prin intermediul unei postări sponsorizate pe Facebook (ID: 2283471848692348) care promovează în mod direct candidatura Elenei Lasconi la președinție. Postarea conține elemente clare de propagandă electorală, inclusiv prezentarea programului electoral, îndemnuri directe la vot ("Pe 24 noiembrie, haideți să alegem o cale nouă!"), și utilizează coduri AEP oficiale de campanie (11240015, 31240009). Efectul electoral urmărit este influențarea directă a alegătorilor în favoarea candidatei USR la președinție, după ora 18:00 pe 23.11.2024, când propaganda electorală pentru alegerile prezidențiale este interzisă prin lege.
+</message-for-police>
+</conclusion>
+</output>

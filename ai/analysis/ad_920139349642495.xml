@@ -1,0 +1,48 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: Yes, contains "CMF 11240017" which indicates this is electoral propaganda
+2. Refers to candidate: Yes, directly refers to Marcel Ciolacu multiple times as presidential candidate
+3. Addresses wide population: Yes, it's a paid post targeting 100,001-500,000 people in Iași
+4. Electoral objective: Yes, clearly aims to influence voters:
+   - Direct call to vote: "Votăm Marcel Ciolacu Președinte!"
+   - Promotes candidate's qualities and achievements
+   - Makes campaign promises
+5. Journalism: No, this is clearly campaign material, not journalistic content
+6. Personal opinion: No, this is an official party communication with CMF number
+
+The post contains multiple elements that classify it as electoral propaganda:
+- Direct call to vote for a specific candidate
+- Campaign promises and future vision
+- Official party communication (PSD Pascani)
+- Presence of CMF number
+- Paid distribution
+- Explicit electoral messaging
+
+</analysis>
+
+<conclusion>
+<post_id>920139349642495</post_id>
+<electoral-propaganda-analysis>
+This is clearly electoral propaganda because:
+- Contains official CMF number
+- Direct call to vote for Marcel Ciolacu
+- Makes campaign promises
+- Promotes candidate's achievements
+- Paid distribution targeting large audience
+- Official party communication
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate>
+    <name>ION-MARCEL CIOLACU</name>
+    <impact>POSITIVE</impact>
+  </candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>PSD</responsible-party-or-group>
+<message-for-police>
+PSD Pascani, pentru incalcarea articolului 55 t) din Legea 370/2004, prin continuarea propagandei electorale pentru candidatul ION-MARCEL CIOLACU dupa incheierea perioadei legale de campanie, prin postarea cu ID 920139349642495 pe Facebook. Postarea, publicata dupa ora 18:00 pe 23.11.2024, contine elemente clare de propaganda electorala, incluzand numar CMF (11240017), indemnuri directe la vot ("Votăm Marcel Ciolacu Președinte!"), promisiuni electorale si promovarea realizarilor candidatului, fiind distribuita ca reclama platita catre un public larg. Postarea are un evident caracter de propaganda electorala, vizand influentarea intentionata a votului pentru alegerile prezidentiale din 24 noiembrie 2024.
+</message-for-police>
+</conclusion>
+</output>

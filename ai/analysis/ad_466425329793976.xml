@@ -1,0 +1,48 @@
+<output>
+<analysis>
+Let me analyze this post according to the given criteria:
+
+1. Has CMF: No visible CMF number, but this is from an official party page.
+
+2. Refers to candidate: While George Simion is a presidential candidate, the post itself doesn't directly mention him as a candidate.
+
+3. Addresses wide population: Yes, this is a paid post with very high reach (250,000-300,000 impressions) and high spend (1000-1499 RON).
+
+4. Electoral objective: Yes. The post appears to be attempting to influence voter behavior by:
+- Suggesting electoral fraud ("buletine ștampilate dinainte")
+- Directly encouraging voting ("Mergeți la vot!")
+- Being posted during the actual voting day
+- Targeting a specific voting location (Madrid)
+
+5. Journalism: This doesn't appear to be journalistic content. While it claims to report irregularities, it's done in a way that appears designed to influence voter behavior rather than inform.
+
+6. Personal opinion: This is an official party communication, not a personal opinion.
+
+Key concerns:
+- Posted during voting day
+- Makes allegations about electoral fraud
+- Directly encourages voting
+- Very high reach through paid promotion
+- Posted after the end of the campaign period
+</analysis>
+
+<conclusion>
+<post_id>466425329793976</post_id>
+<electoral-propaganda-analysis>
+This constitutes electoral propaganda because:
+1. It's a paid political message during voting day
+2. Makes claims about electoral irregularities that could influence voter behavior
+3. Directly encourages voting ("Mergeți la vot!")
+4. Uses significant resources to reach a large audience
+5. Posted after the legal campaign period ended
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+<candidate><name>GEORGE-NICOLAE SIMION</name><impact>POSITIVE</impact></candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>AUR</responsible-party-or-group>
+<message-for-police>
+Partidul Politic ALIANȚA PENTRU UNIREA ROMÂNILOR, pentru incalcarea articolului 55 t) din Legea 370/2004, prin publicarea și promovarea după ora 18:00 pe 23.11.2024 a unui mesaj cu caracter de propagandă electorală pe platforma Facebook (ID postare: 466425329793976). Postarea, care a fost promovată cu un buget semnificativ (1000-1499 RON) și a ajuns la 250,000-300,000 de persoane, conține mesaje care sugerează nereguli electorale ("buletine ștampilate dinainte") și îndeamnă direct la vot ("Mergeți la vot!"), reprezentând astfel o continuare a propagandei electorale după încheierea campaniei și în ziua votului, cu potențial de influențare a comportamentului electoral al alegătorilor.
+</message-for-police>
+</conclusion>
+</output>

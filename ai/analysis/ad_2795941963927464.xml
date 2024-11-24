@@ -1,0 +1,48 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: No visible CMF number, but this doesn't automatically disqualify it as propaganda.
+
+2. Refers to candidate: Yes, explicitly mentions George Simion, who is a presidential candidate (Position 2).
+
+3. Addresses wide population: Yes, this is a paid Facebook advertisement with significant reach (100,000-124,999 impressions).
+
+4. Electoral objective: Yes, clearly has electoral objectives:
+- Direct call to vote for George Simion on November 24
+- Promotes "Planul Simion"
+- Encourages voting for AUR candidates
+
+5. Journalism: No, this is clearly campaign material, not journalistic content.
+
+6. Personal opinion: While presented as a personal endorsement, it goes beyond personal opinion by actively campaigning and calling for votes.
+
+The post contains direct electoral propaganda for both:
+- The presidential election (supporting George Simion)
+- The parliamentary election (promoting AUR candidates)
+
+While parliamentary election propaganda is still allowed, the presidential election propaganda is not permitted after the campaign period ended.
+</analysis>
+
+<conclusion>
+<post_id>2795941963927464</post_id>
+<electoral-propaganda-analysis>
+This post constitutes electoral propaganda because:
+- It explicitly calls for votes for a presidential candidate
+- Uses paid advertising to reach a wide audience
+- Has clear electoral objectives
+- Goes beyond personal opinion into campaign territory
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate>
+    <name>GEORGE-NICOLAE SIMION</name>
+    <impact>POSITIVE</impact>
+  </candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>AUR</responsible-party-or-group>
+<message-for-police>
+UNIWORLD - MEDIA SRL, pentru incalcarea articolului 55 t) din Legea 370/2004, prin difuzarea de materiale de propaganda electorala dupa incheierea campaniei electorale prezidentiale, prin intermediul unei reclame platite pe Facebook (ID: 2795941963927464) care continua sa fie activa dupa ora 18:00 pe 23.11.2024. Postarea include un indemn direct de a-l vota pe candidatul George Simion la alegerile prezidentiale din 24 noiembrie ("Vă îndemn să-l susțineți pe George Simion pe 24 noiembrie"), constituind astfel propaganda electorala explicita pentru alegerile prezidentiale, in perioada in care acest lucru este interzis prin lege. Efectul electoral este amplificat de faptul ca este o reclama platita cu reach estimat intre 100,000 si 124,999 de afisari.
+</message-for-police>
+</conclusion>
+</output>

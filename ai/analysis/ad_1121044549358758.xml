@@ -1,0 +1,45 @@
+<output>
+<analysis>
+Let me analyze this post according to the given criteria:
+
+1. Has CMF: No CMF number is present in this post.
+
+2. Refers to candidate: Yes, explicitly mentions "George Simion" as a presidential candidate.
+
+3. Addresses wide population: Yes, this is a paid advertisement on Facebook/Instagram targeting a potentially large audience (estimated 1,000,001+ people).
+
+4. Electoral objective: Yes, clear electoral objective. The post explicitly states "la aceste alegeri, îl voi vota pe George Simion - preşedinte" and encourages others to do the same.
+
+5. Journalism: No, this is not journalism. It's a clear campaign message promoting a candidate.
+
+6. Personal opinion: While structured as a personal opinion, it's being promoted as a paid advertisement with clear electoral intent.
+
+The post is clearly electoral propaganda because:
+- Directly promotes George Simion for president
+- Uses campaign messaging and rhetoric
+- Is a paid advertisement reaching a wide audience
+- Has clear electoral intent
+- Is run by an official AUR party page
+</analysis>
+
+<conclusion>
+<post_id>1121044549358758</post_id>
+<electoral-propaganda-analysis>
+This post constitutes electoral propaganda as it:
+1. Explicitly promotes a presidential candidate
+2. Is paid advertising reaching a mass audience
+3. Has clear electoral intent
+4. Is published by an official party channel
+5. Uses campaign messaging techniques
+6. Directly calls for voting for a specific candidate
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate><name>GEORGE-NICOLAE SIMION</name><impact>POSITIVE</impact></candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>AUR</responsible-party-or-group>
+<message-for-police>
+AUR - Sălașu de Sus, pentru incalcarea articolului 55 t) din Legea 370/2004, prin publicarea și promovarea plătită a unui mesaj de propagandă electorală după încheierea perioadei de campanie, folosind platforma Facebook pentru a influența direct alegătorii să voteze cu candidatul George Simion la președinție. Postarea cu ID-ul 1121044549358758 conține îndemnul explicit "la aceste alegeri, îl voi vota pe George Simion - președinte" și este distribuită ca reclamă plătită după ora 18:00 pe 23.11.2024, atingând un public de peste 1 milion de persoane, cu un buget între 100-199 RON. Mesajul îndeplinește toate criteriile propagandei electorale conform Art. 36(7): identifică direct candidatul, are scop electoral explicit, se adresează publicului larg și depășește limitele activității jurnalistice.
+</message-for-police>
+</conclusion>
+</output>

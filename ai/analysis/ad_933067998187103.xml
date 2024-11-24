@@ -1,0 +1,42 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: Yes (CMF 11240022) - This indicates it's electoral propaganda
+2. Refers to candidate: Yes, mentions Ludovic Orban (presidential candidate) and promotes Ionel Dancă and Andrei Carabela for parliament
+3. Addresses wide population: Yes, it's a paid Facebook post targeting 100,001-500,000 people
+4. Electoral objective: Yes, but primarily for parliamentary elections
+5. Journalism: No, this is clearly campaign material
+6. Personal opinion: No, this is structured campaign communication
+
+Key observations:
+- The post primarily focuses on parliamentary candidates (Ionel Dancă and Andrei Carabela)
+- While Ludovic Orban is mentioned, he's referenced in his past role as Prime Minister, not as a presidential candidate
+- The message is focused on business policies and parliamentary elections
+- The content is clearly electoral in nature, but targets parliamentary elections, which are still in their legal campaign period
+
+</analysis>
+
+<conclusion>
+<post_id>933067998187103</post_id>
+<electoral-propaganda-analysis>
+This post constitutes electoral propaganda, but primarily for parliamentary elections, which are still in their legal campaign period. The mention of Ludovic Orban is in the context of his past governmental role, not his presidential candidacy. The post focuses on parliamentary candidates and their economic proposals.
+
+Pros for violation:
+- Contains CMF number
+- Is paid electoral content
+- Mentions a presidential candidate
+
+Cons for violation:
+- Focus is clearly on parliamentary elections
+- Orban is mentioned in historical context as former PM
+- No attempt to influence presidential vote
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>FALSE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>Forța Dreptei</responsible-party-or-group>
+<message-for-police>
+</message-for-police>
+</conclusion>
+</output>

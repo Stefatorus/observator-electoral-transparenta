@@ -1,0 +1,45 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: Yes (CMF: 11240022) - This indicates it's electoral propaganda
+2. Refers to candidates: Yes
+   - Direct mention of Ludovic Orban (presidential candidate)
+   - Direct mention of Marcel Ciolacu (presidential candidate)
+3. Addresses wide population: Yes
+   - Paid advertisement with significant reach (15,000-19,999 impressions)
+   - Uses phrases addressing general public ("oameni buni")
+4. Electoral objective: Yes
+   - Discusses electoral strategy for presidential elections
+   - Makes case against voting for Marcel Ciolacu/PSD
+   - Promotes right-wing electoral strategy
+5. Journalism: No
+   - While it contains some economic data, it's clearly presented with political bias
+6. Personal opinion: No
+   - This is an official party communication (Forța Dreptei Mureș)
+
+The post discusses electoral strategy for the presidential elections, specifically about Ludovic Orban's withdrawal and attempts to influence voting behavior against Marcel Ciolacu. It's clearly electoral propaganda continuing after the campaign period has ended.
+</analysis>
+
+<conclusion>
+<post_id>1684741228923253</post_id>
+<electoral-propaganda-analysis>
+This constitutes electoral propaganda because:
+- Contains CMF number
+- Directly references presidential candidates
+- Makes electoral arguments
+- Attempts to influence voting behavior
+- Is paid political communication
+- Discusses presidential election strategy
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate><name>LUDOVIC ORBAN</name><impact>POSITIVE</impact></candidate>
+  <candidate><name>ION-MARCEL CIOLACU</name><impact>NEGATIVE</impact></candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>FORȚA DREPTEI</responsible-party-or-group>
+<message-for-police>
+FORȚA DREPTEI MUREȘ, pentru incalcarea articolului 55 t) din Legea 370/2004, prin continuarea propagandei electorale după încheierea campaniei, prin postarea cu ID 1684741228923253 pe Facebook, după ora 18:00 pe 23.11.2024. Postarea constituie propagandă electorală deoarece conține număr CMF (11240022), face referiri directe la candidații prezidențiali Ludovic Orban și Marcel Ciolacu, urmărește influențarea comportamentului electoral prin criticarea candidatului PSD și promovarea strategiei dreptei politice, fiind o comunicare plătită ce a ajuns la minimum 15.000 de persoane. Postarea depășește cadrul unei simple informări, având un evident obiectiv electoral prin încercarea de a influența votul împotriva candidatului PSD și în favoarea unui candidat al dreptei politice.
+</message-for-police>
+</conclusion>
+</output>

@@ -1,0 +1,58 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: Yes - "CMF 11240002" is present at the end, indicating this is electoral propaganda material.
+
+2. Refers to candidates: Yes, explicitly mentions multiple presidential candidates:
+- Marcel Ciolacu (negative reference)
+- Elena Lasconi (negative reference)
+- George Simion (negative reference)
+- Nicolae Ciucă (positive reference)
+
+3. Addresses wide population: Yes
+- Uses calls to action ("Să ieșim duminică la vot")
+- Posted as a paid advertisement on Facebook/Instagram
+- Targets a large estimated audience (100,001-500,000 people)
+
+4. Electoral objective: Very clearly yes
+- Explicitly calls for voting
+- Criticizes specific candidates
+- Promotes Nicolae Ciucă's qualities as a candidate
+- Mentions this vote affects "viitorul țării"
+
+5. Journalism: No
+- This is clearly campaign material, not journalistic content
+- Contains clear bias and campaign messaging
+- Has CMF number
+
+6. Personal opinion: No
+- This is a paid, structured campaign message
+- Contains official campaign identifier (CMF)
+- Professional delivery and formatting
+</analysis>
+
+<conclusion>
+<post_id>1806660900143980</post_id>
+<electoral-propaganda-analysis>
+This is clearly electoral propaganda because:
+- Contains CMF number
+- Directly promotes/attacks presidential candidates
+- Calls for voting action
+- Is paid advertising
+- Contains campaign messaging
+- Targets wide audience
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate><name>ION-MARCEL CIOLACU</name><impact>NEGATIVE</impact></candidate>
+  <candidate><name>ELENA-VALERICA LASCONI</name><impact>NEGATIVE</impact></candidate>
+  <candidate><name>GEORGE-NICOLAE SIMION</name><impact>NEGATIVE</impact></candidate>
+  <candidate><name>NICOLAE-IONEL CIUCĂ</name><impact>POSITIVE</impact></candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>PNL</responsible-party-or-group>
+<message-for-police>
+SC EURO MEDIA BIS SRL, pentru incalcarea articolului 55 t) din Legea 370/2004, prin promovarea unui mesaj de propaganda electorala (ID postare Facebook: 1806660900143980) dupa incheierea perioadei de campanie electorala (dupa ora 18:00 pe 23.11.2024). Postarea contine elementele definitorii ale propagandei electorale: are numar CMF (11240002), face referire directa la candidati la presedintie (atât negativ către Ciolacu, Lasconi și Simion, cât și pozitiv către Nicolae Ciucă), indeamna explicit la vot ("Să ieșim duminică la vot"), si are scop electoral evident prin promovarea calitatilor unui candidat ("Generalul Nicolae Ciucă este familist, este onest, corect, educat") si denigrarea contracandidatilor. Mesajul este platit si targetat catre un public larg (100,001-500,000 persoane), depasind astfel sfera unei simple opinii personale.
+</message-for-police>
+</conclusion>
+</output>

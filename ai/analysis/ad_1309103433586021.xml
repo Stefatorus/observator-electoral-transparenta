@@ -1,0 +1,44 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: No CMF number is present in this post.
+
+2. Refers to candidate: Yes, it directly refers to George Simion, who is a presidential candidate (Position 2). It also promotes Ciprian-Titi Stoica, who is running for Senate.
+
+3. Addresses wide population: Yes, this is a paid advertisement with significant reach (80,000-90,000 impressions) targeting Timiș county voters.
+
+4. Electoral objective: Yes, it explicitly calls for votes on specific dates (November 24, December 1, and December 8) and promotes both the presidential candidate (Simion) and the AUR party.
+
+5. Journalism: No, this is clearly campaign material, not journalistic content.
+
+6. Personal opinion: No, this is a structured campaign message with clear call to action for voting.
+
+Key problematic aspects:
+- Direct call to vote for George Simion
+- Mentions specific election dates
+- Promotes "Planul Simion"
+- Large paid reach
+- Continues to run after campaign period ended
+</analysis>
+
+<conclusion>
+<post_id>1309103433586021</post_id>
+<electoral-propaganda-analysis>
+This is clearly electoral propaganda because:
+- It explicitly calls for votes
+- Promotes a presidential candidate (Simion)
+- Has significant paid reach
+- Contains campaign promises and political messaging
+- Links local candidate (Stoica) with presidential candidate (Simion)
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+<candidate><name>GEORGE-NICOLAE SIMION</name><impact>POSITIVE</impact></candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>AUR</responsible-party-or-group>
+<message-for-police>
+UNIWORLD - MEDIA SRL, pentru incalcarea articolului 55 t) din Legea 370/2004, prin continuarea propagandei electorale după încheierea campaniei pentru alegerile prezidențiale, prin intermediul unei postări sponsorizate pe Facebook (ID: 1309103433586021) care îndeamnă în mod explicit la votarea candidatului George Simion la alegerile prezidențiale. Postarea, care continuă să fie activă după ora 18:00 pe 23.11.2024, conține îndemnul direct "Pe 24 noiembrie, 1 decembrie și 8 decembrie, vă invit să votați George Simion și A.U.R pentru o schimbare adevărată", reprezentând astfel propagandă electorală care încalcă prevederile legale privind încheierea campaniei electorale. Efectul electoral este evident prin promovarea explicită a candidatului la președinție și asocierea acestuia cu programul politic denumit "Planul Simion", într-un context care vizează influențarea directă a votului în favoarea sa.
+</message-for-police>
+</conclusion>
+</output>

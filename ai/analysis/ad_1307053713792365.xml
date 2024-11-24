@@ -1,0 +1,47 @@
+<output>
+<analysis>
+Let's analyze this post according to the given criteria:
+
+1. Has CMF: Yes, CMF 11240017 is present at the end of the post, indicating this is electoral content.
+
+2. Refers to candidate: Yes, explicitly mentions "Marcel Ciolacu, candidatul nostru la Președinția României" and promotes his project for Romania.
+
+3. Addresses wide population: Yes, this is a paid advertisement on Facebook/Instagram with a significant reach (125,000-150,000 impressions) and targets the general population of Baia Mare and Maramureș.
+
+4. Electoral objective: Yes, the post has multiple electoral objectives:
+- Promotes parliamentary candidates for PSD
+- Promotes Marcel Ciolacu as presidential candidate
+- Presents his presidential project
+- Encourages people to vote
+
+5. Journalism: No, this is clearly campaign material, not journalistic content. It's a first-person narrative from a party representative promoting their candidates and platform.
+
+6. Personal opinion: No, this is an official party communication with electoral purposes, evidenced by the CMF number and party byline.
+
+The post mixes parliamentary election campaign (which is still allowed) with presidential election campaign (which is not allowed after the propaganda period ended).
+</analysis>
+
+<conclusion>
+<post_id>1307053713792365</post_id>
+<electoral-propaganda-analysis>
+This post constitutes electoral propaganda because:
+- Contains CMF number
+- Directly promotes a presidential candidate
+- Presents electoral promises and platform
+- Is a paid advertisement reaching a wide audience
+- Explicitly promotes voting considerations
+- Combines parliamentary and presidential campaign messages
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+<candidate>
+<name>ION-MARCEL CIOLACU</name>
+<impact>POSITIVE</impact>
+</candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>PSD</responsible-party-or-group>
+<message-for-police>
+PSD Maramureș, prin intermediul paginii "Dancus Ioan Doru", pentru incalcarea articolului 55 t) din Legea 370/2004, prin continuarea propagandei electorale pentru candidatul la președinție Marcel Ciolacu după încheierea perioadei legale de campanie, într-o postare sponsorizată cu ID 1307053713792365. Postarea prezintă explicit "proiectul pentru România propus de Marcel Ciolacu, candidatul nostru la Președinția României" și descrie programul său electoral, având efect de influențare a votului pentru alegerile prezidențiale. Postarea conține număr CMF (11240017) și este distribuită după ora 18:00 pe 23.11.2024, având un impact semnificativ prin atingerea unui public de peste 125.000 de persoane prin plată pe platformele Facebook și Instagram.
+</message-for-police>
+</conclusion>
+</output>

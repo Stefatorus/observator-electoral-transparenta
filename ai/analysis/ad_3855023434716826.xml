@@ -1,0 +1,53 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. CMF Number: Yes, contains "CMF 11240017" which indicates this is electoral propaganda material.
+
+2. Candidate Reference: Directly refers to Marcel Ciolacu, a presidential candidate, using the hashtag "#MarcelCiolacupreședinte"
+
+3. Wide Population Targeting:
+- Paid advertisement on Facebook and Instagram
+- Large reach (35,000-39,999 impressions)
+- Addresses "Maramureșenii" and discusses national objectives
+
+4. Electoral Objective:
+- Explicitly promotes Marcel Ciolacu for president
+- Makes promises about economic development and quality of life
+- Uses campaign slogans ("calea sigură")
+- Links economic promises to Ciolacu's presidency
+
+5. Journalism: This is clearly not journalistic content but campaign material.
+
+6. Personal Opinion: This is an official party communication (PSD Maramureș) with campaign messaging.
+
+The post clearly constitutes electoral propaganda because:
+- It has a CMF number
+- Makes explicit reference to a presidential candidate
+- Links promises to the candidate's potential presidency
+- Uses campaign slogans and hashtags
+- Is a paid advertisement with significant reach
+</analysis>
+
+<conclusion>
+<post_id>3855023434716826</post_id>
+<electoral-propaganda-analysis>
+This is clearly electoral propaganda as it meets all criteria under Article 36(7):
+a) Directly references candidate Marcel Ciolacu
+b) Used during campaign period
+c) Has clear electoral objective with promises and campaign messaging
+d) Goes beyond journalistic information
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate>
+    <name>ION-MARCEL CIOLACU</name>
+    <impact>POSITIVE</impact>
+  </candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>PSD</responsible-party-or-group>
+<message-for-police>
+PSD Maramures, pentru incalcarea articolului 55 t) din Legea 370/2004, prin continuarea propagandei electorale după încheierea campaniei electorale pentru alegerile prezidențiale, prin intermediul unei postări sponsorizate pe Facebook (ID: 3855023434716826) care promovează explicit candidatura lui Marcel Ciolacu la președinție, utilizând hashtag-ul "#MarcelCiolacupreședinte" și făcând promisiuni electorale legate de dezvoltarea economică sub președinția sa. Postarea, care include numărul CMF 11240017, reprezintă în mod clar material de propagandă electorală conform Art. 36(7), având obiectiv electoral explicit și fiind difuzată după ora 18:00 pe 23.11.2024, când propaganda electorală pentru alegerile prezidențiale trebuia să înceteze.
+</message-for-police>
+</conclusion>
+</output>

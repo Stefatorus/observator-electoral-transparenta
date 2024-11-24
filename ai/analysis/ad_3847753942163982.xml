@@ -1,0 +1,44 @@
+<output>
+<analysis>
+Let me analyze this post according to the given criteria:
+
+1. Has CMF: Yes, contains "CUI MFC 11240014"
+2. Refers to candidate: Yes, mentions "George Simion" directly, who is a presidential candidate
+3. Addresses wide population: Yes, it's a paid advertisement with significant reach (10,000-14,999 impressions)
+4. Electoral objective: Yes, explicitly calls for votes ("vino la vot") and promotes a specific candidate's plan ("planul Simion")
+5. Journalism: No, this is clearly campaign material, not journalistic content
+6. Personal opinion: No, this is an official party communication with clear campaign objectives
+
+The post contains several elements that classify it as electoral propaganda:
+- Direct mention of a presidential candidate (George Simion)
+- Use of campaign hashtags (#VoteazăAUR)
+- Explicit call to vote
+- Presence of CMF number
+- Promotion of a specific political program ("planul Simion")
+
+</analysis>
+
+<conclusion>
+<post_id>3847753942163982</post_id>
+<electoral-propaganda-analysis>
+This post clearly constitutes electoral propaganda because:
+- It directly promotes a presidential candidate (George Simion)
+- Contains explicit call to vote
+- Promotes a specific political program
+- Uses campaign hashtags
+- Has CMF number
+- Is paid advertising reaching a wide audience
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+<candidate>
+<name>GEORGE-NICOLAE SIMION</name>
+<impact>POSITIVE</impact>
+</candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>AUR</responsible-party-or-group>
+<message-for-police>
+Alianța pentru Unirea Românilor Vâlcea, pentru incalcarea articolului 55 t) din Legea 370/2004, prin continuarea propagandei electorale după încheierea perioadei legale de campanie, într-o postare plătită pe Facebook (ID: 3847753942163982) care promovează explicit candidatul George Simion și programul său electoral "planul Simion". Postarea conține un îndemn direct la vot ("vino la vot pentru un viitor mai bun!"), folosește hashtag-uri electorale (#VoteazăAUR) și promovează explicit programul candidatului pentru infrastructură, având un evident scop electoral. Postarea a fost activă și după ora 18:00 pe 23.11.2024, încălcând astfel prevederile legale privind încheierea campaniei electorale.
+</message-for-police>
+</conclusion>
+</output>

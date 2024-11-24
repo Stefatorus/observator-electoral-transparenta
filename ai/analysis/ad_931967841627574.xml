@@ -1,0 +1,43 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: No CMF number is present, but this is not determinative as it's coming from a party page.
+
+2. Refers to candidate: Yes, explicitly mentions "Elena Lasconi", who is a presidential candidate.
+
+3. Addresses wide population: Yes, this is a paid advertisement on Facebook and Instagram, targeting between 100,001-500,000 people, with 8,000-8,999 impressions already achieved.
+
+4. Electoral objective: Yes, the message clearly has an electoral objective. The statement "Elena Lasconi nu este răul cel mai mic, ci singura care poate învinge răul cel mare" is a clear attempt to influence voters by positioning her as the only viable option against "the greater evil."
+
+5. Journalism: No, this is not journalistic content. It's a direct campaign message.
+
+6. Personal opinion: No, this is a paid party advertisement, not a personal opinion.
+
+The post clearly constitutes electoral propaganda as it meets all criteria under Article 36(7):
+- Directly refers to a candidate
+- Used during campaign period
+- Has electoral objective
+- Is not journalistic content
+</analysis>
+
+<conclusion>
+<post_id>931967841627574</post_id>
+<electoral-propaganda-analysis>
+This is clearly electoral propaganda because:
+- Directly names presidential candidate Elena Lasconi
+- Makes a campaign argument positioning her as the only viable option
+- Is a paid advertisement reaching a large audience
+- Has clear electoral intent to influence voting behavior
+- Comes from an official party channel (USR Arad)
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate><name>ELENA-VALERICA LASCONI</name><impact>POSITIVE</impact></candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>USR</responsible-party-or-group>
+<message-for-police>
+USR Arad, pentru incalcarea articolului 55 t) din Legea 370/2004, prin difuzarea unui mesaj de propaganda electorala dupa incheierea perioadei de campanie, pe data de 23.11.2024 dupa ora 18:00, prin intermediul unei reclame platite pe Facebook (ID: 931967841627574) care promoveaza explicit candidatul Elena Lasconi la functia de presedinte. Mesajul "Elena Lasconi nu este răul cel mai mic, ci singura care poate învinge răul cel mare" reprezinta in mod evident propaganda electorala, avand ca scop influentarea intentiei de vot a alegatorilor prin pozitionarea candidatului ca singura optiune viabila, depasind limitele unei simple informari si constituind un indemn direct la sustinerea candidatului.
+</message-for-police>
+</conclusion>
+</output>

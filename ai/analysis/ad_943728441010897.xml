@@ -1,0 +1,54 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: Yes - "CMF 11240014" is present, indicating this is electoral propaganda material
+
+2. Refers to candidate: Yes - Directly mentions "George Simion" as a presidential candidate for 2024
+
+3. Addresses wide population: Yes
+- It's a paid advertisement on Facebook and Instagram
+- Reaches between 500,001 and 1,000,000 people
+- Uses hashtags to increase visibility
+- Clear public messaging format
+
+4. Electoral objective: Yes
+- Explicitly states support for George Simion for presidential elections
+- Uses campaign-specific hashtags (#AlegerilePrezidentiale)
+- Direct endorsement language: "îl susțin pe George Simion pentru alegerile prezidențiale din 2024"
+
+5. Journalism: No
+- This is clearly a promotional message, not journalistic content
+- Contains direct endorsement
+- Includes campaign identifier (CMF)
+
+6. Personal opinion: While it expresses support, it's clearly campaign material because:
+- Contains CMF number
+- Is a paid advertisement
+- Specifically targets presidential elections
+</analysis>
+
+<conclusion>
+<post_id>943728441010897</post_id>
+<electoral-propaganda-analysis>
+This is clearly electoral propaganda because:
+1. Contains official CMF number
+2. Directly promotes a presidential candidate
+3. Is a paid advertisement
+4. Explicitly mentions presidential elections
+5. Has clear electoral objective
+6. Uses campaign hashtags and messaging
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate>
+    <name>GEORGE-NICOLAE SIMION</name>
+    <impact>POSITIVE</impact>
+  </candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>AUR</responsible-party-or-group>
+<message-for-police>
+SC VIDEO DANCRYS-STUDIO SRL, pentru incalcarea articolului 55 t) din Legea 370/2004, prin promovarea unui mesaj de propaganda electorala pentru candidatul George Simion la alegerile prezidentiale, dupa incheierea perioadei de campanie electorala (postare ID: 943728441010897). Postarea contine elementele definitorii ale propagandei electorale conform Art. 36(7): identificarea clara a candidatului ("George Simion"), obiectiv electoral explicit ("îl susțin pe George Simion pentru alegerile prezidențiale din 2024"), adresabilitate catre publicul larg (postare platita pe Facebook si Instagram), si depaseste limitele activitatii jurnalistice. Postarea include cod CMF (11240014), confirmand natura sa de material de propaganda electorala. Aceasta activitate continua dupa ora 18:00 pe 23.11.2024, incalcand astfel prevederile legale privind perioada permisa pentru propaganda electorala.
+</message-for-police>
+</conclusion>
+</output>

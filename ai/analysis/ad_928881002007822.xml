@@ -1,0 +1,38 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: Yes, contains "CMF 11240046" which indicates it's electoral propaganda
+2. Refers to candidate: Yes, mentions Marcel Ciolacu, who is a presidential candidate
+3. Addresses wide population: Yes, it's a paid Facebook post targeting 100,001-500,000 people
+4. Electoral objective: Mixed - primarily focuses on parliamentary elections but includes messaging against a presidential candidate
+5. Journalism: No, this is clearly campaign material
+6. Personal opinion: No, this is structured campaign messaging
+
+The post presents several layers:
+- Primary focus on parliamentary elections (which is allowed)
+- Secondary messaging against Marcel Ciolacu
+- Contains both local (Buzău) and national political messaging
+- Uses official campaign marking (CMF)
+- Significant reach (30,000-35,000 impressions)
+
+However, while the post mentions Marcel Ciolacu, it primarily refers to him in context of local politics and parliamentary elections, not the presidential race. The focus is clearly on the parliamentary elections for Buzău, which is still in its legal campaign period.
+
+</analysis>
+
+<conclusion>
+<post_id>928881002007822</post_id>
+<electoral-propaganda-analysis>
+While this post contains electoral messaging, it's primarily focused on the parliamentary elections, which are still in their legal campaign period. The mention of Marcel Ciolacu appears to be in his capacity as a local political figure rather than as a presidential candidate. The post's main objective is to promote the DREPT party in parliamentary elections and critique local governance, not to influence the presidential election.
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>FALSE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+<candidate>
+<name>ION-MARCEL CIOLACU</name>
+<impact>NEGATIVE</impact>
+</candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>DREPT</responsible-party-or-group>
+<message-for-police></message-for-police>
+</conclusion>
+</output>

@@ -1,0 +1,58 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. CMF Presence:
+- Yes, contains "CMF11240014" which is a clear indicator of electoral material
+
+2. Candidate Reference:
+- Directly references George Simion, who is a presidential candidate
+- Uses hashtags #GeorgeSimion #GeorgeSimionPresedinte
+- Shows clear support and promotion of the candidate
+
+3. Wide Population Address:
+- This is a paid Facebook advertisement with significant reach (20,000-24,999 impressions)
+- Uses hashtags to increase visibility
+- Budget spent: 200-299 RON
+- Estimated audience size: 100,001-500,000
+
+4. Electoral Objective:
+- Uses campaign-specific hashtags (#PlanulSimion)
+- Explicitly promotes George Simion for president
+- Links personal story to support of the candidate
+- Clear intention to influence voters through narrative about affordable housing
+
+5. Journalism vs Propaganda:
+- This is not journalism but rather a campaign message
+- Contains personal endorsement and campaign promises
+- Uses emotional appeal about "saving Romania"
+
+6. Personal Opinion:
+- While containing personal experience, it's clearly structured as campaign material
+- Professional promotion (paid ad) rather than organic personal opinion
+</analysis>
+
+<conclusion>
+<post_id>3925497371059759</post_id>
+<electoral-propaganda-analysis>
+This is clearly electoral propaganda because:
+- Contains official campaign identifier (CMF)
+- Directly promotes presidential candidate
+- Uses campaign hashtags
+- Is a paid advertisement
+- Has clear electoral messaging
+- Links policy promises (affordable housing) to candidate
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate>
+    <name>GEORGE-NICOLAE SIMION</name>
+    <impact>POSITIVE</impact>
+  </candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>AUR</responsible-party-or-group>
+<message-for-police>
+UNIWORLD - MEDIA SRL, pentru incalcarea articolului 55 t) din Legea 370/2004, prin promovarea unui mesaj de propaganda electorala pentru candidatul George Simion dupa incheierea perioadei de campanie electorala, la data de 23.11.2024 dupa ora 18:00. Postarea cu ID-ul 3925497371059759 contine elementele specifice propagandei electorale: cod unic CMF11240014, hashtag-uri de campanie (#GeorgeSimionPresedinte), promisiuni electorale privind constructia de locuinte si mesaje directe de sustinere a candidatului ("Am decis să fac tot ce-mi stă în puteri alături de el"), fiind o reclama platita cu impact semnificativ (20.000-24.999 impresii). Mesajul are obiectiv electoral clar, vizand influentarea intentiei de vot a alegatorilor prin asocierea candidatului cu promisiuni concrete de politici publice si folosind elemente emotionale pentru mobilizarea alegatorilor.
+</message-for-police>
+</conclusion>
+</output>

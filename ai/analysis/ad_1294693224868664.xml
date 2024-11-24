@@ -1,0 +1,54 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: Yes, "CMF: 31240003" is present, indicating this is electoral propaganda
+
+2. Refers to candidate: Yes, explicitly mentions "Nicolae Ciucă" who is a presidential candidate (Position 4)
+
+3. Addresses wide population: Yes
+- It's a paid advertisement on Facebook and Instagram
+- Uses broad language "România are nevoie..."
+- Reaches between 3,000-3,999 impressions
+- Estimated audience size: 100,001-500,000
+
+4. Electoral objective: Yes
+- Directly calls for votes: "Pe 24 noiembrie votăm Nicolae Ciucă președinte!"
+- Promotes candidate qualities for presidency
+- Clear campaign messaging
+
+5. Journalism: No
+- This is clearly campaign material, not journalistic content
+- Contains direct call to action for voting
+- Uses campaign messaging and CMF number
+
+6. Personal opinion: No
+- This is an official party communication (PNL Teleorman)
+- Contains formal campaign elements (CMF number)
+- Structured as campaign messaging
+</analysis>
+
+<conclusion>
+<post_id>1294693224868664</post_id>
+<electoral-propaganda-analysis>
+This is clearly electoral propaganda because:
+- Contains CMF number
+- Direct call to vote for a specific candidate
+- Paid advertisement reaching large audience
+- Official party communication
+- Clear campaign messaging
+- Specifically targets presidential elections
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+<candidate>
+<name>NICOLAE-IONEL CIUCĂ</name>
+<impact>POSITIVE</impact>
+</candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>PNL</responsible-party-or-group>
+<message-for-police>
+Patridul Național Liberal Teleorman, pentru incalcarea articolului 55 t) din Legea 370/2004, prin difuzarea unui mesaj de propaganda electorala (ID Facebook: 1294693224868664) dupa incheierea perioadei de campanie electorala pentru alegerile prezidentiale (dupa ora 18:00 pe 23.11.2024). Postarea contine un indemn direct la vot pentru candidatul Nicolae Ciucă ("Pe 24 noiembrie votăm Nicolae Ciucă președinte!"), este marcata cu cod CMF 31240003, si are caracter de propaganda electorala fiind promovata ca reclama platita pe Facebook si Instagram, cu un impact estimat intre 3.000 si 3.999 de afisari. Mesajul are un obiectiv electoral clar, promovand candidatul ca "cel mai bun" si solicitand explicit votul pentru acesta in ziua alegerilor.
+</message-for-police>
+</conclusion>
+</output>

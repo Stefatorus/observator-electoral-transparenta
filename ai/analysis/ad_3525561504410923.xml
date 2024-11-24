@@ -1,0 +1,52 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: Yes, CMF 11240015 is present, indicating this is electoral propaganda material.
+
+2. Refers to candidates:
+- Directly mentions "Elena Lasconi" as presidential candidate
+- Mentions "Ciolacu" (ION-MARCEL CIOLACU) critically
+- References "Simion" (GEORGE-NICOLAE SIMION)
+
+3. Addresses wide population:
+- Yes, it's a paid Facebook advertisement with significant reach (35,000-40,000 impressions)
+- Uses broad, public-addressing language
+- Makes general appeals to voters
+
+4. Electoral objective:
+- Explicitly calls for votes ("Votează USR la Parlamentare și #ElenaLasconiPreședinte!")
+- Criticizes other candidates (Ciolacu, Simion)
+- Presents political platform and promises
+
+5. Journalism:
+- This is not journalistic content
+- It's clearly campaign material with party positions and calls to action
+
+6. Personal opinion:
+- This is not a personal opinion but an official party communication with CMF number
+</analysis>
+
+<conclusion>
+<post_id>3525561504410923</post_id>
+<electoral-propaganda-analysis>
+This is clearly electoral propaganda because:
+- Contains official CMF number
+- Makes direct appeals for votes
+- Criticizes other candidates
+- Presents campaign promises
+- Is paid advertising
+- Has clear electoral objectives
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate><name>ELENA-VALERICA LASCONI</name><impact>POSITIVE</impact></candidate>
+  <candidate><name>ION-MARCEL CIOLACU</name><impact>NEGATIVE</impact></candidate>
+  <candidate><name>GEORGE-NICOLAE SIMION</name><impact>NEGATIVE</impact></candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>USR</responsible-party-or-group>
+<message-for-police>
+USR Argeș, pentru incalcarea articolului 55 t) din Legea 370/2004, prin promovarea unui material de propaganda electorala (ID Facebook: 3525561504410923) dupa incheierea perioadei de campanie electorala pentru alegerile prezidentiale. Materialul, publicat dupa ora 18:00 pe 23.11.2024, contine un indemn direct la vot pentru candidatul Elena Lasconi la functia de presedinte ("#ElenaLasconiPreședinte"), critici la adresa contracandidatilor Marcel Ciolacu si George Simion, precum si prezentarea unui program electoral. Materialul este marcat cu cod CMF 11240015, confirmand natura sa de propaganda electorala, si a fost distribuit ca reclama platita pe Facebook, cu un impact semnificativ (35,000-40,000 impresii), demonstrand intentia clara de a influenta votul in alegerile prezidentiale dupa incheierea perioadei legale de campanie.
+</message-for-police>
+</conclusion>
+</output>

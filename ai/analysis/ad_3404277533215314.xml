@@ -1,0 +1,42 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: Yes, contains "CMF: 11240015" at the end
+2. Refers to candidate: The post mentions "Ciolacu" (presidential candidate) negatively
+3. Addresses wide population: Yes, this is a paid post reaching 45,000-50,000 people
+4. Electoral objective: The post has a mixed message:
+   - Primarily focuses on parliamentary elections ("Pe 1 Decembrie, la alegerile parlamentare")
+   - Contains criticism of Ciolacu in his role as PSD leader/PM, not specifically as presidential candidate
+5. Journalism: No, this is clearly a political message
+6. Personal opinion: This is an official party communication, not a personal opinion
+
+The post primarily focuses on:
+- Issues with Port of Constanta management
+- Criticism of current administration
+- Call to vote for USR in parliamentary elections
+- Contains CMF number indicating it's electoral material
+</analysis>
+
+<conclusion>
+<post_id>3404277533215314</post_id>
+<electoral-propaganda-analysis>
+While this post does contain electoral propaganda elements, it's primarily focused on the parliamentary elections, which are still in their legal campaign period. The mention of Ciolacu appears in context of his current role as Prime Minister and party leader, not specifically as a presidential candidate. The call to action is explicitly for the parliamentary elections ("Pe 1 Decembrie, la alegerile parlamentare, votați pentru soluții eficiente și oameni profesioniști").
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>FALSE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+<candidate>
+<name>ION-MARCEL CIOLACU</name>
+<impact>NEGATIVE</impact>
+</candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>USR</responsible-party-or-group>
+<message-for-police></message-for-police>
+</conclusion>
+
+The post does not violate Article 55 t) because:
+1. The main focus is parliamentary elections, which are still in campaign period
+2. Criticism of Ciolacu is in his governmental role, not as presidential candidate
+3. No direct attempt to influence presidential election voting
+4. Clear focus on December 1st parliamentary elections
+</output>

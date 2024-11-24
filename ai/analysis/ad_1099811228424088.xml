@@ -1,0 +1,46 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: YES (CMF: 11240015) - This indicates it's electoral propaganda
+2. Refers to candidates: YES
+   - Mentions Marcel Ciolacu (PSD presidential candidate)
+   - Mentions Nicolae Ciucă (PNL presidential candidate)
+   - Refers to them dismissively as "frații Cici"
+3. Addresses wide population: YES
+   - Paid advertisement with large reach (60,000-70,000 impressions)
+   - Uses inclusive language ("noi", "ne", "noastră")
+4. Electoral objective: YES
+   - Explicitly encourages voting behavior ("când vom vrea să avem o Românie pentru toți...")
+   - Criticizes specific candidates and parties
+   - Concludes with a call to vote for "people who show us respect"
+5. Journalism: NO
+   - This is clearly opinion and campaign material, not journalistic content
+6. Personal opinion: NO
+   - This is a paid, structured campaign message with CMF number
+   - Posted by USR as indicated in the byline
+
+The post is clearly electoral propaganda targeting both the parliamentary and presidential elections. While parliamentary election propaganda is still allowed, the post specifically targets presidential candidates during the prohibition period.
+
+<conclusion>
+<post_id>1099811228424088</post_id>
+<electoral-propaganda-analysis>
+This constitutes electoral propaganda because:
+- Contains CMF number
+- Directly criticizes presidential candidates
+- Has clear electoral objective
+- Is a paid advertisement with wide reach
+- Makes direct references to the upcoming elections
+- Aims to influence voting behavior
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+<candidate><name>ION-MARCEL CIOLACU</name><impact>NEGATIVE</impact></candidate>
+<candidate><name>NICOLAE-IONEL CIUCĂ</name><impact>NEGATIVE</impact></candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>USR</responsible-party-or-group>
+<message-for-police>
+Uniunea Salvați România, pentru incalcarea articolului 55 t) din Legea 370/2004, prin distribuirea unui material de propaganda electorala (ID: 1099811228424088) dupa data de 23.11.2024, ora 18:00. Materialul contine referiri directe la candidatii la presedintie Marcel Ciolacu si Nicolae Ciuca, folosind un ton denigrator ("fratii Cici"), are scop electoral explicit vizibil prin indemnul la vot si critica directa a candidatilor prezidentiali, fiind distribuit ca reclama platita pe Facebook cu un impact semnificativ (60.000-70.000 afisari). Materialul contine numarul CMF 11240015, confirmand natura sa de propaganda electorala, si urmareste influentarea comportamentului electoral prin criticarea directa a candidatilor prezidentiali si indemnul de a vota impotriva acestora.
+</message-for-police>
+</conclusion>
+</output>

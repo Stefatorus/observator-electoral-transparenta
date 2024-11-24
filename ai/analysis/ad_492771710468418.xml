@@ -1,0 +1,42 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. CMF Number: Yes, contains "CMF 11240014" which indicates it's electoral propaganda
+2. Refers to candidate: Yes, explicitly mentions "George Simion" who is a presidential candidate
+3. Addresses wide population: Yes, it's a paid Facebook ad with 35,000-39,999 impressions
+4. Electoral objective: Yes, explicitly calls for voting ("votează George Simion Președinte!")
+5. Journalism: No, this is clearly a campaign message
+6. Personal opinion: No, this is a structured campaign message with electoral call-to-action
+
+The post contains:
+- Direct call to vote for a specific candidate
+- Campaign slogan ("Familie. Credință. Viitor.")
+- CMF number indicating official campaign material
+- Clear electoral messaging targeting the presidential election
+- Significant reach through paid promotion
+</analysis>
+
+<conclusion>
+<post_id>492771710468418</post_id>
+<electoral-propaganda-analysis>
+This is clearly electoral propaganda because:
+- Contains explicit call to vote for a presidential candidate
+- Uses campaign messaging and official CMF number
+- Is a paid advertisement reaching tens of thousands
+- Directly promotes a presidential candidate
+- Has clear electoral objective for the presidential election
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate>
+    <name>GEORGE-NICOLAE SIMION</name>
+    <impact>POSITIVE</impact>
+  </candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>AUR</responsible-party-or-group>
+<message-for-police>
+Moza Costel - Consilier Local Oradea, pentru incalcarea articolului 55 t) din Legea 370/2004, prin difuzarea de propaganda electorala pentru alegerile prezidentiale dupa incheierea perioadei de campanie, respectiv dupa ora 18:00 pe 23.11.2024. Postarea cu ID-ul 492771710468418 contine un indemn direct la vot pentru candidatul George Simion la functia de presedinte ("Pe 24 noiembrie, votează George Simion Președinte!"), foloseste numar CMF (11240014), si are un obiectiv electoral explicit pentru alegerile prezidentiale. Postarea este promovata prin reclama platita pe Facebook, atingand intre 35.000 si 39.999 de persoane, reprezentand astfel o incercare clara de influentare a votului in perioada in care propaganda electorala este interzisa prin lege.
+</message-for-police>
+</conclusion>
+</output>

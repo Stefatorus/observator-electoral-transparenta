@@ -1,0 +1,43 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: Yes, CMF 11240014 is present, indicating this is electoral propaganda material.
+
+2. Refers to candidate: Yes, explicitly mentions "George Simion - poziția 2 la prezidențiale" and includes direct voting instructions.
+
+3. Addresses wide population: Yes, this is a paid advertisement on Facebook/Instagram targeting a potential audience of 100,001-500,000 people.
+
+4. Electoral objective: Yes, it contains explicit voting instructions for both presidential and parliamentary elections, with clear candidate positioning information.
+
+5. Journalism: No, this is clearly campaign material with direct voting instructions.
+
+6. Personal opinion: No, this is structured campaign communication with official CMF number and formal party messaging.
+
+The post combines parliamentary election campaign (which is still allowed) with presidential election campaigning (which is not allowed after the campaign period). The direct instruction "Votează George Simion - poziția 2 la prezidențiale" is particularly problematic as it constitutes continued presidential electoral propaganda.
+</analysis>
+
+<conclusion>
+<post_id>1262654651439486</post_id>
+<electoral-propaganda-analysis>
+This post constitutes electoral propaganda because:
+- Contains official CMF number
+- Provides direct voting instructions
+- Mentions presidential candidate position
+- Is paid advertising reaching a wide audience
+- Contains explicit campaign messaging
+- Combines parliamentary (allowed) with presidential (not allowed) campaigning
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+<candidate>
+<name>GEORGE-NICOLAE SIMION</name>
+<impact>POSITIVE</impact>
+</candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>AUR</responsible-party-or-group>
+<message-for-police>
+Dan Cosma și AUR, pentru incalcarea articolului 55 t) din Legea 370/2004, prin continuarea propagandei electorale pentru alegerile prezidențiale după încheierea campaniei electorale, prin postarea cu ID 1262654651439486 pe Facebook. Postarea conține îndemnuri directe de vot pentru candidatul la președinție George Simion ("Votează George Simion - poziția 2 la prezidențiale"), fiind o reclamă plătită, activă după ora 18:00 pe 23.11.2024, cu un CMF valid (11240014), care își propune să influențeze în mod direct comportamentul electoral al alegătorilor pentru scrutinul prezidențial. Postarea depășește cadrul permis al campaniei parlamentare în derulare, constituind propagandă electorală explicită pentru alegerile prezidențiale în afara perioadei legale.
+</message-for-police>
+</conclusion>
+</output>

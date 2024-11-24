@@ -1,0 +1,39 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: Yes - "CMF: 11240017" is present, indicating this is electoral propaganda
+2. Refers to candidate: Yes - Directly mentions Marcel Ciolacu, who is a presidential candidate
+3. Addresses wide population: Yes - This is a paid post with significant reach (100,000-124,999 impressions)
+4. Electoral objective: Yes - Explicitly mentions presidential elections and promotes victory for Marcel Ciolacu
+5. Journalism: No - This is clearly a campaign message, not journalistic content
+6. Personal opinion: No - This is an official party communication with campaign objectives
+
+The post contains several elements that make it clear electoral propaganda:
+- Direct reference to presidential elections ("primul tur al alegerilor prezidențiale din 24 noiembrie")
+- Explicit support for a candidate ("va aduce victoria lui Marcel Ciolacu")
+- Use of CMF number
+- Large paid distribution
+- Official party communication channel
+</analysis>
+
+<conclusion>
+<post_id>550408210951641</post_id>
+<electoral-propaganda-analysis>
+This is clearly electoral propaganda because:
+1. Contains CMF number
+2. Explicitly promotes a presidential candidate
+3. Discusses electoral victory
+4. Is paid distribution with wide reach
+5. Has clear electoral objective
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate><name>ION-MARCEL CIOLACU</name><impact>POSITIVE</impact></candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>PSD</responsible-party-or-group>
+<message-for-police>
+PSD Brașov, pentru incalcarea articolului 55 t) din Legea 370/2004, prin continuarea propagandei electorale după încheierea campaniei electorale pentru alegerile prezidențiale, prin intermediul unei postări sponsorizate pe Facebook (ID: 550408210951641) care promovează explicit candidatul ION-MARCEL CIOLACU și victoria acestuia la alegerile prezidențiale. Postarea, care include număr CMF 11240017, reprezintă propaganda electorală conform Art. 36(7) prin referirea directă la candidat, obiectivul electoral explicit ("va aduce victoria lui Marcel Ciolacu în aceste alegeri"), și adresarea către publicul larg prin distribuție plătită cu impact între 100.000 și 124.999 de afișări, după ora 18:00 pe 23.11.2024.
+</message-for-police>
+</conclusion>
+</output>

@@ -1,5 +1,7 @@
+# Proiect observare situatie propaganda electorala in intervalul 23 noiembrie 2024 18:00 - 24 noiembrie 2024.
+
 ## Introducere
-Ca observator acreditat de Asociația Funky Citizens, am participat la monitorizarea alegerilor prezidențiale din România din anul 2024, care s-au desfășurat în perioada 24 noiembrie - 8 decembrie 2024. 
+Ca observator acreditat de Asociația Funky Citizens, am participat la monitorizarea alegerilor prezidențiale din România din anul 2024, care se desfasoara în perioada 24 noiembrie - 8 decembrie 2024. 
 
 Aici puteti regasi materialele mele cu privire la activitățile desfășurate în data de 23 noiembrie 2024, ziua premergătoare primului tur al scrutinului.
 
@@ -18,3 +20,13 @@ Aici puteti regasi materialele mele cu privire la activitățile desfășurate �
 ### Modificari pe parcurs la prompt-ul modelului AI
 
 - Aproximativ 10% din fisiere au fost colectate folosind un script anterior, mai neclar, fara insa ca aceasta sa afecteze corectitudinea datelor. Ele sunt primele fisiere din final_enriched_meta_ad_data.json
+
+# Actualizari
+
+## Actualizare 03:38, 24 noiembrie 2024:
+
+In momentul realizarii unui videoclip despre procedura, mecanismele luate pentru eliminarea bias-urilor, am identificat situatii de fals-pozitive care defavorizau partidul social liberal, modelul AI ne-distingand situatiile de propaganda parlamentara, permisa in perioada actuala, care il nominalizeaza in mod favorabil pe Premierul Romaniei, fara a avea un obiectiv electoral vadit. 
+
+Aplicand principiul in dubio pro reo, am rectificat prompt-ul pentru a promova o analiza mai exhaustiva a starilor de fapt si dispus re-analizarea setului de postari susceptibile a fi ilicite. Modificarile nu nominalizeaza PSD, ci introduc detalii despre principiul in dubio pro reo, precum si detalii despre distinctia dintre cele 2 scrutinuri concomitente.
+
+Organele de constatare a contraventiilor, si partidele care au dreptul de a sesiza la randul lor organele de constatare a contraventiilor, pot accesa datele vechi in analysis_old, si reface analiza pentru a identifica modificarile.

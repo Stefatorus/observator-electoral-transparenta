@@ -1,0 +1,42 @@
+<output>
+<analysis>
+Let me analyze this post according to the given criteria:
+
+1. Has CMF: No CMF number is present in this post.
+
+2. Refers to candidate: Yes, it refers specifically to George-Nicolae Simion, who is a presidential candidate (Position 2). While it also mentions Piedone, who is not a presidential candidate, the mention of Simion makes it relevant to our analysis.
+
+3. Addresses wide population: Yes, this is a paid advertisement with significant reach (400,000-450,000 impressions) and substantial spending (2,500-2,999 RON).
+
+4. Electoral objective: Yes. The post appears to be attempting to influence public opinion against Simion by comparing him to an "interlop" and using the phrase "Să ne ferească Dumnezeu!" (God forbid!). This negative characterization during the electoral period appears intended to influence voters.
+
+5. Journalism: No, this does not follow journalistic standards. It's an opinion piece with clear negative connotations and no factual reporting.
+
+6. Personal opinion: While formatted as an opinion, the scale of promotion and organized nature of the campaign ("Lasă-i acasă" page) suggests this is part of a coordinated electoral messaging effort rather than genuine personal expression.
+
+</analysis>
+
+<conclusion>
+<post_id>927543008740969</post_id>
+<electoral-propaganda-analysis>
+This post constitutes electoral propaganda because:
+- It targets a specific presidential candidate (Simion)
+- Uses negative characterization to influence public opinion
+- Is part of a paid campaign with significant reach
+- Has clear electoral implications through its messaging
+- Goes beyond personal opinion due to its organized and paid nature
+- The page name "Lasă-i acasă" (Leave them at home) implies a call to action regarding voting behavior
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+<candidate>
+<name>GEORGE-NICOLAE SIMION</name>
+<impact>NEGATIVE</impact>
+</candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>INDEPENDENT</responsible-party-or-group>
+<message-for-police>
+Pagina "Lasă-i acasă", pentru incalcarea articolului 55 t) din Legea 370/2004, prin continuarea propagandei electorale după încheierea perioadei legale, manifestată prin publicarea și promovarea activă a unei reclame negative (ID: 927543008740969) ce vizează direct candidatul la președinție George-Nicolae Simion, după ora 18:00 pe 23.11.2024. Postarea folosește caracterizări negative și comparative pentru a influența comportamentul electoral al publicului larg, având un reach estimat între 400.000 și 450.000 de afișări, cu o investiție substanțială în promovare de peste 2.500 RON, demonstrând intenția clară de a influența procesul electoral prin denigrarea candidatului și sugerarea indirect a modului în care ar trebui să voteze alegătorii.
+</message-for-police>
+</conclusion>
+</output>

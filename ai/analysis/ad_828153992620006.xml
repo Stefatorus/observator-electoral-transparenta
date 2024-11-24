@@ -1,0 +1,52 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: Yes - "CMF 11240015, CMF 31240009" are present, indicating this is electoral content.
+
+2. Refers to candidate: Yes - Elena Lasconi is directly mentioned as "candidatul nostru pentru președinție"
+
+3. Addresses wide population: Yes - This is a paid Facebook post reaching thousands of people (15,000-19,999 impressions)
+
+4. Electoral objective: Yes
+- Explicitly mentions "Suntem înainte de alegerile prezidențiale"
+- Presents Elena Lasconi as "candidatul nostru pentru președinție"
+- Promotes her as "viitor președinte al României"
+- Outlines campaign promises and program points
+
+5. Journalism: No - This is clearly campaign material, not journalistic content
+
+6. Personal opinion: No - This is a structured campaign message with clear electoral objectives
+
+This post contains all elements of electoral propaganda as defined by Article 36(7):
+- Direct reference to candidate
+- Used during campaign period
+- Has electoral objective
+- Exceeds journalistic activity
+
+</analysis>
+
+<conclusion>
+<post_id>828153992620006</post_id>
+<electoral-propaganda-analysis>
+This is clearly electoral propaganda because:
+- Contains CMF numbers
+- Directly promotes a presidential candidate
+- Makes campaign promises
+- Presents a political program
+- Is a paid advertisement reaching thousands
+- Has clear electoral messaging
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+<candidate>
+<name>ELENA-VALERICA LASCONI</name>
+<impact>POSITIVE</impact>
+</candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>USR</responsible-party-or-group>
+<message-for-police>
+USR Maramures, pentru incalcarea articolului 55 t) din Legea 370/2004, prin continuarea propagandei electorale după încheierea campaniei electorale pentru alegerile prezidențiale, prin postarea cu ID 828153992620006 pe Facebook. Postarea, difuzată și după ora 18:00 din 23.11.2024, promovează explicit candidatura Elenei Lasconi la președinție, prezentând-o ca "viitor președinte al României" și detaliind programul său electoral, incluzând promisiuni specifice campaniei. Postarea include coduri CMF (11240015, 31240009), confirmând natura sa de propagandă electorală, și a fost promovată ca reclamă plătită, atingând între 15.000 și 19.999 de persoane, având astfel un impact electoral semnificativ în perioada în care propaganda electorală este interzisă prin lege.
+</message-for-police>
+</conclusion>
+</output>

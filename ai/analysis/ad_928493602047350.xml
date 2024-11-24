@@ -1,0 +1,49 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: No visible CMF number, but this doesn't automatically disqualify it as propaganda.
+
+2. Refers to candidate: Yes, explicitly mentions "MARCEL CIOLACU" as presidential candidate.
+
+3. Addresses wide population: Yes, it's a paid advertisement targeting a large audience (100,001-500,000 people) on Facebook and Instagram.
+
+4. Electoral objective: Yes, clearly presents an electoral message:
+- Uses "ALEGEM" (we choose)
+- Specifically mentions "duminică, 24 noiembrie" (election day)
+- Calls for voting for "MARCEL CIOLACU, PREȘEDINTE"
+- Uses electoral slogans like "CALEA SIGURĂ"
+
+5. Journalism: No, this is clearly campaign material, not journalistic content.
+
+6. Personal opinion: No, this is a structured campaign message paid for by PSD OLT.
+
+The post clearly constitutes electoral propaganda as it:
+- Directly promotes a presidential candidate
+- Calls for action on election day
+- Is paid advertising
+- Has clear electoral messaging
+- Is running after the propaganda period has ended
+</analysis>
+
+<conclusion>
+<post_id>928493602047350</post_id>
+<electoral-propaganda-analysis>
+This is clearly electoral propaganda because:
+- It explicitly promotes Marcel Ciolacu for president
+- Contains direct call to action for voting on election day
+- Uses campaign slogans and messaging
+- Is paid political advertising
+- Targets a specific demographic (farmers and young agricultural workers)
+- Running after the legal campaign period ended
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate><name>ION-MARCEL CIOLACU</name><impact>POSITIVE</impact></candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>PSD</responsible-party-or-group>
+<message-for-police>
+PSD OLT, pentru incalcarea articolului 55 t) din Legea 370/2004, prin continuarea propagandei electorale dupa incheierea campaniei, prin postarea cu ID 928493602047350 pe Facebook, promovata dupa ora 18:00 pe 23.11.2024. Postarea contine un indemn explicit la vot pentru candidatul Marcel Ciolacu la functia de presedinte, utilizand mesaje precum "duminică, 24 noiembrie ALEGEM CALEA SIGURĂ PENTRU DEZVOLTAREA AGRICULTURII ROMÂNEȘTI, MARCEL CIOLACU, PREȘEDINTE", fiind o forma clara de propaganda electorala care vizeaza influentarea votului in ziua alegerilor, adresandu-se unui public larg format din fermieri si tineri din agricultura, cu impact electoral direct prin promovarea platita pe retelele de socializare Facebook si Instagram.
+</message-for-police>
+</conclusion>
+</output>

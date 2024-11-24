@@ -1,0 +1,38 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. CMF Present: Yes (CMF: 11240017) - This indicates it's electoral propaganda
+2. Refers to candidate: Yes - Mentions "Marcel Ciolacu" explicitly as presidential candidate
+3. Addresses wide population: Yes - It's a paid post targeting 100,001-500,000 people
+4. Electoral objective: Yes - Clearly states "Calea sigură pentru România este #MarcelCiolacuPreședinte"
+5. Journalism: No - This is clearly promotional content, not journalistic
+6. Personal opinion: No - This is an official party communication (PSD Dolj)
+
+The post combines legitimate governmental achievements (Schengen accession) with presidential campaign messaging. While discussing Schengen achievements would normally be acceptable government communication, this post explicitly links it to the presidential campaign with "Calea sigură pentru România este #MarcelCiolacuPreședinte" and promotes Ciolacu as a presidential candidate.
+
+</analysis>
+
+<conclusion>
+<post_id>379816521808234</post_id>
+<electoral-propaganda-analysis>
+This is clearly electoral propaganda because:
+1. It has a CMF number
+2. It explicitly promotes Marcel Ciolacu as presidential candidate
+3. Links government achievements to presidential candidacy
+4. Uses paid promotion to reach a wide audience
+5. Has clear electoral objectives by promoting Ciolacu for president
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+<candidate>
+<name>ION-MARCEL CIOLACU</name>
+<impact>POSITIVE</impact>
+</candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>PSD</responsible-party-or-group>
+<message-for-police>
+PSD Dolj, pentru incalcarea articolului 55 t) din Legea 370/2004, prin promovarea unui material de propaganda electorala pentru candidatul ION-MARCEL CIOLACU dupa incheierea perioadei de campanie electorala. Materialul publicitar cu ID-ul 379816521808234, postat dupa ora 18:00 pe 23.11.2024, foloseste realizarile guvernamentale privind aderarea la Schengen pentru a promova candidatura la presedintie a lui Marcel Ciolacu, continand explicit mesajul "Calea sigură pentru România este #MarcelCiolacuPreședinte". Postarea include numar CMF (11240017), are obiectiv electoral explicit si vizeaza influentarea votului prin asocierea realizarilor guvernamentale cu candidatura la presedintie, fiind promovata ca reclama platita cu un reach estimat intre 100.001 si 500.000 de persoane.
+</message-for-police>
+</conclusion>
+</output>

@@ -1,0 +1,44 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: Yes - CMF11240017 is present at the end of the post, indicating this is electoral content
+
+2. Refers to candidate: Yes - Mentions "premierul Marcel Ciolacu" who is also a presidential candidate
+
+3. Addresses wide population: Yes - This is a paid advertisement targeting a large audience (100,001-500,000 people) on Facebook and Instagram
+
+4. Electoral objective: Yes
+- Explicitly calls for voting: "Vino la vot și susține ajutorul oferit tinerilor de către Partidul Social Democrat"
+- Promotes PSD's government program and Marcel Ciolacu's initiatives
+- Uses campaign hashtags like #caleasigurăpentruromânia
+- Contains party identifier (#PSD)
+
+5. Journalism: No - This is clearly campaign material, not journalistic content
+
+6. Personal opinion: No - This is a structured, paid political advertisement with official party messaging and CMF number
+
+The post combines both parliamentary and presidential election messaging, as it promotes Marcel Ciolacu both as Prime Minister and by extension as a presidential candidate, calling for votes for PSD.
+</analysis>
+
+<conclusion>
+<post_id>539970938841239</post_id>
+<electoral-propaganda-analysis>
+This is clearly electoral propaganda because:
+- Contains CMF number
+- Directly promotes a presidential candidate (Marcel Ciolacu)
+- Calls for votes
+- Is a paid advertisement
+- Uses official party messaging and campaign hashtags
+- Contains specific electoral promises and programs
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+<candidate><name>ION-MARCEL CIOLACU</name><impact>POSITIVE</impact></candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>PSD</responsible-party-or-group>
+<message-for-police>
+Infomed Pro SRL, pentru incalcarea articolului 55 t) din Legea 370/2004, prin continuarea propagandei electorale după încheierea campaniei electorale pentru alegerile prezidențiale, prin promovarea unui material electoral plătit pe Facebook și Instagram (ID: 539970938841239) care îl promovează pe candidatul prezidențial Marcel Ciolacu, folosind numărul CMF11240017, conținând mesaje electorale explicite precum "Vino la vot și susține ajutorul oferit tinerilor de către Partidul Social Democrat" și promovând programul electoral al candidatului. Materialul a fost difuzat după ora 18:00 pe 23.11.2024, încălcând astfel perioada legală de campanie electorală și având ca efect electoral influențarea directă a votanților în favoarea candidatului PSD la președinție.
+</message-for-police>
+</conclusion>
+</output>

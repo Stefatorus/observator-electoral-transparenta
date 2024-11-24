@@ -1,0 +1,43 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: Yes, contains "CMF 11240017"
+2. Refers to candidate: Yes, explicitly mentions "Marcel Ciolacu" as presidential candidate
+3. Addresses wide population: Yes, this is a paid advertisement reaching 6,000-7,000 impressions
+4. Electoral objective: Yes, explicitly asks for votes for Marcel Ciolacu for president
+5. Journalism: No, this is clearly campaign material
+6. Personal opinion: No, this is a structured campaign message
+
+The post clearly violates Article 55 t) because:
+- It explicitly calls for votes for Marcel Ciolacu in the presidential election
+- Contains campaign promises about pensions
+- Uses a CMF number indicating official campaign material
+- Is being run during the period when presidential campaign advertising is prohibited
+- Makes direct electoral promises and calls to action ("Duminica aceasta, votați Marcel Ciolacu președinte")
+
+</analysis>
+
+<conclusion>
+<post_id>3986809324924481</post_id>
+<electoral-propaganda-analysis>
+This is clearly electoral propaganda because:
+- Contains explicit call to vote
+- Makes campaign promises
+- Uses official campaign identifiers (CMF)
+- Promotes specific candidate for presidency
+- Links presidential and parliamentary campaigns together
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate>
+    <name>ION-MARCEL CIOLACU</name>
+    <impact>POSITIVE</impact>
+  </candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>PSD</responsible-party-or-group>
+<message-for-police>
+Infomed Pro SRL, pentru incalcarea articolului 55 t) din Legea 370/2004, prin difuzarea de materiale de propaganda electorala pentru candidatul la presedintie Marcel Ciolacu dupa incheierea campaniei electorale. Postarea cu ID 3986809324924481, publicata dupa ora 18:00 pe 23.11.2024, contine indemnuri directe la vot ("Duminica aceasta, votați Marcel Ciolacu președinte"), promisiuni electorale privind pensiile (cresterea la 810 euro) si foloseste numarul oficial de campanie CMF 11240017, demonstrand caracterul sau de propaganda electorala. Postarea are efect electoral direct, fiind promovata activ prin reclame platite pe Facebook si Instagram, cu un impact estimat intre 6000-7000 de afisari, reprezentand o incercare clara de influentare a votului pentru alegerile prezidentiale in perioada in care propaganda electorala este interzisa prin lege.
+</message-for-police>
+</conclusion>
+</output>

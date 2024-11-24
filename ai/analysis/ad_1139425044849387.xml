@@ -1,0 +1,37 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: No CMF number is present in this post.
+
+2. Refers to candidate: Yes, the post mentions George Simion, who is a presidential candidate (Position 2 on the ballot).
+
+3. Addresses wide population: Yes, this is a paid Facebook advertisement with significant reach (70,000-80,000 impressions).
+
+4. Electoral objective: The post has a mixed nature:
+- Primary focus is on parliamentary elections (the author's candidacy for Chamber of Deputies)
+- Secondary reference to supporting George Simion and AUR's plan
+- Discusses healthcare system reforms
+
+5. Journalism: This is not journalistic content but rather a campaign message.
+
+6. Personal opinion: While expressing personal views, this is clearly a structured campaign message.
+
+The post is primarily focused on parliamentary elections, which are still in their legal campaign period. However, it does include support for George Simion, a presidential candidate, after the presidential campaign period has ended.
+</analysis>
+
+<conclusion>
+<post_id>1139425044849387</post_id>
+<electoral-propaganda-analysis>
+This post presents a complex case. While its primary purpose is parliamentary campaign (which is legal), it includes elements of presidential campaign by expressing support for George Simion. The mention of "Am încredere în planul lui George Simion și în echipa AUR" could be considered indirect presidential propaganda, as Simion is a presidential candidate. However, since the reference is brief and the main focus is clearly on the parliamentary campaign, applying the principle of in dubio pro reo, we should consider this as primarily parliamentary campaign material.
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>FALSE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+<candidate><name>GEORGE-NICOLAE SIMION</name><impact>POSITIVE</impact></candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>AUR</responsible-party-or-group>
+<message-for-police></message-for-police>
+</conclusion>
+
+While this post does mention a presidential candidate, its primary focus is on parliamentary elections, which are still in their legal campaign period. The mention of George Simion is incidental and in the context of party leadership rather than his presidential candidacy. Therefore, this does not constitute a clear violation of Article 55 t).
+</output>

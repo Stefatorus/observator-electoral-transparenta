@@ -1,0 +1,45 @@
+<output>
+<analysis>
+Let me analyze this post according to the given criteria:
+
+1. CMF number: Not present in this post, but as it's from a party organization, not directly from a candidate, this isn't necessarily required.
+
+2. Refers to candidate: Yes, it specifically mentions three presidential candidates by name: Ciolacu, Simion, and Lasconi.
+
+3. Addresses wide population: Yes, this is a paid advertisement with significant reach (10,000-14,999 impressions) and a substantial budget (200-299 RON).
+
+4. Electoral objective: Yes, the message clearly refers to the elections and attempts to frame them in a specific way, mentioning presidential candidates.
+
+5. Journalism: No, this is not journalistic content but rather a campaign message.
+
+6. Personal opinion: No, this is an official party communication through paid advertising.
+
+The post presents several concerning elements:
+- Direct reference to presidential candidates
+- Electoral messaging during the propaganda blackout period
+- Paid distribution to reach a wide audience
+- Clear electoral context and purpose
+</analysis>
+
+<conclusion>
+<post_id>3739588549685648</post_id>
+<electoral-propaganda-analysis>
+This constitutes electoral propaganda because:
+- It mentions specific presidential candidates
+- It's a paid advertisement reaching a large audience
+- It frames the election in a specific way
+- It's clearly intended to influence voter perception
+- It's running during the propaganda blackout period
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate><name>ELENA-VALERICA LASCONI</name><impact>POSITIVE</impact></candidate>
+  <candidate><name>GEORGE-NICOLAE SIMION</name><impact>NEGATIVE</impact></candidate>
+  <candidate><name>ION-MARCEL CIOLACU</name><impact>NEGATIVE</impact></candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>USR</responsible-party-or-group>
+<message-for-police>
+USR Arad, pentru incalcarea articolului 55 t) din Legea 370/2004, prin publicarea si promovarea unei reclame platite pe Facebook (ID: 3739588549685648) dupa data de 23.11.2024, ora 18:00, care face referire directa la candidatii la prezidentiale Ciolacu, Simion si Lasconi. Mesajul "Aceste alegeri nu sunt doar despre Ciolacu, Simion sau Lasconi. Aceste alegeri sunt despre România pe care ne-o dorim" reprezinta propaganda electorala prin mentionarea explicita a candidatilor si incercarea de influentare a perceptiei publice asupra alegerilor prezidentiale, avand un impact substantial prin targetarea unei audiente estimate intre 100,001 si 500,000 de persoane, cu un buget intre 200-299 RON.
+</message-for-police>
+</conclusion>
+</output>

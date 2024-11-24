@@ -1,0 +1,43 @@
+<output>
+<analysis>
+Let me analyze this post according to the given criteria:
+
+1. Has CMF: No CMF number is present in this post.
+
+2. Refers to candidate: Yes, it directly mentions George Simion, who is a presidential candidate (Position 2 on the ballot).
+
+3. Addresses wide population: Yes, this is a paid advertisement on Facebook and Instagram, with significant reach (30,000-35,000 impressions) and substantial spending (200-299 RON).
+
+4. Electoral objective: Yes, the content appears to be electoral in nature, discussing potential political consequences ("dacă Cirligea câștigă, Simion nu îl va valida") and attempting to influence public opinion.
+
+5. Journalism: While it appears to be from a news page (InfoBraila), the content and tone suggest propaganda rather than objective journalism. It lacks journalistic standards of balanced reporting and appears to be spreading political messaging.
+
+6. Personal opinion: This is not a personal opinion piece but rather a coordinated paid advertisement with specific political messaging.
+
+The post presents information about George Simion's actions against another politician (Florin Cârligea), with clear political implications. The timing and nature of the message, being a paid advertisement, suggests this is electoral propaganda.
+</analysis>
+
+<conclusion>
+<post_id>1058273652450836</post_id>
+<electoral-propaganda-analysis>
+This appears to be electoral propaganda because:
+- It's a paid political message
+- Directly mentions a presidential candidate
+- Has clear political implications
+- Uses confrontational language typical of campaign messaging
+- Large reach through paid promotion
+- Lacks journalistic objectivity
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+<candidate>
+<name>GEORGE-NICOLAE SIMION</name>
+<impact>POSITIVE</impact>
+</candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>AUR</responsible-party-or-group>
+<message-for-police>
+InfoBraila, pentru incalcarea articolului 55 t) din Legea 370/2004, prin difuzarea unui mesaj de propaganda electorala platit (ID postare Facebook: 1058273652450836) dupa ora 18:00 pe 23.11.2024, mesaj care il prezinta pe candidatul George Simion intr-o lumina pozitiva, ca luptator impotriva coruptiei. Postarea, care a beneficiat de promovare platita cu suma intre 200-299 RON si a ajuns la 30.000-35.000 de persoane, reprezinta o forma clara de propaganda electorala, avand obiectiv electoral explicit si adresandu-se publicului larg prin intermediul platformelor Facebook si Instagram, incercand sa influenteze perceptia publica despre candidatul la presedintie George Simion intr-un mod favorabil acestuia.
+</message-for-police>
+</conclusion>
+</output>

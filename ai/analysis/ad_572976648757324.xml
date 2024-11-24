@@ -1,0 +1,56 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. CMF Presence:
+- Yes, contains "CMF: 11240015" which indicates it's electoral propaganda
+
+2. Candidate Reference:
+- Directly refers to Marcel Ciolacu, who is a presidential candidate (Position 3)
+- Specifically criticizes him by name and his statements
+
+3. Wide Population Address:
+- This is a paid advertisement with significant reach (20,000-24,999 impressions)
+- Uses hashtags to increase visibility
+- Addresses a broad audience, particularly young people
+
+4. Electoral Objective:
+- Clear electoral objective with negative messaging against Ciolacu and PSD
+- Uses hashtag "#NuVotatiPSD" (Don't vote PSD)
+- Presents USR as the only alternative ("USR este singurul partid care luptă...")
+- Directly attempts to influence voting behavior
+
+5. Journalism vs Propaganda:
+- This is not journalistic content
+- Contains clear political messaging and call to action
+- Uses emotional language and direct attacks
+
+6. Personal Opinion:
+- This is not a personal opinion but an official party communication (USR Brăila)
+- Contains CMF number indicating it's campaign material
+</analysis>
+
+<conclusion>
+<post_id>572976648757324</post_id>
+<electoral-propaganda-analysis>
+This post constitutes electoral propaganda because:
+- Contains official campaign identifier (CMF)
+- Directly attacks a presidential candidate
+- Makes electoral promises
+- Contains explicit voting guidance (#NuVotatiPSD)
+- Is a paid advertisement reaching a wide audience
+- Has clear electoral objectives
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate>
+    <name>ION-MARCEL CIOLACU</name>
+    <impact>NEGATIVE</impact>
+  </candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>USR</responsible-party-or-group>
+<message-for-police>
+USR Brăila, pentru incalcarea articolului 55 t) din Legea 370/2004, prin publicarea și promovarea după data de 23.11.2024, ora 18:00, a unei reclame pe Facebook (ID: 572976648757324) ce constituie propagandă electorală împotriva candidatului prezidențial Marcel Ciolacu. Postarea conține elemente clare de propagandă electorală, inclusiv număr CMF (11240015), atacuri directe la adresa candidatului ("Nu tinerii sunt problema, domnule Ciolacu. Problema sunteți voi"), îndemn explicit de a nu vota PSD prin hashtag-ul "#NuVotatiPSD", și prezentarea USR ca alternativă politică. Efectul electoral urmărit este clar negativ față de candidatul PSD la președinție, încercând să influențeze decizia de vot a tinerilor prin asocierea directă a candidatului cu probleme precum corupția și nepotismul.
+</message-for-police>
+</conclusion>
+</output>

@@ -1,0 +1,38 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: Yes, CMF 11240015 is present, indicating this is electoral content.
+
+2. Refers to candidate: Yes, directly refers to George Simion, who is a presidential candidate (Position 2).
+
+3. Addresses wide population: Yes, this is a paid advertisement on Facebook/Instagram with significant reach (15,000-19,999 impressions).
+
+4. Electoral objective: The content mentions both USR and AUR, and appears to be primarily focused on parliamentary elections (hashtag #parlamentare). While it criticizes George Simion, it's important to note that the criticism is related to his promises and statements regarding a house worth 35,000 Euro, not specifically about the presidential campaign.
+
+5. Journalism: This doesn't appear to be journalistic content, as it's clearly partisan and lacks journalistic standards of reporting.
+
+6. Personal opinion: While it expresses an opinion, it's a paid advertisement with clear political messaging.
+
+The key mitigating factor here is that the post appears to be primarily focused on parliamentary elections (which are still in the campaign period) rather than the presidential election. The criticism, while directed at Simion, is about his general credibility rather than his presidential candidacy specifically.
+</analysis>
+
+<conclusion>
+<post_id>548982818002083</post_id>
+<electoral-propaganda-analysis>
+While this post does criticize George Simion, who is a presidential candidate, several factors suggest this isn't specifically presidential election propaganda:
+1. The explicit use of #parlamentare hashtag indicates this is focused on parliamentary elections
+2. The criticism is about a general claim regarding housing, not about presidential capabilities
+3. The context suggests this is part of the ongoing parliamentary campaign, which is still legal
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>FALSE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+<candidate>
+<name>GEORGE-NICOLAE SIMION</name>
+<impact>NEGATIVE</impact>
+</candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>USR</responsible-party-or-group>
+<message-for-police></message-for-police>
+</conclusion>
+</output>

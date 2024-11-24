@@ -1,0 +1,35 @@
+<output>
+<analysis>
+Let me analyze this post according to the given criteria:
+
+1. Has CMF: Yes, contains "CMF 14240006"
+2. Refers to candidate: Yes, mentions "Marcel Ciolacu" who is a presidential candidate
+3. Addresses wide population: Yes, specifically addresses "dragi olteni" and is a paid advertisement
+4. Electoral objective: The post appears to be primarily focused on parliamentary elections (note the hashtags #IndependentPentruParlament, #CameraDeputaților)
+5. Journalism: No, this is clearly a political message
+6. Personal opinion: While expressing criticism, it's part of a paid political campaign
+
+The post is interesting because while it mentions Marcel Ciolacu (a presidential candidate), the context and hashtags clearly indicate this is primarily about parliamentary elections, which are still in their legal campaign period. The criticism appears to be part of a broader parliamentary campaign narrative, not specifically targeting the presidential race.
+
+</analysis>
+
+<conclusion>
+<post_id>1220411015888444</post_id>
+<electoral-propaganda-analysis>
+While this post mentions a presidential candidate (Marcel Ciolacu), several factors suggest this isn't presidential election propaganda:
+1. The hashtags and context clearly frame this as parliamentary election content
+2. The criticism appears general and not specifically related to the presidential race
+3. The candidate (Victor Tița) is running for parliament, not president
+4. The message doesn't specifically address the presidential election or attempt to influence presidential voting
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>FALSE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+<candidate>
+<name>ION-MARCEL CIOLACU</name>
+<impact>NEGATIVE</impact>
+</candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>INDEPENDENT</responsible-party-or-group>
+<message-for-police></message-for-police>
+</conclusion>
+</output>

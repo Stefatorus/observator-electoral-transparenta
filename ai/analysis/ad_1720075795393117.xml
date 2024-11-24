@@ -1,0 +1,48 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: Yes, CMF 11240014 is present at the end of the post, indicating this is electoral propaganda.
+
+2. Refers to candidate: Yes, explicitly mentions "George Simion președinte" who is a presidential candidate (Position 2 on the ballot).
+
+3. Addresses wide population: Yes, this is a paid Facebook advertisement with significant reach (10,000-14,999 impressions).
+
+4. Electoral objective: Yes, clear electoral objective with:
+- Direct call to vote: "Pe 24 noiembrie, 1 decembrie și 8 decembrie votați AUR și George Simion președinte!"
+- Criticism of other parties (PSD and PNL)
+- Presents AUR's economic vision as superior
+
+5. Journalism: No, this is clearly campaign material, not journalistic content.
+
+6. Personal opinion: No, this is structured as campaign messaging with clear call to action for voting.
+
+The post clearly violates Article 55 t) as it:
+- Contains electoral propaganda for presidential elections
+- Has a CMF number
+- Makes direct calls to vote for a specific presidential candidate
+- Is being run after the conclusion of the official campaign period
+</analysis>
+
+<conclusion>
+<post_id>1720075795393117</post_id>
+<electoral-propaganda-analysis>
+This is clearly electoral propaganda because:
+- Contains CMF number
+- Direct call to vote for a specific presidential candidate
+- Criticizes other parties while promoting AUR
+- Uses campaign messaging structure
+- Paid advertisement with significant reach
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate><name>GEORGE-NICOLAE SIMION</name><impact>POSITIVE</impact></candidate>
+  <candidate><name>NICOLAE-IONEL CIUCĂ</name><impact>NEGATIVE</impact></candidate>
+  <candidate><name>ION-MARCEL CIOLACU</name><impact>NEGATIVE</impact></candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>AUR</responsible-party-or-group>
+<message-for-police>
+Adrian Axinia, pentru incalcarea articolului 55 t) din Legea 370/2004, prin continuarea propagandei electorale după încheierea campaniei electorale, postând pe Facebook (ID post: 1720075795393117) un mesaj de propagandă electorală după ora 18:00 pe 23.11.2024. Postarea conține elementele definitorii ale propagandei electorale: număr de înregistrare CMF 11240014, îndeamnă explicit la vot pentru George Simion ca președinte ("votați AUR și George Simion președinte"), critică alți candidați și partide (PNL și PSD), și promovează mesaje de campanie ale AUR. Postarea este sponsorizată, având un impact semnificativ (10,000-14,999 impresii), demonstrând intenția clară de a influența votul în cadrul alegerilor prezidențiale după încheierea perioadei legale de campanie.
+</message-for-police>
+</conclusion>
+</output>

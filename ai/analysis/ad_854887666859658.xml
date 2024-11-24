@@ -1,0 +1,43 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: Yes (CMF11240027)
+2. Refers to candidate: Yes, mentions George Simion, one of the presidential candidates
+3. Addresses wide population: Yes, it's a paid post with significant reach (60-70K impressions)
+4. Electoral objective: Yes, it presents a negative narrative about AUR and its leadership, particularly focusing on local incidents that could influence voter perception
+5. Journalism: While it attempts to present itself as journalistic content, it goes beyond objective reporting with emotional language and clear political positioning
+6. Personal opinion: This appears to be a structured political message rather than a personal opinion
+
+The post presents several concerning elements:
+- It's a paid political advertisement with significant reach
+- Contains electoral messaging targeting a presidential candidate and his party
+- Uses emotional language and dramatic narrative to influence public opinion
+- Has a CMF number indicating it's official campaign material
+- The timing and continued promotion after the campaign period ended is problematic
+
+</analysis>
+
+<conclusion>
+<post_id>854887666859658</post_id>
+<electoral-propaganda-analysis>
+This post constitutes electoral propaganda because:
+- It directly targets a presidential candidate (George Simion)
+- Uses paid promotion to reach a wide audience
+- Contains clear political messaging meant to influence voter opinion
+- Includes a CMF number indicating campaign material
+- Goes beyond journalistic reporting with its emotional language and clear political positioning
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+<candidate>
+<name>GEORGE-NICOLAE SIMION</name>
+<impact>NEGATIVE</impact>
+</candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>POD TV</responsible-party-or-group>
+<message-for-police>
+POD TV, pentru incalcarea articolului 55 t) din Legea 370/2004, prin continuarea propagandei electorale după încheierea campaniei, prin publicarea și promovarea unei reclame plătite (ID: 854887666859658) ce vizează în mod direct candidatul la președinție George Nicolae Simion și partidul său, utilizând un limbaj emoțional și narativ menit să influențeze opinia alegătorilor, conținând număr CMF (11240027) specific materialelor de campanie, cu un impact semnificativ demonstrat prin reach-ul de 60.000-70.000 impresii. Materialul depășește limitele jurnalismului obiectiv, având un evident scop electoral negativ, fiind difuzat după ora 18:00 pe 23.11.2024, încălcând astfel prevederile legale privind încheierea campaniei electorale.
+</message-for-police>
+</conclusion>
+</output>

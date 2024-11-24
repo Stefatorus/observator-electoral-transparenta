@@ -1,0 +1,52 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. CMF presence: Yes, CMF 11240014 is present, indicating this is electoral content.
+
+2. Candidate reference: 
+- Mentions "George Simion" in the title
+- George Simion is a presidential candidate (Position 2)
+- Also mentions Ovidiu Cupșa, an AUR Senate candidate
+
+3. Wide population targeting:
+- This is a paid advertisement on Facebook and Instagram
+- Has reached between 25,000-29,999 impressions
+- Targets a potential audience of over 1 million people
+
+4. Electoral objective:
+- The title "Susține George Simion Județul Constanta" is a clear call for support
+- Links to political content "POLITICA ÎN AFACERI"
+- Features a Senate candidate from the same party
+
+5. Journalism check:
+- This appears to be campaign content rather than journalistic material
+- The presence of CMF and party attribution confirms this is campaign material
+
+6. Personal opinion:
+- This is not a personal opinion but an official party communication
+</analysis>
+
+<conclusion>
+<post_id>562641266468758</post_id>
+<electoral-propaganda-analysis>
+This post constitutes electoral propaganda because:
+- It explicitly promotes George Simion, a presidential candidate
+- Contains official campaign elements (CMF number)
+- Is a paid advertisement reaching a wide audience
+- Has clear electoral objectives
+- Is commissioned by AUR ("Comandat de Alianta Pentru Unirea Romanilor")
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate>
+    <name>GEORGE-NICOLAE SIMION</name>
+    <impact>POSITIVE</impact>
+  </candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>AUR</responsible-party-or-group>
+<message-for-police>
+Alianta pentru Unirea Romanilor (AUR), pentru incalcarea articolului 55 t) din Legea 370/2004, prin promovarea unui material de propaganda electorala pentru candidatul prezidential George Nicolae Simion dupa incheierea perioadei de campanie electorala. Materialul, cu ID-ul facebook 562641266468758, postat dupa ora 18:00 pe 23.11.2024, constituie propaganda electorala prin faptul ca promoveaza explicit candidatul ("Susține George Simion Județul Constanta"), contine numar CMF (11240014), este platit pentru a ajunge la un public larg (25,000-29,999 impresii), si are obiectiv electoral explicit de sustinere a candidatului la presedintie. Materialul este comandat oficial de catre partid, conform mentiunii "Comandat de Alianta Pentru Unirea Romanilor".
+</message-for-police>
+</conclusion>
+</output>

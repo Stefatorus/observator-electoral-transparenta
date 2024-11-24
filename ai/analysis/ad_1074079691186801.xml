@@ -1,0 +1,48 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: No visible CMF number, but this isn't determinative.
+
+2. Refers to candidate: Yes, explicitly mentions "George Simion" who is a presidential candidate (Position 2).
+
+3. Addresses wide population: Yes, it's a paid Facebook advertisement targeting a large audience (estimated 100,001-500,000 people).
+
+4. Electoral objective: Yes, clearly present through:
+- Direct call to vote ("Votați AUR în Parlamentul României")
+- Direct call to vote for a presidential candidate ("și pe George Simion președinte")
+- Links a specific project (Olympic rowing base) to voting for the candidate
+
+5. Journalism: No, this is clearly campaign material with direct calls to vote.
+
+6. Personal opinion: No, this is a paid advertisement with clear electoral objectives.
+
+This post combines both parliamentary and presidential election propaganda, which is problematic as the presidential campaign period has ended.
+
+<conclusion>
+<post_id>1074079691186801</post_id>
+<electoral-propaganda-analysis>
+This is clearly electoral propaganda because:
+- Direct call to vote for a specific presidential candidate
+- Links promises (sports infrastructure) to voting
+- Paid advertisement reaching a large audience
+- Clear electoral messaging
+- Combines parliamentary (allowed) with presidential (not allowed) campaigning
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+<candidate><name>GEORGE-NICOLAE SIMION</name><impact>POSITIVE</impact></candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>AUR</responsible-party-or-group>
+<message-for-police>
+UNIWORLD - MEDIA SRL, pentru incalcarea articolului 55 t) din Legea 370/2004, prin difuzarea unui mesaj de propaganda electorala pentru alegerile prezidentiale dupa incheierea perioadei de campanie, prin postarea cu ID 1074079691186801 pe Facebook, dupa ora 18:00 pe 23.11.2024. Postarea face o promisiune electorala legata de o baza olimpica de canotaj si solicita explicit votul pentru candidatul George Simion la functia de presedinte ("Votați AUR în Parlamentul României și pe George Simion președinte pentru dezvoltarea acestui proiect!"), reprezentand propaganda electorala activa care influenteaza decizia de vot a alegatorilor in perioada in care acest lucru este interzis de lege.
+</message-for-police>
+</conclusion>
+
+This post clearly violates Article 55 t) as it continues presidential electoral propaganda after the conclusion of the campaign period. The violation is particularly clear because it explicitly calls for votes for a presidential candidate while making campaign promises.
+</analysis>
+
+<conclusion>
+The post violates Article 55 t) of Law 370/2004. The violation is clear and direct, as it contains explicit presidential campaign messaging outside the legal campaign period.
+</conclusion>
+</output>

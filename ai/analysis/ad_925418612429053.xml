@@ -1,0 +1,38 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: Yes - "CMF11240017" is present, indicating this is electoral propaganda
+2. Refers to candidate: Yes - directly mentions "Marcel Ciolacu", who is a presidential candidate
+3. Addresses wide population: Yes - it's a paid Facebook/Instagram post with 4,000-4,999 impressions
+4. Electoral objective: Yes - discusses government measures and future implementation of proposals "alongside Marcel Ciolacu"
+5. Journalism: No - this is clearly a campaign message, not journalistic content
+6. Personal opinion: No - this is an organized campaign message with CMF number
+
+The post describes a campaign meeting and explicitly promotes PSD's governance program and Marcel Ciolacu as a leader. It uses campaign hashtag "#caleasigurapentruromania" and includes a CMF number, which is typically used for electoral campaign materials.
+
+</analysis>
+
+<conclusion>
+<post_id>925418612429053</post_id>
+<electoral-propaganda-analysis>
+This post constitutes electoral propaganda because:
+- Contains CMF number
+- Directly promotes Marcel Ciolacu and PSD's governance program
+- Is a paid advertisement reaching thousands
+- Uses campaign messaging and hashtags
+- Discusses future implementation of proposals with Marcel Ciolacu
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+  <candidate>
+    <name>ION-MARCEL CIOLACU</name>
+    <impact>POSITIVE</impact>
+  </candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>PSD</responsible-party-or-group>
+<message-for-police>
+Infomed Pro SRL, pentru incalcarea articolului 55 t) din Legea 370/2004, prin promovarea unui mesaj de propaganda electorala (ID postare Facebook: 925418612429053) dupa incheierea perioadei de propaganda pentru alegerile prezidentiale. Postarea, care include numarul CMF11240017, promoveaza explicit candidatul Marcel Ciolacu si programul sau de guvernare, folosind hashtag-ul de campanie "#caleasigurapentruromania". Mesajul are caracter electoral evident, promovand masurile si propunerile ce urmeaza a fi implementate "alaturi de presedintele Marcel Ciolacu", influentand astfel intentiile de vot ale publicului tinta (4000-4999 impresii) dupa ora 18:00 pe 23.11.2024.
+</message-for-police>
+</conclusion>
+</output>

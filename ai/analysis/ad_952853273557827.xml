@@ -1,0 +1,44 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: Yes - "CM 11240022" is present at the end
+2. Refers to candidate: Yes - directly mentions Ludovic Orban, who is a presidential candidate
+3. Addresses wide population: Yes - it's a paid Facebook ad with 40,000-45,000 impressions
+4. Electoral objective: Yes - explicitly calls for votes on December 1st for Forța Dreptei
+5. Journalism: No - this is clearly campaign material, not journalistic content
+6. Personal opinion: No - this is a structured campaign message with clear call to action
+
+The post is clearly electoral propaganda because:
+- It has a CMF number
+- It explicitly calls for votes
+- It compares different politicians to promote one
+- It ends with a direct electoral call to action
+- It's a paid advertisement reaching a large audience
+- Uses campaign messaging structure
+</analysis>
+
+<conclusion>
+<post_id>952853273557827</post_id>
+<electoral-propaganda-analysis>
+This is clearly electoral propaganda because:
+- Contains explicit call to vote ("Pe 1 decembrie votati Forta Dreptei!")
+- Has CMF number
+- Promotes a presidential candidate (Ludovic Orban)
+- Structured as campaign material
+- Paid distribution
+- Large audience reach
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+<candidate>
+<name>LUDOVIC ORBAN</name>
+<impact>POSITIVE</impact>
+</candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>FORTA DREPTEI</responsible-party-or-group>
+<message-for-police>
+SALAMINA PRINT SRL, pentru incalcarea articolului 55 t) din Legea 370/2004, prin difuzarea de materiale de propaganda electorala dupa incheierea perioadei de campanie, in data de 23.11.2024 dupa ora 18:00, pentru postarea cu ID-ul 952853273557827. Materialul promovat pe Facebook contine un indemn explicit la vot pentru candidatul Ludovic Orban si partidul Forta Dreptei ("Pe 1 decembrie votati Forta Dreptei!"), fiind insotit de numar CMF (11240022), ceea ce demonstreaza natura sa de propaganda electorala. Postarea are un obiectiv electoral clar, adresandu-se publicului larg prin intermediul unei reclame platite pe Facebook, cu un impact estimat intre 40.000 si 45.000 de afisari, depasind astfel limitele comunicarii obiective sau jurnalistice.
+</message-for-police>
+</conclusion>
+</output>

@@ -1,0 +1,37 @@
+<output>
+<analysis>
+Let's analyze this post according to our criteria:
+
+1. Has CMF: Yes, contains "CMF 11240017"
+2. Refers to candidate: While not directly naming Marcel Ciolacu, it's promoting PSD's presidential campaign by mentioning "câștigăm primul tur al alegerilor prezidențiale"
+3. Addresses wide population: Yes, it's a paid advertisement on Facebook/Instagram reaching 4000-4999 impressions
+4. Electoral objective: Yes, explicitly mentions winning the first round of presidential elections
+5. Journalism: No, this is clearly campaign material
+6. Personal opinion: No, this is an organized campaign post with CMF number
+
+The post combines both parliamentary and presidential election messaging, which is problematic since the presidential campaign period has ended. The mention of "câștigăm primul tur al alegerilor prezidențiale" is a direct reference to the presidential election.
+</analysis>
+
+<conclusion>
+<post_id>595398042978959</post_id>
+<electoral-propaganda-analysis>
+This constitutes electoral propaganda because:
+- Contains CMF number indicating official campaign material
+- Explicitly mentions winning presidential elections
+- Is a paid advertisement reaching thousands
+- Combines parliamentary campaign (still allowed) with presidential campaign (no longer allowed)
+- Has clear electoral objective for presidential race
+</electoral-propaganda-analysis>
+<electoral-propaganda-decision>TRUE</electoral-propaganda-decision>
+<electoral-propaganda-candidates>
+<candidate>
+<name>ION-MARCEL CIOLACU</name>
+<impact>POSITIVE</impact>
+</candidate>
+</electoral-propaganda-candidates>
+<responsible-party-or-group>PSD</responsible-party-or-group>
+<message-for-police>
+Infomed Pro SRL, pentru incalcarea articolului 55 t) din Legea 370/2004, prin promovarea unui mesaj de propaganda electorala pentru alegerile prezidentiale dupa incheierea perioadei legale, prin postarea cu ID 595398042978959 pe Facebook dupa ora 18:00 pe 23.11.2024. Mesajul "câștigăm primul tur al alegerilor prezidențiale" reprezinta propaganda electorala explicita pentru candidatul PSD la prezidentiale, fiind o reclama platita care a ajuns la 4000-4999 de persoane. Postarea include numarul CMF 11240017, confirmand natura sa de material electoral, si are un obiectiv electoral clar de influentare a votului pentru alegerile prezidentiale, incalcand astfel prevederile legale privind perioada de campanie electorala.
+</message-for-police>
+</conclusion>
+</output>
