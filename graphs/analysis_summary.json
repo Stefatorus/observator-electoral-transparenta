@@ -1,5 +1,5 @@
 {
-  "analysis_timestamp": "2024-11-24_04-22-36",
+  "analysis_timestamp": "2024-11-24_04-48-34",
   "violations_summary": {
     "total_analyzed": 669,
     "total_violations": 383,
@@ -132,13 +132,13 @@
           "total_reach": 23730026.5,
           "impact_score": 6205.64381175,
           "promoting_parties": [
-            "DIGIPRES",
-            "INDEPENDENT",
-            "INDEPENDENTAUR",
-            "AUR",
             "PRESALIBERARO",
+            "DIGIPRES",
+            "60MRO",
+            "AUR",
             "PS NEWS",
-            "60MRO"
+            "INDEPENDENTAUR",
+            "INDEPENDENT"
           ]
         },
         {
@@ -157,11 +157,11 @@
           "total_reach": 8512514.0,
           "impact_score": 2284.373493,
           "promoting_parties": [
-            "FORTA DREPTEI",
-            "INDEPENDENT",
             "USR",
             "REPER",
-            "VOCEA TV"
+            "VOCEA TV",
+            "INDEPENDENT",
+            "FORTA DREPTEI"
           ]
         },
         {
@@ -186,14 +186,14 @@
           "total_reach": 13050018.0,
           "impact_score": 7178.483291,
           "attacking_parties": [
-            "FORTA DREPTEI",
-            "DREPT",
-            "PNCR",
-            "INDEPENDENT",
             "USR",
             "PNL",
+            "PNCR",
+            "DREPT",
             "4MEDIAINFO",
-            "AUR"
+            "AUR",
+            "INDEPENDENT",
+            "FORTA DREPTEI"
           ]
         },
         {
@@ -202,13 +202,13 @@
           "total_reach": 6975009.0,
           "impact_score": 5572.767645499999,
           "attacking_parties": [
-            "FORTA DREPTEI",
-            "INDEPENDENT",
             "USR",
             "ROPRESRO",
             "PSD",
+            "60MRO",
             "AUR",
-            "60MRO"
+            "INDEPENDENT",
+            "FORTA DREPTEI"
           ]
         },
         {
@@ -217,12 +217,12 @@
           "total_reach": 6450010.0,
           "impact_score": 2554.278995,
           "attacking_parties": [
-            "FORTA DREPTEI",
-            "INDEPENDENT",
             "USR",
             "PNL",
+            "PS NEWS",
             "POD TV",
-            "PS NEWS"
+            "INDEPENDENT",
+            "FORTA DREPTEI"
           ]
         },
         {
@@ -231,12 +231,12 @@
           "total_reach": 1500002.5,
           "impact_score": 854.25142375,
           "attacking_parties": [
-            "FORTA DREPTEI",
-            "INDEPENDENT",
             "USR",
             "PSD",
+            "60MRO",
             "AGENTIADEINFORMATIIRO",
-            "60MRO"
+            "INDEPENDENT",
+            "FORTA DREPTEI"
           ]
         },
         {
@@ -245,17 +245,17 @@
           "total_reach": 1950002.5,
           "impact_score": 411.52557375,
           "attacking_parties": [
-            "DIGIPRES",
-            "INDEPENDENT",
             "USR",
-            "INDEPENDENTAUR",
-            "ROPRESRO",
             "PNL",
-            "4MEDIAINFO",
-            "AUR",
+            "INDEPENDENTAUR",
             "5NEWSRO",
+            "DIGIPRES",
+            "4MEDIAINFO",
             "MEDIA",
-            "60MRO"
+            "60MRO",
+            "AUR",
+            "INDEPENDENT",
+            "ROPRESRO"
           ]
         }
       ]
