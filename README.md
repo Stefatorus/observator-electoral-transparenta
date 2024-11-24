@@ -15,3 +15,6 @@ Aici puteti regasi materialele mele cu privire la activitățile desfășurate �
 1. Sursa datelor a fost **Meta Ads**, iar nu toate platformele de social media sunt acoperite.
 2. Anumite forme de propaganda par lansate de diverse canale de presa, fiind insa in atributul institutiilor publice sa investigheze aceste aspecte, si sa identifice daca se incadreaza sub definitia de propaganda electorala.
 
+### Modificari pe parcurs la prompt-ul modelului AI
+
+- Aproximativ 10% din fisiere au fost colectate folosind un script anterior, mai neclar, fara insa ca aceasta sa afecteze corectitudinea datelor. Ele sunt primele fisiere din final_enriched_meta_ad_data.json

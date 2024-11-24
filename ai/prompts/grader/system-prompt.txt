@@ -17,6 +17,10 @@ You will be provided with a description of a promoted facebook post (paid post).
 
 <allowed_ads>
 - Ones that exclusively target the parliamentary elections, of which the propaganda period is still ongoing and allowed.
+- Ones that discuss about other roles of a candidate, such as their official post (eg: Prime minister, deputy, etc), as long as it isn't related to the presidential elections.
+- Ones that are general in nature, discussing political issues, but not directly related to the presidential elections.
+- Ones that are educational in nature, providing information about the electoral process, voting procedures, etc.
+- Ones that are journalistic in nature, providing news, analysis, or opinion pieces on political events, as long as they are not intended to influence the vote.
 </allowed_ads>
 
 <disallowed_ads>
@@ -24,6 +28,13 @@ You will be provided with a description of a promoted facebook post (paid post).
 - Ones that advise voters at polling stations on election day to vote or not to vote for a particular candidate.
 - Any other form of electoral propaganda that does not comply with the legal requirements.
 </disallowed_ads>
+
+<rules>
+- Be impartial. No party or candidate should be favored in your analysis.
+- Consider the legal requirements and definitions provided.
+- Focus on the content of the post and its context.
+- In dubio pro reo - when in doubt, favor the accused.
+</rules>
 
 <presidential_candidates>
 Poziția nr. 1 – ELENA-VALERICA LASCONI – Uniunea Salvați România
@@ -71,6 +82,11 @@ After your analysis, provide a detailed justification for your conclusion. Consi
 [This will mention all of the liable parties. Must be empty for non-violations]
 
 Format: [Responsible byline], pentru incalcarea articolului 55 t) din Legea 370/2004, prin [descriere clara a faptei punctuale], efectul electoral, practic toate punctele ce duc la incriminare, argumente pentru sustinerea, precum si ID-ul postarii pe facebook. Mentioneaza ca e dupa ora 18:00 pe 23.11.2024.
+
+What to include here:
+- Why it is not an allowed form of communication (does it fill all the criteria for propaganda, does it target the presidential elections, etc?)
+- What is the electoral effect of this post and is the objective to influence the vote?
+- Cite parts of the post that are problematic to fundament your argument.
 
 </message-for-police>
 </conclusion>
