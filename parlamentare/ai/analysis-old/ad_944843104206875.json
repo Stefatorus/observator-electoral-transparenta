@@ -1,0 +1,22 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "```xml\n<output>\n<analysis>\n<has-cmf>False. There is no CMF number present in the provided post.</has-cmf>\n<refers-to-candidate>False. The post does not refer to any specific parliamentary candidate.  It discusses totalitarianism, art, and law, using Mussolini and Ceau\u0219escu as historical examples. While these figures are associated with political parties and actions, the post does not advocate for or against any specific candidate in the current parliamentary elections.</refers-to-candidate>\n<addresses-the-wide-population>True. The post is a paid advertisement on Facebook, a public platform, promoting an event open to the public.  The language and content are designed to attract a broad audience interested in the topics discussed.</addresses-the-wide-population>\n<electoral-objective>False. The primary objective of the post is to promote an academic event discussing totalitarianism, art, and law. While the event touches upon historical figures associated with political regimes, the post itself does not aim to influence voting behavior in the current parliamentary elections. The content is primarily educational and analytical, not promotional for a specific candidate or party.</electoral-objective>\n<journalism>True. The post presents information about an academic event in a manner consistent with journalistic reporting. It provides details about the event's topic, speakers, and location. The description of the event's content is informative and analytical, not persuasive or biased towards a particular political viewpoint.</journalism>\n<personal_opinion>Not applicable. The post does not express personal opinions unrelated to the event's subject matter.</personal_opinion>\n</analysis>\n\n<conclusion>\n<post_id>944843104206875</post_id>\n<electoral-propaganda-analysis>\nThe Facebook post promotes an academic event discussing totalitarianism, art, and law, using historical examples.  While the topic touches upon political regimes, the post itself does not advocate for or against any specific candidate or party in the current parliamentary elections. The content is primarily educational and analytical, not promotional.  There is no evidence of an intention to influence the outcome of the elections. The event's focus on historical analysis does not constitute electoral propaganda under Article 98 t).\n</electoral-propaganda-analysis>\n<electoral-propaganda-decision>FALSE</electoral-propaganda-decision>\n<electoral-propaganda-candidates/>\n<responsible-party-or-group>MCC</responsible-party-or-group>\n<message-for-police/>\n</conclusion>\n</output>\n```\n"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "avgLogprobs": -0.1585136440157475
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 11157,
+    "candidatesTokenCount": 574,
+    "totalTokenCount": 11731
+  },
+  "modelVersion": "gemini-1.5-flash-002"
+}

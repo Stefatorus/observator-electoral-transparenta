@@ -1,0 +1,22 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "```xml\n<output>\n<analysis>\n<has-cmf>False. There is no CMF number present in the provided post.</has-cmf>\n<refers-to-candidate>False. The post does not refer to any parliamentary candidate.  It focuses on the issue of violence against women.</refers-to-candidate>\n<addresses-the-wide-population>True. The post is a paid advertisement on Facebook, a public platform, and its message is clearly intended to reach a wide audience, not just specific individuals. The use of a helpline number further supports this.</addresses-the-wide-population>\n<electoral-objective>False. The objective of the post is to raise awareness about violence against women and promote a helpline. There is no attempt to influence voters in a parliamentary election.</electoral-objective>\n<journalism>True. The post presents information on a social issue (violence against women) and promotes a resource (helpline) in a factual manner. It does not express opinions or advocate for any particular political stance related to the parliamentary elections.</journalism>\n<personal_opinion>False. While the post reflects a personal concern of the advertiser about violence against women, it does not express a personal opinion unrelated to the issue at hand. The content is focused on raising awareness and providing help.</personal_opinion>\n</analysis>\n\n<conclusion>\n<post_id>878805464053444</post_id>\n<electoral-propaganda-analysis>\nThe Facebook post, while politically categorized due to the advertiser's profile, does not constitute electoral propaganda.  It addresses a social issue (violence against women) and promotes a helpline. The content does not mention any parliamentary candidates, parties, or attempt to influence voting behavior in the upcoming parliamentary elections. The post's objective is purely informational and socially beneficial.  The timing of the post (around the International Day for the Elimination of Violence against Women) further supports its non-electoral nature.\n</electoral-propaganda-analysis>\n<electoral-propaganda-decision>FALSE</electoral-propaganda-decision>\n<electoral-propaganda-candidates/>\n<responsible-party-or-group>INDEPENDENT</responsible-party-or-group>\n<message-for-police/>\n</conclusion>\n</output>\n```\n"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "avgLogprobs": -0.13144062020186054
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 7031,
+    "candidatesTokenCount": 519,
+    "totalTokenCount": 7550
+  },
+  "modelVersion": "gemini-1.5-flash-002"
+}

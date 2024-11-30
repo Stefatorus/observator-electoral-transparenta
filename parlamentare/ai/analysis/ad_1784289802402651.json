@@ -1,0 +1,22 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "```xml\n<output>\n<analysis>\n<has-cmf>False. There is no CMF number present in the post.</has-cmf>\n<refers-to-candidate>False. The post does not refer to any parliamentary candidate. It promotes events organized by the Viseu de Sus City Hall to celebrate Romania's National Day.</refers-to-candidate>\n<addresses-the-wide-population>True. The post is a paid Facebook advertisement targeting the population of Viseu de Sus and surrounding areas, clearly aiming for wide reach.</addresses-the-wide-population>\n<electoral-objective>False. The objective of the post is to inform the public about community events, not to influence votes in the parliamentary elections.  The events are non-political in nature.</electoral-objective>\n<journalism>False. While the post provides information, it's not journalistic in nature. It's a promotional announcement for local events.</journalism>\n<personal_opinion>Not applicable. The post doesn't express personal opinions.</personal_opinion>\n</analysis>\n\n<conclusion>\n<post_id>1784289802402651</post_id>\n<electoral-propaganda-analysis>\nThe Facebook post promotes community events organized by the Viseu de Sus City Hall to celebrate Romania's National Day.  The content is purely informational, announcing dates, times, and locations of public events. There is no mention of any political party, candidate, or any attempt to influence voters' choices in the parliamentary elections. The post does not meet the criteria of electoral propaganda as defined in Article 36 (7) of LEGE nr. 334 din 17 iulie 2006.  The paid nature of the post on a public platform does not automatically make it electoral propaganda; the content itself must be analyzed. In this case, the content is clearly non-political and focused on community engagement.\n</electoral-propaganda-analysis>\n<electoral-propaganda-decision>FALSE</electoral-propaganda-decision>\n<electoral-propaganda-candidates/>\n<responsible-party-or-group>Prim\\u0103ria Vi\\u0219eu de Sus</responsible-party-or-group>\n<message-for-police/>\n</conclusion>\n</output>\n```\n"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "avgLogprobs": -0.08041017705743964
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 6817,
+    "candidatesTokenCount": 528,
+    "totalTokenCount": 7345
+  },
+  "modelVersion": "gemini-1.5-flash-002"
+}

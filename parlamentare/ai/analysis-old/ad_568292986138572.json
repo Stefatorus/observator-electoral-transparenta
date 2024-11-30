@@ -1,0 +1,22 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "```xml\n<output>\n<analysis>\n<has-cmf>False. There is no CMF number present in the provided post.</has-cmf>\n<refers-to-candidate>False. The post does not refer to any specific parliamentary candidate.  It promotes the services of the Eurotrans Foundation, which assists with obtaining Hungarian citizenship. While this might indirectly benefit certain political parties, it doesn't explicitly endorse any candidate participating in the parliamentary elections.</refers-to-candidate>\n<addresses-the-wide-population>True. The post is a paid advertisement on Facebook, a public platform, and targets a wide audience in several locations in Romania, aiming to reach individuals interested in obtaining Hungarian citizenship.</addresses-the-wide-population>\n<electoral-objective>False. The primary objective of the post is to inform the public about the services offered by the Eurotrans Foundation regarding Hungarian citizenship acquisition. While there might be an indirect political implication, the post's main goal is not to influence the outcome of the parliamentary elections.</electoral-objective>\n<journalism>False. The post is not journalistic in nature. It's an advertisement for a specific service provided by a non-governmental organization.</journalism>\n<personal_opinion>Not applicable. The post doesn't express personal opinions.</personal_opinion>\n</analysis>\n\n<conclusion>\n<post_id>568292986138572</post_id>\n<electoral-propaganda-analysis>\nThe Facebook post promotes the services of the Eurotrans Foundation, focusing on assistance with obtaining Hungarian citizenship.  While the foundation's activities might have indirect political implications, the post itself does not directly advocate for or against any specific candidate or party participating in the parliamentary elections. The post's primary objective is to inform the public about the foundation's services, not to influence the electoral process.  The timing of the post, after the official campaign period, is not relevant as the post does not constitute electoral propaganda.\n</electoral-propaganda-analysis>\n<electoral-propaganda-decision>FALSE</electoral-propaganda-decision>\n<electoral-propaganda-candidates/>\n<responsible-party-or-group>Eurotrans Alap\u00edtv\u00e1ny</responsible-party-or-group>\n<message-for-police/>\n</conclusion>\n</output>\n```\n"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "avgLogprobs": -0.10009460156904783
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 7549,
+    "candidatesTokenCount": 522,
+    "totalTokenCount": 8071
+  },
+  "modelVersion": "gemini-1.5-flash-002"
+}

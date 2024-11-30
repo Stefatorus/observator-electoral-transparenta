@@ -1,0 +1,22 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "```xml\n<output>\n<analysis>\n<has-cmf>False. There is no CMF number present in the provided post information.</has-cmf>\n<refers-to-candidate>False. The post does not refer to any parliamentary candidate or political party.  The content is purely commercial, advertising Christmas packages from Idea Papel, part of the Litera Group.</refers-to-candidate>\n<addresses-the-wide-population>True. The Facebook post, being a paid advertisement, is designed to reach a wide audience. The content is not a private message or personal communication.</addresses-the-wide-population>\n<electoral-objective>False. The objective of the post is to promote Christmas packages. There is no discernible intention to influence voting behavior in the parliamentary elections.</electoral-objective>\n<journalism>False. The post is not journalistic in nature. It's a commercial advertisement for products.</journalism>\n<personal_opinion>Not applicable. The post does not express personal opinions.</personal_opinion>\n</analysis>\n\n<conclusion>\n<post_id>601336302317901</post_id>\n<electoral-propaganda-analysis>\nThe Facebook post is a commercial advertisement for Christmas packages offered by Idea Papel, a company within the Litera Group. The content is unrelated to the parliamentary elections. It does not mention any candidates, parties, or political issues. The post's objective is purely commercial, aiming to increase sales during the Christmas season.  There is no evidence suggesting an attempt to influence voters' choices in the elections.\n</electoral-propaganda-analysis>\n<electoral-propaganda-decision>FALSE</electoral-propaganda-decision>\n<electoral-propaganda-candidates/>\n<responsible-party-or-group>LITERA</responsible-party-or-group>\n<message-for-police/>\n</conclusion>\n</output>\n```\n"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "avgLogprobs": -0.10713551897521413
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 7585,
+    "candidatesTokenCount": 436,
+    "totalTokenCount": 8021
+  },
+  "modelVersion": "gemini-1.5-flash-002"
+}

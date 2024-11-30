@@ -1,0 +1,22 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "<output>\n<analysis>\n<has-cmf>False. There is no CMF number present in the post.</has-cmf>\n<refers-to-candidate>False. The post refers to Iulian Marcu, the mayor of Ungheni commune, but not in the context of the parliamentary elections.  The post is a message from the mayor on the occasion of Romania's National Day.</refers-to-candidate>\n<addresses-the-wide-population>True. The post is a public message from the mayor, shared on a public Facebook page with paid promotion, aiming to reach a wide audience within the Ungheni commune and potentially beyond.</addresses-the-wide-population>\n<electoral-objective>False. The objective of the post is not to influence the vote in the parliamentary elections. It's a celebratory message for National Day, unrelated to any electoral campaign.</electoral-objective>\n<journalism>True. The post could be considered a form of local news or community announcement, similar to a press release from a local official. It provides information about a public figure's message to the community.</journalism>\n<personal_opinion>False. It's not a personal opinion; it's an official message from a public official.</personal_opinion>\n</analysis>\n\n<conclusion>\n<post_id>1124584082386127</post_id>\n<electoral-propaganda-analysis>\nThe Facebook post is a message from the mayor of Ungheni commune, Iulian Marcu, wishing the citizens a happy National Day.  The post does not mention any parliamentary candidates or parties, nor does it encourage voting for or against any specific candidate. The content is celebratory and community-oriented, focusing on national unity and values. While the post is a paid advertisement, its purpose is not to influence the outcome of the parliamentary elections. The targeting of the ad is geographically limited to Ungheni, Ia\u0219i, Romania, and the age range is broad.  The content is consistent with a local official's communication to their constituents on a national holiday. There is no evidence of electoral propaganda.\n</electoral-propaganda-analysis>\n<electoral-propaganda-decision>FALSE</electoral-propaganda-decision>\n<electoral-propaganda-candidates/>\n<responsible-party-or-group>Moldova Invest</responsible-party-or-group>\n<message-for-police/>\n</conclusion>\n</output>"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "avgLogprobs": -0.1520235235040838
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 6091,
+    "candidatesTokenCount": 550,
+    "totalTokenCount": 6641
+  },
+  "modelVersion": "gemini-1.5-flash-002"
+}

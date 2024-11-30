@@ -1,0 +1,22 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "```xml\n<output>\n<analysis>\n<has-cmf>False. There is no CMF number present in the provided post.</has-cmf>\n<refers-to-candidate>False. While the post mentions Viktor Orb\u00e1n, it does not refer to any Romanian parliamentary candidate.  The article discusses the impact of Romanian parliamentary representation on Hungarian interests, but doesn't advocate for or against any specific Romanian candidate.</refers-to-candidate>\n<addresses-the-wide-population>True. The post is a paid advertisement on Facebook, a public platform, and the content is clearly intended for a wide audience, not a private communication.</addresses-the-wide-population>\n<electoral-objective>False. The primary objective of the post seems to be news reporting and analysis related to the impact of Romanian politics on Hungarian interests. While the topic is politically charged and related to elections, the post itself does not directly advocate for or against any specific candidate in the Romanian parliamentary elections.</electoral-objective>\n<journalism>True. The post appears to be a news article published by Maszol.ro, a news outlet. The content is presented as factual reporting and analysis, not as an attempt to directly influence voters.</journalism>\n<personal_opinion>Not applicable. The post does not express a personal opinion; it presents news and analysis.</personal_opinion>\n</analysis>\n\n<conclusion>\n<post_id>515972054803857</post_id>\n<electoral-propaganda-analysis>\nThe Facebook post, published by Maszol.ro, reports on Viktor Orb\u00e1n's statement regarding the importance of Hungarian representation in the Romanian parliament.  While the topic is politically relevant and touches upon the upcoming elections, the post itself does not promote or discourage voting for any specific Romanian candidate. The content is presented as news reporting and analysis, aligning with journalistic standards. The paid nature of the post on a public platform does not automatically qualify it as electoral propaganda if the content itself does not meet the criteria for such.  The post does not explicitly advocate for or against any candidate participating in the Romanian parliamentary elections.\n</electoral-propaganda-analysis>\n<electoral-propaganda-decision>FALSE</electoral-propaganda-decision>\n<electoral-propaganda-candidates/>\n<responsible-party-or-group>Maszol.ro</responsible-party-or-group>\n<message-for-police/>\n</conclusion>\n</output>\n```\n"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "avgLogprobs": -0.13387712711410663
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 7020,
+    "candidatesTokenCount": 549,
+    "totalTokenCount": 7569
+  },
+  "modelVersion": "gemini-1.5-flash-002"
+}

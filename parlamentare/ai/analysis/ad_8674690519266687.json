@@ -1,0 +1,22 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "```xml\n<output>\n<analysis>\n<has-cmf>False. There is no CMF number present in the provided post.</has-cmf>\n<refers-to-candidate>False. While the post mentions the importance of voting, it does not explicitly refer to any specific parliamentary candidate or party by name,  surname, or any other clear identifier.  The message promotes voting in general, not a specific candidate.</refers-to-candidate>\n<addresses-the-wide-population>True. The post, being a paid Facebook advertisement, is clearly intended to reach a wide audience within the specified targeting parameters (age, location, etc.). It's not a private or personal communication.</addresses-the-wide-population>\n<electoral-objective>Partially True. The post encourages people to vote, which is inherently related to the electoral process. However, it doesn't explicitly advocate for or against any particular candidate or party. The objective seems to be to increase voter turnout within a specific community, rather than to sway votes towards a particular candidate.  The statement is a call to action, but not a direct endorsement.</electoral-objective>\n<journalism>Partially True. The post quotes a religious leader's statement on the importance of voting. This could be considered a form of reporting or conveying a viewpoint, similar to citizen journalism. However, the context of a paid advertisement on Facebook blurs the line, as it is not purely journalistic in nature.</journalism>\n<personal_opinion>False. The post presents a quote from a religious leader, not a personal opinion.  While the quote encourages voting, it does not express a personal opinion unrelated to the electoral process.</personal_opinion>\n</analysis>\n\n<conclusion>\n<post_id>8674690519266687</post_id>\n<electoral-propaganda-analysis>\nThe post promotes voter turnout, but it does not directly advocate for or against any specific parliamentary candidate.  While the context of a paid Facebook advertisement and the call to action raise concerns, the lack of explicit endorsement of a candidate makes a definitive classification as electoral propaganda difficult.  The \"in dubio pro reo\" principle should be applied here.  The quote from the religious leader could be interpreted as a form of citizen journalism, although the paid advertisement format is not typical of journalistic practices.\n</electoral-propaganda-analysis>\n<electoral-propaganda-decision>FALSE</electoral-propaganda-decision>\n<electoral-propaganda-candidates/>\n<responsible-party-or-group>RMDSZ</responsible-party-or-group>\n<message-for-police/>\n</conclusion>\n</output>\n```\n"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "avgLogprobs": -0.20135399313534008
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 6165,
+    "candidatesTokenCount": 595,
+    "totalTokenCount": 6760
+  },
+  "modelVersion": "gemini-1.5-flash-002"
+}

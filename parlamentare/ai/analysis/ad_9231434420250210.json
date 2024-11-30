@@ -1,0 +1,22 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "```xml\n<output>\n<analysis>\n<has-cmf>False. There is no CMF number present in the provided post.</has-cmf>\n<refers-to-candidate>False. The post does not refer to any parliamentary candidate.  It promotes the work of Romsilva, a Romanian state-owned forestry company, showcasing images from Cozia National Park. There is no mention of any political party or candidate.</refers-to-candidate>\n<addresses-the-wide-population>True. The post is a paid advertisement on Facebook, a public platform, and aims to reach a wide audience, not just specific individuals. The reach estimate is \">1M\".</addresses-the-wide-population>\n<electoral-objective>False. The objective of the post is to promote Cozia National Park and the work of Romsilva. While the post might indirectly increase public awareness of the area, there is no explicit or implicit attempt to influence voters in the parliamentary elections.</electoral-objective>\n<journalism>True. The post can be considered a form of public relations or corporate social responsibility communication, similar to a journalistic piece showcasing a natural landmark. It provides information about Cozia National Park and Romsilva's activities.</journalism>\n<personal_opinion>Not applicable. The post doesn't express personal opinions.</personal_opinion>\n</analysis>\n\n<conclusion>\n<post_id>9231434420250210</post_id>\n<electoral-propaganda-analysis>\nThe Facebook post by Regia Nationala a Padurilor - Romsilva promotes Cozia National Park and the company's conservation efforts.  It does not mention any political candidates or parties, nor does it advocate for or against any political position. The post's purpose is informational and promotional, not electoral.  The paid nature of the post on a public platform indicates a wide reach, but this reach is not directed towards influencing the parliamentary elections.  The content is consistent with allowed forms of advertising, focusing on environmental conservation and tourism.\n</electoral-propaganda-analysis>\n<electoral-propaganda-decision>FALSE</electoral-propaganda-decision>\n<electoral-propaganda-candidates/>\n<responsible-party-or-group>Regia Nationala a Padurilor - Romsilva</responsible-party-or-group>\n<message-for-police/>\n</conclusion>\n</output>\n```\n"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "avgLogprobs": -0.1413107305435237
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 8366,
+    "candidatesTokenCount": 542,
+    "totalTokenCount": 8908
+  },
+  "modelVersion": "gemini-1.5-flash-002"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "```xml\n<output>\n<analysis>\n<has-cmf>False. There is no CMF number present in the post.</has-cmf>\n<refers-to-candidate>False. The post does not refer to any parliamentary candidate. It focuses on a fundraising campaign for a school in Brasov to acquire a 3D printer.</refers-to-candidate>\n<addresses-the-wide-population>True. The post is a paid Facebook advertisement, targeting a wide audience through geographical targeting and age/gender parameters.  The call to action is for donations, which implies a broad appeal.</addresses-the-wide-population>\n<electoral-objective>False. The objective of the post is to raise funds for educational purposes, not to influence the outcome of any election. The content is entirely focused on a charitable initiative.</electoral-objective>\n<journalism>False. While the post could be considered a form of public communication, it does not adhere to journalistic standards. It's a fundraising appeal, not a news report or analysis.</journalism>\n<personal_opinion>False. The post does not express a personal opinion related to any candidate or political party.</personal_opinion>\n</analysis>\n\n<conclusion>\n<post_id>1115248060174718</post_id>\n<electoral-propaganda-analysis>\nThe Facebook post is a fundraising campaign for a school to obtain a 3D printer.  It does not mention any political candidates or parties, nor does it advocate for or against any political position. The campaign's goal is purely charitable and educational.  There is no evidence suggesting an intention to influence voters in the parliamentary elections. The targeting parameters, while broad, are not inherently linked to electoral influence.\n</electoral-propaganda-analysis>\n<electoral-propaganda-decision>FALSE</electoral-propaganda-decision>\n<electoral-propaganda-candidates/>\n<responsible-party-or-group>Asociatia Umanista Romana</responsible-party-or-group>\n<message-for-police/>\n</conclusion>\n</output>\n```\n"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "avgLogprobs": -0.11975139329413406
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 7281,
+    "candidatesTokenCount": 476,
+    "totalTokenCount": 7757
+  },
+  "modelVersion": "gemini-1.5-flash-002"
+}

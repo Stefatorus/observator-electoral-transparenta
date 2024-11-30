@@ -1,0 +1,22 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "```xml\n<output>\n<analysis>\n<has-cmf>False. There is no CMF number present in the post.</has-cmf>\n<refers-to-candidate>False. The post refers to Bogdan-Dumitru Tifui, the mayor of Farca\u015fa commune, but not in the context of a parliamentary election.  The post is a message from the mayor on the occasion of Romania's National Day.</refers-to-candidate>\n<addresses-the-wide-population>True. The post is a public message from the mayor, shared on a public Facebook page with paid promotion, aiming to reach a wide audience in the Farca\u015fa commune and potentially beyond.</addresses-the-wide-population>\n<electoral-objective>False. The objective of the post is not to influence the vote in a parliamentary election. It's a celebratory message for Romania's National Day. While the mayor's identity is mentioned, there's no call to action related to any election.</electoral-objective>\n<journalism>True. The post can be considered a form of local news or community announcement, similar to a press release from a local official. It provides information about a public figure's message to the community.</journalism>\n<personal_opinion>False. The message is not a personal opinion but a formal message from the mayor in his official capacity.</personal_opinion>\n</analysis>\n\n<conclusion>\n<post_id>1244522120134728</post_id>\n<electoral-propaganda-analysis>\nThe Facebook post is a message from the mayor of Farca\u015fa commune on Romania's National Day.  While it features the mayor's image and name, the content is entirely celebratory and non-political in the context of parliamentary elections. There is no mention of any candidate or party, nor any call to vote for or against anyone. The post's objective is to convey a festive message, not to influence voters in an election.  The targeting of the ad is geographically limited, focusing on the mayor's commune and surrounding areas.  The paid promotion simply increases the visibility of this non-electoral message.\n</electoral-propaganda-analysis>\n<electoral-propaganda-decision>FALSE</electoral-propaganda-decision>\n<electoral-propaganda-candidates/>\n<responsible-party-or-group>Moldova Invest</responsible-party-or-group>\n<message-for-police/>\n</conclusion>\n</output>\n```\n"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "avgLogprobs": -0.1430729224588523
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 6082,
+    "candidatesTokenCount": 562,
+    "totalTokenCount": 6644
+  },
+  "modelVersion": "gemini-1.5-flash-002"
+}

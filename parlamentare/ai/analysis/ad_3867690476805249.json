@@ -1,0 +1,22 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "```xml\n<output>\n<analysis>\n<has-cmf>False. There is no CMF number present in the provided post.</has-cmf>\n<refers-to-candidate>False. The post does not refer to any parliamentary candidate. It promotes a high school program organized by Mathias Corvinus Collegium.</refers-to-candidate>\n<addresses-the-wide-population>True. The post is a paid advertisement on Facebook, a public platform, and aims to reach a wide audience interested in high school programs in Transylvania.</addresses-the-wide-population>\n<electoral-objective>False. The objective of the post is to promote a high school program, not to influence the vote for any particular candidate in the parliamentary elections.</electoral-objective>\n<journalism>True. The post can be considered a form of informative advertising, similar to a public service announcement, providing information about an educational program. It does not contain any opinion or analysis intended to influence the vote.</journalism>\n<personal_opinion>Not applicable. The post does not express personal opinions.</personal_opinion>\n</analysis>\n\n<conclusion>\n<post_id>3867690476805249</post_id>\n<electoral-propaganda-analysis>\nThe Facebook post promotes a high school program organized by Mathias Corvinus Collegium.  It does not mention any parliamentary candidates or parties, nor does it advocate for or against any political position related to the parliamentary elections. The post's objective is purely informational and educational, aiming to attract students to the program.  The paid nature of the post on a public platform like Facebook does not automatically qualify it as electoral propaganda, especially given the absence of any political endorsements or calls to action related to voting.  The target audience is high school students and their families, not voters in the parliamentary elections.\n</electoral-propaganda-analysis>\n<electoral-propaganda-decision>FALSE</electoral-propaganda-decision>\n<electoral-propaganda-candidates/>\n<responsible-party-or-group>Mathias Corvinus Collegium</responsible-party-or-group>\n<message-for-police/>\n</conclusion>\n</output>\n```\n"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "avgLogprobs": -0.11397279681581439
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 7589,
+    "candidatesTokenCount": 495,
+    "totalTokenCount": 8084
+  },
+  "modelVersion": "gemini-1.5-flash-002"
+}

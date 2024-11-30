@@ -1,0 +1,22 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "```xml\n<output>\n<analysis>\n<has-cmf>False. There is no CMF number present in the provided post.</has-cmf>\n<refers-to-candidate>False. The post does not refer to any parliamentary candidate. It promotes a webinar on Shakespeare's works and their exploration of the pathology of power.  There is no mention of any political party or candidate.</refers-to-candidate>\n<addresses-the-wide-population>True. The Facebook post is a paid advertisement targeting a wide audience interested in literature, Shakespeare, and political philosophy. The reach estimate is \">1M\", indicating a broad reach.</addresses-the-wide-population>\n<electoral-objective>False. The objective of the post is to promote a webinar on Shakespeare's works, focusing on the theme of the pathology of power. While the theme might have political undertones, the post itself does not aim to influence the vote in the parliamentary elections.</electoral-objective>\n<journalism>True. The post can be considered a form of advertisement for an educational event. It provides information about the webinar's topic, schedule, and presenter.  It does not contain any biased or manipulative language intended to sway voters.</journalism>\n<personal_opinion>Not applicable. The post doesn't express a personal opinion related to the parliamentary elections.</personal_opinion>\n</analysis>\n\n<conclusion>\n<post_id>386410467889298</post_id>\n<electoral-propaganda-analysis>\nThe Facebook post promotes a webinar on Shakespeare's works, focusing on the pathology of power. While the topic might have indirect political relevance, the post itself does not advocate for or against any candidate or party participating in the parliamentary elections. It does not contain any calls to action related to voting or electoral choices. The post's primary objective is to promote an educational event, not to influence the outcome of the elections.  Therefore, it does not meet the criteria for electoral propaganda as defined in Article 36 (7) of LEGE nr. 334 din 17 iulie 2006 and Article 98 t) of LEGE nr. 208 din 20 iulie 2015.\n</electoral-propaganda-analysis>\n<electoral-propaganda-decision>FALSE</electoral-propaganda-decision>\n<electoral-propaganda-candidates/>\n<responsible-party-or-group>Casa Paleologu</responsible-party-or-group>\n<message-for-police/>\n</conclusion>\n</output>\n```\n"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "avgLogprobs": -0.11646928458378233
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 6948,
+    "candidatesTokenCount": 580,
+    "totalTokenCount": 7528
+  },
+  "modelVersion": "gemini-1.5-flash-002"
+}

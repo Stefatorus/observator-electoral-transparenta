@@ -1,0 +1,22 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "```xml\n<output>\n<analysis>\n<has-cmf>The provided post does not contain a CMF number. While the absence of a CMF number is not automatically disqualifying, it suggests the post may not be directly linked to a specific candidate's official campaign.</has-cmf>\n<refers-to-candidate>The post does not explicitly mention any specific parliamentary candidate by name or surname.  The post is in Hungarian, and refers to \"magyarellenes er\u0151k\" (anti-Hungarian forces), which is a general political statement and not a direct reference to a specific candidate. While it could be interpreted as implicitly supporting candidates who represent Hungarian interests, this is not a direct enough reference to satisfy Article 36 (7) - a.</refers-to-candidate>\n<addresses-the-wide-population>The post is a paid Facebook advertisement, inherently designed to reach a wide audience. The use of Facebook as a platform and the paid nature of the post strongly suggest it aims for broad dissemination, not personal communication.</addresses-the-wide-population>\n<electoral-objective>The post urges people to vote (\"Vas\u00e1rnap szavazok!\" - \"I'm voting on Sunday!\"), but it does not explicitly endorse or oppose any particular candidate or party. The message focuses on the importance of voting due to perceived threats to Hungarian interests. While this could indirectly influence voting patterns, it does not directly advocate for or against specific candidates, making it difficult to definitively establish an electoral objective as defined in Article 36 (7) - c.</electoral-objective>\n<journalism>The post could be considered a form of citizen journalism, expressing a political opinion and encouraging participation. However, it lacks the objectivity and neutrality typically associated with journalistic reporting. The emotional tone and call to action lean more towards advocacy than impartial information dissemination.</journalism>\n<personal_opinion>While the post expresses a strong opinion about the political climate and the importance of voting, it does not present itself as a personal opinion separate from a political campaign. The context of a paid Facebook advertisement, targeting a specific demographic, suggests a calculated political message rather than a spontaneous personal expression.</personal_opinion>\n</analysis>\n\n<conclusion>\n<post_id>2032887200488828</post_id>\n<electoral-propaganda-analysis>\nThe post, while politically charged and encouraging voter turnout, does not directly advocate for or against any specific parliamentary candidate.  The call to vote is general, focusing on the perceived threat to Hungarian interests rather than endorsing a particular party or individual.  The absence of a CMF number further weakens the case for direct electoral propaganda. While the post's content could indirectly influence voting behavior, it does not meet the criteria for electoral propaganda as strictly defined by Article 36 (7) of LEGE nr. 334 din 17 iulie 2006 and Article 98 t) of LEGE nr. 208 din 20 iulie 2015.  The \"in dubio pro reo\" principle further supports this conclusion.\n</electoral-propaganda-analysis>\n<electoral-propaganda-decision>FALSE</electoral-propaganda-decision>\n<electoral-propaganda-candidates/>\n<responsible-party-or-group>RMDSZ</responsible-party-or-group>\n<message-for-police/>\n</conclusion>\n</output>\n```\n"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "avgLogprobs": -0.17811995831777058
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 7309,
+    "candidatesTokenCount": 753,
+    "totalTokenCount": 8062
+  },
+  "modelVersion": "gemini-1.5-flash-002"
+}

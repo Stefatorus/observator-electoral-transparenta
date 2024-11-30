@@ -1,0 +1,22 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "```xml\n<output>\n<analysis>\n<has-cmf>False. There is no CMF number present in the provided post information.</has-cmf>\n<refers-to-candidate>False. The post does not refer to any specific parliamentary candidate by name, surname, or any other clear identifier.  It focuses on general election data and turnout.</refers-to-candidate>\n<addresses-the-wide-population>True. The post is a paid advertisement on Facebook, a public platform, and its content (real-time voting data) is intended for a wide audience, not a specific individual or small group.</addresses-the-wide-population>\n<electoral-objective>False. While the post concerns election data, its objective is to present information about voter turnout, not to influence voters to choose a specific candidate. The information provided is factual and non-partisan.</electoral-objective>\n<journalism>True. The post's content aligns with journalistic practices by providing real-time data on voter turnout.  It aims to inform the public about the election process, not to advocate for a particular candidate or party.</journalism>\n<personal_opinion>Not applicable. The post does not express personal opinions; it presents factual data.</personal_opinion>\n</analysis>\n\n<conclusion>\n<post_id>927479489329083</post_id>\n<electoral-propaganda-analysis>\nThe Facebook post, a paid advertisement by Strategic Media Team srl, presents real-time data on voter turnout during the parliamentary elections.  While the subject matter relates to the elections, the content itself is purely informational and does not advocate for or against any specific candidate or party. The post's objective is to provide factual data, a function consistent with journalistic reporting.  There is no evidence of an attempt to influence voters' choices. The absence of any reference to specific candidates or parties further supports this conclusion.  The paid nature of the post does not automatically qualify it as electoral propaganda; the content itself must be analyzed. In this case, the content is neutral and informative.\n</electoral-propaganda-analysis>\n<electoral-propaganda-decision>FALSE</electoral-propaganda-decision>\n<electoral-propaganda-candidates/>\n<responsible-party-or-group>Strategic Media Team srl</responsible-party-or-group>\n<message-for-police/>\n</conclusion>\n</output>\n```\n"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "avgLogprobs": -0.11003540010909753
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 7196,
+    "candidatesTokenCount": 542,
+    "totalTokenCount": 7738
+  },
+  "modelVersion": "gemini-1.5-flash-002"
+}

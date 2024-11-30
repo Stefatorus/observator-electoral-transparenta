@@ -1,0 +1,22 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "```xml\n<output>\n<analysis>\n<has-cmf>False. There is no CMF number present in the post.</has-cmf>\n<refers-to-candidate>False. The post does not refer to any parliamentary candidate. It celebrates the 5th anniversary of a local sports club, mentioning the mayor's name, Vasile Coman, but not in an electoral context.</refers-to-candidate>\n<addresses-the-wide-population>True. The post is a paid Facebook post, targeting a wide audience within Maramure\u0219 County, and potentially beyond, given the reach estimate.  The content is not a private message but a public announcement.</addresses-the-wide-population>\n<electoral-objective>False. The primary objective of the post is to celebrate the anniversary of a local sports club and highlight the achievements of young athletes. There is no explicit or implicit call to vote for any candidate. While the mayor's name is mentioned, it's within the context of his role in supporting the club, not as a campaign message.</electoral-objective>\n<journalism>True. The post can be considered a form of community journalism, reporting on a local event of interest to the community. It provides information about a local sports club's anniversary and achievements.</journalism>\n<personal_opinion>False. The post does not express a personal opinion intended to influence the vote. It's a factual report on a community event.</personal_opinion>\n</analysis>\n\n<conclusion>\n<post_id>935636121792934</post_id>\n<electoral-propaganda-analysis>\nThe Facebook post celebrates the anniversary of a local sports club.  While the mayor's name is mentioned, it's in the context of his official role in supporting the club, not as an electoral campaign message. The post does not advocate for or against any candidate in the parliamentary elections. The content is primarily informational and celebratory, focusing on a local community event.  There is no evidence of an attempt to influence voters' choices in the parliamentary elections.\n</electoral-propaganda-analysis>\n<electoral-propaganda-decision>FALSE</electoral-propaganda-decision>\n<electoral-propaganda-candidates/>\n<responsible-party-or-group>Prim\\u0103ria Vi\\u0219eu de Sus</responsible-party-or-group>\n<message-for-police/>\n</conclusion>\n</output>\n```\n"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "avgLogprobs": -0.1320055616371948
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 14260,
+    "candidatesTokenCount": 558,
+    "totalTokenCount": 14818
+  },
+  "modelVersion": "gemini-1.5-flash-002"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "```xml\n<output>\n<analysis>\n<has-cmf>False. There is no CMF number present in the provided post information.</has-cmf>\n<refers-to-candidate>False. The post does not refer to any specific parliamentary candidate by name, surname, or any other clear identifier.  The content focuses on encouraging donations to Declic, a non-profit organization, using a portion of company profit tax.</refers-to-candidate>\n<addresses-the-wide-population>True. The post is a paid Facebook advertisement, inherently designed to reach a wide audience. The targeting parameters suggest a broad reach across Romania, based on age and location data.</addresses-the-wide-population>\n<electoral-objective>False. The primary objective of the post is to encourage corporate social responsibility by promoting Declic's initiative to receive a portion of company profit tax as donations. While indirectly related to the political landscape (taxation policies), it does not directly advocate for or against any specific candidate or party in the parliamentary elections.</electoral-objective>\n<journalism>False. The post is not journalistic in nature. It's a promotional advertisement for a non-profit organization's fundraising campaign.</journalism>\n<personal_opinion>Not applicable. The post doesn't express personal opinions; it promotes a specific action (donating to Declic).</personal_opinion>\n</analysis>\n\n<conclusion>\n<post_id>771236985157445</post_id>\n<electoral-propaganda-analysis>\nThe Facebook post promotes Declic's initiative to receive donations from a portion of company profit tax.  While the topic relates to the political and economic environment, the content does not directly advocate for or against any candidate or party participating in the parliamentary elections. The post's objective is to raise funds for Declic, not to influence the outcome of the elections.  There is no mention of any candidate or party, nor any call to vote for or against anyone. The targeting parameters, while broad, do not inherently violate electoral laws.\n</electoral-propaganda-analysis>\n<electoral-propaganda-decision>FALSE</electoral-propaganda-decision>\n<electoral-propaganda-candidates/>\n<responsible-party-or-group>Declic</responsible-party-or-group>\n<message-for-police/>\n</conclusion>\n</output>\n```\n"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "avgLogprobs": -0.12736548169809125
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 8132,
+    "candidatesTokenCount": 537,
+    "totalTokenCount": 8669
+  },
+  "modelVersion": "gemini-1.5-flash-002"
+}

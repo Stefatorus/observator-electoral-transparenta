@@ -1,0 +1,22 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "```xml\n<output>\n<analysis>\n<has-cmf>False. There is no CMF number present in the provided post.</has-cmf>\n<refers-to-candidate>False. The post does not refer to any specific parliamentary candidate by name or affiliation. It mentions a mayor of a commune, but this is not related to the parliamentary elections.</refers-to-candidate>\n<addresses-the-wide-population>True. The post is a paid Facebook advertisement, targeting a wide audience, as evidenced by the reach estimate of \">1M\" and the detailed demographic data in the `insights` section.  The language used (\"Vocea poporului\") also suggests an appeal to a broad public.</addresses-the-wide-population>\n<electoral-objective>False. While the post discusses a mayor's performance, it does not explicitly advocate for or against any candidate in the parliamentary elections. The objective seems to be to report on public opinion regarding the mayor, not to influence votes in the parliamentary elections.</electoral-objective>\n<journalism>True. The post's content resembles citizen journalism, reporting on public perception of a local official. It presents opinions from residents, without explicitly endorsing or condemning the mayor.  The \"Vocea Botosani\" page description further supports this interpretation as a news and media website.</journalism>\n<personal_opinion>False. While opinions are presented, they are framed as part of a news report, not as a personal opinion unrelated to the election.</personal_opinion>\n</analysis>\n\n<conclusion>\n<post_id>877769664566032</post_id>\n<electoral-propaganda-analysis>\nThe Facebook post, while discussing a local official, does not constitute electoral propaganda related to the parliamentary elections.  It lacks direct reference to any parliamentary candidate, its objective is primarily journalistic reporting on public opinion, and it does not advocate for or against any candidate in the parliamentary elections. The post's reach is broad, but the content itself remains neutral regarding the parliamentary elections.  The fact that it's a paid advertisement does not automatically make it electoral propaganda; the content itself must meet the criteria outlined in Article 36 (7) of LEGE nr. 334 din 17 iulie 2006.  This post does not.\n</electoral-propaganda-analysis>\n<electoral-propaganda-decision>FALSE</electoral-propaganda-decision>\n<electoral-propaganda-candidates/>\n<responsible-party-or-group>Vocea - Botosani</responsible-party-or-group>\n<message-for-police/>\n</conclusion>\n</output>\n```\n"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "avgLogprobs": -0.13861418808724613
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 6925,
+    "candidatesTokenCount": 597,
+    "totalTokenCount": 7522
+  },
+  "modelVersion": "gemini-1.5-flash-002"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "<output>\n<analysis>\n<has-cmf>False. There is no CMF number present in the provided post.</has-cmf>\n<refers-to-candidate>False. The post does not refer to any parliamentary candidate or party.  It focuses on a weather warning and safety advice.</refers-to-candidate>\n<addresses-the-wide-population>True. The post is a public Facebook post, paid for and intended to reach a wide audience in Boto\u0219ani County, Romania, as evidenced by the targeting data. The content is a public service announcement, not a private communication.</addresses-the-wide-population>\n<electoral-objective>False. The objective of the post is to inform the public about a weather warning and provide safety advice for driving and pedestrian safety in hazardous conditions. There is no discernible attempt to influence voting behavior.</electoral-objective>\n<journalism>True. The post functions as a form of public service journalism, disseminating important information related to public safety. It provides factual information and safety recommendations, consistent with journalistic standards.</journalism>\n<personal_opinion>False. The post does not express personal opinions or viewpoints. It presents factual information and safety advice.</personal_opinion>\n</analysis>\n\n<conclusion>\n<post_id>1145680126976634</post_id>\n<electoral-propaganda-analysis>\nThe Facebook post is a public service announcement regarding a weather warning and safety advice. It does not mention any parliamentary candidates, parties, or attempt to influence voting behavior. The content is factual and focuses on public safety, aligning with journalistic standards.  The targeting is geographically focused on Boto\u0219ani County, but this is for disseminating relevant information to the affected population, not for electoral purposes.  The paid nature of the post does not automatically make it electoral propaganda; the content itself must be analyzed. In this case, the content is clearly not electoral propaganda.\n</electoral-propaganda-analysis>\n<electoral-propaganda-decision>FALSE</electoral-propaganda-decision>\n<electoral-propaganda-candidates/>\n<responsible-party-or-group>Vocea Botosani</responsible-party-or-group>\n<message-for-police/>\n</conclusion>\n</output>"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "avgLogprobs": -0.14641752768689253
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 8889,
+    "candidatesTokenCount": 508,
+    "totalTokenCount": 9397
+  },
+  "modelVersion": "gemini-1.5-flash-002"
+}

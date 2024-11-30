@@ -1,0 +1,22 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "```xml\n<output>\n<analysis>\n<has-cmf>False. There is no CMF number present in the provided post.</has-cmf>\n<refers-to-candidate>False. The post does not refer to any specific parliamentary candidate or party.  It focuses on the activities of the Adina Stiftelsen Foundation and its work in education.</refers-to-candidate>\n<addresses-the-wide-population>True. The post is a paid advertisement on Facebook, a public platform, and its message is clearly intended to reach a wide audience, not just specific individuals. The stated goal is to promote the foundation's work and attract support.</addresses-the-wide-population>\n<electoral-objective>False. The objective of the post is not to influence the vote in the parliamentary elections. The content promotes the work of a charitable organization focused on education. There is no mention of any political party, candidate, or electoral platform.</electoral-objective>\n<journalism>True. The post could be considered a form of public relations or social journalism, aiming to inform the public about the foundation's activities and its impact on children's education. It does not advocate for or against any political candidate or party.</journalism>\n<personal_opinion>Not applicable. The post does not express personal opinions related to the elections.</personal_opinion>\n</analysis>\n\n<conclusion>\n<post_id>2767006930168622</post_id>\n<electoral-propaganda-analysis>\nThe Facebook post from Funda\u021bia Adina Stiftelsen promotes the foundation's educational work.  It does not mention any political candidates or parties, nor does it advocate for or against any political position. The post's objective is to raise awareness of the foundation's activities and potentially attract donations or volunteers. While the post is a paid advertisement on a public platform, its content is entirely unrelated to the parliamentary elections.  Therefore, it does not constitute electoral propaganda.\n</electoral-propaganda-analysis>\n<electoral-propaganda-decision>FALSE</electoral-propaganda-decision>\n<electoral-propaganda-candidates/>\n<responsible-party-or-group>Fundatia Adina Stiftelsen</responsible-party-or-group>\n<message-for-police/>\n</conclusion>\n</output>\n```\n"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "avgLogprobs": -0.10571568222338212
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 6244,
+    "candidatesTokenCount": 522,
+    "totalTokenCount": 6766
+  },
+  "modelVersion": "gemini-1.5-flash-002"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "```xml\n<output>\n<analysis>\n<has-cmf>False. There is no CMF number present in the provided post information.</has-cmf>\n<refers-to-candidate>False. The post does not refer to any parliamentary candidate.  The event is a discussion on social media and violence, not related to any specific candidate or party.</refers-to-candidate>\n<addresses-the-wide-population>True. The post is a paid advertisement on Facebook, a public platform, promoting an event open to the public.  The reach estimate indicates a wide potential audience.</addresses-the-wide-population>\n<electoral-objective>False. The objective of the post is to promote an event discussing social media and violence. There is no indication that the event aims to influence voting patterns in the parliamentary elections.</electoral-objective>\n<journalism>True. The event description suggests a journalistic or academic approach to the topic, aiming to inform and discuss a relevant social issue. The speakers' profiles further support this interpretation.</journalism>\n<personal_opinion>Not applicable. The post does not express personal opinions related to the parliamentary elections.</personal_opinion>\n</analysis>\n\n<conclusion>\n<post_id>1088858292793978</post_id>\n<electoral-propaganda-analysis>\nThe Facebook post promotes an event discussing social media and violence. The event is not related to the parliamentary elections, nor does it advocate for or against any candidate. The post's objective is to inform the public about the event, not to influence voting behavior.  The content is consistent with an educational or journalistic approach, rather than electoral propaganda.  The event's speakers are experts in relevant fields, further supporting the non-political nature of the event.\n</electoral-propaganda-analysis>\n<electoral-propaganda-decision>FALSE</electoral-propaganda-decision>\n<electoral-propaganda-candidates/>\n<responsible-party-or-group>MCC</responsible-party-or-group>\n<message-for-police/>\n</conclusion>\n</output>\n```\n"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "avgLogprobs": -0.12229332803678111
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 6104,
+    "candidatesTokenCount": 476,
+    "totalTokenCount": 6580
+  },
+  "modelVersion": "gemini-1.5-flash-002"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "```xml\n<output>\n<analysis>\n<has-cmf>False. There is no CMF number present in the provided post.</has-cmf>\n<refers-to-candidate>False. The post does not refer to any parliamentary candidate.  It mentions a public event (military parade) and extends holiday greetings.</refers-to-candidate>\n<addresses-the-wide-population>True. The post is a paid Facebook advertisement, inherently designed to reach a wide audience. The message is a general holiday greeting, not a private communication.</addresses-the-wide-population>\n<electoral-objective>False. The objective of the post is not to influence the vote in the parliamentary elections. The content focuses on a public event and holiday greetings, unrelated to electoral campaigning.</electoral-objective>\n<journalism>False. The post is not journalistic in nature. It's a simple announcement of a public event and holiday wishes.</journalism>\n<personal_opinion>False. While it expresses a personal sentiment (holiday wishes), it does not express a political opinion related to the parliamentary elections.</personal_opinion>\n</analysis>\n\n<conclusion>\n<post_id>874465941513897</post_id>\n<electoral-propaganda-analysis>\nThe Facebook post promotes a public event (military parade) and offers holiday greetings.  There is no mention of any parliamentary candidate or party, nor any attempt to influence voters. The post's content and objective are entirely unrelated to the parliamentary elections. While it's a paid advertisement, its purpose is not electoral propaganda.  The fact that the advertiser is a government official does not automatically make the post electoral propaganda; the content itself must be analyzed. In this case, the content is benign and celebratory.\n</electoral-propaganda-analysis>\n<electoral-propaganda-decision>FALSE</electoral-propaganda-decision>\n<electoral-propaganda-candidates/>\n<responsible-party-or-group>INDEPENDENT</responsible-party-or-group>\n<message-for-police/>\n</conclusion>\n</output>\n```\n"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "avgLogprobs": -0.09251388581860967
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 6151,
+    "candidatesTokenCount": 476,
+    "totalTokenCount": 6627
+  },
+  "modelVersion": "gemini-1.5-flash-002"
+}

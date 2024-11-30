@@ -1,0 +1,22 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "<output>\n<analysis>\n<has-cmf>The post does not contain a CMF number.  This is not necessarily indicative of a violation, as CMF numbers are associated with candidates, and this post is from an NGO.</has-cmf>\n<refers-to-candidate>The post does not refer to any specific parliamentary candidate by name or implicitly endorse any candidate. It focuses on broader political and social issues related to LGBTQ+ rights in Romania.</refers-to-candidate>\n<addresses-the-wide-population>The post is a paid advertisement on Facebook, a public platform, and its message is clearly intended to reach a wide audience, not just specific individuals.  The use of a paid Facebook post inherently targets a broad audience.</addresses-the-wide-population>\n<electoral-objective>While the post mentions political campaigns and engagement with politicians, its primary objective is not to influence votes in the parliamentary elections. The core message centers on advocating for LGBTQ+ rights and promoting democratic values.  The call to donate suggests a focus on supporting the organization's broader mission, not a specific candidate.</electoral-objective>\n<journalism>The post presents information and opinions on political events and legislative actions related to LGBTQ+ rights. While it expresses a clear viewpoint, it does so in a manner consistent with advocacy journalism, aiming to inform and raise awareness rather than directly influencing votes for or against specific candidates.</journalism>\n<personal_opinion>The post expresses the organization's views on political issues and their impact on the LGBTQ+ community. This is presented as an advocacy position, not a personal opinion unrelated to the electoral context.</personal_opinion>\n</analysis>\n\n<conclusion>\n<post_id>1741417963301942</post_id>\n<electoral-propaganda-analysis>\nThe Facebook post from MozaiQ does not constitute electoral propaganda under Article 98 t) of LEGE nr. 208 din 20 iulie 2015.  While the post engages with political issues and mentions interactions with politicians, it does not endorse or oppose any specific parliamentary candidate. Its primary aim is to advocate for LGBTQ+ rights and promote democratic values, which falls under the umbrella of allowed advocacy and public awareness campaigns. The post does not meet the criteria of Article 36 (7) of LEGE nr. 334 din 17 iulie 2006, as it does not directly refer to a candidate, its objective is not primarily electoral, and it operates within the bounds of advocacy journalism.\n</electoral-propaganda-analysis>\n<electoral-propaganda-decision>FALSE</electoral-propaganda-decision>\n<electoral-propaganda-candidates/>\n<responsible-party-or-group>MozaiQ</responsible-party-or-group>\n<message-for-police/>\n</conclusion>\n</output>"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "avgLogprobs": -0.13436207208107775
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 8100,
+    "candidatesTokenCount": 635,
+    "totalTokenCount": 8735
+  },
+  "modelVersion": "gemini-1.5-flash-002"
+}

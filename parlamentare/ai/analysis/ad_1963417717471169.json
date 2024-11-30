@@ -1,0 +1,22 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "```xml\n<output>\n<analysis>\n<has-cmf>The post does not contain a CMF number. While the absence of a CMF number is not automatically disqualifying, it suggests the post may not be directly linked to an official electoral campaign.</has-cmf>\n<refers-to-candidate>The post does not explicitly mention any parliamentary candidate by name or surname.  While it uses the hashtag #ManolacheVasileSenator, this refers to a person, but doesn't explicitly state that this person is running for a parliamentary seat. The post focuses on the importance of voting in general, not on a specific candidate.</refers-to-candidate>\n<addresses-the-wide-population>The post is a paid Facebook advertisement, inherently designed to reach a wide audience. The language used (\"oameni buni,\" \"Rom\u00e2nia are nevoie\") and the general call to action (\"merge\u021bi la vot\") further support this conclusion.</addresses-the-wide-population>\n<electoral-objective>The primary objective of the post seems to be encouraging voter turnout, not advocating for a specific candidate. While increased voter participation could indirectly benefit a candidate, the post itself doesn't explicitly endorse or oppose any particular individual or party. The call to action is general, focusing on civic duty rather than partisan politics.</electoral-objective>\n<journalism>The post could be considered a form of citizen journalism, aiming to raise awareness about the importance of voting. However, it lacks the objectivity and neutrality typically associated with journalistic reporting. The passionate tone and explicit call to action lean more towards advocacy than impartial information dissemination.</journalism>\n<personal_opinion>The post expresses a strong personal opinion about the importance of voting, but this opinion is presented as a general call to civic duty, not as an endorsement of a specific candidate or party.  The emphasis is on participation, not on influencing the vote for a particular individual.</personal_opinion>\n</analysis>\n\n<conclusion>\n<post_id>1963417717471169</post_id>\n<electoral-propaganda-analysis>\nThe post promotes the importance of voting without explicitly endorsing any parliamentary candidate. While the hashtag #ManolacheVasileSenator is present, it does not directly advocate for or against any candidate in the parliamentary elections. The post's call to action is general, focusing on civic duty rather than influencing votes for a specific candidate.  The absence of a CMF number further weakens the argument for it being electoral propaganda.  While the post's passionate tone might be considered persuasive, it doesn't cross the line into prohibited electoral propaganda given the lack of explicit endorsement of a candidate.\n</electoral-propaganda-analysis>\n<electoral-propaganda-decision>FALSE</electoral-propaganda-decision>\n<electoral-propaganda-candidates/>\n<responsible-party-or-group>Momentum Motion Pictures SRL</responsible-party-or-group>\n<message-for-police/>\n</conclusion>\n</output>\n```\n"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "avgLogprobs": -0.1817329972306106
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 6358,
+    "candidatesTokenCount": 661,
+    "totalTokenCount": 7019
+  },
+  "modelVersion": "gemini-1.5-flash-002"
+}

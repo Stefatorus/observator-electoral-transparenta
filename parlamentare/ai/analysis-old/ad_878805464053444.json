@@ -1,0 +1,22 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "```xml\n<output>\n<analysis>\n<has-cmf>False. There is no CMF number present in the provided post.</has-cmf>\n<refers-to-candidate>False. The post does not refer to any parliamentary candidate.  It focuses on the International Day for the Elimination of Violence against Women and promotes a helpline for victims of domestic violence.</refers-to-candidate>\n<addresses-the-wide-population>True. The post is a paid advertisement on Facebook, a public platform, and its message is clearly intended to reach a wide audience, not just specific individuals. The use of a helpline number further supports this.</addresses-the-wide-population>\n<electoral-objective>False. The objective of the post is not to influence the vote in the parliamentary elections. It aims to raise awareness about domestic violence against women and encourage victims to seek help. There is no mention of any political candidate or party, nor any attempt to sway public opinion regarding the election.</electoral-objective>\n<journalism>True. The post could be considered a form of public service announcement or citizens' journalism, aiming to educate and inform the public about a crucial social issue. It provides factual information and a resource for help.</journalism>\n<personal_opinion>False. While the post reflects a personal stance against violence against women, it does not express a personal opinion unrelated to the issue at hand. The content is focused on providing information and promoting a helpline, not expressing a personal viewpoint on a political matter.</personal_opinion>\n</analysis>\n\n<conclusion>\n<post_id>878805464053444</post_id>\n<electoral-propaganda-analysis>\nThe Facebook post does not constitute electoral propaganda. It addresses a significant social issue, domestic violence against women, and promotes a helpline for victims.  The content is not related to the parliamentary elections, does not mention any candidates or parties, and does not aim to influence voting behavior. The post fulfills the criteria of a public service announcement or citizens' journalism, providing information and a resource for help.  There is no evidence to suggest an intention to influence the outcome of the parliamentary elections.\n</electoral-propaganda-analysis>\n<electoral-propaganda-decision>FALSE</electoral-propaganda-decision>\n<electoral-propaganda-candidates/>\n<responsible-party-or-group>INDEPENDENT</responsible-party-or-group>\n<message-for-police/>\n</conclusion>\n</output>\n```\n"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "avgLogprobs": -0.12309742659973584
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 6966,
+    "candidatesTokenCount": 556,
+    "totalTokenCount": 7522
+  },
+  "modelVersion": "gemini-1.5-flash-002"
+}

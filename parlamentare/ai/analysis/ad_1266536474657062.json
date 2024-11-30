@@ -1,0 +1,22 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "```xml\n<output>\n<analysis>\n<has-cmf>False. There is no CMF number present in the provided post.</has-cmf>\n<refers-to-candidate>False. The post does not refer to any specific parliamentary candidate or party by name.  It encourages voting but doesn't endorse any particular candidate or party.</refers-to-candidate>\n<addresses-the-wide-population>True. The post is a paid Facebook advertisement, inherently designed to reach a wide audience. The message is general, encouraging participation in the parliamentary elections.</addresses-the-wide-population>\n<electoral-objective>Partially True. While the post encourages voting, it does not explicitly advocate for or against any specific candidate or party. The objective seems to be promoting civic engagement rather than influencing votes for particular candidates.  The call to action is to visit a website that provides information on parties, which could be considered indirectly influencing votes, but not directly.</electoral-objective>\n<journalism>True. The post's content is more aligned with journalistic or civic engagement principles. It promotes informed voting by encouraging voters to research parties and their platforms. The overall tone is informative and non-partisan.</journalism>\n<personal_opinion>False. The post does not express a personal opinion; instead, it promotes a non-partisan message encouraging participation in the democratic process.</personal_opinion>\n</analysis>\n\n<conclusion>\n<post_id>1266536474657062</post_id>\n<electoral-propaganda-analysis>\nThe Facebook post promotes civic engagement and encourages voters to research political parties before casting their ballots. While indirectly influencing votes by directing users to a website with party information, it does not explicitly endorse any specific candidate or party. The post's primary objective appears to be promoting informed participation in the democratic process, rather than directly influencing the outcome of the election.  The lack of specific endorsements and the focus on general information about the election process weigh against classifying it as electoral propaganda.  The post is paid for by DifinePR, a PR agency, and not directly by a political party or candidate.\n</electoral-propaganda-analysis>\n<electoral-propaganda-decision>FALSE</electoral-propaganda-decision>\n<electoral-propaganda-candidates/>\n<responsible-party-or-group>DifinePR</responsible-party-or-group>\n<message-for-police/>\n</conclusion>\n</output>\n```\n"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "avgLogprobs": -0.21759992762183106
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 6829,
+    "candidatesTokenCount": 551,
+    "totalTokenCount": 7380
+  },
+  "modelVersion": "gemini-1.5-flash-002"
+}

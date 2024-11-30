@@ -1,0 +1,22 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "```xml\n<output>\n<analysis>\n<has-cmf>False. There is no CMF number present in the provided post.</has-cmf>\n<refers-to-candidate>False. The post does not refer to any specific parliamentary candidate by name, surname, or any other clear identifier.  It discusses investigations and the power of media during electoral campaigns in a general sense, focusing on a journalistic interview.</refers-to-candidate>\n<addresses-the-wide-population>True. The post is a paid advertisement on Facebook, a public platform, and the content is presented as a general discussion about media investigations during electoral campaigns, targeting a broad audience interested in journalism and media literacy. The use of hashtags like #laboratoruldeeducatiemedia and #podcastcji further suggests a wider reach beyond a specific group of individuals.</addresses-the-wide-population>\n<electoral-objective>False. The primary objective of the post appears to be promoting a podcast episode discussing media investigations during electoral campaigns. While the topic is related to elections, the content itself does not directly advocate for or against any particular candidate or party. The focus is on the role of journalism and media literacy, not on influencing voting behavior.</electoral-objective>\n<journalism>True. The post promotes a podcast episode featuring an interview with a journalist discussing media investigations during electoral campaigns. This aligns with journalistic practices of informing the public about political processes and the role of media. The content aims to educate and inform, rather than to directly influence the vote.</journalism>\n<personal_opinion>Not applicable. The post does not express personal opinions; instead, it promotes a journalistic discussion.</personal_opinion>\n</analysis>\n\n<conclusion>\n<post_id>1631426287811146</post_id>\n<electoral-propaganda-analysis>\nThe Facebook post promotes a podcast episode discussing media investigations during electoral campaigns. While the topic is related to elections, the content does not directly advocate for or against any candidate or party. The post's primary objective is to promote the podcast, which focuses on journalism and media literacy.  The lack of specific candidate mentions, combined with the journalistic nature of the promoted content, suggests that it does not constitute electoral propaganda under Article 98 t).  The paid nature of the post on a public platform does not automatically qualify it as propaganda if the content itself does not meet the criteria for electoral propaganda.\n</electoral-propaganda-analysis>\n<electoral-propaganda-decision>FALSE</electoral-propaganda-decision>\n<electoral-propaganda-candidates/>\n<responsible-party-or-group>CJI</responsible-party-or-group>\n<message-for-police/>\n</conclusion>\n</output>\n```\n"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "avgLogprobs": -0.15213039090252395
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 6987,
+    "candidatesTokenCount": 607,
+    "totalTokenCount": 7594
+  },
+  "modelVersion": "gemini-1.5-flash-002"
+}

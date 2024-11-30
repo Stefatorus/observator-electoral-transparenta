@@ -1,0 +1,22 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "```xml\n<output>\n<analysis>\n<has-cmf>FALSE</has-cmf>\n<refers-to-candidate>FALSE</refers-to-candidate>\n<addresses-the-wide-population>TRUE</addresses-the-wide-population>\n<electoral-objective>FALSE</electoral-objective>\n<journalism>TRUE</journalism>\n<personal_opinion>FALSE</personal_opinion>\n</analysis>\n\n<conclusion>\n<post_id>883977547212570</post_id>\n<electoral-propaganda-analysis>\nThis Facebook post, promoting a news story about a school recycling contest, does not constitute electoral propaganda.  While it is a paid post by Cristian Marius Niculae, the content is entirely focused on a non-political event: a school recycling initiative. There is no mention of any political candidate, party, or election. The post celebrates the students' participation and thanks the involved parties. The objective is clearly to inform the public about the successful recycling contest, not to influence votes in any election.  The image accompanying the post further supports this, showing children participating in the contest.  The fact that it's a paid post doesn't automatically make it electoral propaganda; the content itself must be analyzed. In this case, the content is purely informational and celebratory, unrelated to any electoral process.\n</electoral-propaganda-analysis>\n<electoral-propaganda-decision>FALSE</electoral-propaganda-decision>\n<electoral-propaganda-candidates/>\n<responsible-party-or-group>INDEPENDENT</responsible-party-or-group>\n<message-for-police/>\n</conclusion>\n</output>\n```\n"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "avgLogprobs": -0.1124009817762448
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 5512,
+    "candidatesTokenCount": 391,
+    "totalTokenCount": 5903
+  },
+  "modelVersion": "gemini-1.5-flash-002"
+}

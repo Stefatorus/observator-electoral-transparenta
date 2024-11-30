@@ -1,0 +1,22 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "```xml\n<output>\n<analysis>\n<has-cmf>False. There is no CMF number present in the provided post.</has-cmf>\n<refers-to-candidate>False. The post does not refer to any parliamentary candidate. It focuses on a social issue: domestic violence.</refers-to-candidate>\n<addresses-the-wide-population>True. The post is a paid advertisement on Facebook, a public platform, and its message is clearly intended to reach a wide audience, aiming to raise awareness about domestic violence.</addresses-the-wide-population>\n<electoral-objective>False. The objective of the post is not to influence the vote in the parliamentary elections.  It aims to raise awareness and encourage help-seeking behavior regarding domestic violence. The content is unrelated to electoral politics.</electoral-objective>\n<journalism>True. The post could be considered a form of public awareness campaign, similar to journalistic efforts to inform the public about important social issues. It presents information and encourages action, but doesn't advocate for any particular candidate or party.</journalism>\n<personal_opinion>False. The post doesn't express a personal opinion; it presents factual information about domestic violence and encourages action to combat it.</personal_opinion>\n</analysis>\n\n<conclusion>\n<post_id>496488463434666</post_id>\n<electoral-propaganda-analysis>\nThe Facebook post promotes a campaign against domestic violence.  It does not mention any political candidates or parties, nor does it attempt to influence voting behavior. The campaign's goal is to raise public awareness and encourage help-seeking. The post's content, target audience, and objective are all unrelated to the parliamentary elections. Therefore, it does not constitute electoral propaganda.\n</electoral-propaganda-analysis>\n<electoral-propaganda-decision>FALSE</electoral-propaganda-decision>\n<electoral-propaganda-candidates/>\n<responsible-party-or-group>Asocia\u021bia Necuvinte</responsible-party-or-group>\n<message-for-police/>\n</conclusion>\n</output>\n```\n"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "avgLogprobs": -0.11677324128843442
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 8528,
+    "candidatesTokenCount": 482,
+    "totalTokenCount": 9010
+  },
+  "modelVersion": "gemini-1.5-flash-002"
+}

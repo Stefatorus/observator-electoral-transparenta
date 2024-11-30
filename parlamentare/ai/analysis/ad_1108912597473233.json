@@ -1,0 +1,22 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "```xml\n<output>\n<analysis>\n<has-cmf>False. There is no CMF number present in the provided post.</has-cmf>\n<refers-to-candidate>False. The post does not refer to any specific parliamentary candidate by name or affiliation. While it encourages voting, it doesn't endorse a particular candidate or party.</refers-to-candidate>\n<addresses-the-wide-population>True. The post uses general language (\"Vote for our future!\") and hashtags targeting a wide audience, indicating an intention to reach a broad public on Facebook, a public platform. The paid nature of the post further supports this.</addresses-the-wide-population>\n<electoral-objective>Partially True. The post's primary objective is not explicitly to influence votes for a specific candidate. However, the call to vote (\"Vote for our future!\") during the electoral period could be interpreted as indirectly promoting participation in the elections, which could benefit any candidate.  The ambiguity makes a definitive conclusion difficult.</electoral-objective>\n<journalism>Partially True. The post's message is more of a general call to action than a journalistic piece. It lacks the objectivity and factual reporting typically associated with journalism. However, it could be argued that it falls under the category of \"citizens' journalism\" expressing a personal opinion about the importance of voting.</journalism>\n<personal_opinion>True. The post expresses a personal opinion about the importance of voting and civic engagement. While it encourages voting, it doesn't explicitly endorse any particular candidate or party. The call to action is general and motivational, not directly persuasive for a specific candidate.</personal_opinion>\n</analysis>\n\n<conclusion>\n<post_id>1108912597473233</post_id>\n<electoral-propaganda-analysis>\nThe post is ambiguous. While it encourages voting, it doesn't explicitly endorse any candidate or party.  The call to action is general and motivational, not directly persuasive for a specific candidate.  The lack of specific candidate mention and the general nature of the message weaken the case for it being electoral propaganda. However, the timing (during the electoral period) and the paid nature of the post on a public platform introduce a degree of uncertainty.  The \"in dubio pro reo\" principle should be applied.\n</electoral-propaganda-analysis>\n<electoral-propaganda-decision>FALSE</electoral-propaganda-decision>\n<electoral-propaganda-candidates/>\n<responsible-party-or-group>INDEPENDENT</responsible-party-or-group>\n<message-for-police/>\n</conclusion>\n</output>\n```\n"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "avgLogprobs": -0.15187600744153845
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 6860,
+    "candidatesTokenCount": 591,
+    "totalTokenCount": 7451
+  },
+  "modelVersion": "gemini-1.5-flash-002"
+}

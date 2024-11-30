@@ -1,0 +1,22 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "```xml\n<output>\n<analysis>\n<has-cmf>False. There is no CMF number present in the provided post.</has-cmf>\n<refers-to-candidate>False. The post does not refer to any specific parliamentary candidate by name, surname, or any other clear identifier.  It discusses a national energy investment program (\"Programului na\u021bional de investi\u021bii \u201eEnergie verde\u201d\"), not a specific candidate's platform or actions.</refers-to-candidate>\n<addresses-the-wide-population>True. The post is a paid advertisement on Facebook, a public platform, and its content addresses a matter of national importance (energy policy), aiming to reach a wide audience. The reach estimate is \">1M\".</addresses-the-wide-population>\n<electoral-objective>False. The primary objective of the post is to promote the \"Green Energy\" national investment program. While energy policy might indirectly influence voters' choices, the post itself doesn't explicitly advocate for or against any candidate or party. The content focuses on the program's merits (clean energy, cost-effectiveness), not on influencing electoral outcomes.</electoral-objective>\n<journalism>True. The post presents information about a government initiative, linking to a news article from Agerpres.ro.  This aligns with journalistic practices of informing the public about relevant policy developments. The style is informative, not persuasive or overtly promotional of a specific political viewpoint.</journalism>\n<personal_opinion>Not applicable. The post doesn't express personal opinions; it presents factual information about a government program.</personal_opinion>\n</analysis>\n\n<conclusion>\n<post_id>887268566921328</post_id>\n<electoral-propaganda-analysis>\nThe Facebook post promotes a national energy investment program, not a specific candidate or party.  While energy policy is a political issue, the post's content is primarily informative, linking to a news source. It lacks explicit calls to action related to voting or endorsements of any political figure. The absence of candidate-specific references, combined with the informative nature of the content, suggests that it does not constitute electoral propaganda under Article 98 t).  The paid nature of the post on a public platform does not automatically qualify it as electoral propaganda if the content itself does not meet the criteria for such.\n</electoral-propaganda-analysis>\n<electoral-propaganda-decision>FALSE</electoral-propaganda-decision>\n<electoral-propaganda-candidates/>\n<responsible-party-or-group>Federa\u021bia Patronal\u0103 a Energiei</responsible-party-or-group>\n<message-for-police/>\n</conclusion>\n</output>\n```\n"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "avgLogprobs": -0.15373584747314453
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 7150,
+    "candidatesTokenCount": 600,
+    "totalTokenCount": 7750
+  },
+  "modelVersion": "gemini-1.5-flash-002"
+}

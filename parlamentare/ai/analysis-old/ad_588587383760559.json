@@ -1,0 +1,22 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "```xml\n<output>\n<analysis>\n<has-cmf>False. There is no CMF number present in the provided post.</has-cmf>\n<refers-to-candidate>False. The post does not refer to any parliamentary candidate. It promotes the services of the Eurotrans Foundation regarding Hungarian citizenship applications.</refers-to-candidate>\n<addresses-the-wide-population>True. The post is a paid advertisement on Facebook, a public platform, and aims to reach a wide audience interested in obtaining Hungarian citizenship.</addresses-the-wide-population>\n<electoral-objective>False. The objective of the post is not to influence the vote in the parliamentary elections.  It focuses on promoting the services of the Eurotrans Foundation, which assists with citizenship applications. There is no mention of any political party or candidate.</electoral-objective>\n<journalism>False. While the post provides information, it's not journalistic in nature. It's an advertisement for a specific service.</journalism>\n<personal_opinion>Not applicable. The post doesn't express personal opinions.</personal_opinion>\n</analysis>\n\n<conclusion>\n<post_id>588587383760559</post_id>\n<electoral-propaganda-analysis>\nThe Facebook post promotes the services of the Eurotrans Foundation related to Hungarian citizenship applications.  It does not mention any parliamentary candidates or parties, nor does it attempt to influence voting behavior in the Romanian parliamentary elections. The post targets a specific demographic interested in citizenship acquisition, not voters in the election. The timing of the post, after the election period, is irrelevant as it is not related to electoral propaganda.\n</electoral-propaganda-analysis>\n<electoral-propaganda-decision>FALSE</electoral-propaganda-decision>\n<electoral-propaganda-candidates/>\n<responsible-party-or-group>Eurotrans Alap\u00edtv\u00e1ny</responsible-party-or-group>\n<message-for-police/>\n</conclusion>\n</output>\n```\n"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "avgLogprobs": -0.08360123582168011
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 6481,
+    "candidatesTokenCount": 457,
+    "totalTokenCount": 6938
+  },
+  "modelVersion": "gemini-1.5-flash-002"
+}

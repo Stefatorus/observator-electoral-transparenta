@@ -1,0 +1,22 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "```xml\n<output>\n<analysis>\n<has-cmf>The post does not contain a CMF number.  While the absence of a CMF number doesn't automatically exclude it from being electoral propaganda, it suggests it might not be directly linked to a specific candidate's official campaign.</has-cmf>\n<refers-to-candidate>The post mentions Viktor Orb\u00e1n, but not in the context of Romanian parliamentary elections.  It encourages Hungarian voters in Transylvania to participate in the election and ensure their parliamentary representation. While it indirectly relates to the Romanian elections by encouraging participation, it doesn't explicitly endorse or oppose any specific Romanian candidate or party.</refers-to-candidate>\n<addresses-the-wide-population>The post, being a paid Facebook advertisement, is clearly intended to reach a wide audience, specifically Hungarian speakers in Transylvania.  This fulfills the requirement of addressing the public at large.</addresses-the-wide-population>\n<electoral-objective>The primary objective of the post seems to be encouraging voter turnout among the Hungarian minority in Romania. While this indirectly influences the election results, it doesn't explicitly advocate for or against any particular Romanian candidate or party. The call to \"ensure their own parliamentary representation\" is general and doesn't specify which party or candidates should be supported.</electoral-objective>\n<journalism>The post could be considered a form of political communication, but it doesn't adhere to journalistic standards of objectivity and neutrality. It's a clear appeal to a specific ethnic group to vote, even if it doesn't name specific candidates.  This blurs the line between political communication and electoral propaganda.</journalism>\n<personal_opinion>The post doesn't express a personal opinion; it's a political statement from RMDSZ encouraging participation in the election.  The context is clearly political and aimed at influencing voter behavior.</personal_opinion>\n</analysis>\n\n<conclusion>\n<post_id>479926927911020</post_id>\n<electoral-propaganda-analysis>\nThe post walks a fine line. While it doesn't explicitly endorse any Romanian parliamentary candidate, it encourages a specific segment of the population to vote, which could indirectly benefit certain parties. The targeting of specific regions with significant Hungarian populations (Covasna, Harghita, Mure\u0219) further strengthens this interpretation.  The absence of a CMF number weakens the case for direct electoral propaganda, but the overall message and targeting suggest an attempt to influence the election outcome.  The \"in dubio pro reo\" principle should be applied here.\n</electoral-propaganda-analysis>\n<electoral-propaganda-decision>FALSE</electoral-propaganda-decision>\n<electoral-propaganda-candidates>\n</electoral-propaganda-candidates>\n<responsible-party-or-group>RMDSZ</responsible-party-or-group>\n<message-for-police>\n</message-for-police>\n</conclusion>\n</output>\n```\n"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "avgLogprobs": -0.14394289787165515
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 6150,
+    "candidatesTokenCount": 661,
+    "totalTokenCount": 6811
+  },
+  "modelVersion": "gemini-1.5-flash-002"
+}

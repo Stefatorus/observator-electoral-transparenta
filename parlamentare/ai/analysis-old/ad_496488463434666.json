@@ -1,0 +1,22 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "<output>\n<analysis>\n<has-cmf>False. There is no CMF number present in the provided post.</has-cmf>\n<refers-to-candidate>False. The post does not refer to any parliamentary candidate. It focuses on a social issue: domestic violence.</refers-to-candidate>\n<addresses-the-wide-population>True. The post is a paid advertisement on Facebook, a public platform, and its message is clearly intended to reach a wide audience, not just specific individuals.  The use of hashtags further supports this.</addresses-the-wide-population>\n<electoral-objective>False. The objective of the post is to raise awareness about domestic violence and encourage people to seek help. There is no attempt to influence votes for any candidate or party.</electoral-objective>\n<journalism>True. The post could be considered a form of public awareness campaign, similar to journalistic efforts to inform the public about important social issues. It presents information and encourages action, but doesn't advocate for a specific political stance or candidate.</journalism>\n<personal_opinion>False. The post doesn't express a personal opinion; it presents factual information and a call to action related to a serious social problem.</personal_opinion>\n</analysis>\n\n<conclusion>\n<post_id>496488463434666</post_id>\n<electoral-propaganda-analysis>\nThe Facebook post is a public awareness campaign about domestic violence, run by Asocia\u021bia Necuvinte.  It does not promote any candidate or party participating in the parliamentary elections. The content focuses on a social issue, encouraging help-seeking behavior and raising awareness.  The hashtags used are related to the campaign's theme, not to any political party or candidate. The post's objective is to inform and encourage action regarding domestic violence, not to influence electoral choices.  Therefore, it does not meet the criteria for electoral propaganda as defined by Article 36 (7) of LEGE nr. 334 din 17 iulie 2006 and is not in violation of Article 98 t) of LEGE nr. 208 din 20 iulie 2015.\n</electoral-propaganda-analysis>\n<electoral-propaganda-decision>FALSE</electoral-propaganda-decision>\n<electoral-propaganda-candidates/>\n<responsible-party-or-group>Asocia\u021bia Necuvinte</responsible-party-or-group>\n<message-for-police/>\n</conclusion>\n</output>"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "avgLogprobs": -0.10325176953851864
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 8465,
+    "candidatesTokenCount": 571,
+    "totalTokenCount": 9036
+  },
+  "modelVersion": "gemini-1.5-flash-002"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "```xml\n<output>\n<analysis>\n<has-cmf>False. There is no CMF number present in the provided post information.</has-cmf>\n<refers-to-candidate>False. The post does not refer to any parliamentary candidate.  It discusses the Madonna-Whore complex, a psychological concept.</refers-to-candidate>\n<addresses-the-wide-population>True. The post is a paid Facebook advertisement, targeting a wide audience through a public platform. The content is not a private message.</addresses-the-wide-population>\n<electoral-objective>False. The objective of the post is to discuss a psychological concept and encourage discussion on feminism and gender equality. There is no apparent intention to influence voting behavior in the parliamentary elections.</electoral-objective>\n<journalism>True. The post presents information on a social issue, similar to a journalistic approach. It aims to educate and stimulate discussion, not to advocate for a specific candidate or party.</journalism>\n<personal_opinion>False. While the post expresses an opinion on gender equality and social issues, it does not express a personal opinion unrelated to the election.</personal_opinion>\n</analysis>\n\n<conclusion>\n<post_id>601536382315360</post_id>\n<electoral-propaganda-analysis>\nThe Facebook post, focusing on the Madonna-Whore complex, a psychological concept, does not constitute electoral propaganda.  It lacks any direct or indirect reference to parliamentary candidates or parties. The post's aim is educational and discussion-oriented, concerning gender equality and social issues, not influencing voting patterns. While it's a paid advertisement reaching a wide audience, its content is unrelated to the parliamentary elections.\n</electoral-propaganda-analysis>\n<electoral-propaganda-decision>FALSE</electoral-propaganda-decision>\n<electoral-propaganda-candidates/>\n<responsible-party-or-group>Asocia\u021bia Necuvinte</responsible-party-or-group>\n<message-for-police/>\n</conclusion>\n</output>\n```\n"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "avgLogprobs": -0.13969544493721803
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 11248,
+    "candidatesTokenCount": 471,
+    "totalTokenCount": 11719
+  },
+  "modelVersion": "gemini-1.5-flash-002"
+}

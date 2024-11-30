@@ -1,0 +1,22 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "```xml\n<output>\n<analysis>\n<has-cmf>False. There is no CMF number present in the provided post information.</has-cmf>\n<refers-to-candidate>False. The post does not refer to any parliamentary candidate by name, surname, or any other clear identifier.  It promotes an event, the Impact Festival.</refers-to-candidate>\n<addresses-the-wide-population>True. The post is a paid advertisement on Facebook, a public platform, and its content is designed to reach a broad audience, not just specific individuals. The targeting parameters further suggest a wide reach.</addresses-the-wide-population>\n<electoral-objective>False. The objective of the post is to promote attendance at the Impact Festival, an event focused on sustainability and innovation. There is no discernible intention to influence voting patterns in the parliamentary elections.</electoral-objective>\n<journalism>True. The post could be considered a form of public announcement or event promotion, similar to a journalistic announcement of a public event. It provides information about the event's date, theme, and activities.</journalism>\n<personal_opinion>Not applicable. The post doesn't express personal opinions related to candidates or political parties.</personal_opinion>\n</analysis>\n\n<conclusion>\n<post_id>895109815864685</post_id>\n<electoral-propaganda-analysis>\nThe Facebook post promotes the Impact Festival, an event unrelated to the parliamentary elections. The content focuses on the event's details, including dates, themes, and activities.  While the post is categorized as \"POLITICAL\" due to the broad nature of the event's themes (sustainability and innovation), it lacks any direct or indirect reference to specific candidates or parties, and its primary objective is event promotion, not electoral influence.  The targeting parameters, while broad, do not specifically target voters based on their political affiliations. Therefore, it does not meet the criteria for electoral propaganda as defined by Article 36 (7) of LEGE nr. 334 din 17 iulie 2006 and Article 98 t) of LEGE nr. 208 din 20 iulie 2015.\n</electoral-propaganda-analysis>\n<electoral-propaganda-decision>FALSE</electoral-propaganda-decision>\n<electoral-propaganda-candidates/>\n<responsible-party-or-group>Impact Hub Bucharest</responsible-party-or-group>\n<message-for-police/>\n</conclusion>\n</output>\n```\n"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "avgLogprobs": -0.1049002274222996
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 6284,
+    "candidatesTokenCount": 575,
+    "totalTokenCount": 6859
+  },
+  "modelVersion": "gemini-1.5-flash-002"
+}

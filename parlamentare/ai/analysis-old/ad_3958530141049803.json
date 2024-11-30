@@ -1,0 +1,22 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "```xml\n<output>\n<analysis>\n<has-cmf>False. There is no CMF number present in the provided post.</has-cmf>\n<refers-to-candidate>False. The post does not refer to any parliamentary candidate. It focuses on a local Christmas event organized by Mihai Poli\u021beanu, who is a mayor, but the post is not related to his electoral campaign.</refers-to-candidate>\n<addresses-the-wide-population>True.  The post is a paid Facebook advertisement, targeting a wide audience in Ploie\u0219ti, Romania, aiming to reach children aged 6-14 and their parents. This is a public announcement, not a private communication.</addresses-the-wide-population>\n<electoral-objective>False. The objective of the post is to announce a local Christmas event and the selection process for children to participate. There is no mention of voting, elections, or support for any political candidate. The event is community-focused and unrelated to the parliamentary elections.</electoral-objective>\n<journalism>False. While the post could be considered a form of public announcement, it does not fall under journalistic standards. It's a promotional post for a community event.</journalism>\n<personal_opinion>Not applicable. The post doesn't express personal opinions; it's a factual announcement of a public event.</personal_opinion>\n</analysis>\n\n<conclusion>\n<post_id>3958530141049803</post_id>\n<electoral-propaganda-analysis>\nThe Facebook post promotes a local Christmas event organized by Mihai Poli\u021beanu, the mayor of Ploie\u0219ti.  While Poli\u021beanu is a public figure and the post is paid advertising, the content itself is entirely focused on a community event unrelated to the parliamentary elections.  There is no mention of any political party, candidate, or call to action related to voting. The post meets the criteria of a community announcement and does not constitute electoral propaganda.\n</electoral-propaganda-analysis>\n<electoral-propaganda-decision>FALSE</electoral-propaganda-decision>\n<electoral-propaganda-candidates/>\n<responsible-party-or-group>INDEPENDENT</responsible-party-or-group>\n<message-for-police/>\n</conclusion>\n</output>\n```\n"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "avgLogprobs": -0.1272393224793066
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 6370,
+    "candidatesTokenCount": 521,
+    "totalTokenCount": 6891
+  },
+  "modelVersion": "gemini-1.5-flash-002"
+}

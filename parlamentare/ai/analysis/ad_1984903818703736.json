@@ -1,0 +1,22 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "```xml\n<output>\n<analysis>\n<has-cmf>False. There is no CMF number present in the provided post.</has-cmf>\n<refers-to-candidate>False. The post does not refer to any parliamentary candidate. It focuses on an educational campaign about energy efficiency.</refers-to-candidate>\n<addresses-the-wide-population>True.  The post is a paid advertisement on Facebook, a public platform, and describes an event targeting schoolchildren. While the event itself is localized, the Facebook ad aims to reach a wide audience.</addresses-the-wide-population>\n<electoral-objective>False. The objective of the post is to promote an educational campaign on energy efficiency for children, not to influence votes in the parliamentary elections.</electoral-objective>\n<journalism>True. The post reads like a news report about a public event, providing information about the campaign and its activities. It does not advocate for or against any political candidate or party.</journalism>\n<personal_opinion>Not applicable. The post does not express personal opinions related to the parliamentary elections.</personal_opinion>\n</analysis>\n\n<conclusion>\n<post_id>1984903818703736</post_id>\n<electoral-propaganda-analysis>\nThe Facebook post promotes an educational campaign on energy efficiency for children.  It does not mention any parliamentary candidates or parties, nor does it attempt to influence voting behavior. The content is journalistic in nature, reporting on a public event. The paid advertisement on Facebook aims to reach a wide audience, but the content itself is not electoral propaganda.  The event described is unrelated to the parliamentary elections.\n</electoral-propaganda-analysis>\n<electoral-propaganda-decision>FALSE</electoral-propaganda-decision>\n<electoral-propaganda-candidates/>\n<responsible-party-or-group>EM360</responsible-party-or-group>\n<message-for-police/>\n</conclusion>\n</output>\n```\n"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "avgLogprobs": -0.1062989035805503
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 7397,
+    "candidatesTokenCount": 455,
+    "totalTokenCount": 7852
+  },
+  "modelVersion": "gemini-1.5-flash-002"
+}

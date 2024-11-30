@@ -1,0 +1,22 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "```xml\n<output>\n<analysis>\n<has-cmf>False. There is no CMF number present in the provided post.</has-cmf>\n<refers-to-candidate>False. The post does not refer to any specific parliamentary candidate or party by name.  It encourages voting in general terms, promoting participation in the parliamentary elections but without endorsing any particular candidate or party.</refers-to-candidate>\n<addresses-the-wide-population>True. The post is a paid Facebook advertisement, inherently designed to reach a wide audience. The message is general and not directed at specific individuals.</addresses-the-wide-population>\n<electoral-objective>Partially True. While the post encourages voting in the parliamentary elections, it does not explicitly advocate for or against any specific candidate or party. The objective seems to be to increase voter turnout generally, rather than to sway votes towards a particular candidate or party.  The call to action is to visit a website that provides information on parties, not to vote for a specific one.</electoral-objective>\n<journalism>True. The post's content is more aligned with civic engagement and encouraging participation in the democratic process. It promotes a website that helps voters make informed decisions. This is closer to journalistic or educational content than direct electoral propaganda.</journalism>\n<personal_opinion>False. The post does not express a personal opinion; instead, it promotes civic engagement and participation in the democratic process.</personal_opinion>\n</analysis>\n\n<conclusion>\n<post_id>3013517498805949</post_id>\n<electoral-propaganda-analysis>\nThe Facebook post promotes increased voter participation in the parliamentary elections but stops short of advocating for or against any specific candidate or party.  While the post's timing (around election day) and the fact that it's a paid advertisement could be interpreted as an attempt to influence the election, the content itself remains neutral and focuses on encouraging participation rather than endorsing specific candidates. The link directs users to a website that helps them learn about different parties, which is informative rather than propagandistic.  The lack of explicit endorsements and the focus on general voter participation weigh against classifying this as electoral propaganda.\n</electoral-propaganda-analysis>\n<electoral-propaganda-decision>FALSE</electoral-propaganda-decision>\n<electoral-propaganda-candidates/>\n<responsible-party-or-group>DifinePR</responsible-party-or-group>\n<message-for-police/>\n</conclusion>\n</output>\n```\n"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "avgLogprobs": -0.19388002051902745
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 7104,
+    "candidatesTokenCount": 566,
+    "totalTokenCount": 7670
+  },
+  "modelVersion": "gemini-1.5-flash-002"
+}

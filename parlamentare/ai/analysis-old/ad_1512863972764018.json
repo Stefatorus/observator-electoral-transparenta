@@ -1,0 +1,22 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "```xml\n<output>\n<analysis>\n<has-cmf>False. There is no CMF number present in the provided post.</has-cmf>\n<refers-to-candidate>False. The post does not refer to any parliamentary candidate. It promotes the services of the Eurotrans Foundation regarding assistance with obtaining Hungarian citizenship.  While this might indirectly benefit certain political parties, it does not explicitly endorse or oppose any specific candidate participating in the parliamentary elections.</refers-to-candidate>\n<addresses-the-wide-population>True. The post is a paid advertisement on Facebook, a public platform, and aims to reach a wide audience interested in obtaining Hungarian citizenship, not just specific individuals.</addresses-the-wide-population>\n<electoral-objective>False. The primary objective of the post is to inform the public about the Eurotrans Foundation's services related to Hungarian citizenship acquisition. There is no evident intention to influence the outcome of the parliamentary elections.</electoral-objective>\n<journalism>False. While the post provides information, it's not presented in a journalistic style. It's an advertisement for a specific service, not an objective news report or analysis.</journalism>\n<personal_opinion>Not applicable. The post doesn't express personal opinions; it's a factual advertisement.</personal_opinion>\n</analysis>\n\n<conclusion>\n<post_id>1512863972764018</post_id>\n<electoral-propaganda-analysis>\nThe Facebook post promotes the services of the Eurotrans Foundation, focusing on assistance with obtaining Hungarian citizenship. While the timing might be close to the elections, the content itself is not directly related to the parliamentary elections or any specific candidate.  The post does not advocate for or against any candidate or party. The objective is to inform potential clients about the foundation's services, not to influence the vote.  Therefore, it does not meet the criteria for electoral propaganda as defined in Article 36 (7) of LEGE nr. 334 din 17 iulie 2006 and Article 98 t) of LEGE nr. 208 din 20 iulie 2015.\n</electoral-propaganda-analysis>\n<electoral-propaganda-decision>FALSE</electoral-propaganda-decision>\n<electoral-propaganda-candidates/>\n<responsible-party-or-group>Eurotrans Alap\u00edtv\u00e1ny</responsible-party-or-group>\n<message-for-police/>\n</conclusion>\n</output>\n```\n"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "avgLogprobs": -0.09168638309962313
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 7657,
+    "candidatesTokenCount": 568,
+    "totalTokenCount": 8225
+  },
+  "modelVersion": "gemini-1.5-flash-002"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "```xml\n<output>\n<analysis>\n<has-cmf>False. There is no CMF number present in the provided post information.</has-cmf>\n<refers-to-candidate>False. The post does not refer to any parliamentary candidate. It focuses on domestic violence awareness and support services offered by the Asociatia ANAIS.</refers-to-candidate>\n<addresses-the-wide-population>True. The post is a paid advertisement on Facebook, a public platform, and its message is intended to reach a wide audience interested in domestic violence prevention and support.</addresses-the-wide-population>\n<electoral-objective>False. The objective of the post is to raise awareness about domestic violence and promote the services of Asociatia ANAIS. There is no intention to influence the vote in the parliamentary elections.</electoral-objective>\n<journalism>True. The post could be considered a form of public service announcement or social awareness campaign, similar to journalistic efforts to inform the public about important social issues.</journalism>\n<personal_opinion>False. The post does not express a personal opinion; rather, it presents factual information about domestic violence and the services offered by the organization.</personal_opinion>\n</analysis>\n\n<conclusion>\n<post_id>1800425037446048</post_id>\n<electoral-propaganda-analysis>\nThe Facebook post by Asociatia ANAIS is a paid advertisement focusing on domestic violence awareness and support services.  It does not mention any parliamentary candidates or parties, nor does it attempt to influence voters in the parliamentary elections. The content is primarily informational and aims to raise public awareness of a social issue.  The paid nature of the post does not automatically qualify it as electoral propaganda; the content itself must be analyzed. In this case, the content is unrelated to the electoral process.\n</electoral-propaganda-analysis>\n<electoral-propaganda-decision>FALSE</electoral-propaganda-decision>\n<electoral-propaganda-candidates/>\n<responsible-party-or-group>Asociatia ANAIS</responsible-party-or-group>\n<message-for-police/>\n</conclusion>\n</output>\n```\n"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "avgLogprobs": -0.09274686696578045
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 6882,
+    "candidatesTokenCount": 490,
+    "totalTokenCount": 7372
+  },
+  "modelVersion": "gemini-1.5-flash-002"
+}

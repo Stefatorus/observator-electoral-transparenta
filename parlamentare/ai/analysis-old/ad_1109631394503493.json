@@ -1,0 +1,22 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "```xml\n<output>\n<analysis>\n<has-cmf>False. There is no CMF number present in the provided post.</has-cmf>\n<refers-to-candidate>False. The post does not refer to any parliamentary candidate. It promotes an event related to simplified naturalization procedures, organized by the Eurotrans Foundation.</refers-to-candidate>\n<addresses-the-wide-population>True. The post is a paid advertisement on Facebook, a public platform, and its message is intended to reach a wide audience in several counties of Romania, interested in the naturalization process.</addresses-the-wide-population>\n<electoral-objective>False. The objective of the post is to inform the public about the availability of assistance with simplified naturalization procedures, not to influence votes in the parliamentary elections.  The content is purely informational and practical.</electoral-objective>\n<journalism>True. The post can be considered a form of public service announcement or citizens' journalism, aiming to inform the public about a relevant service. It does not express opinions or endorsements related to any political candidate or party.</journalism>\n<personal_opinion>Not applicable. The post does not express personal opinions.</personal_opinion>\n</analysis>\n\n<conclusion>\n<post_id>1109631394503493</post_id>\n<electoral-propaganda-analysis>\nThe Facebook post does not constitute electoral propaganda. It promotes a community service event focused on assisting with naturalization procedures.  There is no mention of any political candidate or party, nor any attempt to influence voting behavior. The post's objective is purely informational and practical, providing details about the event's date, location, and contact information.  The target audience is broad, encompassing individuals interested in naturalization, not specifically voters in the parliamentary elections.\n</electoral-propaganda-analysis>\n<electoral-propaganda-decision>FALSE</electoral-propaganda-decision>\n<electoral-propaganda-candidates/>\n<responsible-party-or-group>Eurotrans Alap\u00edtv\u00e1ny</responsible-party-or-group>\n<message-for-police/>\n</conclusion>\n</output>\n```\n"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "avgLogprobs": -0.11452072361093432
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 6449,
+    "candidatesTokenCount": 491,
+    "totalTokenCount": 6940
+  },
+  "modelVersion": "gemini-1.5-flash-002"
+}

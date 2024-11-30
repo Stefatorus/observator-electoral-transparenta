@@ -1,0 +1,22 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "```xml\n<output>\n<analysis>\n<has-cmf>False. There is no CMF number present in the provided post information.</has-cmf>\n<refers-to-candidate>False. The post does not refer to any parliamentary candidate or party.  It promotes an event, the Impact Festival.</refers-to-candidate>\n<addresses-the-wide-population>True. The post is a paid advertisement on Facebook, a public platform, aiming to reach a wide audience interested in sustainability and related topics. The event is open to the public.</addresses-the-wide-population>\n<electoral-objective>False. The objective of the post is to promote attendance at a sustainability-focused festival. There is no mention of influencing votes for any candidate or party.</electoral-objective>\n<journalism>False. While the post could be considered a form of public announcement, it does not fall under journalistic standards. It's an advertisement for an event.</journalism>\n<personal_opinion>Not applicable. The post doesn't express personal opinions.</personal_opinion>\n</analysis>\n\n<conclusion>\n<post_id>1727526868098425</post_id>\n<electoral-propaganda-analysis>\nThe Facebook post promotes the Impact Festival, an event focused on sustainability.  It does not mention any political candidates, parties, or attempt to influence voting behavior. The content is unrelated to the parliamentary elections. The paid advertisement targets a broad audience interested in sustainability, not voters for a specific candidate. Therefore, it does not meet the criteria for electoral propaganda as defined by Article 98 t) of LEGE nr. 208 din 20 iulie 2015.\n</electoral-propaganda-analysis>\n<electoral-propaganda-decision>FALSE</electoral-propaganda-decision>\n<electoral-propaganda-candidates/>\n<responsible-party-or-group>Impact Hub Bucharest</responsible-party-or-group>\n<message-for-police/>\n</conclusion>\n</output>\n```\n"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "avgLogprobs": -0.08760045532487397
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 5081,
+    "candidatesTokenCount": 468,
+    "totalTokenCount": 5549
+  },
+  "modelVersion": "gemini-1.5-flash-002"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "```xml\n<output>\n<analysis>\n<has-cmf>False. There is no CMF number present in the provided post.</has-cmf>\n<refers-to-candidate>False. The post does not refer to any parliamentary candidate.  It discusses the adoption of robots in factories worldwide, providing statistics from a World Robotics report. There is no mention of any political candidate or party.</refers-to-candidate>\n<addresses-the-wide-population>True. The post is a paid advertisement on Facebook, a public platform, and the content is about a general topic (automation in factories) intended for a broad audience. It's not a private or personal communication.</addresses-the-wide-population>\n<electoral-objective>False. The objective of the post is to share information about the increasing use of robots in factories globally.  The content does not aim to influence voters' choices in the parliamentary elections. The link directs to an article on the website CursDeGuvernare.ro, which appears to be a news and analysis site focused on public policy, not electoral campaigning.</electoral-objective>\n<journalism>True. The post presents factual information sourced from a reputable report (World Robotics 2024 by IFR). The style and content align with journalistic reporting, providing data and analysis on a specific topic.  There is no overt attempt to sway public opinion towards a particular candidate or party.</journalism>\n<personal_opinion>Not applicable. The post does not express personal opinions; it presents factual information.</personal_opinion>\n</analysis>\n\n<conclusion>\n<post_id>559914940234682</post_id>\n<electoral-propaganda-analysis>\nThe Facebook post discusses the global increase in robot density in factories, citing data from the World Robotics 2024 report.  This is a factual news item, not electoral propaganda. The post does not mention any parliamentary candidates, parties, or attempt to influence voting behavior. The link to CursDeGuvernare.ro further supports this, as the website appears to focus on public policy analysis, not electoral campaigning.  Therefore, there is no evidence to suggest this post violates Article 98 t).\n</electoral-propaganda-analysis>\n<electoral-propaganda-decision>FALSE</electoral-propaganda-decision>\n<electoral-propaganda-candidates/>\n<responsible-party-or-group>CursDeGuvernare.ro</responsible-party-or-group>\n<message-for-police/>\n</conclusion>\n</output>\n```\n"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "avgLogprobs": -0.12753025134960255
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 7236,
+    "candidatesTokenCount": 572,
+    "totalTokenCount": 7808
+  },
+  "modelVersion": "gemini-1.5-flash-002"
+}

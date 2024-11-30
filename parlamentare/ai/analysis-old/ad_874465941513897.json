@@ -1,0 +1,22 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "```xml\n<output>\n<analysis>\n<has-cmf>False. There is no CMF number present in the post.</has-cmf>\n<refers-to-candidate>False. The post does not refer to any parliamentary candidate.  It mentions Narcis Constantin, but the context is a community event, not an electoral campaign.</refers-to-candidate>\n<addresses-the-wide-population>True. The post is a paid Facebook advertisement, targeting a wide audience in Magurele, Ilfov County, based on the provided insights. The message is clearly intended for public consumption.</addresses-the-wide-population>\n<electoral-objective>False. The objective of the post is to invite people to a community event (military parade) on December 1st. There is no mention of voting, elections, or any political candidate. The content is celebratory and patriotic, not electoral.</electoral-objective>\n<journalism>False. The post is not journalistic in nature. It's an invitation to a public event.</journalism>\n<personal_opinion>False. The post does not express a personal opinion related to the elections.</personal_opinion>\n</analysis>\n\n<conclusion>\n<post_id>874465941513897</post_id>\n<electoral-propaganda-analysis>\nThe Facebook post is an invitation to a community event, a military parade on December 1st, in Magurele.  The post does not mention any parliamentary candidates or parties, nor does it advocate for or against any candidate. The content is purely celebratory and community-oriented.  The paid nature of the post on a public platform does not automatically make it electoral propaganda.  The targeting parameters (age, location) are consistent with a community event announcement. There is no evidence suggesting an intention to influence the vote in the parliamentary elections.\n</electoral-propaganda-analysis>\n<electoral-propaganda-decision>FALSE</electoral-propaganda-decision>\n<electoral-propaganda-candidates/>\n<responsible-party-or-group>INDEPENDENT</responsible-party-or-group>\n<message-for-police/>\n</conclusion>\n</output>\n```\n"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "avgLogprobs": -0.12006593619280981
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 6086,
+    "candidatesTokenCount": 494,
+    "totalTokenCount": 6580
+  },
+  "modelVersion": "gemini-1.5-flash-002"
+}

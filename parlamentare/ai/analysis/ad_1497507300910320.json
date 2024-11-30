@@ -1,0 +1,22 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "```xml\n<output>\n<analysis>\n<has-cmf>False. There is no CMF number present in the provided post information.</has-cmf>\n<refers-to-candidate>False. The post does not refer to any specific parliamentary candidate.  It promotes an event organized by the Mathias Corvinus Collegium, a non-political entity, although the event itself might touch upon political themes indirectly.</refers-to-candidate>\n<addresses-the-wide-population>True. The post is a paid advertisement on Facebook, a public platform, and targets a wide audience in the specified location (K\u00f6zdiv\u00e1s\u00e1rhely, Covasna, Romania), as evidenced by the `aaa_info` section showing targeting parameters.</addresses-the-wide-population>\n<electoral-objective>False. The primary objective of the post is to promote an event, not to influence the vote for any particular candidate. While the topic of the event (\"Increasing Competitiveness in the Digital Golden Age - Smart Tourism Overview\") might indirectly relate to broader political and economic issues, there is no direct call to action related to voting or supporting any specific political party or candidate.</electoral-objective>\n<journalism>Potentially True. The event description suggests a presentation on smart tourism, which could be considered a topic of public interest and potentially fall under the realm of educational or journalistic content. However, the lack of explicit journalistic framing makes this a weak argument.</journalism>\n<personal_opinion>Not applicable. The post doesn't express a personal opinion; it promotes an event.</personal_opinion>\n</analysis>\n\n<conclusion>\n<post_id>1497507300910320</post_id>\n<electoral-propaganda-analysis>\nThe Facebook post promotes an event organized by the Mathias Corvinus Collegium. While the event's topic might indirectly touch upon political and economic themes, the post itself does not directly advocate for or against any parliamentary candidate or party.  The targeting is geographically specific, but this alone does not constitute electoral propaganda. The lack of any explicit reference to the parliamentary elections, candidates, or calls to action related to voting strongly suggests that this post does not violate Article 98 t).  The paid nature of the post on a public platform is noted, but this is not sufficient to classify it as electoral propaganda without a clear electoral objective.\n</electoral-propaganda-analysis>\n<electoral-propaganda-decision>FALSE</electoral-propaganda-decision>\n<electoral-propaganda-candidates/>\n<responsible-party-or-group>MCC</responsible-party-or-group>\n<message-for-police/>\n</conclusion>\n</output>\n```\n"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "avgLogprobs": -0.16802752695753423
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 6422,
+    "candidatesTokenCount": 598,
+    "totalTokenCount": 7020
+  },
+  "modelVersion": "gemini-1.5-flash-002"
+}

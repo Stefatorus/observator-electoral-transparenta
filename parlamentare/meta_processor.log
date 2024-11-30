@@ -1,0 +1,1544 @@
+2024-11-30 18:45:58,540 - INFO - Starting processing of 3 ads with 8 threads...
+2024-11-30 18:45:58,542 - ERROR - Unexpected error in thread: string indices must be integers, not 'str'
+2024-11-30 18:45:58,543 - ERROR - Unexpected error in thread: string indices must be integers, not 'str'
+2024-11-30 18:45:58,543 - ERROR - Unexpected error in thread: string indices must be integers, not 'str'
+2024-11-30 18:45:58,543 - INFO - 
+Processing complete:
+2024-11-30 18:45:58,543 - INFO - Successfully processed: 0 ads
+2024-11-30 18:45:58,543 - INFO - Failed to process: 3 ads
+2024-11-30 18:45:58,543 - INFO - Skipped (already processed): 0 ads
+2024-11-30 18:45:58,543 - INFO - Total processed: 3 ads
+2024-11-30 18:46:32,260 - INFO - Starting processing of 517 ads with 8 threads...
+2024-11-30 18:46:32,552 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2024-11-30 18:46:32,552 - ERROR - Error processing ad 970553078443769: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': "'claude-3-5-haiku-20241022' does not support image input."}}
+2024-11-30 18:46:32,559 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2024-11-30 18:46:32,560 - ERROR - Error processing ad 569215805798224: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': "'claude-3-5-haiku-20241022' does not support image input."}}
+2024-11-30 18:46:32,569 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2024-11-30 18:46:32,569 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2024-11-30 18:46:32,570 - ERROR - Error processing ad 1288484149018085: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': "'claude-3-5-haiku-20241022' does not support image input."}}
+2024-11-30 18:46:32,570 - ERROR - Error processing ad 1294526935229404: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': "'claude-3-5-haiku-20241022' does not support image input."}}
+2024-11-30 18:46:32,577 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2024-11-30 18:46:32,577 - ERROR - Error processing ad 1032187598679458: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': "'claude-3-5-haiku-20241022' does not support image input."}}
+2024-11-30 18:46:32,591 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2024-11-30 18:46:32,594 - ERROR - Error processing ad 2987748928057189: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': "'claude-3-5-haiku-20241022' does not support image input."}}
+2024-11-30 18:46:32,790 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2024-11-30 18:46:32,791 - ERROR - Error processing ad 1106803711113491: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': "'claude-3-5-haiku-20241022' does not support image input."}}
+2024-11-30 18:46:32,802 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2024-11-30 18:46:32,802 - ERROR - Error processing ad 936673471712074: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': "'claude-3-5-haiku-20241022' does not support image input."}}
+2024-11-30 18:46:32,810 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2024-11-30 18:46:32,811 - ERROR - Error processing ad 1076590570793786: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': "'claude-3-5-haiku-20241022' does not support image input."}}
+2024-11-30 18:46:32,852 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2024-11-30 18:46:32,852 - ERROR - Error processing ad 579099107818696: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': "'claude-3-5-haiku-20241022' does not support image input."}}
+2024-11-30 18:46:32,872 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2024-11-30 18:46:32,872 - ERROR - Error processing ad 1251918509393554: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': "'claude-3-5-haiku-20241022' does not support image input."}}
+2024-11-30 18:46:33,052 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2024-11-30 18:46:33,052 - ERROR - Error processing ad 593615980022376: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': "'claude-3-5-haiku-20241022' does not support image input."}}
+2024-11-30 18:46:33,311 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2024-11-30 18:46:33,312 - ERROR - Error processing ad 615181904175327: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': "'claude-3-5-haiku-20241022' does not support image input."}}
+2024-11-30 18:56:55,075 - INFO - Starting processing of 517 ads with 8 threads...
+2024-11-30 18:56:55,556 - ERROR - Error processing ad 9515737678442617: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:56:56,153 - ERROR - Error processing ad 362792233522175: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:56:57,823 - ERROR - Error processing ad 569215805798224: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:56:58,198 - ERROR - Error processing ad 2987748928057189: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:56:58,199 - ERROR - Error processing ad 1032187598679458: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:56:58,353 - ERROR - Error processing ad 970553078443769: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:56:58,388 - ERROR - Error processing ad 1288484149018085: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:56:58,782 - ERROR - Error processing ad 1294526935229404: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:56:58,812 - ERROR - Error processing ad 1076590570793786: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:56:58,986 - ERROR - Error processing ad 1106803711113491: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:56:59,273 - ERROR - Error processing ad 1606080077000792: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:56:59,281 - ERROR - Error processing ad 435262922971000: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:56:59,933 - ERROR - Error processing ad 555150543924818: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:57:00,036 - ERROR - Error processing ad 967965638717422: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:57:00,371 - ERROR - Error processing ad 1618099118787045: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:57:00,444 - ERROR - Error processing ad 1734603870433438: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:57:01,019 - ERROR - Error processing ad 1251918509393554: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:57:01,156 - ERROR - Error processing ad 936673471712074: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:57:01,842 - ERROR - Error processing ad 593615980022376: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:57:01,919 - ERROR - Error processing ad 579099107818696: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:57:01,983 - ERROR - Error processing ad 615181904175327: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:57:02,194 - ERROR - Error processing ad 864861295517511: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:57:02,458 - ERROR - Error processing ad 889601543286900: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:57:45,927 - INFO - Starting processing of 517 ads with 8 threads...
+2024-11-30 18:57:47,260 - ERROR - Error processing ad 9515737678442617: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:57:47,281 - ERROR - Error processing ad 362792233522175: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:57:48,513 - ERROR - Error processing ad 970553078443769: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:57:48,535 - ERROR - Error processing ad 1032187598679458: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:57:48,705 - ERROR - Error processing ad 569215805798224: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:57:49,147 - ERROR - Error processing ad 1288484149018085: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:57:49,208 - ERROR - Error processing ad 2987748928057189: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:57:49,331 - ERROR - Error processing ad 1294526935229404: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:57:49,625 - ERROR - Error processing ad 1606080077000792: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:57:49,796 - ERROR - Error processing ad 1106803711113491: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:57:49,971 - ERROR - Error processing ad 1076590570793786: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:57:50,447 - ERROR - Error processing ad 1618099118787045: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:57:50,455 - ERROR - Error processing ad 555150543924818: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:57:50,488 - ERROR - Error processing ad 936673471712074: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:57:50,704 - ERROR - Error processing ad 435262922971000: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:57:50,855 - ERROR - Error processing ad 967965638717422: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:57:51,316 - ERROR - Error processing ad 1251918509393554: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:57:51,439 - ERROR - Error processing ad 579099107818696: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:57:51,528 - ERROR - Error processing ad 1734603870433438: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:57:51,944 - ERROR - Error processing ad 593615980022376: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:57:52,037 - ERROR - Error processing ad 618360727180200: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:57:52,418 - ERROR - Error processing ad 3810306719208323: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:57:52,498 - ERROR - Error processing ad 864861295517511: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:57:53,099 - ERROR - Error processing ad 615181904175327: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:57:53,153 - ERROR - Error processing ad 889601543286900: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:57:53,176 - ERROR - Error processing ad 1551664468825639: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:57:53,197 - ERROR - Error processing ad 1125773355569863: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:57:53,470 - ERROR - Error processing ad 924717059235439: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:57:53,480 - ERROR - Error processing ad 1103675518078138: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:57:53,608 - ERROR - Error processing ad 557604110392871: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:57:53,671 - ERROR - Error processing ad 884598480552277: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:57:53,797 - ERROR - Error processing ad 578490801208263: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:57:54,130 - ERROR - Error processing ad 1267675860939708: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:57:54,296 - ERROR - Error processing ad 539277882281285: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:57:54,307 - ERROR - Error processing ad 1517892218924770: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:57:54,545 - ERROR - Error processing ad 1205923177168461: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:57:54,724 - ERROR - Error processing ad 2252869808418948: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:57:55,414 - ERROR - Error processing ad 1118428286643213: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:57:55,451 - ERROR - Error processing ad 1098833928367867: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:57:55,469 - ERROR - Error processing ad 992810739531453: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:57:55,608 - ERROR - Error processing ad 581415000943629: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:57:55,857 - ERROR - Error processing ad 925633439092773: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:57:56,291 - ERROR - Error processing ad 885034927154689: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:57:56,300 - ERROR - Error processing ad 580250941054768: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:57:56,390 - ERROR - Error processing ad 572535765367817: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:57:56,534 - ERROR - Error processing ad 1674562483439492: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:57:56,600 - ERROR - Error processing ad 453236837821057: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:57:56,856 - ERROR - Error processing ad 873046971577096: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:57:57,297 - ERROR - Error processing ad 3893448027598287: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:57:57,639 - ERROR - Error processing ad 1380816302896257: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:57:57,796 - ERROR - Error processing ad 1556211045019020: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:57:57,949 - ERROR - Error processing ad 3649216352036399: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:57:58,173 - ERROR - Error processing ad 458352563600468: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:57:58,460 - ERROR - Error processing ad 1130310645194385: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:57:58,512 - ERROR - Error processing ad 607073918491384: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:57:58,703 - ERROR - Error processing ad 1824225495050389: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:57:59,138 - ERROR - Error processing ad 1220621552349875: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:57:59,178 - ERROR - Error processing ad 1295415661810762: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:57:59,205 - ERROR - Error processing ad 1257084132223874: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:57:59,624 - ERROR - Error processing ad 1000778341856558: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:58:00,003 - ERROR - Error processing ad 469467039491354: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:58:00,585 - ERROR - Error processing ad 912542110533708: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:58:00,801 - ERROR - Error processing ad 1741417963301942: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:58:01,016 - ERROR - Error processing ad 1775434133288283: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:58:01,146 - ERROR - Error processing ad 563009356458380: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:58:01,290 - ERROR - Error processing ad 1114646240320099: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:58:01,515 - ERROR - Error processing ad 1199837111083382: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:58:01,619 - ERROR - Error processing ad 594468426393957: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:58:01,645 - ERROR - Error processing ad 1781215229299135: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:58:01,700 - ERROR - Error processing ad 930934385156486: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:58:02,013 - ERROR - Error processing ad 594489202936439: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:58:02,452 - ERROR - Error processing ad 570608735909461: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:58:02,692 - ERROR - Error processing ad 1262305838438880: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:58:02,744 - ERROR - Error processing ad 572546098704500: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:58:03,155 - ERROR - Error processing ad 1087530292633922: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:58:03,307 - ERROR - Error processing ad 472663805845598: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:58:03,525 - ERROR - Error processing ad 1647449636164647: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:58:03,747 - ERROR - Error processing ad 3942630265974085: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:58:04,128 - ERROR - Error processing ad 4137407953158994: 400 Client Error: Bad Request for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 18:59:46,004 - INFO - Starting processing of 517 ads with 8 threads...
+2024-11-30 18:59:50,552 - INFO - Successfully processed ad 362792233522175
+2024-11-30 18:59:51,636 - INFO - Successfully processed ad 9515737678442617
+2024-11-30 18:59:52,783 - INFO - Successfully processed ad 1294526935229404
+2024-11-30 18:59:52,938 - INFO - Successfully processed ad 2987748928057189
+2024-11-30 18:59:53,608 - INFO - Successfully processed ad 1032187598679458
+2024-11-30 18:59:54,303 - INFO - Successfully processed ad 1288484149018085
+2024-11-30 18:59:55,110 - INFO - Successfully processed ad 970553078443769
+2024-11-30 18:59:59,877 - INFO - Successfully processed ad 1251918509393554
+2024-11-30 19:00:00,581 - INFO - Successfully processed ad 1606080077000792
+2024-11-30 19:00:01,720 - INFO - Successfully processed ad 579099107818696
+2024-11-30 19:00:01,790 - INFO - Successfully processed ad 936673471712074
+2024-11-30 19:00:02,058 - INFO - Successfully processed ad 1076590570793786
+2024-11-30 19:00:02,372 - INFO - Successfully processed ad 593615980022376
+2024-11-30 19:00:05,247 - INFO - Successfully processed ad 555150543924818
+2024-11-30 19:00:05,584 - INFO - Successfully processed ad 967965638717422
+2024-11-30 19:00:06,332 - INFO - Successfully processed ad 435262922971000
+2024-11-30 19:00:06,437 - INFO - Successfully processed ad 1618099118787045
+2024-11-30 19:00:09,909 - INFO - Successfully processed ad 569215805798224
+2024-11-30 19:00:10,548 - INFO - Successfully processed ad 1734603870433438
+2024-11-30 19:00:12,217 - INFO - Successfully processed ad 1551664468825639
+2024-11-30 19:00:13,494 - INFO - Successfully processed ad 1125773355569863
+2024-11-30 19:00:14,234 - INFO - Successfully processed ad 1103675518078138
+2024-11-30 19:00:14,729 - INFO - Successfully processed ad 1106803711113491
+2024-11-30 19:00:15,201 - INFO - Successfully processed ad 618360727180200
+2024-11-30 19:00:16,470 - INFO - Successfully processed ad 3810306719208323
+2024-11-30 19:01:37,889 - INFO - Starting processing of 517 ads with 8 threads...
+2024-11-30 19:01:41,327 - INFO - Successfully processed ad 362792233522175
+2024-11-30 19:01:42,242 - INFO - Successfully processed ad 9515737678442617
+2024-11-30 19:01:43,551 - INFO - Successfully processed ad 1032187598679458
+2024-11-30 19:01:43,832 - INFO - Successfully processed ad 569215805798224
+2024-11-30 19:01:44,244 - INFO - Successfully processed ad 970553078443769
+2024-11-30 19:01:45,859 - INFO - Successfully processed ad 1288484149018085
+2024-11-30 19:01:46,017 - INFO - Successfully processed ad 2987748928057189
+2024-11-30 19:01:47,034 - INFO - Successfully processed ad 1294526935229404
+2024-11-30 19:01:47,884 - INFO - Successfully processed ad 1076590570793786
+2024-11-30 19:01:48,060 - INFO - Successfully processed ad 1106803711113491
+2024-11-30 19:01:49,993 - INFO - Successfully processed ad 936673471712074
+2024-11-30 19:01:50,070 - INFO - Successfully processed ad 1251918509393554
+2024-11-30 19:01:50,649 - INFO - Successfully processed ad 1606080077000792
+2024-11-30 19:01:51,291 - INFO - Successfully processed ad 593615980022376
+2024-11-30 19:01:51,911 - INFO - Successfully processed ad 579099107818696
+2024-11-30 19:01:53,569 - INFO - Successfully processed ad 555150543924818
+2024-11-30 19:01:54,948 - INFO - Successfully processed ad 435262922971000
+2024-11-30 19:01:55,071 - INFO - Successfully processed ad 967965638717422
+2024-11-30 19:01:55,193 - INFO - Successfully processed ad 1734603870433438
+2024-11-30 19:01:55,578 - INFO - Successfully processed ad 1618099118787045
+2024-11-30 19:01:57,619 - INFO - Successfully processed ad 615181904175327
+2024-11-30 19:01:57,800 - INFO - Successfully processed ad 1103675518078138
+2024-11-30 19:03:11,529 - INFO - Starting processing of 517 ads with 8 threads...
+2024-11-30 19:03:14,929 - INFO - Successfully processed ad 362792233522175
+2024-11-30 19:03:15,811 - INFO - Successfully processed ad 9515737678442617
+2024-11-30 19:03:17,438 - INFO - Successfully processed ad 1032187598679458
+2024-11-30 19:03:17,592 - INFO - Successfully processed ad 970553078443769
+2024-11-30 19:03:18,271 - INFO - Successfully processed ad 569215805798224
+2024-11-30 19:03:20,247 - INFO - Successfully processed ad 2987748928057189
+2024-11-30 19:03:20,340 - INFO - Successfully processed ad 1288484149018085
+2024-11-30 19:03:21,169 - INFO - Successfully processed ad 1294526935229404
+2024-11-30 19:03:22,167 - INFO - Successfully processed ad 1106803711113491
+2024-11-30 19:03:22,912 - INFO - Successfully processed ad 1076590570793786
+2024-11-30 19:03:24,435 - INFO - Successfully processed ad 1606080077000792
+2024-11-30 19:03:24,641 - INFO - Successfully processed ad 936673471712074
+2024-11-30 19:03:25,088 - INFO - Successfully processed ad 1251918509393554
+2024-11-30 19:03:26,810 - INFO - Successfully processed ad 579099107818696
+2024-11-30 19:03:27,358 - INFO - Successfully processed ad 555150543924818
+2024-11-30 19:03:27,398 - INFO - Successfully processed ad 593615980022376
+2024-11-30 19:03:27,901 - INFO - Successfully processed ad 435262922971000
+2024-11-30 19:03:28,469 - INFO - Successfully processed ad 1734603870433438
+2024-11-30 19:03:29,508 - INFO - Successfully processed ad 967965638717422
+2024-11-30 19:03:30,303 - INFO - Successfully processed ad 1618099118787045
+2024-11-30 19:03:33,441 - INFO - Successfully processed ad 618360727180200
+2024-11-30 19:03:33,500 - INFO - Successfully processed ad 1103675518078138
+2024-11-30 19:03:33,822 - INFO - Successfully processed ad 615181904175327
+2024-11-30 19:03:35,036 - INFO - Successfully processed ad 1125773355569863
+2024-11-30 19:03:35,249 - INFO - Successfully processed ad 578490801208263
+2024-11-30 19:03:35,380 - INFO - Successfully processed ad 864861295517511
+2024-11-30 19:03:35,758 - INFO - Successfully processed ad 1551664468825639
+2024-11-30 19:03:37,438 - INFO - Successfully processed ad 3810306719208323
+2024-11-30 19:03:37,508 - INFO - Successfully processed ad 924717059235439
+2024-11-30 19:03:38,939 - INFO - Successfully processed ad 539277882281285
+2024-11-30 19:03:40,809 - INFO - Successfully processed ad 889601543286900
+2024-11-30 19:03:41,499 - INFO - Successfully processed ad 557604110392871
+2024-11-30 19:03:42,326 - INFO - Successfully processed ad 884598480552277
+2024-11-30 19:03:42,380 - INFO - Successfully processed ad 992810739531453
+2024-11-30 19:03:43,063 - INFO - Successfully processed ad 1205923177168461
+2024-11-30 19:03:44,009 - INFO - Successfully processed ad 2252869808418948
+2024-11-30 19:03:44,334 - INFO - Successfully processed ad 580250941054768
+2024-11-30 19:03:46,109 - INFO - Successfully processed ad 1517892218924770
+2024-11-30 19:03:46,609 - INFO - Successfully processed ad 1267675860939708
+2024-11-30 19:03:46,691 - INFO - Successfully processed ad 572535765367817
+2024-11-30 19:03:47,037 - INFO - Successfully processed ad 1118428286643213
+2024-11-30 19:03:48,112 - INFO - Successfully processed ad 3893448027598287
+2024-11-30 19:03:49,812 - INFO - Successfully processed ad 1098833928367867
+2024-11-30 19:03:50,459 - INFO - Successfully processed ad 581415000943629
+2024-11-30 19:03:50,983 - INFO - Successfully processed ad 925633439092773
+2024-11-30 19:03:51,865 - INFO - Successfully processed ad 453236837821057
+2024-11-30 19:03:52,726 - INFO - Successfully processed ad 1674562483439492
+2024-11-30 19:03:56,004 - INFO - Successfully processed ad 885034927154689
+2024-11-30 19:03:56,399 - INFO - Successfully processed ad 1556211045019020
+2024-11-30 19:03:56,485 - INFO - Successfully processed ad 458352563600468
+2024-11-30 19:03:56,607 - INFO - Successfully processed ad 1220621552349875
+2024-11-30 19:03:56,998 - INFO - Successfully processed ad 873046971577096
+2024-11-30 19:03:58,682 - INFO - Successfully processed ad 1130310645194385
+2024-11-30 19:03:59,578 - INFO - Successfully processed ad 1380816302896257
+2024-11-30 19:04:55,678 - INFO - Starting processing of 517 ads with 8 threads...
+2024-11-30 19:05:01,280 - INFO - Successfully processed ad 362792233522175
+2024-11-30 19:05:01,302 - INFO - Successfully processed ad 9515737678442617
+2024-11-30 19:05:03,888 - INFO - Successfully processed ad 970553078443769
+2024-11-30 19:05:04,679 - INFO - Successfully processed ad 1032187598679458
+2024-11-30 19:05:05,326 - INFO - Successfully processed ad 1294526935229404
+2024-11-30 19:05:05,365 - INFO - Successfully processed ad 569215805798224
+2024-11-30 19:05:05,385 - INFO - Successfully processed ad 2987748928057189
+2024-11-30 19:05:05,731 - INFO - Successfully processed ad 1288484149018085
+2024-11-30 19:05:09,417 - INFO - Successfully processed ad 1106803711113491
+2024-11-30 19:05:09,584 - INFO - Successfully processed ad 1606080077000792
+2024-11-30 19:05:11,233 - INFO - Successfully processed ad 1076590570793786
+2024-11-30 19:05:11,940 - INFO - Successfully processed ad 936673471712074
+2024-11-30 19:05:12,895 - INFO - Successfully processed ad 579099107818696
+2024-11-30 19:05:13,277 - INFO - Successfully processed ad 1251918509393554
+2024-11-30 19:05:13,329 - INFO - Successfully processed ad 555150543924818
+2024-11-30 19:05:15,791 - INFO - Successfully processed ad 967965638717422
+2024-11-30 19:05:16,415 - INFO - Successfully processed ad 593615980022376
+2024-11-30 19:05:16,893 - INFO - Successfully processed ad 435262922971000
+2024-11-30 19:05:17,933 - INFO - Successfully processed ad 1618099118787045
+2024-11-30 19:05:18,874 - INFO - Successfully processed ad 1734603870433438
+2024-11-30 19:05:20,204 - INFO - Successfully processed ad 1103675518078138
+2024-11-30 19:05:21,777 - INFO - Successfully processed ad 615181904175327
+2024-11-30 19:05:22,745 - INFO - Successfully processed ad 1551664468825639
+2024-11-30 19:05:22,949 - INFO - Successfully processed ad 618360727180200
+2024-11-30 19:05:23,371 - INFO - Successfully processed ad 1125773355569863
+2024-11-30 19:05:23,745 - INFO - Successfully processed ad 864861295517511
+2024-11-30 19:05:24,762 - INFO - Successfully processed ad 3810306719208323
+2024-11-30 19:05:25,652 - INFO - Successfully processed ad 578490801208263
+2024-11-30 19:05:26,514 - INFO - Successfully processed ad 924717059235439
+2024-11-30 19:05:27,474 - INFO - Successfully processed ad 889601543286900
+2024-11-30 19:05:27,480 - INFO - Successfully processed ad 557604110392871
+2024-11-30 19:05:31,269 - INFO - Successfully processed ad 1205923177168461
+2024-11-30 19:05:31,658 - INFO - Successfully processed ad 539277882281285
+2024-11-30 19:05:31,848 - INFO - Successfully processed ad 2252869808418948
+2024-11-30 19:05:32,453 - INFO - Successfully processed ad 992810739531453
+2024-11-30 19:05:33,135 - INFO - Successfully processed ad 884598480552277
+2024-11-30 19:05:34,065 - INFO - Successfully processed ad 580250941054768
+2024-11-30 19:05:34,965 - INFO - Successfully processed ad 1267675860939708
+2024-11-30 19:05:36,861 - INFO - Successfully processed ad 572535765367817
+2024-11-30 19:05:37,020 - INFO - Successfully processed ad 1517892218924770
+2024-11-30 19:05:37,399 - INFO - Successfully processed ad 1118428286643213
+2024-11-30 19:05:38,639 - INFO - Successfully processed ad 3893448027598287
+2024-11-30 19:05:39,548 - INFO - Successfully processed ad 581415000943629
+2024-11-30 19:05:39,775 - INFO - Successfully processed ad 1098833928367867
+2024-11-30 19:05:41,505 - INFO - Successfully processed ad 925633439092773
+2024-11-30 19:05:42,271 - INFO - Successfully processed ad 453236837821057
+2024-11-30 19:05:42,740 - INFO - Successfully processed ad 1674562483439492
+2024-11-30 19:05:45,555 - INFO - Successfully processed ad 458352563600468
+2024-11-30 19:05:45,734 - INFO - Successfully processed ad 873046971577096
+2024-11-30 19:05:45,926 - INFO - Successfully processed ad 885034927154689
+2024-11-30 19:05:46,826 - INFO - Successfully processed ad 1556211045019020
+2024-11-30 19:05:47,202 - INFO - Successfully processed ad 1220621552349875
+2024-11-30 19:05:49,927 - INFO - Successfully processed ad 1130310645194385
+2024-11-30 19:05:49,960 - INFO - Successfully processed ad 1380816302896257
+2024-11-30 19:05:50,411 - INFO - Successfully processed ad 3649216352036399
+2024-11-30 19:05:50,837 - INFO - Successfully processed ad 1257084132223874
+2024-11-30 19:05:52,794 - INFO - Successfully processed ad 469467039491354
+2024-11-30 19:05:53,593 - INFO - Successfully processed ad 912542110533708
+2024-11-30 19:05:53,912 - INFO - Successfully processed ad 607073918491384
+2024-11-30 19:05:55,183 - INFO - Successfully processed ad 1000778341856558
+2024-11-30 19:05:55,850 - INFO - Successfully processed ad 1741417963301942
+2024-11-30 19:05:55,980 - INFO - Successfully processed ad 1295415661810762
+2024-11-30 19:05:56,553 - INFO - Successfully processed ad 1824225495050389
+2024-11-30 19:05:57,938 - INFO - Successfully processed ad 1775434133288283
+2024-11-30 19:06:01,899 - INFO - Successfully processed ad 594489202936439
+2024-11-30 19:06:02,305 - INFO - Successfully processed ad 1781215229299135
+2024-11-30 19:06:02,444 - INFO - Successfully processed ad 594468426393957
+2024-11-30 19:06:02,670 - INFO - Successfully processed ad 563009356458380
+2024-11-30 19:06:02,737 - INFO - Successfully processed ad 930934385156486
+2024-11-30 19:06:03,017 - INFO - Successfully processed ad 1114646240320099
+2024-11-30 19:06:03,589 - INFO - Successfully processed ad 1199837111083382
+2024-11-30 19:06:07,373 - INFO - Successfully processed ad 1262305838438880
+2024-11-30 19:06:08,101 - INFO - Successfully processed ad 572546098704500
+2024-11-30 19:06:08,234 - INFO - Successfully processed ad 472663805845598
+2024-11-30 19:06:09,407 - INFO - Successfully processed ad 1087530292633922
+2024-11-30 19:06:09,621 - INFO - Successfully processed ad 570608735909461
+2024-11-30 19:06:10,503 - INFO - Successfully processed ad 4137407953158994
+2024-11-30 19:06:11,159 - INFO - Successfully processed ad 1522939945077241
+2024-11-30 19:06:12,847 - INFO - Successfully processed ad 931203648367320
+2024-11-30 19:06:14,948 - INFO - Successfully processed ad 3942630265974085
+2024-11-30 19:06:15,002 - INFO - Successfully processed ad 1647449636164647
+2024-11-30 19:06:15,832 - INFO - Successfully processed ad 3764787077089480
+2024-11-30 19:06:16,920 - INFO - Successfully processed ad 2099866653743220
+2024-11-30 19:06:16,942 - INFO - Successfully processed ad 542786071898985
+2024-11-30 19:06:17,929 - INFO - Successfully processed ad 452313740908308
+2024-11-30 19:06:19,954 - INFO - Successfully processed ad 3992315094428233
+2024-11-30 19:06:21,116 - INFO - Successfully processed ad 1289211355428130
+2024-11-30 19:06:22,351 - INFO - Successfully processed ad 567876142503416
+2024-11-30 19:06:23,197 - INFO - Successfully processed ad 946373124019157
+2024-11-30 19:06:25,122 - INFO - Successfully processed ad 544331185048380
+2024-11-30 19:06:26,754 - INFO - Successfully processed ad 1524370898242614
+2024-11-30 19:06:27,134 - INFO - Successfully processed ad 1090600686123484
+2024-11-30 19:06:27,720 - INFO - Successfully processed ad 937272021083576
+2024-11-30 19:06:27,931 - INFO - Successfully processed ad 392299580540497
+2024-11-30 19:06:29,368 - INFO - Successfully processed ad 865550199077924
+2024-11-30 19:06:30,400 - INFO - Successfully processed ad 598402542630899
+2024-11-30 19:06:32,000 - INFO - Successfully processed ad 1631706347773457
+2024-11-30 19:06:33,529 - INFO - Successfully processed ad 2968688483294798
+2024-11-30 19:06:33,904 - INFO - Successfully processed ad 1118190939907017
+2024-11-30 19:06:34,335 - INFO - Successfully processed ad 1335064637876078
+2024-11-30 19:06:35,375 - INFO - Successfully processed ad 883821670585447
+2024-11-30 19:06:35,454 - INFO - Successfully processed ad 588550683761248
+2024-11-30 19:06:36,909 - INFO - Successfully processed ad 2632021697008160
+2024-11-30 19:06:39,017 - INFO - Successfully processed ad 876061084611181
+2024-11-30 19:06:39,091 - INFO - Successfully processed ad 920158863514688
+2024-11-30 19:06:39,308 - INFO - Successfully processed ad 497160306678863
+2024-11-30 19:06:40,427 - INFO - Successfully processed ad 862108969407622
+2024-11-30 19:06:42,199 - INFO - Successfully processed ad 1145680126976634
+2024-11-30 19:06:43,767 - INFO - Successfully processed ad 1099575915048182
+2024-11-30 19:06:43,814 - INFO - Successfully processed ad 928392119243935
+2024-11-30 19:06:44,035 - INFO - Successfully processed ad 1646409259275642
+2024-11-30 19:06:46,318 - INFO - Successfully processed ad 467138062648657
+2024-11-30 19:06:46,440 - INFO - Successfully processed ad 1137561861306252
+2024-11-30 19:06:46,510 - INFO - Successfully processed ad 1261718045026800
+2024-11-30 19:06:48,670 - INFO - Successfully processed ad 1300565437767751
+2024-11-30 19:06:49,289 - INFO - Successfully processed ad 946591617530257
+2024-11-30 19:06:49,808 - INFO - Successfully processed ad 587821263743282
+2024-11-30 19:08:48,996 - INFO - Starting processing of 517 ads with 8 threads...
+2024-11-30 19:08:53,909 - INFO - Successfully processed ad 362792233522175
+2024-11-30 19:08:56,283 - INFO - Successfully processed ad 970553078443769
+2024-11-30 19:08:56,535 - INFO - Successfully processed ad 9515737678442617
+2024-11-30 19:08:57,008 - INFO - Successfully processed ad 1032187598679458
+2024-11-30 19:08:57,948 - INFO - Successfully processed ad 1294526935229404
+2024-11-30 19:08:58,566 - INFO - Successfully processed ad 2987748928057189
+2024-11-30 19:08:58,705 - INFO - Successfully processed ad 569215805798224
+2024-11-30 19:08:59,786 - INFO - Successfully processed ad 1288484149018085
+2024-11-30 19:09:02,928 - INFO - Successfully processed ad 1106803711113491
+2024-11-30 19:09:04,024 - INFO - Successfully processed ad 1076590570793786
+2024-11-30 19:09:04,248 - INFO - Successfully processed ad 1606080077000792
+2024-11-30 19:09:05,412 - INFO - Successfully processed ad 1251918509393554
+2024-11-30 19:09:05,850 - INFO - Successfully processed ad 579099107818696
+2024-11-30 19:09:05,927 - INFO - Successfully processed ad 936673471712074
+2024-11-30 19:09:06,537 - INFO - Successfully processed ad 555150543924818
+2024-11-30 19:09:08,438 - INFO - Successfully processed ad 593615980022376
+2024-11-30 19:09:09,670 - INFO - Successfully processed ad 1618099118787045
+2024-11-30 19:09:10,012 - INFO - Successfully processed ad 435262922971000
+2024-11-30 19:09:10,422 - INFO - Successfully processed ad 967965638717422
+2024-11-30 19:09:11,338 - INFO - Successfully processed ad 1734603870433438
+2024-11-30 19:09:13,383 - INFO - Successfully processed ad 1103675518078138
+2024-11-30 19:09:14,490 - INFO - Successfully processed ad 615181904175327
+2024-11-30 19:09:15,838 - INFO - Successfully processed ad 618360727180200
+2024-11-30 19:09:16,305 - INFO - Successfully processed ad 1551664468825639
+2024-11-30 19:09:16,919 - INFO - Successfully processed ad 864861295517511
+2024-11-30 19:09:17,192 - INFO - Successfully processed ad 1125773355569863
+2024-11-30 19:09:17,994 - INFO - Successfully processed ad 3810306719208323
+2024-11-30 19:09:18,005 - INFO - Successfully processed ad 578490801208263
+2024-11-30 19:09:20,128 - INFO - Successfully processed ad 924717059235439
+2024-11-30 19:09:20,327 - INFO - Successfully processed ad 889601543286900
+2024-11-30 19:09:21,713 - INFO - Successfully processed ad 557604110392871
+2024-11-30 19:09:24,931 - INFO - Successfully processed ad 992810739531453
+2024-11-30 19:09:25,086 - INFO - Successfully processed ad 539277882281285
+2024-11-30 19:09:25,876 - INFO - Successfully processed ad 2252869808418948
+2024-11-30 19:09:26,287 - INFO - Successfully processed ad 884598480552277
+2024-11-30 19:09:26,558 - INFO - Successfully processed ad 580250941054768
+2024-11-30 19:09:26,779 - INFO - Successfully processed ad 1205923177168461
+2024-11-30 19:09:27,398 - INFO - Successfully processed ad 1267675860939708
+2024-11-30 19:09:30,387 - INFO - Successfully processed ad 572535765367817
+2024-11-30 19:09:30,846 - INFO - Successfully processed ad 1517892218924770
+2024-11-30 19:09:31,360 - INFO - Successfully processed ad 1118428286643213
+2024-11-30 19:09:33,050 - INFO - Successfully processed ad 3893448027598287
+2024-11-30 19:09:33,883 - INFO - Successfully processed ad 581415000943629
+2024-11-30 19:09:34,335 - INFO - Successfully processed ad 1674562483439492
+2024-11-30 19:09:35,323 - INFO - Successfully processed ad 1098833928367867
+2024-11-30 19:09:35,350 - INFO - Successfully processed ad 925633439092773
+2024-11-30 19:09:36,420 - INFO - Successfully processed ad 453236837821057
+2024-11-30 19:09:39,958 - INFO - Successfully processed ad 458352563600468
+2024-11-30 19:09:40,003 - INFO - Successfully processed ad 885034927154689
+2024-11-30 19:09:40,218 - INFO - Successfully processed ad 873046971577096
+2024-11-30 19:09:40,634 - INFO - Successfully processed ad 1556211045019020
+2024-11-30 19:09:42,115 - INFO - Successfully processed ad 1220621552349875
+2024-11-30 19:09:43,078 - INFO - Successfully processed ad 1380816302896257
+2024-11-30 19:09:44,002 - INFO - Successfully processed ad 1257084132223874
+2024-11-30 19:09:44,778 - INFO - Successfully processed ad 1130310645194385
+2024-11-30 19:09:45,003 - INFO - Successfully processed ad 3649216352036399
+2024-11-30 19:09:47,765 - INFO - Successfully processed ad 912542110533708
+2024-11-30 19:09:47,803 - INFO - Successfully processed ad 1741417963301942
+2024-11-30 19:09:48,015 - INFO - Successfully processed ad 469467039491354
+2024-11-30 19:09:49,318 - INFO - Successfully processed ad 607073918491384
+2024-11-30 19:09:50,128 - INFO - Successfully processed ad 1000778341856558
+2024-11-30 19:09:50,277 - INFO - Successfully processed ad 1824225495050389
+2024-11-30 19:09:51,579 - INFO - Successfully processed ad 1295415661810762
+2024-11-30 19:09:54,050 - INFO - Successfully processed ad 1775434133288283
+2024-11-30 19:09:55,085 - INFO - Successfully processed ad 594489202936439
+2024-11-30 19:09:56,942 - INFO - Successfully processed ad 563009356458380
+2024-11-30 19:09:57,476 - INFO - Successfully processed ad 1199837111083382
+2024-11-30 19:09:57,486 - INFO - Successfully processed ad 1781215229299135
+2024-11-30 19:09:57,711 - INFO - Successfully processed ad 930934385156486
+2024-11-30 19:09:57,807 - INFO - Successfully processed ad 594468426393957
+2024-11-30 19:09:58,330 - INFO - Successfully processed ad 1114646240320099
+2024-11-30 19:10:02,961 - INFO - Successfully processed ad 1087530292633922
+2024-11-30 19:10:02,983 - INFO - Successfully processed ad 472663805845598
+2024-11-30 19:10:03,596 - INFO - Successfully processed ad 572546098704500
+2024-11-30 19:10:03,675 - INFO - Successfully processed ad 1262305838438880
+2024-11-30 19:10:03,732 - INFO - Successfully processed ad 4137407953158994
+2024-11-30 19:10:04,501 - INFO - Successfully processed ad 570608735909461
+2024-11-30 19:10:05,193 - INFO - Successfully processed ad 1522939945077241
+2024-11-30 19:10:08,219 - INFO - Successfully processed ad 931203648367320
+2024-11-30 19:10:09,065 - INFO - Successfully processed ad 3764787077089480
+2024-11-30 19:10:09,654 - INFO - Successfully processed ad 2099866653743220
+2024-11-30 19:10:10,397 - INFO - Successfully processed ad 1647449636164647
+2024-11-30 19:10:10,954 - INFO - Successfully processed ad 3942630265974085
+2024-11-30 19:10:12,740 - INFO - Successfully processed ad 3992315094428233
+2024-11-30 19:10:13,342 - INFO - Successfully processed ad 452313740908308
+2024-11-30 19:10:13,511 - INFO - Successfully processed ad 542786071898985
+2024-11-30 19:10:16,044 - INFO - Successfully processed ad 1289211355428130
+2024-11-30 19:10:16,324 - INFO - Successfully processed ad 544331185048380
+2024-11-30 19:10:16,710 - INFO - Successfully processed ad 567876142503416
+2024-11-30 19:10:17,257 - INFO - Successfully processed ad 946373124019157
+2024-11-30 19:10:19,487 - INFO - Successfully processed ad 1524370898242614
+2024-11-30 19:10:21,808 - INFO - Successfully processed ad 1090600686123484
+2024-11-30 19:10:22,219 - INFO - Successfully processed ad 598402542630899
+2024-11-30 19:10:23,240 - INFO - Successfully processed ad 392299580540497
+2024-11-30 19:10:23,535 - INFO - Successfully processed ad 937272021083576
+2024-11-30 19:10:23,590 - INFO - Successfully processed ad 865550199077924
+2024-11-30 19:10:24,124 - INFO - Successfully processed ad 1631706347773457
+2024-11-30 19:10:25,208 - INFO - Successfully processed ad 1118190939907017
+2024-11-30 19:10:26,237 - INFO - Successfully processed ad 1335064637876078
+2024-11-30 19:10:28,213 - INFO - Successfully processed ad 2968688483294798
+2024-11-30 19:10:30,042 - INFO - Successfully processed ad 876061084611181
+2024-11-30 19:10:30,648 - INFO - Successfully processed ad 2632021697008160
+2024-11-30 19:10:30,950 - INFO - Successfully processed ad 588550683761248
+2024-11-30 19:10:31,145 - INFO - Successfully processed ad 883821670585447
+2024-11-30 19:10:31,334 - INFO - Successfully processed ad 497160306678863
+2024-11-30 19:10:32,267 - INFO - Successfully processed ad 862108969407622
+2024-11-30 19:10:33,877 - INFO - Successfully processed ad 920158863514688
+2024-11-30 19:10:36,369 - INFO - Successfully processed ad 928392119243935
+2024-11-30 19:10:36,846 - INFO - Successfully processed ad 1646409259275642
+2024-11-30 19:10:37,415 - INFO - Successfully processed ad 467138062648657
+2024-11-30 19:10:37,581 - INFO - Successfully processed ad 1145680126976634
+2024-11-30 19:10:37,698 - INFO - Successfully processed ad 1099575915048182
+2024-11-30 19:10:38,347 - INFO - Successfully processed ad 1137561861306252
+2024-11-30 19:10:40,816 - INFO - Successfully processed ad 1261718045026800
+2024-11-30 19:10:41,497 - INFO - Successfully processed ad 1300565437767751
+2024-11-30 19:10:41,958 - INFO - Successfully processed ad 946591617530257
+2024-11-30 19:10:43,062 - INFO - Successfully processed ad 1665040587725701
+2024-11-30 19:10:43,933 - INFO - Successfully processed ad 1254082252302541
+2024-11-30 19:10:44,351 - INFO - Successfully processed ad 2325791844453782
+2024-11-30 19:10:46,813 - INFO - Successfully processed ad 587821263743282
+2024-11-30 19:10:47,017 - INFO - Successfully processed ad 1923042014830768
+2024-11-30 19:10:49,944 - INFO - Successfully processed ad 786314463636029
+2024-11-30 19:10:50,701 - INFO - Successfully processed ad 875948338037913
+2024-11-30 19:10:50,731 - INFO - Successfully processed ad 4123748011229965
+2024-11-30 19:10:50,767 - INFO - Successfully processed ad 890958233105596
+2024-11-30 19:10:51,385 - INFO - Successfully processed ad 889472632963010
+2024-11-30 19:10:52,917 - INFO - Successfully processed ad 435012952985112
+2024-11-30 19:10:53,206 - INFO - Successfully processed ad 3944305055814200
+2024-11-30 19:10:53,272 - INFO - Successfully processed ad 601536382315360
+2024-11-30 19:10:54,887 - INFO - Successfully processed ad 1244156820201582
+2024-11-30 19:10:54,907 - INFO - Successfully processed ad 1113515196939145
+2024-11-30 19:10:57,194 - INFO - Successfully processed ad 1279326216711414
+2024-11-30 19:10:58,892 - INFO - Successfully processed ad 2898751980281073
+2024-11-30 19:11:00,339 - INFO - Successfully processed ad 1326594138703691
+2024-11-30 19:11:01,161 - INFO - Successfully processed ad 472301982091367
+2024-11-30 19:11:01,224 - INFO - Successfully processed ad 1014236510508683
+2024-11-30 19:11:01,316 - INFO - Successfully processed ad 885891260305771
+2024-11-30 19:11:02,408 - INFO - Successfully processed ad 495828770135590
+2024-11-30 19:11:02,590 - INFO - Successfully processed ad 1242886000311327
+2024-11-30 19:11:03,665 - INFO - Successfully processed ad 1800425037446048
+2024-11-30 19:11:05,007 - INFO - Successfully processed ad 853336236997296
+2024-11-30 19:11:07,315 - INFO - Successfully processed ad 1080442840296479
+2024-11-30 19:11:07,323 - INFO - Successfully processed ad 944843104206875
+2024-11-30 19:11:07,777 - INFO - Successfully processed ad 1043264764266897
+2024-11-30 19:11:08,569 - INFO - Successfully processed ad 3530505243913692
+2024-11-30 19:11:09,836 - INFO - Successfully processed ad 2308499799504251
+2024-11-30 19:11:09,929 - INFO - Successfully processed ad 2366547817054237
+2024-11-30 19:11:11,210 - INFO - Successfully processed ad 1114621856207994
+2024-11-30 19:11:11,848 - INFO - Successfully processed ad 559325903408021
+2024-11-30 19:11:12,742 - INFO - Successfully processed ad 1289488752083021
+2024-11-30 19:11:15,895 - INFO - Successfully processed ad 1588909165353560
+2024-11-30 19:11:17,738 - INFO - Successfully processed ad 1304837790688838
+2024-11-30 19:11:18,434 - INFO - Successfully processed ad 3916611841960053
+2024-11-30 19:11:18,890 - INFO - Successfully processed ad 486555060504441
+2024-11-30 19:11:19,678 - INFO - Successfully processed ad 927513996021099
+2024-11-30 19:11:19,854 - INFO - Successfully processed ad 456549750804666
+2024-11-30 19:11:20,057 - INFO - Successfully processed ad 1271996963928121
+2024-11-30 19:11:20,931 - INFO - Successfully processed ad 584385034149116
+2024-11-30 19:11:22,460 - INFO - Successfully processed ad 1258668132017843
+2024-11-30 19:11:25,622 - INFO - Successfully processed ad 1525524132172391
+2024-11-30 19:11:25,977 - INFO - Successfully processed ad 620144230341700
+2024-11-30 19:11:26,074 - INFO - Successfully processed ad 531685073178199
+2024-11-30 19:11:26,237 - INFO - Successfully processed ad 1260800031733382
+2024-11-30 19:11:26,409 - INFO - Successfully processed ad 2259221664463522
+2024-11-30 19:11:26,973 - INFO - Successfully processed ad 932185282168985
+2024-11-30 19:11:27,095 - INFO - Successfully processed ad 3882595892015237
+2024-11-30 19:11:27,973 - INFO - Successfully processed ad 993705712527586
+2024-11-30 19:11:31,659 - INFO - Successfully processed ad 490076993441008
+2024-11-30 19:11:32,313 - INFO - Successfully processed ad 878566400764128
+2024-11-30 19:11:33,125 - INFO - Successfully processed ad 8961767707222453
+2024-11-30 19:11:33,386 - INFO - Successfully processed ad 543774711900182
+2024-11-30 19:11:33,886 - INFO - Successfully processed ad 1244522120134728
+2024-11-30 19:11:34,056 - INFO - Successfully processed ad 557812403852836
+2024-11-30 19:11:34,897 - INFO - Successfully processed ad 1221511728912592
+2024-11-30 19:11:35,717 - INFO - Successfully processed ad 1432260947732240
+2024-11-30 19:11:37,459 - INFO - Successfully processed ad 944738014199665
+2024-11-30 19:11:38,706 - INFO - Successfully processed ad 1648066156116529
+2024-11-30 19:11:39,906 - INFO - Successfully processed ad 1752439102189695
+2024-11-30 19:11:40,478 - INFO - Successfully processed ad 557103763693340
+2024-11-30 19:11:40,574 - INFO - Successfully processed ad 2571686593020311
+2024-11-30 19:11:40,789 - INFO - Successfully processed ad 1088858292793978
+2024-11-30 19:11:42,070 - INFO - Successfully processed ad 1085063749553354
+2024-11-30 19:11:42,732 - INFO - Successfully processed ad 1305659353909916
+2024-11-30 19:11:43,781 - INFO - Successfully processed ad 928512272563505
+2024-11-30 19:11:46,275 - INFO - Successfully processed ad 1124584082386127
+2024-11-30 19:11:46,922 - INFO - Successfully processed ad 499403779084639
+2024-11-30 19:11:48,001 - INFO - Successfully processed ad 603192799038158
+2024-11-30 19:11:48,279 - INFO - Successfully processed ad 1263155711687281
+2024-11-30 19:11:48,570 - INFO - Successfully processed ad 606719112020297
+2024-11-30 19:11:49,403 - INFO - Successfully processed ad 498128496608285
+2024-11-30 19:11:51,282 - INFO - Successfully processed ad 587200213885590
+2024-11-30 19:11:51,325 - INFO - Successfully processed ad 509034284929292
+2024-11-30 19:11:51,902 - INFO - Successfully processed ad 877796404337837
+2024-11-30 19:11:53,145 - INFO - Successfully processed ad 1139688567574885
+2024-11-30 19:11:53,166 - INFO - Successfully processed ad 919869826755185
+2024-11-30 19:11:53,965 - INFO - Successfully processed ad 1530626734324190
+2024-11-30 19:11:54,716 - INFO - Successfully processed ad 1645924652992923
+2024-11-30 19:11:56,390 - INFO - Successfully processed ad 2121783591655239
+2024-11-30 19:11:57,750 - INFO - Successfully processed ad 1267402787641911
+2024-11-30 19:11:58,041 - INFO - Successfully processed ad 1101485591385015
+2024-11-30 19:11:58,591 - INFO - Successfully processed ad 1120855423004477
+2024-11-30 19:11:59,640 - INFO - Successfully processed ad 1607833739939960
+2024-11-30 19:12:00,930 - INFO - Successfully processed ad 920139606746512
+2024-11-30 19:12:01,348 - INFO - Successfully processed ad 935636121792934
+2024-11-30 19:12:01,635 - INFO - Successfully processed ad 1618555825727879
+2024-11-30 19:12:02,456 - INFO - Successfully processed ad 423394820841845
+2024-11-30 19:12:04,073 - INFO - Successfully processed ad 447999341393846
+2024-11-30 19:12:05,160 - INFO - Successfully processed ad 1135929967963034
+2024-11-30 19:12:06,174 - INFO - Successfully processed ad 1090345325891072
+2024-11-30 19:12:07,782 - INFO - Successfully processed ad 1120849286226912
+2024-11-30 19:12:07,939 - INFO - Successfully processed ad 891118529836846
+2024-11-30 19:12:08,562 - INFO - Successfully processed ad 431026766749165
+2024-11-30 19:12:08,659 - INFO - Successfully processed ad 583730777346361
+2024-11-30 19:12:09,448 - INFO - Successfully processed ad 1095337025644908
+2024-11-30 19:12:11,085 - INFO - Successfully processed ad 1090316035925677
+2024-11-30 19:12:13,003 - INFO - Successfully processed ad 1219440599140823
+2024-11-30 19:12:13,253 - INFO - Successfully processed ad 568292986138572
+2024-11-30 19:12:14,446 - INFO - Successfully processed ad 1109631394503493
+2024-11-30 19:12:14,682 - INFO - Successfully processed ad 588587383760559
+2024-11-30 19:12:14,967 - INFO - Successfully processed ad 1512863972764018
+2024-11-30 19:12:15,766 - INFO - Successfully processed ad 1133970618342201
+2024-11-30 19:12:16,192 - INFO - Successfully processed ad 941584470896784
+2024-11-30 19:12:16,232 - INFO - Successfully processed ad 2775061332672921
+2024-11-30 19:13:15,486 - INFO - Starting processing of 517 ads with 8 threads...
+2024-11-30 19:13:21,929 - INFO - Successfully processed ad 9515737678442617
+2024-11-30 19:13:22,863 - INFO - Successfully processed ad 362792233522175
+2024-11-30 19:13:24,257 - INFO - Successfully processed ad 2987748928057189
+2024-11-30 19:13:24,318 - INFO - Successfully processed ad 1294526935229404
+2024-11-30 19:13:25,734 - INFO - Successfully processed ad 1032187598679458
+2024-11-30 19:13:25,796 - INFO - Successfully processed ad 569215805798224
+2024-11-30 19:13:26,039 - INFO - Successfully processed ad 1288484149018085
+2024-11-30 19:13:26,042 - INFO - Successfully processed ad 970553078443769
+2024-11-30 19:13:30,953 - INFO - Successfully processed ad 1606080077000792
+2024-11-30 19:13:32,221 - INFO - Successfully processed ad 1076590570793786
+2024-11-30 19:13:32,361 - INFO - Successfully processed ad 936673471712074
+2024-11-30 19:13:32,405 - INFO - Successfully processed ad 1106803711113491
+2024-11-30 19:13:33,589 - INFO - Successfully processed ad 1251918509393554
+2024-11-30 19:13:35,002 - INFO - Successfully processed ad 555150543924818
+2024-11-30 19:13:35,616 - INFO - Successfully processed ad 593615980022376
+2024-11-30 19:13:36,814 - INFO - Successfully processed ad 579099107818696
+2024-11-30 19:13:38,364 - INFO - Successfully processed ad 435262922971000
+2024-11-30 19:13:38,792 - INFO - Successfully processed ad 1618099118787045
+2024-11-30 19:13:39,261 - INFO - Successfully processed ad 967965638717422
+2024-11-30 19:13:41,019 - INFO - Successfully processed ad 615181904175327
+2024-11-30 19:13:41,096 - INFO - Successfully processed ad 1734603870433438
+2024-11-30 19:13:43,825 - INFO - Successfully processed ad 1103675518078138
+2024-11-30 19:13:45,290 - INFO - Successfully processed ad 1551664468825639
+2024-11-30 19:13:45,532 - INFO - Successfully processed ad 864861295517511
+2024-11-30 19:13:46,759 - INFO - Successfully processed ad 3810306719208323
+2024-11-30 19:13:46,825 - INFO - Successfully processed ad 578490801208263
+2024-11-30 19:13:47,749 - INFO - Successfully processed ad 618360727180200
+2024-11-30 19:13:48,669 - INFO - Successfully processed ad 889601543286900
+2024-11-30 19:13:49,544 - INFO - Successfully processed ad 1125773355569863
+2024-11-30 19:13:50,990 - INFO - Successfully processed ad 557604110392871
+2024-11-30 19:13:51,237 - INFO - Successfully processed ad 924717059235439
+2024-11-30 19:13:54,230 - INFO - Successfully processed ad 539277882281285
+2024-11-30 19:13:54,630 - INFO - Successfully processed ad 2252869808418948
+2024-11-30 19:13:55,811 - INFO - Successfully processed ad 884598480552277
+2024-11-30 19:13:55,825 - INFO - Successfully processed ad 992810739531453
+2024-11-30 19:13:56,253 - INFO - Successfully processed ad 580250941054768
+2024-11-30 19:13:57,281 - INFO - Successfully processed ad 1205923177168461
+2024-11-30 19:13:58,417 - INFO - Successfully processed ad 1267675860939708
+2024-11-30 19:14:00,109 - INFO - Successfully processed ad 572535765367817
+2024-11-30 19:14:02,449 - INFO - Successfully processed ad 3893448027598287
+2024-11-30 19:14:02,459 - INFO - Successfully processed ad 1517892218924770
+2024-11-30 19:14:03,053 - INFO - Successfully processed ad 1098833928367867
+2024-11-30 19:14:03,470 - INFO - Successfully processed ad 581415000943629
+2024-11-30 19:14:03,960 - INFO - Successfully processed ad 1118428286643213
+2024-11-30 19:14:04,578 - INFO - Successfully processed ad 925633439092773
+2024-11-30 19:14:06,017 - INFO - Successfully processed ad 453236837821057
+2024-11-30 19:14:06,099 - INFO - Successfully processed ad 1674562483439492
+2024-11-30 19:14:08,967 - INFO - Successfully processed ad 885034927154689
+2024-11-30 19:14:09,476 - INFO - Successfully processed ad 873046971577096
+2024-11-30 19:14:11,488 - INFO - Successfully processed ad 1220621552349875
+2024-11-30 19:14:12,096 - INFO - Successfully processed ad 1556211045019020
+2024-11-30 19:14:12,588 - INFO - Successfully processed ad 458352563600468
+2024-11-30 19:14:13,163 - INFO - Successfully processed ad 1380816302896257
+2024-11-30 19:14:13,298 - INFO - Successfully processed ad 3649216352036399
+2024-11-30 19:14:13,541 - INFO - Successfully processed ad 1130310645194385
+2024-11-30 19:14:15,071 - INFO - Successfully processed ad 1257084132223874
+2024-11-30 19:14:19,192 - INFO - Successfully processed ad 1741417963301942
+2024-11-30 19:14:19,502 - INFO - Successfully processed ad 469467039491354
+2024-11-30 19:14:19,562 - INFO - Successfully processed ad 607073918491384
+2024-11-30 19:14:20,733 - INFO - Successfully processed ad 1000778341856558
+2024-11-30 19:14:21,336 - INFO - Successfully processed ad 1824225495050389
+2024-11-30 19:14:21,856 - INFO - Successfully processed ad 912542110533708
+2024-11-30 19:14:21,959 - INFO - Successfully processed ad 1295415661810762
+2024-11-30 19:14:22,634 - INFO - Successfully processed ad 1775434133288283
+2024-11-30 19:14:27,287 - INFO - Successfully processed ad 594489202936439
+2024-11-30 19:14:28,296 - INFO - Successfully processed ad 563009356458380
+2024-11-30 19:14:28,414 - INFO - Successfully processed ad 930934385156486
+2024-11-30 19:14:28,441 - INFO - Successfully processed ad 1199837111083382
+2024-11-30 19:14:28,721 - INFO - Successfully processed ad 594468426393957
+2024-11-30 19:14:29,101 - INFO - Successfully processed ad 1114646240320099
+2024-11-30 19:14:30,452 - INFO - Successfully processed ad 1781215229299135
+2024-11-30 19:14:32,289 - INFO - Successfully processed ad 472663805845598
+2024-11-30 19:14:34,450 - INFO - Successfully processed ad 1262305838438880
+2024-11-30 19:14:34,864 - INFO - Successfully processed ad 572546098704500
+2024-11-30 19:14:35,593 - INFO - Successfully processed ad 570608735909461
+2024-11-30 19:14:36,328 - INFO - Successfully processed ad 1522939945077241
+2024-11-30 19:14:36,885 - INFO - Successfully processed ad 1647449636164647
+2024-11-30 19:14:37,532 - INFO - Successfully processed ad 931203648367320
+2024-11-30 19:14:37,562 - INFO - Successfully processed ad 1087530292633922
+2024-11-30 19:14:38,101 - INFO - Successfully processed ad 4137407953158994
+2024-11-30 19:14:41,214 - INFO - Successfully processed ad 3942630265974085
+2024-11-30 19:14:41,245 - INFO - Successfully processed ad 3764787077089480
+2024-11-30 19:14:42,772 - INFO - Successfully processed ad 2099866653743220
+2024-11-30 19:14:44,560 - INFO - Successfully processed ad 452313740908308
+2024-11-30 19:14:44,720 - INFO - Successfully processed ad 542786071898985
+2024-11-30 19:14:46,181 - INFO - Successfully processed ad 3992315094428233
+2024-11-30 19:14:46,190 - INFO - Successfully processed ad 1289211355428130
+2024-11-30 19:14:47,395 - INFO - Successfully processed ad 567876142503416
+2024-11-30 19:14:50,161 - INFO - Successfully processed ad 544331185048380
+2024-11-30 19:14:51,467 - INFO - Successfully processed ad 1524370898242614
+2024-11-30 19:14:51,811 - INFO - Successfully processed ad 946373124019157
+2024-11-30 19:14:52,755 - INFO - Successfully processed ad 1090600686123484
+2024-11-30 19:14:54,029 - INFO - Successfully processed ad 392299580540497
+2024-11-30 19:14:54,032 - INFO - Successfully processed ad 937272021083576
+2024-11-30 19:14:54,578 - INFO - Successfully processed ad 865550199077924
+2024-11-30 19:14:55,422 - INFO - Successfully processed ad 598402542630899
+2024-11-30 19:14:58,496 - INFO - Successfully processed ad 1631706347773457
+2024-11-30 19:14:59,094 - INFO - Successfully processed ad 1118190939907017
+2024-11-30 19:15:00,470 - INFO - Successfully processed ad 1335064637876078
+2024-11-30 19:15:00,670 - INFO - Successfully processed ad 883821670585447
+2024-11-30 19:15:00,830 - INFO - Successfully processed ad 2968688483294798
+2024-11-30 19:15:01,428 - INFO - Successfully processed ad 588550683761248
+2024-11-30 19:15:01,485 - INFO - Successfully processed ad 2632021697008160
+2024-11-30 19:15:04,187 - INFO - Successfully processed ad 862108969407622
+2024-11-30 19:15:05,667 - INFO - Successfully processed ad 876061084611181
+2024-11-30 19:15:05,851 - INFO - Successfully processed ad 497160306678863
+2024-11-30 19:15:05,983 - INFO - Successfully processed ad 920158863514688
+2024-11-30 19:15:06,915 - INFO - Successfully processed ad 1145680126976634
+2024-11-30 19:15:08,384 - INFO - Successfully processed ad 928392119243935
+2024-11-30 19:15:09,089 - INFO - Successfully processed ad 1099575915048182
+2024-11-30 19:15:09,146 - INFO - Successfully processed ad 1646409259275642
+2024-11-30 19:15:11,346 - INFO - Successfully processed ad 467138062648657
+2024-11-30 19:15:12,694 - INFO - Successfully processed ad 1261718045026800
+2024-11-30 19:15:13,124 - INFO - Successfully processed ad 1137561861306252
+2024-11-30 19:15:14,624 - INFO - Successfully processed ad 946591617530257
+2024-11-30 19:15:15,529 - INFO - Successfully processed ad 1300565437767751
+2024-11-30 19:15:16,456 - INFO - Successfully processed ad 587821263743282
+2024-11-30 19:15:17,141 - INFO - Successfully processed ad 2325791844453782
+2024-11-30 19:15:18,333 - INFO - Successfully processed ad 1665040587725701
+2024-11-30 19:15:18,994 - INFO - Successfully processed ad 1923042014830768
+2024-11-30 19:15:20,930 - INFO - Successfully processed ad 1254082252302541
+2024-11-30 19:15:22,626 - INFO - Successfully processed ad 786314463636029
+2024-11-30 19:15:23,243 - INFO - Successfully processed ad 875948338037913
+2024-11-30 19:15:24,467 - INFO - Successfully processed ad 890958233105596
+2024-11-30 19:15:24,474 - INFO - Successfully processed ad 4123748011229965
+2024-11-30 19:15:25,171 - INFO - Successfully processed ad 3944305055814200
+2024-11-30 19:15:25,629 - INFO - Successfully processed ad 435012952985112
+2024-11-30 19:15:25,926 - INFO - Successfully processed ad 601536382315360
+2024-11-30 19:15:28,207 - INFO - Successfully processed ad 889472632963010
+2024-11-30 19:15:30,080 - INFO - Successfully processed ad 1113515196939145
+2024-11-30 19:15:31,454 - INFO - Successfully processed ad 1244156820201582
+2024-11-30 19:15:31,834 - INFO - Successfully processed ad 1279326216711414
+2024-11-30 19:15:32,476 - INFO - Successfully processed ad 1326594138703691
+2024-11-30 19:15:34,164 - INFO - Successfully processed ad 2898751980281073
+2024-11-30 19:15:34,580 - INFO - Successfully processed ad 472301982091367
+2024-11-30 19:15:34,722 - INFO - Successfully processed ad 885891260305771
+2024-11-30 19:15:36,113 - INFO - Successfully processed ad 1014236510508683
+2024-11-30 19:15:36,610 - INFO - Successfully processed ad 495828770135590
+2024-11-30 19:15:36,701 - INFO - Successfully processed ad 1800425037446048
+2024-11-30 19:15:39,632 - INFO - Successfully processed ad 1242886000311327
+2024-11-30 19:15:40,445 - INFO - Successfully processed ad 853336236997296
+2024-11-30 19:15:41,377 - INFO - Successfully processed ad 1043264764266897
+2024-11-30 19:15:42,341 - INFO - Successfully processed ad 1080442840296479
+2024-11-30 19:15:42,357 - INFO - Successfully processed ad 944843104206875
+2024-11-30 19:15:43,187 - INFO - Successfully processed ad 2366547817054237
+2024-11-30 19:15:43,676 - INFO - Successfully processed ad 3530505243913692
+2024-11-30 19:15:44,812 - INFO - Successfully processed ad 2308499799504251
+2024-11-30 19:15:47,708 - INFO - Successfully processed ad 1114621856207994
+2024-11-30 19:15:48,302 - INFO - Successfully processed ad 1289488752083021
+2024-11-30 19:15:49,038 - INFO - Successfully processed ad 559325903408021
+2024-11-30 19:15:50,653 - INFO - Successfully processed ad 1588909165353560
+2024-11-30 19:15:51,289 - INFO - Successfully processed ad 3916611841960053
+2024-11-30 19:15:51,806 - INFO - Successfully processed ad 1304837790688838
+2024-11-30 19:15:53,514 - INFO - Successfully processed ad 456549750804666
+2024-11-30 19:15:54,268 - INFO - Successfully processed ad 927513996021099
+2024-11-30 19:15:54,298 - INFO - Successfully processed ad 486555060504441
+2024-11-30 19:15:57,311 - INFO - Successfully processed ad 1271996963928121
+2024-11-30 19:15:58,017 - INFO - Successfully processed ad 584385034149116
+2024-11-30 19:15:58,110 - INFO - Successfully processed ad 1258668132017843
+2024-11-30 19:15:58,843 - INFO - Successfully processed ad 1525524132172391
+2024-11-30 19:15:59,589 - INFO - Successfully processed ad 932185282168985
+2024-11-30 19:15:59,902 - INFO - Successfully processed ad 2259221664463522
+2024-11-30 19:16:00,635 - INFO - Successfully processed ad 1260800031733382
+2024-11-30 19:16:01,487 - INFO - Successfully processed ad 531685073178199
+2024-11-30 19:16:02,373 - INFO - Successfully processed ad 3882595892015237
+2024-11-30 19:16:04,413 - INFO - Successfully processed ad 620144230341700
+2024-11-30 19:16:04,789 - INFO - Successfully processed ad 993705712527586
+2024-11-30 19:16:06,144 - INFO - Successfully processed ad 1244522120134728
+2024-11-30 19:16:06,403 - INFO - Successfully processed ad 543774711900182
+2024-11-30 19:16:07,351 - INFO - Successfully processed ad 8961767707222453
+2024-11-30 19:16:07,873 - INFO - Successfully processed ad 878566400764128
+2024-11-30 19:16:07,921 - INFO - Successfully processed ad 1221511728912592
+2024-11-30 19:16:08,101 - INFO - Successfully processed ad 557812403852836
+2024-11-30 19:16:09,062 - INFO - Successfully processed ad 490076993441008
+2024-11-30 19:16:11,199 - INFO - Successfully processed ad 944738014199665
+2024-11-30 19:16:11,988 - INFO - Successfully processed ad 1432260947732240
+2024-11-30 19:16:13,134 - INFO - Successfully processed ad 1648066156116529
+2024-11-30 19:16:13,904 - INFO - Successfully processed ad 557103763693340
+2024-11-30 19:16:15,030 - INFO - Successfully processed ad 1752439102189695
+2024-11-30 19:16:15,282 - INFO - Successfully processed ad 2571686593020311
+2024-11-30 19:16:15,874 - INFO - Successfully processed ad 1088858292793978
+2024-11-30 19:16:16,445 - INFO - Successfully processed ad 1085063749553354
+2024-11-30 19:16:18,261 - INFO - Successfully processed ad 1305659353909916
+2024-11-30 19:16:18,787 - INFO - Successfully processed ad 928512272563505
+2024-11-30 19:16:20,876 - INFO - Successfully processed ad 1124584082386127
+2024-11-30 19:16:21,354 - INFO - Successfully processed ad 499403779084639
+2024-11-30 19:16:22,550 - INFO - Successfully processed ad 1263155711687281
+2024-11-30 19:16:23,159 - INFO - Successfully processed ad 603192799038158
+2024-11-30 19:16:23,419 - INFO - Successfully processed ad 498128496608285
+2024-11-30 19:16:25,441 - INFO - Successfully processed ad 606719112020297
+2024-11-30 19:16:25,688 - INFO - Successfully processed ad 877796404337837
+2024-11-30 19:16:26,306 - INFO - Successfully processed ad 587200213885590
+2024-11-30 19:16:27,921 - INFO - Successfully processed ad 509034284929292
+2024-11-30 19:16:28,165 - INFO - Successfully processed ad 919869826755185
+2024-11-30 19:16:28,253 - INFO - Successfully processed ad 1530626734324190
+2024-11-30 19:16:28,401 - INFO - Successfully processed ad 1139688567574885
+2024-11-30 19:16:30,107 - INFO - Successfully processed ad 2121783591655239
+2024-11-30 19:16:30,141 - INFO - Successfully processed ad 1645924652992923
+2024-11-30 19:16:32,704 - INFO - Successfully processed ad 1101485591385015
+2024-11-30 19:16:33,461 - INFO - Successfully processed ad 1267402787641911
+2024-11-30 19:16:33,724 - INFO - Successfully processed ad 1607833739939960
+2024-11-30 19:16:35,347 - INFO - Successfully processed ad 1618555825727879
+2024-11-30 19:16:35,610 - INFO - Successfully processed ad 935636121792934
+2024-11-30 19:16:35,906 - INFO - Successfully processed ad 1120855423004477
+2024-11-30 19:16:36,922 - INFO - Successfully processed ad 920139606746512
+2024-11-30 19:16:38,445 - INFO - Successfully processed ad 447999341393846
+2024-11-30 19:16:39,680 - INFO - Successfully processed ad 423394820841845
+2024-11-30 19:16:41,352 - INFO - Successfully processed ad 1135929967963034
+2024-11-30 19:16:43,471 - INFO - Successfully processed ad 1090345325891072
+2024-11-30 19:16:43,610 - INFO - Successfully processed ad 891118529836846
+2024-11-30 19:16:44,939 - INFO - Successfully processed ad 1120849286226912
+2024-11-30 19:16:45,203 - INFO - Successfully processed ad 583730777346361
+2024-11-30 19:16:45,447 - INFO - Successfully processed ad 431026766749165
+2024-11-30 19:16:45,798 - INFO - Successfully processed ad 1095337025644908
+2024-11-30 19:16:46,588 - INFO - Successfully processed ad 1090316035925677
+2024-11-30 19:16:49,520 - INFO - Successfully processed ad 568292986138572
+2024-11-30 19:16:50,522 - INFO - Successfully processed ad 1109631394503493
+2024-11-30 19:16:50,587 - INFO - Successfully processed ad 1219440599140823
+2024-11-30 19:16:51,552 - INFO - Successfully processed ad 588587383760559
+2024-11-30 19:16:52,244 - INFO - Successfully processed ad 2775061332672921
+2024-11-30 19:16:52,558 - INFO - Successfully processed ad 1512863972764018
+2024-11-30 19:16:53,265 - INFO - Successfully processed ad 941584470896784
+2024-11-30 19:16:54,214 - INFO - Successfully processed ad 1133970618342201
+2024-11-30 19:16:57,023 - INFO - Successfully processed ad 1401036733852641
+2024-11-30 19:16:59,313 - INFO - Successfully processed ad 789982992533253
+2024-11-30 19:16:59,430 - INFO - Successfully processed ad 1112562726903906
+2024-11-30 19:17:00,625 - INFO - Successfully processed ad 2948803988603171
+2024-11-30 19:17:01,853 - INFO - Successfully processed ad 8674690519266687
+2024-11-30 19:17:02,011 - INFO - Successfully processed ad 2032887200488828
+2024-11-30 19:17:02,047 - INFO - Successfully processed ad 460612109841865
+2024-11-30 19:17:03,796 - INFO - Successfully processed ad 467703365924245
+2024-11-30 19:17:04,878 - INFO - Successfully processed ad 2723665604473614
+2024-11-30 19:17:04,990 - INFO - Successfully processed ad 1120928716120960
+2024-11-30 19:17:07,246 - INFO - Successfully processed ad 533481532845298
+2024-11-30 19:17:07,328 - INFO - Successfully processed ad 1121225122965365
+2024-11-30 19:17:07,588 - INFO - Successfully processed ad 1497507300910320
+2024-11-30 19:17:08,623 - INFO - Successfully processed ad 1995817070930630
+2024-11-30 19:17:09,296 - INFO - Successfully processed ad 615078284376981
+2024-11-30 19:17:12,047 - INFO - Successfully processed ad 386674257771104
+2024-11-30 19:17:12,170 - INFO - Successfully processed ad 1723851535114433
+2024-11-30 19:17:12,185 - INFO - Successfully processed ad 489518217471492
+2024-11-30 19:17:12,385 - INFO - Successfully processed ad 888762876437138
+2024-11-30 19:17:13,414 - INFO - Successfully processed ad 1138349474474550
+2024-11-30 19:17:16,173 - INFO - Successfully processed ad 465702052796693
+2024-11-30 19:17:16,217 - INFO - Successfully processed ad 3958530141049803
+2024-11-30 19:17:16,943 - INFO - Successfully processed ad 439880395442886
+2024-11-30 19:17:16,955 - INFO - Successfully processed ad 1085453249594392
+2024-11-30 19:17:17,357 - INFO - Successfully processed ad 1372085943774850
+2024-11-30 19:17:17,959 - INFO - Successfully processed ad 2299342510466202
+2024-11-30 19:17:20,064 - INFO - Successfully processed ad 518887677800234
+2024-11-30 19:17:22,327 - INFO - Successfully processed ad 503980579343231
+2024-11-30 19:17:23,519 - INFO - Successfully processed ad 3820236721597535
+2024-11-30 19:17:24,029 - INFO - Successfully processed ad 571327662183867
+2024-11-30 19:17:24,160 - INFO - Successfully processed ad 2779144615601838
+2024-11-30 19:17:24,383 - INFO - Successfully processed ad 1610310009840578
+2024-11-30 19:17:24,759 - INFO - Successfully processed ad 1070217091261255
+2024-11-30 19:17:24,805 - INFO - Successfully processed ad 751521740517043
+2024-11-30 19:17:26,698 - INFO - Successfully processed ad 574545801835138
+2024-11-30 19:17:29,931 - INFO - Successfully processed ad 485935913915547
+2024-11-30 19:17:30,837 - INFO - Successfully processed ad 457140753719233
+2024-11-30 19:17:31,487 - INFO - Successfully processed ad 550578607779672
+2024-11-30 19:17:31,553 - INFO - Successfully processed ad 496488463434666
+2024-11-30 19:17:31,880 - INFO - Successfully processed ad 591520273438555
+2024-11-30 19:17:32,397 - INFO - Successfully processed ad 559914940234682
+2024-11-30 19:17:32,647 - INFO - Successfully processed ad 1081578163661756
+2024-11-30 19:17:33,332 - INFO - Successfully processed ad 1774815166705025
+2024-11-30 19:17:35,670 - INFO - Successfully processed ad 453858320748955
+2024-11-30 19:17:36,239 - INFO - Successfully processed ad 3475859886055163
+2024-11-30 19:17:37,463 - INFO - Successfully processed ad 931873321677588
+2024-11-30 19:17:38,224 - INFO - Successfully processed ad 769255268715581
+2024-11-30 19:17:38,407 - INFO - Successfully processed ad 1128410958768393
+2024-11-30 19:17:41,197 - INFO - Successfully processed ad 1723789678472716
+2024-11-30 19:17:42,525 - INFO - Successfully processed ad 561393536849758
+2024-11-30 19:17:42,525 - INFO - Successfully processed ad 383031788155206
+2024-11-30 19:17:42,634 - INFO - Successfully processed ad 1601012080849479
+2024-11-30 19:17:45,737 - INFO - Successfully processed ad 3870108766578700
+2024-11-30 19:17:45,879 - INFO - Successfully processed ad 2558185481042152
+2024-11-30 19:17:46,307 - INFO - Successfully processed ad 427523277100495
+2024-11-30 19:17:47,088 - INFO - Successfully processed ad 919000556854153
+2024-11-30 19:17:49,885 - INFO - Successfully processed ad 585218097425254
+2024-11-30 19:17:49,992 - INFO - Successfully processed ad 1460906211256435
+2024-11-30 19:17:52,518 - INFO - Successfully processed ad 1298743991259471
+2024-11-30 19:17:53,537 - INFO - Successfully processed ad 1108912597473233
+2024-11-30 19:17:53,545 - INFO - Successfully processed ad 946445580660803
+2024-11-30 19:17:54,340 - INFO - Successfully processed ad 566512705960118
+2024-11-30 19:17:55,665 - INFO - Successfully processed ad 3869633213284210
+2024-11-30 19:17:55,763 - INFO - Successfully processed ad 8547083375402612
+2024-11-30 19:17:55,963 - INFO - Successfully processed ad 2234871730229952
+2024-11-30 19:17:57,054 - INFO - Successfully processed ad 1270220704180718
+2024-11-30 19:17:58,839 - INFO - Successfully processed ad 1159913115408336
+2024-11-30 19:18:00,292 - INFO - Successfully processed ad 502775732812107
+2024-11-30 19:18:00,467 - INFO - Successfully processed ad 8611361452318900
+2024-11-30 19:18:00,632 - INFO - Successfully processed ad 543310025281526
+2024-11-30 19:18:02,984 - INFO - Successfully processed ad 533146789549505
+2024-11-30 19:18:03,048 - INFO - Successfully processed ad 544653405387551
+2024-11-30 19:18:03,775 - INFO - Successfully processed ad 459003767224199
+2024-11-30 19:18:04,712 - INFO - Successfully processed ad 1312759263078017
+2024-11-30 19:18:05,053 - INFO - Successfully processed ad 1505707436783892
+2024-11-30 19:18:07,384 - INFO - Successfully processed ad 624919246526051
+2024-11-30 19:18:08,186 - INFO - Successfully processed ad 3707571656221444
+2024-11-30 19:18:08,368 - INFO - Successfully processed ad 1088204942541669
+2024-11-30 19:18:09,835 - INFO - Successfully processed ad 949234727252215
+2024-11-30 19:18:11,953 - INFO - Successfully processed ad 420683510976832
+2024-11-30 19:18:12,190 - INFO - Successfully processed ad 1977180832709415
+2024-11-30 19:18:13,218 - INFO - Successfully processed ad 876541257633872
+2024-11-30 19:18:14,979 - INFO - Successfully processed ad 3785882985075754
+2024-11-30 19:18:15,171 - INFO - Successfully processed ad 542177428693423
+2024-11-30 19:18:16,392 - INFO - Successfully processed ad 550794801120218
+2024-11-30 19:18:16,953 - INFO - Successfully processed ad 490813700029217
+2024-11-30 19:18:16,963 - ERROR - Error processing ad 456575244127974: 502 Server Error: Bad Gateway for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent?key=AIzaSyAZX7dmYkPoc-qh4wCVysPsgUyJgqYufE8
+2024-11-30 19:18:16,963 - ERROR - Response text: <!DOCTYPE html>
+<html lang=en>
+  <meta charset=utf-8>
+  <meta name=viewport content="initial-scale=1, minimum-scale=1, width=device-width">
+  <title>Error 502 (Server Error)!!1</title>
+  <style>
+    *{margin:0;padding:0}html,code{font:15px/22px arial,sans-serif}html{background:#fff;color:#222;padding:15px}body{margin:7% auto 0;max-width:390px;min-height:180px;padding:30px 0 15px}* > body{background:url(//www.google.com/images/errors/robot.png) 100% 5px no-repeat;padding-right:205px}p{margin:11px 0 22px;overflow:hidden}ins{color:#777;text-decoration:none}a img{border:0}@media screen and (max-width:772px){body{background:none;margin-top:0;max-width:none;padding-right:0}}#logo{background:url(//www.google.com/images/branding/googlelogo/1x/googlelogo_color_150x54dp.png) no-repeat;margin-left:-5px}@media only screen and (min-resolution:192dpi){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat 0% 0%/100% 100%;-moz-border-image:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) 0}}@media only screen and (-webkit-min-device-pixel-ratio:2){#logo{background:url(//www.google.com/images/branding/googlelogo/2x/googlelogo_color_150x54dp.png) no-repeat;-webkit-background-size:100% 100%}}#logo{display:inline-block;height:54px;width:150px}
+  </style>
+  <a href=//www.google.com/><span id=logo aria-label=Google></span></a>
+  <p><b>502.</b> <ins>That’s an error.</ins>
+  <p>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.  <ins>That’s all we know.</ins>
+
+2024-11-30 19:18:19,575 - INFO - Successfully processed ad 881142170865396
+2024-11-30 19:18:19,851 - INFO - Successfully processed ad 1784289802402651
+2024-11-30 19:18:19,967 - INFO - Successfully processed ad 1210400386734563
+2024-11-30 19:18:21,265 - INFO - Successfully processed ad 1226606971778404
+2024-11-30 19:18:21,404 - INFO - Successfully processed ad 1295517918131552
+2024-11-30 19:18:21,834 - INFO - Successfully processed ad 877769664566032
+2024-11-30 19:18:22,544 - INFO - Successfully processed ad 1744040569689415
+2024-11-30 19:18:26,572 - INFO - Successfully processed ad 386410467889298
+2024-11-30 19:18:26,999 - INFO - Successfully processed ad 1245080840049294
+2024-11-30 19:18:27,518 - INFO - Successfully processed ad 2178796235854689
+2024-11-30 19:18:29,077 - INFO - Successfully processed ad 9108703862515803
+2024-11-30 19:18:29,110 - INFO - Successfully processed ad 471883335845113
+2024-11-30 19:18:29,128 - INFO - Successfully processed ad 1101485344697801
+2024-11-30 19:18:29,967 - INFO - Successfully processed ad 913307383785120
+2024-11-30 19:18:31,902 - INFO - Successfully processed ad 588711773694614
+2024-11-30 19:18:32,305 - INFO - Successfully processed ad 1098683801963032
+2024-11-30 19:18:33,412 - INFO - Successfully processed ad 601336302317901
+2024-11-30 19:18:34,815 - INFO - Successfully processed ad 1252234892751479
+2024-11-30 19:18:35,424 - INFO - Successfully processed ad 1109396610785375
+2024-11-30 19:18:36,322 - INFO - Successfully processed ad 532144223143223
+2024-11-30 19:18:36,667 - INFO - Successfully processed ad 1500150454026774
+2024-11-30 19:18:38,358 - INFO - Successfully processed ad 1924264031390612
+2024-11-30 19:18:40,215 - INFO - Successfully processed ad 1668096840719489
+2024-11-30 19:18:40,369 - INFO - Successfully processed ad 936192708420591
+2024-11-30 19:18:41,157 - INFO - Successfully processed ad 2511869432349035
+2024-11-30 19:18:41,706 - INFO - Successfully processed ad 465465409901525
+2024-11-30 19:18:42,045 - INFO - Successfully processed ad 1281676142849091
+2024-11-30 19:18:42,496 - INFO - Successfully processed ad 1293619921766929
+2024-11-30 19:18:43,647 - INFO - Successfully processed ad 1012815314223652
+2024-11-30 19:18:44,894 - INFO - Successfully processed ad 437269222760475
+2024-11-30 19:18:47,120 - INFO - Successfully processed ad 1984903818703736
+2024-11-30 19:18:47,410 - INFO - Successfully processed ad 1081252570411419
+2024-11-30 19:18:47,587 - INFO - Successfully processed ad 9231434420250210
+2024-11-30 19:18:48,150 - INFO - Successfully processed ad 4017622175135621
+2024-11-30 19:18:48,754 - INFO - Successfully processed ad 515979414777457
+2024-11-30 19:18:49,192 - INFO - Successfully processed ad 1178332110506852
+2024-11-30 19:18:50,869 - INFO - Successfully processed ad 874465941513897
+2024-11-30 19:18:51,272 - INFO - Successfully processed ad 930092598547476
+2024-11-30 19:18:52,784 - INFO - Successfully processed ad 946473210953226
+2024-11-30 19:18:54,199 - INFO - Successfully processed ad 7967423503360752
+2024-11-30 19:18:54,841 - INFO - Successfully processed ad 3386519718323573
+2024-11-30 19:18:55,504 - INFO - Successfully processed ad 1075210477421694
+2024-11-30 19:18:55,812 - INFO - Successfully processed ad 1367534737561445
+2024-11-30 19:18:57,261 - INFO - Successfully processed ad 8951227288254053
+2024-11-30 19:18:57,620 - INFO - Successfully processed ad 515972054803857
+2024-11-30 19:18:59,058 - INFO - Successfully processed ad 1746697239416114
+2024-11-30 19:19:00,085 - INFO - Successfully processed ad 1328605544774777
+2024-11-30 19:19:01,515 - INFO - Successfully processed ad 1740795043387919
+2024-11-30 19:19:02,653 - INFO - Successfully processed ad 1084210163153924
+2024-11-30 19:19:02,757 - INFO - Successfully processed ad 1963417717471169
+2024-11-30 19:19:02,894 - INFO - Successfully processed ad 8938737586184968
+2024-11-30 19:19:04,815 - INFO - Successfully processed ad 492436650516086
+2024-11-30 19:19:04,955 - INFO - Successfully processed ad 562051423431759
+2024-11-30 19:19:06,784 - INFO - Successfully processed ad 1235337024405561
+2024-11-30 19:19:07,721 - INFO - Successfully processed ad 1118645849651212
+2024-11-30 19:19:08,513 - INFO - Successfully processed ad 455825967550348
+2024-11-30 19:19:08,534 - INFO - Successfully processed ad 951949333622063
+2024-11-30 19:19:08,580 - INFO - Successfully processed ad 1651662935765985
+2024-11-30 19:19:09,893 - INFO - Successfully processed ad 1770015770414903
+2024-11-30 19:19:09,942 - INFO - Successfully processed ad 1250918116160000
+2024-11-30 19:19:13,255 - INFO - Successfully processed ad 568792879079895
+2024-11-30 19:19:14,522 - INFO - Successfully processed ad 577018858352821
+2024-11-30 19:19:14,724 - INFO - Successfully processed ad 1317569932708277
+2024-11-30 19:19:14,830 - INFO - Successfully processed ad 876611401339577
+2024-11-30 19:19:14,973 - INFO - Successfully processed ad 1115248060174718
+2024-11-30 19:19:15,398 - INFO - Successfully processed ad 901792818723768
+2024-11-30 19:19:15,956 - INFO - Successfully processed ad 8764915480264858
+2024-11-30 19:19:16,175 - INFO - Successfully processed ad 946970690199103
+2024-11-30 19:19:19,786 - INFO - Successfully processed ad 559655083694319
+2024-11-30 19:19:19,965 - INFO - Successfully processed ad 486037067224641
+2024-11-30 19:19:20,706 - INFO - Successfully processed ad 1631426287811146
+2024-11-30 19:19:21,255 - INFO - Successfully processed ad 1160822938797308
+2024-11-30 19:19:22,347 - INFO - Successfully processed ad 977833687717215
+2024-11-30 19:19:22,668 - INFO - Successfully processed ad 2007868383019246
+2024-11-30 19:19:22,693 - INFO - Successfully processed ad 410458798687837
+2024-11-30 19:19:23,232 - INFO - Successfully processed ad 3867690476805249
+2024-11-30 19:19:26,817 - INFO - Successfully processed ad 1243842893334211
+2024-11-30 19:19:27,121 - INFO - Successfully processed ad 1853665435160600
+2024-11-30 19:19:27,501 - INFO - Successfully processed ad 479926927911020
+2024-11-30 19:19:27,558 - INFO - Successfully processed ad 2505706189625789
+2024-11-30 19:19:28,839 - INFO - Successfully processed ad 3407172822922101
+2024-11-30 19:19:29,407 - INFO - Successfully processed ad 927479489329083
+2024-11-30 19:19:30,231 - INFO - Successfully processed ad 907338324823558
+2024-11-30 19:19:32,363 - INFO - Successfully processed ad 1302675587576771
+2024-11-30 19:19:33,547 - INFO - Successfully processed ad 1772161040220138
+2024-11-30 19:19:33,948 - INFO - Successfully processed ad 1532846660694059
+2024-11-30 19:19:34,306 - INFO - Successfully processed ad 887268566921328
+2024-11-30 19:19:34,416 - INFO - Successfully processed ad 953829533273832
+2024-11-30 19:19:34,780 - INFO - Successfully processed ad 2089681684818060
+2024-11-30 19:19:35,009 - INFO - Successfully processed ad 2633125790192123
+2024-11-30 19:19:35,440 - INFO - Successfully processed ad 561579279918333
+2024-11-30 19:19:39,390 - INFO - Successfully processed ad 28561627833436017
+2024-11-30 19:19:39,559 - INFO - Successfully processed ad 3263257220484128
+2024-11-30 19:19:41,806 - INFO - Successfully processed ad 1710189616492196
+2024-11-30 19:19:41,880 - INFO - Successfully processed ad 1106326714453008
+2024-11-30 19:19:42,124 - INFO - Successfully processed ad 1678663123084033
+2024-11-30 19:19:42,293 - INFO - Successfully processed ad 1106901661038653
+2024-11-30 19:19:42,540 - INFO - Successfully processed ad 1727673068080776
+2024-11-30 19:19:43,592 - INFO - Successfully processed ad 1283521692834854
+2024-11-30 19:19:46,990 - INFO - Successfully processed ad 888476750124491
+2024-11-30 19:19:47,115 - INFO - Successfully processed ad 2041957979608071
+2024-11-30 19:19:47,853 - INFO - Successfully processed ad 925283196196905
+2024-11-30 19:19:48,045 - INFO - Successfully processed ad 535515275915150
+2024-11-30 19:19:49,200 - INFO - Successfully processed ad 539445968997793
+2024-11-30 19:19:49,294 - INFO - Successfully processed ad 878805464053444
+2024-11-30 19:19:49,693 - INFO - Successfully processed ad 1099600071570455
+2024-11-30 19:19:50,250 - INFO - Successfully processed ad 895109815864685
+2024-11-30 19:19:51,984 - INFO - Successfully processed ad 3081205278686790
+2024-11-30 19:19:53,481 - INFO - Successfully processed ad 1727526868098425
+2024-11-30 19:19:55,440 - INFO - Successfully processed ad 2281651368860783
+2024-11-30 19:20:26,544 - INFO - Starting processing of 517 ads with 32 threads...
+2024-11-30 19:20:32,460 - INFO - Successfully processed ad 557604110392871
+2024-11-30 19:20:33,583 - INFO - Successfully processed ad 362792233522175
+2024-11-30 19:20:33,853 - INFO - Successfully processed ad 579099107818696
+2024-11-30 19:20:33,922 - INFO - Successfully processed ad 9515737678442617
+2024-11-30 19:20:33,964 - INFO - Successfully processed ad 555150543924818
+2024-11-30 19:20:34,066 - INFO - Successfully processed ad 1251918509393554
+2024-11-30 19:20:34,126 - INFO - Successfully processed ad 967965638717422
+2024-11-30 19:20:34,308 - INFO - Successfully processed ad 1618099118787045
+2024-11-30 19:20:34,423 - INFO - Successfully processed ad 924717059235439
+2024-11-30 19:20:34,593 - INFO - Successfully processed ad 1606080077000792
+2024-11-30 19:20:34,593 - INFO - Successfully processed ad 618360727180200
+2024-11-30 19:20:34,666 - INFO - Successfully processed ad 864861295517511
+2024-11-30 19:20:34,669 - INFO - Successfully processed ad 889601543286900
+2024-11-30 19:20:34,995 - INFO - Successfully processed ad 3810306719208323
+2024-11-30 19:20:35,165 - INFO - Successfully processed ad 435262922971000
+2024-11-30 19:20:35,355 - INFO - Successfully processed ad 1076590570793786
+2024-11-30 19:20:35,459 - INFO - Successfully processed ad 1734603870433438
+2024-11-30 19:20:35,510 - INFO - Successfully processed ad 578490801208263
+2024-11-30 19:20:35,810 - INFO - Successfully processed ad 593615980022376
+2024-11-30 19:20:36,063 - INFO - Successfully processed ad 1106803711113491
+2024-11-30 19:20:36,108 - INFO - Successfully processed ad 569215805798224
+2024-11-30 19:20:36,224 - INFO - Successfully processed ad 1103675518078138
+2024-11-30 19:20:36,232 - INFO - Successfully processed ad 2987748928057189
+2024-11-30 19:20:36,445 - INFO - Successfully processed ad 1294526935229404
+2024-11-30 19:20:36,790 - INFO - Successfully processed ad 1032187598679458
+2024-11-30 19:20:36,943 - INFO - Successfully processed ad 1125773355569863
+2024-11-30 19:20:37,178 - INFO - Successfully processed ad 936673471712074
+2024-11-30 19:20:37,300 - INFO - Successfully processed ad 970553078443769
+2024-11-30 19:20:37,437 - INFO - Successfully processed ad 615181904175327
+2024-11-30 19:20:37,490 - INFO - Successfully processed ad 1288484149018085
+2024-11-30 19:20:38,044 - INFO - Successfully processed ad 2252869808418948
+2024-11-30 19:20:39,400 - INFO - Successfully processed ad 1551664468825639
+2024-11-30 19:20:40,878 - INFO - Successfully processed ad 3649216352036399
+2024-11-30 19:20:40,896 - INFO - Successfully processed ad 539277882281285
+2024-11-30 19:20:41,037 - INFO - Successfully processed ad 873046971577096
+2024-11-30 19:20:41,184 - INFO - Successfully processed ad 1205923177168461
+2024-11-30 19:20:41,439 - INFO - Successfully processed ad 1267675860939708
+2024-11-30 19:20:41,645 - INFO - Successfully processed ad 580250941054768
+2024-11-30 19:20:41,768 - INFO - Successfully processed ad 992810739531453
+2024-11-30 19:20:41,802 - INFO - Successfully processed ad 1517892218924770
+2024-11-30 19:20:42,089 - INFO - Successfully processed ad 884598480552277
+2024-11-30 19:20:42,279 - INFO - Successfully processed ad 453236837821057
+2024-11-30 19:20:42,621 - INFO - Successfully processed ad 3893448027598287
+2024-11-30 19:20:42,987 - INFO - Successfully processed ad 581415000943629
+2024-11-30 19:20:43,004 - INFO - Successfully processed ad 1380816302896257
+2024-11-30 19:20:43,226 - INFO - Successfully processed ad 1098833928367867
+2024-11-30 19:20:43,299 - INFO - Successfully processed ad 925633439092773
+2024-11-30 19:20:43,336 - INFO - Successfully processed ad 1118428286643213
+2024-11-30 19:20:43,426 - INFO - Successfully processed ad 1220621552349875
+2024-11-30 19:20:43,563 - INFO - Successfully processed ad 1674562483439492
+2024-11-30 19:20:43,730 - INFO - Successfully processed ad 885034927154689
+2024-11-30 19:20:44,139 - INFO - Successfully processed ad 572535765367817
+2024-11-30 19:20:44,627 - INFO - Successfully processed ad 1000778341856558
+2024-11-30 19:20:44,643 - INFO - Successfully processed ad 607073918491384
+2024-11-30 19:20:44,811 - INFO - Successfully processed ad 458352563600468
+2024-11-30 19:20:44,872 - INFO - Successfully processed ad 1824225495050389
+2024-11-30 19:20:44,946 - INFO - Successfully processed ad 1556211045019020
+2024-11-30 19:20:45,054 - INFO - Successfully processed ad 1257084132223874
+2024-11-30 19:20:45,370 - INFO - Successfully processed ad 1741417963301942
+2024-11-30 19:20:46,050 - INFO - Successfully processed ad 469467039491354
+2024-11-30 19:20:46,693 - INFO - Successfully processed ad 1130310645194385
+2024-11-30 19:20:46,737 - INFO - Successfully processed ad 912542110533708
+2024-11-30 19:20:47,511 - INFO - Successfully processed ad 1295415661810762
+2024-11-30 19:20:48,103 - INFO - Successfully processed ad 1775434133288283
+2024-11-30 19:20:48,161 - INFO - Successfully processed ad 594489202936439
+2024-11-30 19:20:48,541 - INFO - Successfully processed ad 1087530292633922
+2024-11-30 19:20:48,725 - INFO - Successfully processed ad 1647449636164647
+2024-11-30 19:20:48,841 - INFO - Successfully processed ad 594468426393957
+2024-11-30 19:20:49,019 - INFO - Successfully processed ad 572546098704500
+2024-11-30 19:20:49,228 - INFO - Successfully processed ad 3764787077089480
+2024-11-30 19:20:49,517 - INFO - Successfully processed ad 1114646240320099
+2024-11-30 19:20:49,748 - INFO - Successfully processed ad 563009356458380
+2024-11-30 19:20:49,990 - INFO - Successfully processed ad 2099866653743220
+2024-11-30 19:20:50,269 - INFO - Successfully processed ad 1781215229299135
+2024-11-30 19:20:50,331 - INFO - Successfully processed ad 570608735909461
+2024-11-30 19:20:50,474 - INFO - Successfully processed ad 1199837111083382
+2024-11-30 19:20:50,771 - INFO - Successfully processed ad 3942630265974085
+2024-11-30 19:20:50,801 - INFO - Successfully processed ad 1262305838438880
+2024-11-30 19:20:50,844 - INFO - Successfully processed ad 930934385156486
+2024-11-30 19:20:51,563 - INFO - Successfully processed ad 472663805845598
+2024-11-30 19:20:52,214 - INFO - Successfully processed ad 1522939945077241
+2024-11-30 19:20:52,617 - INFO - Successfully processed ad 4137407953158994
+2024-11-30 19:20:52,703 - INFO - Successfully processed ad 542786071898985
+2024-11-30 19:20:53,456 - INFO - Successfully processed ad 931203648367320
+2024-11-30 19:20:53,713 - INFO - Successfully processed ad 452313740908308
+2024-11-30 19:20:54,571 - INFO - Successfully processed ad 567876142503416
+2024-11-30 19:20:54,595 - INFO - Successfully processed ad 544331185048380
+2024-11-30 19:20:55,002 - INFO - Successfully processed ad 946373124019157
+2024-11-30 19:20:55,300 - INFO - Successfully processed ad 920158863514688
+2024-11-30 19:20:55,303 - INFO - Successfully processed ad 3992315094428233
+2024-11-30 19:20:55,311 - INFO - Successfully processed ad 1090600686123484
+2024-11-30 19:20:55,379 - INFO - Successfully processed ad 1524370898242614
+2024-11-30 19:20:55,404 - INFO - Successfully processed ad 1289211355428130
+2024-11-30 19:20:55,596 - INFO - Successfully processed ad 598402542630899
+2024-11-30 19:20:56,077 - INFO - Successfully processed ad 588550683761248
+2024-11-30 19:20:56,160 - INFO - Successfully processed ad 937272021083576
+2024-11-30 19:20:56,432 - INFO - Successfully processed ad 865550199077924
+2024-11-30 19:20:56,506 - INFO - Successfully processed ad 883821670585447
+2024-11-30 19:20:56,692 - INFO - Successfully processed ad 497160306678863
+2024-11-30 19:20:56,711 - INFO - Successfully processed ad 1335064637876078
+2024-11-30 19:20:56,847 - INFO - Successfully processed ad 1118190939907017
+2024-11-30 19:20:56,998 - INFO - Successfully processed ad 392299580540497
+2024-11-30 19:20:57,067 - INFO - Successfully processed ad 1145680126976634
+2024-11-30 19:20:57,300 - INFO - Successfully processed ad 2968688483294798
+2024-11-30 19:20:57,706 - INFO - Successfully processed ad 1646409259275642
+2024-11-30 19:20:57,734 - INFO - Successfully processed ad 1099575915048182
+2024-11-30 19:20:57,831 - INFO - Successfully processed ad 876061084611181
+2024-11-30 19:20:58,065 - INFO - Successfully processed ad 1631706347773457
+2024-11-30 19:20:58,521 - INFO - Successfully processed ad 2632021697008160
+2024-11-30 19:20:58,641 - INFO - Successfully processed ad 1137561861306252
+2024-11-30 19:20:59,229 - INFO - Successfully processed ad 862108969407622
+2024-11-30 19:20:59,911 - INFO - Successfully processed ad 467138062648657
+2024-11-30 19:21:00,116 - INFO - Successfully processed ad 928392119243935
+2024-11-30 19:21:00,854 - INFO - Successfully processed ad 2325791844453782
+2024-11-30 19:21:01,066 - INFO - Successfully processed ad 1261718045026800
+2024-11-30 19:21:01,344 - INFO - Successfully processed ad 946591617530257
+2024-11-30 19:21:02,099 - INFO - Successfully processed ad 1665040587725701
+2024-11-30 19:21:02,812 - INFO - Successfully processed ad 587821263743282
+2024-11-30 19:21:02,840 - INFO - Successfully processed ad 1300565437767751
+2024-11-30 19:21:02,883 - INFO - Successfully processed ad 890958233105596
+2024-11-30 19:21:03,024 - INFO - Successfully processed ad 1800425037446048
+2024-11-30 19:21:03,489 - INFO - Successfully processed ad 601536382315360
+2024-11-30 19:21:03,525 - INFO - Successfully processed ad 1254082252302541
+2024-11-30 19:21:04,060 - INFO - Successfully processed ad 1923042014830768
+2024-11-30 19:21:04,246 - INFO - Successfully processed ad 1279326216711414
+2024-11-30 19:21:04,312 - INFO - Successfully processed ad 1113515196939145
+2024-11-30 19:21:04,346 - INFO - Successfully processed ad 3944305055814200
+2024-11-30 19:21:04,605 - INFO - Successfully processed ad 1244156820201582
+2024-11-30 19:21:04,646 - INFO - Successfully processed ad 889472632963010
+2024-11-30 19:21:04,998 - INFO - Successfully processed ad 885891260305771
+2024-11-30 19:21:05,437 - INFO - Successfully processed ad 875948338037913
+2024-11-30 19:21:05,455 - INFO - Successfully processed ad 4123748011229965
+2024-11-30 19:21:05,508 - INFO - Successfully processed ad 435012952985112
+2024-11-30 19:21:05,544 - INFO - Successfully processed ad 495828770135590
+2024-11-30 19:21:05,726 - INFO - Successfully processed ad 1326594138703691
+2024-11-30 19:21:05,901 - INFO - Successfully processed ad 1242886000311327
+2024-11-30 19:21:05,960 - INFO - Successfully processed ad 2898751980281073
+2024-11-30 19:21:06,017 - INFO - Successfully processed ad 1043264764266897
+2024-11-30 19:21:06,353 - INFO - Successfully processed ad 786314463636029
+2024-11-30 19:21:07,210 - INFO - Successfully processed ad 1080442840296479
+2024-11-30 19:21:07,486 - INFO - Successfully processed ad 3530505243913692
+2024-11-30 19:21:07,724 - INFO - Successfully processed ad 1014236510508683
+2024-11-30 19:21:07,874 - INFO - Successfully processed ad 944843104206875
+2024-11-30 19:21:07,929 - INFO - Successfully processed ad 2366547817054237
+2024-11-30 19:21:08,136 - INFO - Successfully processed ad 472301982091367
+2024-11-30 19:21:08,500 - INFO - Successfully processed ad 853336236997296
+2024-11-30 19:21:09,121 - INFO - Successfully processed ad 2308499799504251
+2024-11-30 19:21:10,133 - INFO - Successfully processed ad 1114621856207994
+2024-11-30 19:21:10,269 - INFO - Successfully processed ad 1588909165353560
+2024-11-30 19:21:10,543 - INFO - Successfully processed ad 3916611841960053
+2024-11-30 19:21:10,573 - INFO - Successfully processed ad 559325903408021
+2024-11-30 19:21:10,730 - INFO - Successfully processed ad 3882595892015237
+2024-11-30 19:21:11,079 - INFO - Successfully processed ad 486555060504441
+2024-11-30 19:21:11,459 - INFO - Successfully processed ad 584385034149116
+2024-11-30 19:21:12,099 - INFO - Successfully processed ad 1289488752083021
+2024-11-30 19:21:12,321 - INFO - Successfully processed ad 2259221664463522
+2024-11-30 19:21:12,603 - INFO - Successfully processed ad 1304837790688838
+2024-11-30 19:21:12,719 - INFO - Successfully processed ad 944738014199665
+2024-11-30 19:21:12,724 - INFO - Successfully processed ad 1525524132172391
+2024-11-30 19:21:12,774 - INFO - Successfully processed ad 490076993441008
+2024-11-30 19:21:12,898 - INFO - Successfully processed ad 531685073178199
+2024-11-30 19:21:12,928 - INFO - Successfully processed ad 878566400764128
+2024-11-30 19:21:12,929 - INFO - Successfully processed ad 993705712527586
+2024-11-30 19:21:13,066 - INFO - Successfully processed ad 456549750804666
+2024-11-30 19:21:13,151 - INFO - Successfully processed ad 620144230341700
+2024-11-30 19:21:13,368 - INFO - Successfully processed ad 8961767707222453
+2024-11-30 19:21:13,600 - INFO - Successfully processed ad 1258668132017843
+2024-11-30 19:21:13,659 - INFO - Successfully processed ad 1244522120134728
+2024-11-30 19:21:13,729 - INFO - Successfully processed ad 557812403852836
+2024-11-30 19:21:13,747 - INFO - Successfully processed ad 1271996963928121
+2024-11-30 19:21:13,770 - INFO - Successfully processed ad 1260800031733382
+2024-11-30 19:21:13,776 - INFO - Successfully processed ad 543774711900182
+2024-11-30 19:21:13,872 - INFO - Successfully processed ad 927513996021099
+2024-11-30 19:21:14,777 - INFO - Successfully processed ad 932185282168985
+2024-11-30 19:21:15,116 - INFO - Successfully processed ad 1648066156116529
+2024-11-30 19:21:15,795 - INFO - Successfully processed ad 557103763693340
+2024-11-30 19:21:15,812 - INFO - Successfully processed ad 1432260947732240
+2024-11-30 19:21:15,956 - INFO - Successfully processed ad 1221511728912592
+2024-11-30 19:21:16,333 - INFO - Successfully processed ad 1752439102189695
+2024-11-30 19:21:16,720 - INFO - Successfully processed ad 2571686593020311
+2024-11-30 19:21:17,381 - INFO - Successfully processed ad 1305659353909916
+2024-11-30 19:21:17,568 - INFO - Successfully processed ad 919869826755185
+2024-11-30 19:21:17,761 - INFO - Successfully processed ad 928512272563505
+2024-11-30 19:21:17,776 - INFO - Successfully processed ad 1088858292793978
+2024-11-30 19:21:17,823 - INFO - Successfully processed ad 1124584082386127
+2024-11-30 19:21:18,298 - INFO - Successfully processed ad 877796404337837
+2024-11-30 19:21:18,453 - INFO - Successfully processed ad 1530626734324190
+2024-11-30 19:21:18,530 - INFO - Successfully processed ad 1085063749553354
+2024-11-30 19:21:18,998 - INFO - Successfully processed ad 1139688567574885
+2024-11-30 19:21:19,031 - INFO - Successfully processed ad 1645924652992923
+2024-11-30 19:21:19,117 - INFO - Successfully processed ad 1267402787641911
+2024-11-30 19:21:19,346 - INFO - Successfully processed ad 1263155711687281
+2024-11-30 19:21:19,523 - INFO - Successfully processed ad 1101485591385015
+2024-11-30 19:21:19,541 - INFO - Successfully processed ad 587200213885590
+2024-11-30 19:21:19,663 - INFO - Successfully processed ad 603192799038158
+2024-11-30 19:21:19,669 - INFO - Successfully processed ad 499403779084639
+2024-11-30 19:21:20,520 - INFO - Successfully processed ad 498128496608285
+2024-11-30 19:21:20,547 - INFO - Successfully processed ad 1607833739939960
+2024-11-30 19:21:20,721 - INFO - Successfully processed ad 935636121792934
+2024-11-30 19:21:21,045 - INFO - Successfully processed ad 920139606746512
+2024-11-30 19:21:21,126 - INFO - Successfully processed ad 1120855423004477
+2024-11-30 19:21:21,240 - INFO - Successfully processed ad 606719112020297
+2024-11-30 19:21:21,437 - INFO - Successfully processed ad 1618555825727879
+2024-11-30 19:21:21,896 - INFO - Successfully processed ad 2121783591655239
+2024-11-30 19:21:22,835 - INFO - Successfully processed ad 509034284929292
+2024-11-30 19:21:23,003 - INFO - Successfully processed ad 423394820841845
+2024-11-30 19:21:23,343 - INFO - Successfully processed ad 1135929967963034
+2024-11-30 19:21:23,560 - INFO - Successfully processed ad 447999341393846
+2024-11-30 19:21:23,965 - INFO - Successfully processed ad 568292986138572
+2024-11-30 19:21:24,131 - INFO - Successfully processed ad 891118529836846
+2024-11-30 19:21:24,237 - INFO - Successfully processed ad 1090316035925677
+2024-11-30 19:21:24,504 - INFO - Successfully processed ad 941584470896784
+2024-11-30 19:21:24,548 - INFO - Successfully processed ad 1095337025644908
+2024-11-30 19:21:24,731 - INFO - Successfully processed ad 1219440599140823
+2024-11-30 19:21:25,269 - INFO - Successfully processed ad 588587383760559
+2024-11-30 19:21:25,324 - INFO - Successfully processed ad 1109631394503493
+2024-11-30 19:21:25,533 - INFO - Successfully processed ad 1401036733852641
+2024-11-30 19:21:25,555 - INFO - Successfully processed ad 1090345325891072
+2024-11-30 19:21:25,768 - INFO - Successfully processed ad 8674690519266687
+2024-11-30 19:21:26,132 - INFO - Successfully processed ad 533481532845298
+2024-11-30 19:21:26,146 - INFO - Successfully processed ad 431026766749165
+2024-11-30 19:21:26,493 - INFO - Successfully processed ad 1512863972764018
+2024-11-30 19:21:26,533 - INFO - Successfully processed ad 583730777346361
+2024-11-30 19:21:26,872 - INFO - Successfully processed ad 1120849286226912
+2024-11-30 19:21:26,873 - INFO - Successfully processed ad 2775061332672921
+2024-11-30 19:21:28,080 - INFO - Successfully processed ad 1497507300910320
+2024-11-30 19:21:28,564 - INFO - Successfully processed ad 1133970618342201
+2024-11-30 19:21:28,566 - INFO - Successfully processed ad 2032887200488828
+2024-11-30 19:21:28,656 - INFO - Successfully processed ad 1121225122965365
+2024-11-30 19:21:28,718 - INFO - Successfully processed ad 1112562726903906
+2024-11-30 19:21:28,732 - INFO - Successfully processed ad 460612109841865
+2024-11-30 19:21:28,891 - INFO - Successfully processed ad 1120928716120960
+2024-11-30 19:21:28,955 - INFO - Successfully processed ad 789982992533253
+2024-11-30 19:21:28,969 - INFO - Successfully processed ad 2723665604473614
+2024-11-30 19:21:29,298 - INFO - Successfully processed ad 2948803988603171
+2024-11-30 19:21:29,428 - INFO - Successfully processed ad 888762876437138
+2024-11-30 19:21:29,490 - INFO - Successfully processed ad 1138349474474550
+2024-11-30 19:21:29,653 - INFO - Successfully processed ad 615078284376981
+2024-11-30 19:21:30,276 - INFO - Successfully processed ad 467703365924245
+2024-11-30 19:21:30,584 - INFO - Successfully processed ad 386674257771104
+2024-11-30 19:21:30,703 - INFO - Successfully processed ad 1372085943774850
+2024-11-30 19:21:30,709 - INFO - Successfully processed ad 3820236721597535
+2024-11-30 19:21:30,888 - INFO - Successfully processed ad 3958530141049803
+2024-11-30 19:21:31,484 - INFO - Successfully processed ad 1723851535114433
+2024-11-30 19:21:31,634 - INFO - Successfully processed ad 1995817070930630
+2024-11-30 19:21:31,752 - INFO - Successfully processed ad 518887677800234
+2024-11-30 19:21:32,589 - INFO - Successfully processed ad 489518217471492
+2024-11-30 19:21:32,875 - INFO - Successfully processed ad 457140753719233
+2024-11-30 19:21:33,297 - INFO - Successfully processed ad 1085453249594392
+2024-11-30 19:21:33,375 - INFO - Successfully processed ad 1070217091261255
+2024-11-30 19:21:33,382 - INFO - Successfully processed ad 2779144615601838
+2024-11-30 19:21:33,906 - INFO - Successfully processed ad 453858320748955
+2024-11-30 19:21:33,946 - INFO - Successfully processed ad 465702052796693
+2024-11-30 19:21:34,450 - INFO - Successfully processed ad 571327662183867
+2024-11-30 19:21:34,606 - INFO - Successfully processed ad 1610310009840578
+2024-11-30 19:21:34,898 - INFO - Successfully processed ad 2299342510466202
+2024-11-30 19:21:34,926 - INFO - Successfully processed ad 3475859886055163
+2024-11-30 19:21:34,962 - INFO - Successfully processed ad 751521740517043
+2024-11-30 19:21:34,981 - INFO - Successfully processed ad 503980579343231
+2024-11-30 19:21:35,033 - INFO - Successfully processed ad 574545801835138
+2024-11-30 19:21:35,479 - INFO - Successfully processed ad 550578607779672
+2024-11-30 19:21:35,501 - INFO - Successfully processed ad 559914940234682
+2024-11-30 19:21:35,608 - INFO - Successfully processed ad 931873321677588
+2024-11-30 19:21:35,624 - INFO - Successfully processed ad 439880395442886
+2024-11-30 19:21:35,633 - INFO - Successfully processed ad 496488463434666
+2024-11-30 19:21:35,839 - INFO - Successfully processed ad 591520273438555
+2024-11-30 19:21:36,022 - INFO - Successfully processed ad 1081578163661756
+2024-11-30 19:21:36,304 - INFO - Successfully processed ad 485935913915547
+2024-11-30 19:21:36,992 - INFO - Successfully processed ad 1128410958768393
+2024-11-30 19:21:37,011 - INFO - Successfully processed ad 1774815166705025
+2024-11-30 19:21:37,097 - INFO - Successfully processed ad 769255268715581
+2024-11-30 19:21:37,784 - INFO - Successfully processed ad 1723789678472716
+2024-11-30 19:21:38,612 - INFO - Successfully processed ad 1601012080849479
+2024-11-30 19:21:38,625 - INFO - Successfully processed ad 561393536849758
+2024-11-30 19:21:38,885 - INFO - Successfully processed ad 1108912597473233
+2024-11-30 19:21:38,919 - INFO - Successfully processed ad 566512705960118
+2024-11-30 19:21:39,211 - INFO - Successfully processed ad 2558185481042152
+2024-11-30 19:21:39,980 - INFO - Successfully processed ad 585218097425254
+2024-11-30 19:21:40,610 - INFO - Successfully processed ad 502775732812107
+2024-11-30 19:21:40,656 - INFO - Successfully processed ad 383031788155206
+2024-11-30 19:21:40,712 - INFO - Successfully processed ad 459003767224199
+2024-11-30 19:21:40,858 - INFO - Successfully processed ad 919000556854153
+2024-11-30 19:21:40,919 - INFO - Successfully processed ad 3870108766578700
+2024-11-30 19:21:41,051 - INFO - Successfully processed ad 427523277100495
+2024-11-30 19:21:41,285 - INFO - Successfully processed ad 8611361452318900
+2024-11-30 19:21:41,526 - INFO - Successfully processed ad 1270220704180718
+2024-11-30 19:21:41,617 - INFO - Successfully processed ad 1088204942541669
+2024-11-30 19:21:41,695 - INFO - Successfully processed ad 1159913115408336
+2024-11-30 19:21:42,542 - INFO - Successfully processed ad 456575244127974
+2024-11-30 19:21:42,689 - INFO - Successfully processed ad 1505707436783892
+2024-11-30 19:21:42,716 - INFO - Successfully processed ad 624919246526051
+2024-11-30 19:21:43,103 - INFO - Successfully processed ad 533146789549505
+2024-11-30 19:21:43,104 - INFO - Successfully processed ad 1298743991259471
+2024-11-30 19:21:43,109 - INFO - Successfully processed ad 8547083375402612
+2024-11-30 19:21:43,159 - INFO - Successfully processed ad 1312759263078017
+2024-11-30 19:21:43,231 - INFO - Successfully processed ad 946445580660803
+2024-11-30 19:21:43,338 - INFO - Successfully processed ad 3707571656221444
+2024-11-30 19:21:43,339 - INFO - Successfully processed ad 2234871730229952
+2024-11-30 19:21:43,375 - INFO - Successfully processed ad 543310025281526
+2024-11-30 19:21:43,576 - INFO - Successfully processed ad 1460906211256435
+2024-11-30 19:21:43,787 - INFO - Successfully processed ad 544653405387551
+2024-11-30 19:21:43,830 - INFO - Successfully processed ad 3869633213284210
+2024-11-30 19:21:44,852 - INFO - Successfully processed ad 949234727252215
+2024-11-30 19:21:44,999 - INFO - Successfully processed ad 1784289802402651
+2024-11-30 19:21:45,410 - INFO - Successfully processed ad 3785882985075754
+2024-11-30 19:21:45,670 - INFO - Successfully processed ad 542177428693423
+2024-11-30 19:21:45,698 - INFO - Successfully processed ad 550794801120218
+2024-11-30 19:21:45,839 - INFO - Successfully processed ad 420683510976832
+2024-11-30 19:21:45,933 - INFO - Successfully processed ad 1977180832709415
+2024-11-30 19:21:46,041 - INFO - Successfully processed ad 1295517918131552
+2024-11-30 19:21:46,908 - INFO - Successfully processed ad 877769664566032
+2024-11-30 19:21:47,432 - INFO - Successfully processed ad 1744040569689415
+2024-11-30 19:21:47,873 - INFO - Successfully processed ad 386410467889298
+2024-11-30 19:21:47,913 - INFO - Successfully processed ad 1210400386734563
+2024-11-30 19:21:47,942 - INFO - Successfully processed ad 876541257633872
+2024-11-30 19:21:48,079 - INFO - Successfully processed ad 490813700029217
+2024-11-30 19:21:48,134 - INFO - Successfully processed ad 1226606971778404
+2024-11-30 19:21:48,455 - INFO - Successfully processed ad 881142170865396
+2024-11-30 19:21:48,781 - INFO - Successfully processed ad 588711773694614
+2024-11-30 19:21:49,250 - INFO - Successfully processed ad 601336302317901
+2024-11-30 19:21:49,308 - INFO - Successfully processed ad 2178796235854689
+2024-11-30 19:21:49,431 - INFO - Successfully processed ad 1101485344697801
+2024-11-30 19:21:49,900 - INFO - Successfully processed ad 1668096840719489
+2024-11-30 19:21:49,953 - INFO - Successfully processed ad 1098683801963032
+2024-11-30 19:21:49,972 - INFO - Successfully processed ad 437269222760475
+2024-11-30 19:21:50,083 - INFO - Successfully processed ad 1500150454026774
+2024-11-30 19:21:50,144 - INFO - Successfully processed ad 1109396610785375
+2024-11-30 19:21:50,149 - INFO - Successfully processed ad 9108703862515803
+2024-11-30 19:21:50,171 - INFO - Successfully processed ad 471883335845113
+2024-11-30 19:21:50,336 - INFO - Successfully processed ad 1252234892751479
+2024-11-30 19:21:50,506 - INFO - Successfully processed ad 936192708420591
+2024-11-30 19:21:50,869 - INFO - Successfully processed ad 1924264031390612
+2024-11-30 19:21:50,884 - INFO - Successfully processed ad 1245080840049294
+2024-11-30 19:21:51,209 - INFO - Successfully processed ad 1293619921766929
+2024-11-30 19:21:51,327 - INFO - Successfully processed ad 532144223143223
+2024-11-30 19:21:51,970 - INFO - Successfully processed ad 9231434420250210
+2024-11-30 19:21:52,083 - INFO - Successfully processed ad 1984903818703736
+2024-11-30 19:21:52,117 - INFO - Successfully processed ad 1012815314223652
+2024-11-30 19:21:52,122 - INFO - Successfully processed ad 465465409901525
+2024-11-30 19:21:52,554 - INFO - Successfully processed ad 913307383785120
+2024-11-30 19:21:52,673 - INFO - Successfully processed ad 874465941513897
+2024-11-30 19:21:53,066 - INFO - Successfully processed ad 4017622175135621
+2024-11-30 19:21:54,069 - INFO - Successfully processed ad 2511869432349035
+2024-11-30 19:21:54,213 - INFO - Successfully processed ad 930092598547476
+2024-11-30 19:21:54,398 - INFO - Successfully processed ad 1081252570411419
+2024-11-30 19:21:55,017 - INFO - Successfully processed ad 1178332110506852
+2024-11-30 19:21:55,033 - INFO - Successfully processed ad 1963417717471169
+2024-11-30 19:21:55,405 - INFO - Successfully processed ad 946473210953226
+2024-11-30 19:21:55,475 - INFO - Successfully processed ad 515979414777457
+2024-11-30 19:21:55,944 - INFO - Successfully processed ad 1281676142849091
+2024-11-30 19:21:56,192 - INFO - Successfully processed ad 1084210163153924
+2024-11-30 19:21:56,237 - INFO - Successfully processed ad 8938737586184968
+2024-11-30 19:21:56,412 - INFO - Successfully processed ad 515972054803857
+2024-11-30 19:21:56,425 - INFO - Successfully processed ad 7967423503360752
+2024-11-30 19:21:56,672 - INFO - Successfully processed ad 1651662935765985
+2024-11-30 19:21:57,304 - INFO - Successfully processed ad 1328605544774777
+2024-11-30 19:21:57,409 - INFO - Successfully processed ad 1075210477421694
+2024-11-30 19:21:57,564 - INFO - Successfully processed ad 3386519718323573
+2024-11-30 19:21:57,597 - INFO - Successfully processed ad 1250918116160000
+2024-11-30 19:21:57,619 - INFO - Successfully processed ad 1118645849651212
+2024-11-30 19:21:57,635 - INFO - Successfully processed ad 951949333622063
+2024-11-30 19:21:57,718 - INFO - Successfully processed ad 1746697239416114
+2024-11-30 19:21:57,794 - INFO - Successfully processed ad 8951227288254053
+2024-11-30 19:21:58,072 - INFO - Successfully processed ad 1740795043387919
+2024-11-30 19:21:58,097 - INFO - Successfully processed ad 562051423431759
+2024-11-30 19:21:58,245 - INFO - Successfully processed ad 455825967550348
+2024-11-30 19:21:58,333 - INFO - Successfully processed ad 492436650516086
+2024-11-30 19:21:58,671 - INFO - Successfully processed ad 1770015770414903
+2024-11-30 19:21:58,985 - INFO - Successfully processed ad 1367534737561445
+2024-11-30 19:21:59,343 - INFO - Successfully processed ad 901792818723768
+2024-11-30 19:21:59,467 - INFO - Successfully processed ad 1235337024405561
+2024-11-30 19:21:59,675 - INFO - Successfully processed ad 577018858352821
+2024-11-30 19:21:59,943 - INFO - Successfully processed ad 946970690199103
+2024-11-30 19:22:00,107 - INFO - Successfully processed ad 568792879079895
+2024-11-30 19:22:00,179 - INFO - Successfully processed ad 876611401339577
+2024-11-30 19:22:00,198 - INFO - Successfully processed ad 1317569932708277
+2024-11-30 19:22:00,372 - INFO - Successfully processed ad 1115248060174718
+2024-11-30 19:22:00,372 - INFO - Successfully processed ad 8764915480264858
+2024-11-30 19:22:01,008 - INFO - Successfully processed ad 559655083694319
+2024-11-30 19:22:01,494 - INFO - Successfully processed ad 1631426287811146
+2024-11-30 19:22:02,216 - INFO - Successfully processed ad 977833687717215
+2024-11-30 19:22:02,566 - INFO - Successfully processed ad 2007868383019246
+2024-11-30 19:22:02,573 - INFO - Successfully processed ad 479926927911020
+2024-11-30 19:22:02,693 - INFO - Successfully processed ad 486037067224641
+2024-11-30 19:22:02,884 - INFO - Successfully processed ad 887268566921328
+2024-11-30 19:22:02,933 - INFO - Successfully processed ad 3867690476805249
+2024-11-30 19:22:03,175 - INFO - Successfully processed ad 1853665435160600
+2024-11-30 19:22:03,665 - INFO - Successfully processed ad 1772161040220138
+2024-11-30 19:22:03,687 - INFO - Successfully processed ad 1160822938797308
+2024-11-30 19:22:03,940 - INFO - Successfully processed ad 28561627833436017
+2024-11-30 19:22:04,198 - INFO - Successfully processed ad 927479489329083
+2024-11-30 19:22:04,353 - INFO - Successfully processed ad 1243842893334211
+2024-11-30 19:22:04,360 - INFO - Successfully processed ad 953829533273832
+2024-11-30 19:22:04,375 - INFO - Successfully processed ad 410458798687837
+2024-11-30 19:22:04,586 - INFO - Successfully processed ad 3407172822922101
+2024-11-30 19:22:04,735 - INFO - Successfully processed ad 561579279918333
+2024-11-30 19:22:04,750 - INFO - Successfully processed ad 2505706189625789
+2024-11-30 19:22:04,812 - INFO - Successfully processed ad 2089681684818060
+2024-11-30 19:22:05,094 - INFO - Successfully processed ad 907338324823558
+2024-11-30 19:22:05,499 - INFO - Successfully processed ad 1532846660694059
+2024-11-30 19:22:05,846 - INFO - Successfully processed ad 2633125790192123
+2024-11-30 19:22:06,434 - INFO - Successfully processed ad 1302675587576771
+2024-11-30 19:22:06,449 - INFO - Successfully processed ad 1283521692834854
+2024-11-30 19:22:06,649 - INFO - Successfully processed ad 888476750124491
+2024-11-30 19:22:06,742 - INFO - Successfully processed ad 1106901661038653
+2024-11-30 19:22:06,985 - INFO - Successfully processed ad 3263257220484128
+2024-11-30 19:22:07,733 - INFO - Successfully processed ad 925283196196905
+2024-11-30 19:22:07,951 - INFO - Successfully processed ad 535515275915150
+2024-11-30 19:22:08,172 - INFO - Successfully processed ad 1727673068080776
+2024-11-30 19:22:08,232 - INFO - Successfully processed ad 1106326714453008
+2024-11-30 19:22:08,440 - INFO - Successfully processed ad 1710189616492196
+2024-11-30 19:22:08,536 - INFO - Successfully processed ad 3081205278686790
+2024-11-30 19:22:08,810 - INFO - Successfully processed ad 2041957979608071
+2024-11-30 19:22:08,916 - INFO - Successfully processed ad 878805464053444
+2024-11-30 19:22:08,940 - INFO - Successfully processed ad 539445968997793
+2024-11-30 19:22:09,111 - INFO - Successfully processed ad 1099600071570455
+2024-11-30 19:22:09,251 - INFO - Successfully processed ad 1088786542644998
+2024-11-30 19:22:09,754 - INFO - Successfully processed ad 1727526868098425
+2024-11-30 19:22:10,118 - INFO - Successfully processed ad 895109815864685
+2024-11-30 19:22:10,424 - INFO - Successfully processed ad 2281651368860783
+2024-11-30 19:22:10,478 - INFO - Successfully processed ad 8670389153010975
+2024-11-30 19:22:10,770 - INFO - Successfully processed ad 9131433553554722
+2024-11-30 19:22:10,930 - INFO - Successfully processed ad 1108464450631877
+2024-11-30 19:22:10,958 - INFO - Successfully processed ad 1678663123084033
+2024-11-30 19:22:11,123 - INFO - Successfully processed ad 873690674582442
+2024-11-30 19:22:11,263 - INFO - Successfully processed ad 550406217967751
+2024-11-30 19:22:11,916 - INFO - Successfully processed ad 555805780416651
+2024-11-30 19:22:12,032 - INFO - Successfully processed ad 560465680034710
+2024-11-30 19:22:12,424 - INFO - Successfully processed ad 1508451479867376
+2024-11-30 19:22:12,500 - INFO - Successfully processed ad 2984411375039498
+2024-11-30 19:22:12,552 - INFO - Successfully processed ad 1123391206457102
+2024-11-30 19:22:12,595 - INFO - Successfully processed ad 874335204687626
+2024-11-30 19:22:12,804 - INFO - Successfully processed ad 879362090933456
+2024-11-30 19:22:12,906 - INFO - Successfully processed ad 924467179194687
+2024-11-30 19:22:12,954 - INFO - Successfully processed ad 885700023763644
+2024-11-30 19:22:13,290 - INFO - Successfully processed ad 913636477357291
+2024-11-30 19:22:13,438 - INFO - Successfully processed ad 319463790972612
+2024-11-30 19:22:13,677 - INFO - Successfully processed ad 1253506055960477
+2024-11-30 19:22:14,087 - INFO - Successfully processed ad 1335804770911112
+2024-11-30 19:22:14,269 - INFO - Successfully processed ad 2822429157957880
+2024-11-30 19:22:14,578 - INFO - Successfully processed ad 906292294954510
+2024-11-30 19:22:14,622 - INFO - Successfully processed ad 1589527065267903
+2024-11-30 19:22:15,033 - INFO - Successfully processed ad 1250313356238900
+2024-11-30 19:22:15,056 - INFO - Successfully processed ad 1025904682673996
+2024-11-30 19:22:15,219 - INFO - Successfully processed ad 468372793032401
+2024-11-30 19:22:15,342 - INFO - Successfully processed ad 420253954352755
+2024-11-30 19:22:15,602 - INFO - Successfully processed ad 1090570509201739
+2024-11-30 19:22:15,660 - INFO - Successfully processed ad 1971993493275526
+2024-11-30 19:22:15,677 - INFO - Successfully processed ad 1781920742346758
+2024-11-30 19:22:15,744 - INFO - Successfully processed ad 1278480036666831
+2024-11-30 19:22:15,774 - INFO - Successfully processed ad 608080881647956
+2024-11-30 19:22:16,067 - INFO - Successfully processed ad 956323616316908
+2024-11-30 19:22:16,348 - INFO - Successfully processed ad 3520307364780844
+2024-11-30 19:22:16,783 - INFO - Successfully processed ad 1991823771244629
+2024-11-30 19:22:16,784 - INFO - Successfully processed ad 1367298397987672
+2024-11-30 19:22:16,940 - INFO - Successfully processed ad 1581685846097439
+2024-11-30 19:22:17,734 - INFO - Successfully processed ad 1084304613151102
+2024-11-30 19:22:17,753 - INFO - Successfully processed ad 458228789955539
+2024-11-30 19:22:17,826 - INFO - Successfully processed ad 1356474952001168
+2024-11-30 19:22:18,209 - INFO - Successfully processed ad 1266536474657062
+2024-11-30 19:22:18,503 - INFO - Successfully processed ad 770733158546059
+2024-11-30 19:22:18,865 - INFO - Successfully processed ad 9178413838836853
+2024-11-30 19:22:18,993 - INFO - Successfully processed ad 1084981293130624
+2024-11-30 19:22:19,203 - INFO - Successfully processed ad 883977547212570
+2024-11-30 19:22:19,324 - INFO - Successfully processed ad 3013517498805949
+2024-11-30 19:22:19,669 - INFO - Successfully processed ad 1236189641026684
+2024-11-30 19:22:19,779 - INFO - Successfully processed ad 363294206762878
+2024-11-30 19:22:19,869 - INFO - Successfully processed ad 389942193991693
+2024-11-30 19:22:19,900 - INFO - Successfully processed ad 1117848819974618
+2024-11-30 19:22:20,007 - INFO - Successfully processed ad 1234037750987811
+2024-11-30 19:22:20,182 - INFO - Successfully processed ad 1582334029314026
+2024-11-30 19:22:20,711 - INFO - Successfully processed ad 1993261501182666
+2024-11-30 19:22:20,837 - INFO - Successfully processed ad 548261204589302
+2024-11-30 19:22:21,125 - INFO - Successfully processed ad 538372138997224
+2024-11-30 19:22:21,589 - INFO - Successfully processed ad 818654656956224
+2024-11-30 19:22:22,213 - INFO - Successfully processed ad 3163699457269101
+2024-11-30 19:22:22,404 - INFO - Successfully processed ad 538422525756663
+2024-11-30 19:22:22,524 - INFO - Successfully processed ad 1090645512597833
+2024-11-30 19:22:22,685 - INFO - Successfully processed ad 957927339511717
+2024-11-30 19:22:22,810 - INFO - Successfully processed ad 2519384234917057
+2024-11-30 19:22:23,062 - INFO - Successfully processed ad 1006098601280948
+2024-11-30 19:22:23,190 - INFO - Successfully processed ad 384566477983482
+2024-11-30 19:22:23,655 - INFO - Successfully processed ad 729235005921674
+2024-11-30 19:22:23,833 - INFO - Successfully processed ad 1531735944371091
+2024-11-30 19:22:23,963 - INFO - Successfully processed ad 1708040273325337
+2024-11-30 19:22:24,011 - INFO - Successfully processed ad 482586644285428
+2024-11-30 19:22:24,371 - INFO - Successfully processed ad 444817985328121
+2024-11-30 19:22:24,610 - INFO - Successfully processed ad 587108357190518
+2024-11-30 19:22:24,918 - INFO - Successfully processed ad 499917209723906
+2024-11-30 19:22:25,072 - INFO - Successfully processed ad 1043330223748384
+2024-11-30 19:22:25,316 - INFO - Successfully processed ad 362052060301427
+2024-11-30 19:22:25,557 - INFO - Successfully processed ad 1665564064021353
+2024-11-30 19:22:25,648 - INFO - Successfully processed ad 310015471669190
+2024-11-30 19:22:25,864 - INFO - Successfully processed ad 1449898585582662
+2024-11-30 19:22:25,976 - INFO - Successfully processed ad 1084383169604194
+2024-11-30 19:22:26,543 - INFO - Successfully processed ad 2767006930168622
+2024-11-30 19:22:26,754 - INFO - Successfully processed ad 596242489521990
+2024-11-30 19:22:27,068 - INFO - Successfully processed ad 1594678311160674
+2024-11-30 19:22:27,136 - INFO - Successfully processed ad 1244915983757890
+2024-11-30 19:22:27,365 - INFO - Successfully processed ad 1204210117341510
+2024-11-30 19:22:27,628 - INFO - Successfully processed ad 1003257334091817
+2024-11-30 19:22:27,746 - INFO - Successfully processed ad 1718321198989578
+2024-11-30 19:22:27,773 - INFO - Successfully processed ad 1622251322038541
+2024-11-30 19:22:27,832 - INFO - Successfully processed ad 3691161844465792
+2024-11-30 19:22:27,952 - INFO - Successfully processed ad 1485815375536766
+2024-11-30 19:22:28,132 - INFO - Successfully processed ad 621045263364780
+2024-11-30 19:22:28,282 - INFO - Successfully processed ad 557108376952221
+2024-11-30 19:22:30,047 - INFO - Successfully processed ad 614872587537291
+2024-11-30 19:22:30,084 - INFO - Successfully processed ad 541496618789067
+2024-11-30 19:22:30,156 - INFO - Successfully processed ad 558593653766633
+2024-11-30 19:22:30,243 - INFO - Successfully processed ad 8970668732972302
+2024-11-30 19:22:30,433 - INFO - Successfully processed ad 1653933732198160
+2024-11-30 19:22:30,805 - INFO - Successfully processed ad 1604765640435692
+2024-11-30 19:22:30,842 - INFO - Successfully processed ad 450074241154934
+2024-11-30 19:22:30,907 - INFO - Successfully processed ad 389597150814992
+2024-11-30 19:22:31,747 - INFO - Successfully processed ad 1589127498477281
+2024-11-30 19:22:32,549 - INFO - Successfully processed ad 887235546850416
+2024-11-30 19:22:32,550 - INFO - 
+Processing complete:
+2024-11-30 19:22:32,550 - INFO - Successfully processed: 517 ads
+2024-11-30 19:22:32,550 - INFO - Failed to process: 0 ads
+2024-11-30 19:22:32,550 - INFO - Skipped (already processed): 0 ads
+2024-11-30 19:22:32,550 - INFO - Total processed: 517 ads

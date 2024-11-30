@@ -1,0 +1,22 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "```xml\n<output>\n<analysis>\n<has-cmf>False. There is no CMF number present in the provided post.</has-cmf>\n<refers-to-candidate>False. The post does not refer to any parliamentary candidate. It focuses on public health information regarding the West Nile virus.</refers-to-candidate>\n<addresses-the-wide-population>True.  The post is a paid advertisement on Facebook, a public platform, and the content addresses a public health issue affecting the general population of Romania. The reach estimate is \">1M\", indicating a wide dissemination.</addresses-the-wide-population>\n<electoral-objective>False. The objective of the post is to raise public awareness about the West Nile virus and its impact in Romania. There is no attempt to influence voters' choices in the parliamentary elections.</electoral-objective>\n<journalism>True. The post presents information from a public health official (dr. Anca \u0218erbu) and statistics from the European Centre for Disease Prevention and Control. It is presented in a journalistic style, aiming to inform the public about a relevant health issue.</journalism>\n<personal_opinion>Not applicable. The post does not express personal opinions; it presents factual information and expert commentary.</personal_opinion>\n</analysis>\n\n<conclusion>\n<post_id>550794801120218</post_id>\n<electoral-propaganda-analysis>\nThe Facebook post, focusing on public health information about the West Nile virus, does not constitute electoral propaganda.  It lacks any reference to parliamentary candidates or parties, its objective is purely informative, and it is presented in a journalistic style. The paid advertisement format on Facebook does not automatically qualify it as electoral propaganda; the content itself must meet the criteria defined in Article 36 (7) of LEGE nr. 334 din 17 iulie 2006.  This post does not meet those criteria.\n</electoral-propaganda-analysis>\n<electoral-propaganda-decision>FALSE</electoral-propaganda-decision>\n<electoral-propaganda-candidates/>\n<responsible-party-or-group>Videomedicina.ro</responsible-party-or-group>\n<message-for-police/>\n</conclusion>\n</output>\n```\n"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "avgLogprobs": -0.10247178979822107
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 7585,
+    "candidatesTokenCount": 518,
+    "totalTokenCount": 8103
+  },
+  "modelVersion": "gemini-1.5-flash-002"
+}

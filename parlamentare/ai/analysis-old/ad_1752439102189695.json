@@ -1,0 +1,22 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "```xml\n<output>\n<analysis>\n<has-cmf>False. There is no CMF number present in the provided post information.</has-cmf>\n<refers-to-candidate>False. The post does not refer to any parliamentary candidate.  It promotes an event discussing social media and violence, not related to any specific candidate or party.</refers-to-candidate>\n<addresses-the-wide-population>True. The post is a paid advertisement on Facebook, a public platform, and targets a wide audience in Cluj County, Romania, as indicated by the ad's reach estimate and targeting data. The event itself is open to the public.</addresses-the-wide-population>\n<electoral-objective>False. The objective of the post is to promote an event discussing social media and violence. There is no indication that the event or the post aims to influence voters in the parliamentary elections.</electoral-objective>\n<journalism>True. The event description suggests a discussion on a topic of public interest, aligning with journalistic principles of informing and educating the public. The speakers' credentials (journalist and criminology lecturer) further support this interpretation.</journalism>\n<personal_opinion>Not applicable. The post does not express personal opinions related to the parliamentary elections.</personal_opinion>\n</analysis>\n\n<conclusion>\n<post_id>1752439102189695</post_id>\n<electoral-propaganda-analysis>\nThe Facebook post promotes a public event discussing social media and violence. The event is not related to the parliamentary elections, nor does it endorse or criticize any candidate or party. The post's objective is to inform and educate the public on a relevant social issue.  The targeting data shows a broad reach within Cluj County, but this is not inherently problematic as it does not target the election specifically.  The content is consistent with journalistic or educational aims, not electoral propaganda.\n</electoral-propaganda-analysis>\n<electoral-propaganda-decision>FALSE</electoral-propaganda-decision>\n<electoral-propaganda-candidates/>\n<responsible-party-or-group>Mathias Corvinus Collegium</responsible-party-or-group>\n<message-for-police/>\n</conclusion>\n</output>\n```\n"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "avgLogprobs": -0.14995135546200844
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 6126,
+    "candidatesTokenCount": 507,
+    "totalTokenCount": 6633
+  },
+  "modelVersion": "gemini-1.5-flash-002"
+}

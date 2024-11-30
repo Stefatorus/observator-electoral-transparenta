@@ -1,0 +1,22 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "```xml\n<output>\n<analysis>\n<has-cmf>The provided post does not contain a CMF number.  While the absence of a CMF number doesn't automatically exclude the possibility of electoral propaganda, it suggests the post might not be directly linked to a specific candidate participating in the parliamentary elections.</has-cmf>\n<refers-to-candidate>The post does not explicitly mention any parliamentary candidate by name or clearly identifiable affiliation. The link leads to a survey, not a direct endorsement or criticism of any candidate.</refers-to-candidate>\n<addresses-the-wide-population>The post is a paid Facebook advertisement, inherently targeting a wide audience. The use of Facebook as a platform and the paid nature of the post indicate an intention to reach a broad segment of the population.</addresses-the-wide-population>\n<electoral-objective>The objective of the post appears to be conducting a survey, not influencing votes for or against any particular candidate. The link directs users to a survey (\"sondaj.atlasintel.org\"), suggesting data collection as the primary goal. While the data collected *could* be used for political analysis, the post itself doesn't advocate for or against any candidate.</electoral-objective>\n<journalism>The post could be considered a form of citizen journalism or market research.  It presents a survey, which, while related to political topics, doesn't directly advocate for or against any candidate. The focus is on data collection and analysis, not influencing voter behavior.</journalism>\n<personal_opinion>The post doesn't express a personal opinion; it presents a survey.  There is no subjective commentary or biased language that could be interpreted as an attempt to sway public opinion towards or against a specific candidate.</personal_opinion>\n</analysis>\n\n<conclusion>\n<post_id>1267402787641911</post_id>\n<electoral-propaganda-analysis>\nThe post, while falling under the \"POLITICAL\" category, does not appear to constitute electoral propaganda under Article 98 t).  It lacks direct reference to any parliamentary candidate, its primary objective is data collection through a survey, and it doesn't explicitly encourage or discourage voting for any specific candidate. The absence of a CMF number further weakens the argument for it being electoral propaganda.  While the data collected might be used for political analysis later, the post itself is neutral and informational in nature.\n</electoral-propaganda-analysis>\n<electoral-propaganda-decision>FALSE</electoral-propaganda-decision>\n<electoral-propaganda-candidates/>\n<responsible-party-or-group>AtlasIntel</responsible-party-or-group>\n<message-for-police/>\n</conclusion>\n</output>\n```\n"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "avgLogprobs": -0.18057752123066023
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 14248,
+    "candidatesTokenCount": 612,
+    "totalTokenCount": 14860
+  },
+  "modelVersion": "gemini-1.5-flash-002"
+}

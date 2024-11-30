@@ -1,0 +1,22 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "```xml\n<output>\n<analysis>\n<has-cmf>False. There is no CMF number present in the provided post information.</has-cmf>\n<refers-to-candidate>False. The post does not refer to any parliamentary candidate.  The content focuses on the adoption of robots in factories worldwide, providing statistical data and analysis. There is no mention of any political candidate or party.</refers-to-candidate>\n<addresses-the-wide-population>True. The post is a paid advertisement on Facebook, a public platform, and the content is about a general topic (automation in factories) intended for a broad audience. It's not a private or personal communication.</addresses-the-wide-population>\n<electoral-objective>False. The objective of the post is to inform the public about the increasing use of robots in factories globally.  The data presented is factual and sourced from the IFR's World Robotics 2024 report. There is no attempt to influence voters' choices in the parliamentary elections.</electoral-objective>\n<journalism>True. The post's content aligns with journalistic standards. It presents factual information, data analysis, and links to a source (cursdeguvernare.ro). The intention seems to be informative rather than persuasive or promotional in an electoral context.</journalism>\n<personal_opinion>Not applicable. The post doesn't express personal opinions; it presents objective data and analysis.</personal_opinion>\n</analysis>\n\n<conclusion>\n<post_id>559914940234682</post_id>\n<electoral-propaganda-analysis>\nThe Facebook post, focusing on the global adoption of robots in factories, does not constitute electoral propaganda.  The content is factual, data-driven, and sourced from a reputable organization (IFR). It lacks any direct or indirect reference to parliamentary candidates, parties, or any attempt to influence voting behavior. The post's objective is purely informative, aligning with journalistic standards.  The paid nature of the post on a public platform doesn't automatically qualify it as electoral propaganda if the content itself remains neutral and devoid of electoral influence.\n</electoral-propaganda-analysis>\n<electoral-propaganda-decision>FALSE</electoral-propaganda-decision>\n<electoral-propaganda-candidates/>\n<responsible-party-or-group>CursDeGuvernare.ro</responsible-party-or-group>\n<message-for-police/>\n</conclusion>\n</output>\n```\n"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "avgLogprobs": -0.11888899195344059
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 7303,
+    "candidatesTokenCount": 557,
+    "totalTokenCount": 7860
+  },
+  "modelVersion": "gemini-1.5-flash-002"
+}

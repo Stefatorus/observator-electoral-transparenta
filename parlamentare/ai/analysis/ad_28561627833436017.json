@@ -1,0 +1,22 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "```xml\n<output>\n<analysis>\n<has-cmf>False. There is no CMF number present in the provided post information.</has-cmf>\n<refers-to-candidate>False. The post does not refer to any specific parliamentary candidate by name, surname, or party affiliation.  It mentions Adrian M\u0103niu\u021biu, but not in an electoral context.</refers-to-candidate>\n<addresses-the-wide-population>True. The post is a paid advertisement on Facebook, a public platform, and aims to reach a wide audience, not just specific individuals. The reach estimate is \">1M\".</addresses-the-wide-population>\n<electoral-objective>False. The objective of the post is to promote a video discussing family budgeting when a baby arrives. While financial matters can indirectly relate to political discourse, this post does not directly advocate for or against any candidate or party in the parliamentary elections.</electoral-objective>\n<journalism>True. The post can be considered a form of journalistic content, promoting a video discussing a topic of public interest (family finances). It does not appear to be intended to influence the vote in the parliamentary elections.</journalism>\n<personal_opinion>Not applicable. The post doesn't express a personal opinion related to the elections.</personal_opinion>\n</analysis>\n\n<conclusion>\n<post_id>28561627833436017</post_id>\n<electoral-propaganda-analysis>\nThe Facebook post, a paid advertisement by EM360 Studio, promotes a video about family budgeting with the arrival of a baby.  The content is not directly related to the parliamentary elections.  While the post targets a wide audience in Romania, its objective is not to influence voters in the elections. The mention of Adrian M\u0103niu\u021biu is not in an electoral context.  The post falls under the category of allowed ads, as it is general in nature and does not advocate for or against any candidate or party.\n</electoral-propaganda-analysis>\n<electoral-propaganda-decision>FALSE</electoral-propaganda-decision>\n<electoral-propaganda-candidates/>\n<responsible-party-or-group>EM360 Studio</responsible-party-or-group>\n<message-for-police/>\n</conclusion>\n</output>\n```\n"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "avgLogprobs": -0.1322531174344255
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 6874,
+    "candidatesTokenCount": 526,
+    "totalTokenCount": 7400
+  },
+  "modelVersion": "gemini-1.5-flash-002"
+}

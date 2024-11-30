@@ -1,0 +1,22 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "```xml\n<output>\n<analysis>\n<has-cmf>False. There is no CMF number present in the provided post.</has-cmf>\n<refers-to-candidate>False. The post does not refer to any parliamentary candidate. It focuses on an event organized by a kindergarten in collaboration with the National Center for Recycling of Electrical and Electronic Equipment (CNREE) celebrating Children's Day.  There is no mention of any political candidate or party.</refers-to-candidate>\n<addresses-the-wide-population>True. The post is a paid advertisement on Facebook, a public platform, and the content is about an event intended to reach a wide audience, not just specific individuals. The reach estimate is \">1M\".</addresses-the-wide-population>\n<electoral-objective>False. The objective of the post is to promote an environmental awareness event for children, not to influence the vote for any candidate in the parliamentary elections. The content is related to environmental sustainability and education, not electoral politics.</electoral-objective>\n<journalism>True. The post can be considered a form of public relations or citizen journalism, aiming to inform the public about the event and the CNREE's activities. It does not contain any biased opinions or calls to action related to voting.</journalism>\n<personal_opinion>Not applicable. The post does not express personal opinions related to the parliamentary elections.</personal_opinion>\n</analysis>\n\n<conclusion>\n<post_id>363294206762878</post_id>\n<electoral-propaganda-analysis>\nThe Facebook post promotes a children's environmental awareness event organized by a kindergarten and CNREE.  The content is entirely unrelated to the parliamentary elections.  It does not mention any candidates, parties, or advocate for any political position. The paid advertisement is focused on environmental education and community engagement, not electoral influence.  The large reach (estimated >1M) is consistent with a public awareness campaign, not targeted electoral propaganda.\n</electoral-propaganda-analysis>\n<electoral-propaganda-decision>FALSE</electoral-propaganda-decision>\n<electoral-propaganda-candidates/>\n<responsible-party-or-group>CNREE</responsible-party-or-group>\n<message-for-police/>\n</conclusion>\n</output>\n```\n"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "avgLogprobs": -0.12775948211436963
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 11568,
+    "candidatesTokenCount": 524,
+    "totalTokenCount": 12092
+  },
+  "modelVersion": "gemini-1.5-flash-002"
+}

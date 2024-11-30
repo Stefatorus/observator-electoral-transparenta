@@ -1,0 +1,22 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "```xml\n<output>\n<analysis>\n<has-cmf>False. There is no CMF number present in the provided post.</has-cmf>\n<refers-to-candidate>False. The post does not refer to any parliamentary candidate. It's a religious post celebrating Saint Andrew, the patron saint of Romania.</refers-to-candidate>\n<addresses-the-wide-population>True. The post is a public Facebook post with a wide reach, targeting a large audience in several Romanian counties, as evidenced by the `aaa_info` section specifying numerous cities and counties.  The paid nature of the post further indicates an intention to reach a broad audience.</addresses-the-wide-population>\n<electoral-objective>False. The objective of the post is to commemorate Saint Andrew's Day, a religious holiday, and not to influence the vote for any candidate in the parliamentary elections. The content is entirely religious in nature.</electoral-objective>\n<journalism>False. While the post provides some historical information about Saint Andrew, it's not presented in a journalistic style. It lacks the objectivity and neutrality expected of journalistic content. It's more of a celebratory religious message.</journalism>\n<personal_opinion>False. The post doesn't express a personal opinion related to the elections. It's a straightforward religious message.</personal_opinion>\n</analysis>\n\n<conclusion>\n<post_id>498128496608285</post_id>\n<electoral-propaganda-analysis>\nThe Facebook post celebrates Saint Andrew's Day, a religious holiday in Romania.  The content is entirely religious, focusing on the life and significance of Saint Andrew as the patron saint of Romania. There is no mention of any political candidate or party, nor any attempt to influence voters' choices in the parliamentary elections. The targeting of the ad is geographically focused, but this does not inherently constitute electoral propaganda. The post does not meet the criteria outlined in Article 36 (7) of LEGE nr. 334 din 17 iulie 2006, as it lacks a direct reference to a candidate or party, an electoral objective, and it does not exceed the limits of religious information.\n</electoral-propaganda-analysis>\n<electoral-propaganda-decision>FALSE</electoral-propaganda-decision>\n<electoral-propaganda-candidates/>\n<responsible-party-or-group>Vocea Botosani</responsible-party-or-group>\n<message-for-police/>\n</conclusion>\n</output>\n```\n"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "avgLogprobs": -0.10059230198618838
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 8874,
+    "candidatesTokenCount": 573,
+    "totalTokenCount": 9447
+  },
+  "modelVersion": "gemini-1.5-flash-002"
+}

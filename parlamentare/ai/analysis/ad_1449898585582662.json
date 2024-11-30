@@ -1,0 +1,22 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "```xml\n<output>\n<analysis>\n<has-cmf>FALSE</has-cmf>\n<refers-to-candidate>FALSE</refers-to-candidate>\n<addresses-the-wide-population>TRUE</addresses-the-wide-population>\n<electoral-objective>FALSE</electoral-objective>\n<journalism>FALSE</journalism>\n<personal_opinion>FALSE</personal_opinion>\n</analysis>\n\n<conclusion>\n<post_id>1449898585582662</post_id>\n<electoral-propaganda-analysis>\nThis Facebook post, promoting a training event, does not constitute electoral propaganda.  There is no mention of any political candidate or party. The content focuses solely on an upcoming training event organized by AGXecutive, detailing the event's structure, date, location, and registration information. While the post falls under the \"POLITICAL\" category due to the advertiser's past activity, the specific content itself is entirely unrelated to any electoral process or candidate. The objective is clearly to promote a professional development opportunity, not to influence voters.  The presence of a contact email and phone number, along with a website, are standard business practices and do not indicate an attempt to manipulate the electoral process. The spend is below RON 100, which is a small amount and does not suggest a large-scale campaign. The target audience is broad, focusing on individuals interested in agricultural training, not specifically voters for a particular candidate.\n</electoral-propaganda-analysis>\n<electoral-propaganda-decision>FALSE</electoral-propaganda-decision>\n<electoral-propaganda-candidates/>\n<responsible-party-or-group>AGXECUTIVE</responsible-party-or-group>\n<message-for-police/>\n</conclusion>\n</output>\n```\n"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "avgLogprobs": -0.1555080732468489
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 6576,
+    "candidatesTokenCount": 419,
+    "totalTokenCount": 6995
+  },
+  "modelVersion": "gemini-1.5-flash-002"
+}

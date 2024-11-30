@@ -1,0 +1,22 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "```xml\n<output>\n<analysis>\n<has-cmf>False. There is no CMF number present in the provided post information.</has-cmf>\n<refers-to-candidate>False. The post does not refer to any parliamentary candidate.  The event is about urban ghettos and integration challenges in Western Europe. While political in nature, it does not endorse or oppose any specific candidate running for parliamentary elections.</refers-to-candidate>\n<addresses-the-wide-population>True. The post is a paid advertisement on Facebook, a public platform, and targets a broad audience interested in urban studies, migration, and integration in Western Europe. The reach estimate is 10K-50K, indicating a wide dissemination.</addresses-the-wide-population>\n<electoral-objective>False. The objective of the post is to promote an event organized by the Mathias Corvinus Collegium, focusing on urban ghettos and integration. There is no discernible intention to influence the outcome of the parliamentary elections.</electoral-objective>\n<journalism>True. The event description suggests a discussion on a relevant social and political issue.  The presentation of the event could be considered a form of public information or citizen journalism, aiming to educate and inform the public on a specific topic. It does not directly advocate for or against any political candidate or party.</journalism>\n<personal_opinion>Not applicable. The post doesn't express personal opinions; it promotes a public event.</personal_opinion>\n</analysis>\n\n<conclusion>\n<post_id>1099600071570455</post_id>\n<electoral-propaganda-analysis>\nThe Facebook post promotes a public event discussing urban ghettos and integration challenges in Western Europe. While the topic has political implications, the post itself does not advocate for or against any specific candidate or party participating in the parliamentary elections.  The event's focus is on academic discussion and public information, not electoral campaigning. The lack of any reference to specific candidates, combined with the event's subject matter, suggests that this post does not constitute electoral propaganda under Article 98 t).\n</electoral-propaganda-analysis>\n<electoral-propaganda-decision>FALSE</electoral-propaganda-decision>\n<electoral-propaganda-candidates/>\n<responsible-party-or-group>MCC</responsible-party-or-group>\n<message-for-police/>\n</conclusion>\n</output>\n```\n"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "avgLogprobs": -0.1403139363164487
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 6471,
+    "candidatesTokenCount": 552,
+    "totalTokenCount": 7023
+  },
+  "modelVersion": "gemini-1.5-flash-002"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "```xml\n<output>\n<analysis>\n<has-cmf>False. There is no CMF number present in the provided post information.</has-cmf>\n<refers-to-candidate>False. The Facebook post does not refer to any specific parliamentary candidate or party.  The content focuses on job opportunities and does not mention any political figures or parties involved in the parliamentary elections.</refers-to-candidate>\n<addresses-the-wide-population>True. The post is a paid advertisement on Facebook, a public platform, and its content is designed to reach a wide audience seeking employment opportunities. The targeting parameters (age, gender, location) further indicate an attempt to reach a broad segment of the population.</addresses-the-wide-population>\n<electoral-objective>False. The primary objective of the post is to promote job opportunities through the \"Anuntul Telefonic\" platform. There is no evidence suggesting an intention to influence voters' choices in the parliamentary elections. The content is purely informational and related to employment, not electoral politics.</electoral-objective>\n<journalism>True. The post can be considered a form of advertising, which is not inherently electoral propaganda. It provides information about job opportunities, similar to a classified advertisement in a newspaper. It does not express opinions or advocate for any political stance.</journalism>\n<personal_opinion>Not applicable. The post does not express personal opinions or views related to the parliamentary elections.</personal_opinion>\n</analysis>\n\n<conclusion>\n<post_id>1236189641026684</post_id>\n<electoral-propaganda-analysis>\nThe Facebook post is an advertisement for job opportunities. While categorized under \"POLITICAL\" due to the platform's automated categorization, the content itself is unrelated to the parliamentary elections. It does not promote any candidate, party, or political message. The objective is purely commercial \u2013 promoting job listings.  The targeting parameters, while broad, are consistent with a typical employment advertisement aiming for maximum reach among potential job seekers.  There is no mention of any political party or candidate, nor any attempt to influence voting behavior.\n</electoral-propaganda-analysis>\n<electoral-propaganda-decision>FALSE</electoral-propaganda-decision>\n<electoral-propaganda-candidates/>\n<responsible-party-or-group>Anuntul Telefonic SRL</responsible-party-or-group>\n<message-for-police/>\n</conclusion>\n</output>\n```\n"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "avgLogprobs": -0.1497531067005303
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 6954,
+    "candidatesTokenCount": 551,
+    "totalTokenCount": 7505
+  },
+  "modelVersion": "gemini-1.5-flash-002"
+}

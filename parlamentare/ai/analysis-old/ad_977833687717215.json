@@ -1,0 +1,22 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "```xml\n<output>\n<analysis>\n<has-cmf>False. There is no CMF number present in the provided post.</has-cmf>\n<refers-to-candidate>False. The post does not refer to any parliamentary candidate by name, surname, or any other clear identifier.  It promotes a sustainability forum.</refers-to-candidate>\n<addresses-the-wide-population>True. The post is a paid advertisement on Facebook, a public platform, and its content is designed to reach a broad audience, not just specific individuals.</addresses-the-wide-population>\n<electoral-objective>False. The objective of the post is to promote a sustainability forum, not to influence the outcome of the parliamentary elections. The content focuses on environmental issues and education, not on endorsing or criticizing any political candidate or party.</electoral-objective>\n<journalism>True. The post could be considered a form of public announcement or event promotion, similar to a news item announcing a conference or forum. It aims to inform the public about the event, not to sway their votes.</journalism>\n<personal_opinion>Not applicable. The post does not express personal opinions related to the parliamentary elections.</personal_opinion>\n</analysis>\n\n<conclusion>\n<post_id>977833687717215</post_id>\n<electoral-propaganda-analysis>\nThe Facebook post promotes a sustainability forum (\"Green Start-Up Sustainability Forum 2025\").  It does not mention any political candidates or parties, nor does it advocate for or against any political position related to the parliamentary elections. The content focuses solely on the event itself, its goals, and its partnership with Narada.  The paid advertisement is targeted towards a broad audience interested in sustainability, not specifically voters in the parliamentary elections. Therefore, it does not meet the criteria for electoral propaganda as defined by Article 36 (7) of LEGE nr. 334 din 17 iulie 2006 and Article 98 t) of LEGE nr. 208 din 20 iulie 2015.\n</electoral-propaganda-analysis>\n<electoral-propaganda-decision>FALSE</electoral-propaganda-decision>\n<electoral-propaganda-candidates/>\n<responsible-party-or-group>Green Start-Up</responsible-party-or-group>\n<message-for-police/>\n</conclusion>\n</output>\n```\n"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "avgLogprobs": -0.10123319211213486
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 6916,
+    "candidatesTokenCount": 552,
+    "totalTokenCount": 7468
+  },
+  "modelVersion": "gemini-1.5-flash-002"
+}

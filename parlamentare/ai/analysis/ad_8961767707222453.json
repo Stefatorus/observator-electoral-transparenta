@@ -1,0 +1,22 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "```xml\n<output>\n<analysis>\n<has-cmf>False. There is no CMF number present in the provided post information.</has-cmf>\n<refers-to-candidate>False. The post promotes an academic lecture on totalitarianism, art, and law, focusing on Mussolini and Ceau\u0219escu.  It does not refer to any specific parliamentary candidate participating in the Romanian parliamentary elections.</refers-to-candidate>\n<addresses-the-wide-population>True. The post is a paid advertisement on Facebook, a public platform, promoting an event open to the public.  The reach estimate indicates a wide potential audience.</addresses-the-wide-population>\n<electoral-objective>False. The objective of the post is to promote an academic lecture, not to influence the outcome of any election. The content focuses on historical analysis of totalitarian regimes and their use of art and law to consolidate power. There is no call to action related to voting for or against any candidate.</electoral-objective>\n<journalism>True. The description of the lecture and the speakers' credentials align with journalistic standards of providing information and analysis on a historical topic. The post does not present biased opinions or advocate for a particular political viewpoint related to the parliamentary elections.</journalism>\n<personal_opinion>Not applicable. The post does not express personal opinions but rather presents factual information about an upcoming event.</personal_opinion>\n</analysis>\n\n<conclusion>\n<post_id>8961767707222453</post_id>\n<electoral-propaganda-analysis>\nThe Facebook post promotes an academic lecture on totalitarianism, art, and law, focusing on historical figures Mussolini and Ceau\u0219escu.  The content is educational and analytical, focusing on the intersection of law, art, and totalitarian regimes.  It does not mention any current political candidates or parties, nor does it advocate for or against any political position related to the Romanian parliamentary elections. The post's objective is to inform the public about an upcoming event, not to influence voting behavior.  Therefore, it does not meet the criteria for electoral propaganda as defined by Article 36 (7) of LEGE nr. 334 din 17 iulie 2006 and Article 98 t) of LEGE nr. 208 din 20 iulie 2015.\n</electoral-propaganda-analysis>\n<electoral-propaganda-decision>FALSE</electoral-propaganda-decision>\n<electoral-propaganda-candidates/>\n<responsible-party-or-group>Mathias Corvinus Collegium</responsible-party-or-group>\n<message-for-police/>\n</conclusion>\n</output>\n```\n"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "avgLogprobs": -0.09795223640290317
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 10665,
+    "candidatesTokenCount": 604,
+    "totalTokenCount": 11269
+  },
+  "modelVersion": "gemini-1.5-flash-002"
+}

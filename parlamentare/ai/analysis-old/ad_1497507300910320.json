@@ -1,0 +1,22 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "```xml\n<output>\n<analysis>\n<has-cmf>False. There is no CMF number present in the provided post information.</has-cmf>\n<refers-to-candidate>False. The post does not refer to any specific parliamentary candidate.  It promotes an event organized by the Mathias Corvinus Collegium, a non-political entity, although it falls under the \"POLITICAL\" category due to the nature of the organization's activities.</refers-to-candidate>\n<addresses-the-wide-population>True. The post is a paid advertisement on Facebook, a public platform, and targets a wide audience in K\\u00e8zdiv\\u00e1s\\u00e0rhely, Covasna, Romania, with an estimated reach of 10K-50K.  The event is open to the public.</addresses-the-wide-population>\n<electoral-objective>False. The objective of the post is to promote an event about enhancing competitiveness in the digital age within the tourism sector. While the MCC may engage in activities with political implications, this specific post does not aim to influence votes in the parliamentary elections.</electoral-objective>\n<journalism>False. While the event topic might be of interest to those following political and economic developments, the post itself is primarily an advertisement for an event, not a journalistic piece. It lacks the characteristics of objective reporting, analysis, or opinion pieces.</journalism>\n<personal_opinion>Not applicable. The post doesn't express personal opinions; it's a promotional announcement.</personal_opinion>\n</analysis>\n\n<conclusion>\n<post_id>1497507300910320</post_id>\n<electoral-propaganda-analysis>\nThe Facebook post promotes an event organized by the Mathias Corvinus Collegium (MCC) on enhancing competitiveness in the digital age within the tourism sector.  While the MCC might have political leanings or engage in politically relevant activities, this specific post does not directly advocate for or against any parliamentary candidate or party. The post's objective is to promote attendance at a public event, not to influence the outcome of the parliamentary elections.  The targeting is geographically limited and age-restricted, but not specifically aimed at influencing voters.  The content itself is not electoral propaganda as defined by Article 36 (7) of LEGE nr. 334 din 17 iulie 2006.\n</electoral-propaganda-analysis>\n<electoral-propaganda-decision>FALSE</electoral-propaganda-decision>\n<electoral-propaganda-candidates/>\n<responsible-party-or-group>MCC</responsible-party-or-group>\n<message-for-police/>\n</conclusion>\n</output>\n```\n"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "avgLogprobs": -0.1450091297603497
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 6359,
+    "candidatesTokenCount": 622,
+    "totalTokenCount": 6981
+  },
+  "modelVersion": "gemini-1.5-flash-002"
+}

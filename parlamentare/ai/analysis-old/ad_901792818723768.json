@@ -1,0 +1,22 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "```xml\n<output>\n<analysis>\n<has-cmf>False. There is no CMF number present in the provided post information.</has-cmf>\n<refers-to-candidate>False. The post does not refer to any parliamentary candidate by name, surname, or any other clear identifier.  The content focuses on criticism of the Craiova mayor's office regarding their actions towards local businesses.</refers-to-candidate>\n<addresses-the-wide-population>True. The post is a paid advertisement on Facebook, a public platform, and its content is not directed at a specific individual but rather addresses a broader audience interested in local Craiova news and politics.</addresses-the-wide-population>\n<electoral-objective>False. While the post touches upon a political issue (local governance and its impact on businesses), its primary objective is not to influence the vote for any particular candidate in the parliamentary elections. The content focuses on criticizing the actions of the local government, not promoting or hindering any specific candidate.</electoral-objective>\n<journalism>True. The post's style and content align with citizen journalism or investigative reporting, aiming to inform the public about a local political issue. It presents a critical perspective on the actions of the local authorities, which is within the realm of journalistic practice.</journalism>\n<personal_opinion>False. While the post expresses a critical opinion, it's presented as a news report rather than a personal opinion. The tone is objective, presenting facts and a critical analysis of a situation, not expressing personal feelings or biases.</personal_opinion>\n</analysis>\n\n<conclusion>\n<post_id>901792818723768</post_id>\n<electoral-propaganda-analysis>\nThe Facebook post, while dealing with a political subject (local governance), does not constitute electoral propaganda under Article 98 t) of LEGE nr. 208 din 20 iulie 2015.  The post does not promote or discourage voting for any specific candidate in the parliamentary elections. Its primary aim is to inform the public about a local political issue, which falls under the scope of journalistic reporting.  The absence of any reference to parliamentary candidates, coupled with the objective tone and focus on local governance, prevents it from being classified as electoral propaganda.\n</electoral-propaganda-analysis>\n<electoral-propaganda-decision>FALSE</electoral-propaganda-decision>\n<electoral-propaganda-candidates/>\n<responsible-party-or-group>Indiscret in Oltenia</responsible-party-or-group>\n<message-for-police/>\n</conclusion>\n</output>\n```\n"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "avgLogprobs": -0.17779544875352418
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 6166,
+    "candidatesTokenCount": 593,
+    "totalTokenCount": 6759
+  },
+  "modelVersion": "gemini-1.5-flash-002"
+}

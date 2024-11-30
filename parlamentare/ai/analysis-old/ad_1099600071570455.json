@@ -1,0 +1,22 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "```xml\n<output>\n<analysis>\n<has-cmf>False. There is no CMF number present in the provided post information.</has-cmf>\n<refers-to-candidate>False. The post does not refer to any parliamentary candidate.  The event advertised is a discussion on urban enclaves and integration challenges in Western Europe. While this is a political topic, it does not specifically mention or endorse any candidate running for parliamentary elections.</refers-to-candidate>\n<addresses-the-wide-population>True. The post is a paid advertisement on Facebook, a public platform, and aims to reach a wide audience interested in the topic of urban enclaves and integration. The target audience is defined by age and location, but it is not limited to a specific group of individuals.</addresses-the-wide-population>\n<electoral-objective>False. The objective of the post is to promote an event organized by the Mathias Corvinus Collegium, not to influence the outcome of the parliamentary elections. The content of the event is related to urban studies and social integration, not electoral politics.</electoral-objective>\n<journalism>True. The event description suggests a discussion on a relevant social and political issue.  The presentation of the event could be considered a form of public information or citizen journalism, aiming to educate and inform the public on a specific topic. It does not directly advocate for or against any political candidate or party.</journalism>\n<personal_opinion>Not applicable. The post does not express personal opinions; it promotes a public event.</personal_opinion>\n</analysis>\n\n<conclusion>\n<post_id>1099600071570455</post_id>\n<electoral-propaganda-analysis>\nThe Facebook post promotes a public event discussing urban enclaves and integration challenges.  While the topic has political implications, the post itself does not advocate for or against any candidate or party participating in the parliamentary elections. The event's focus is academic and informative, not overtly political campaigning.  There is no evidence suggesting an intention to influence voters' choices in the parliamentary elections.  The post complies with the allowed ads criteria, as it is general in nature and discusses a political issue without directly relating to the parliamentary elections.\n</electoral-propaganda-analysis>\n<electoral-propaganda-decision>FALSE</electoral-propaganda-decision>\n<electoral-propaganda-candidates/>\n<responsible-party-or-group>MCC</responsible-party-or-group>\n<message-for-police/>\n</conclusion>\n</output>\n```\n"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "avgLogprobs": -0.14686138755396794
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 6407,
+    "candidatesTokenCount": 570,
+    "totalTokenCount": 6977
+  },
+  "modelVersion": "gemini-1.5-flash-002"
+}

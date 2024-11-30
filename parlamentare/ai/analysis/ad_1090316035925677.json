@@ -1,0 +1,22 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "```xml\n<output>\n<analysis>\n<has-cmf>False. There is no CMF number present in the provided post.</has-cmf>\n<refers-to-candidate>False. The post does not refer to any parliamentary candidate. It promotes an event organized by the Eurotrans Foundation regarding assistance with obtaining Hungarian citizenship.  While this might indirectly benefit certain political parties, it does not explicitly endorse or oppose any candidate.</refers-to-candidate>\n<addresses-the-wide-population>True. The post is a paid advertisement on Facebook, a public platform, and aims to reach a wide audience in several Romanian counties, as evidenced by the targeting data. The message is not a private communication.</addresses-the-wide-population>\n<electoral-objective>False. The primary objective of the post is to inform the public about the Eurotrans Foundation's services related to Hungarian citizenship acquisition. While this might have indirect political implications, the post's core message is not to influence voting patterns in the parliamentary elections.</electoral-objective>\n<journalism>False. The post is not journalistic in nature. It's an advertisement for a service offered by a foundation. It does not present news, analysis, or opinions on political events.</journalism>\n<personal_opinion>Not applicable. The post does not express personal opinions.</personal_opinion>\n</analysis>\n\n<conclusion>\n<post_id>1090316035925677</post_id>\n<electoral-propaganda-analysis>\nThe Facebook post promotes an event organized by the Eurotrans Foundation, offering assistance with obtaining Hungarian citizenship.  While the topic has political undertones, the post itself does not directly advocate for or against any candidate in the parliamentary elections. The post's primary goal is to inform the public about the foundation's services, not to influence voting behavior. The targeting data shows a broad reach across multiple counties, but this does not automatically qualify it as electoral propaganda.  The lack of any explicit mention of candidates or parties, combined with the clear focus on the foundation's services, suggests that this post does not violate Article 98 t).\n</electoral-propaganda-analysis>\n<electoral-propaganda-decision>FALSE</electoral-propaganda-decision>\n<electoral-propaganda-candidates/>\n<responsible-party-or-group>Eurotrans Alap\u00edtv\u00e1ny</responsible-party-or-group>\n<message-for-police/>\n</conclusion>\n</output>\n```\n"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "avgLogprobs": -0.13261382070435226
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 7039,
+    "candidatesTokenCount": 557,
+    "totalTokenCount": 7596
+  },
+  "modelVersion": "gemini-1.5-flash-002"
+}

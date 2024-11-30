@@ -1,0 +1,22 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "```xml\n<output>\n<analysis>\n<has-cmf>False. There is no CMF number present in the provided post.</has-cmf>\n<refers-to-candidate>False. The post does not refer to any specific parliamentary candidate.  It promotes an event discussing social media and violence, featuring a speaker and moderator. While political implications of online violence are mentioned, no specific candidate or party is targeted.</refers-to-candidate>\n<addresses-the-wide-population>True. The post is a paid advertisement on Facebook, a public platform, promoting a public event.  The intended audience is broad, aiming to attract attendees to the lecture.</addresses-the-wide-population>\n<electoral-objective>False. The primary objective of the post is to promote attendance at a public lecture on social media and violence. While the lecture touches upon the political implications of online violence, the post itself does not advocate for or against any particular candidate or party in the parliamentary elections.</electoral-objective>\n<journalism>True. The post promotes a discussion on a topic of public interest (the relationship between social media and violence), featuring an expert speaker. This aligns with journalistic principles of informing the public on relevant issues.</journalism>\n<personal_opinion>Not applicable. The post does not express personal opinions but rather promotes a public event.</personal_opinion>\n</analysis>\n\n<conclusion>\n<post_id>1781920742346758</post_id>\n<electoral-propaganda-analysis>\nThe Facebook post promotes a public lecture on the topic of social media and violence. While the lecture's subject matter has political implications, the post itself does not engage in electoral propaganda. It does not endorse or criticize any specific candidate or party participating in the parliamentary elections. The event is presented as an educational opportunity, inviting public participation in a discussion on a relevant social issue.  The post's content and objective are primarily informational and educational, not persuasive or aimed at influencing votes.\n</electoral-propaganda-analysis>\n<electoral-propaganda-decision>FALSE</electoral-propaganda-decision>\n<electoral-propaganda-candidates/>\n<responsible-party-or-group>Mathias Corvinus Collegium</responsible-party-or-group>\n<message-for-police/>\n</conclusion>\n</output>\n```\n"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "avgLogprobs": -0.12685183971100433
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 9915,
+    "candidatesTokenCount": 526,
+    "totalTokenCount": 10441
+  },
+  "modelVersion": "gemini-1.5-flash-002"
+}

@@ -1,0 +1,22 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "```xml\n<output>\n<analysis>\n<has-cmf>False. There is no CMF number present in the provided post.</has-cmf>\n<refers-to-candidate>False. The post does not refer to any parliamentary candidate. It promotes a conference on metaphysics and resilience, featuring speakers Prof. Dr. Rosemarie Haines and Astrolog Adrian Chelariu.  There is no mention of any political party or candidate participating in the parliamentary elections.</refers-to-candidate>\n<addresses-the-wide-population>True. The post is a paid advertisement on Facebook, a public platform, and aims to reach a wide audience interested in metaphysics and personal growth. The content is not a private message or personal communication.</addresses-the-wide-population>\n<electoral-objective>False. The objective of the post is to promote a conference on metaphysics, not to influence the outcome of the parliamentary elections. The content focuses on personal development and spiritual growth, unrelated to electoral politics.</electoral-objective>\n<journalism>False. While the post could be considered a form of self-promotion for the speakers, it does not adhere to journalistic standards. It lacks objectivity and is primarily focused on promoting a specific event.</journalism>\n<personal_opinion>False. The post does not express a personal opinion about any political candidate or party. It promotes a conference on a non-political topic.</personal_opinion>\n</analysis>\n\n<conclusion>\n<post_id>1243842893334211</post_id>\n<electoral-propaganda-analysis>\nThe Facebook post promotes a conference on metaphysics and does not contain any electoral propaganda. It does not mention any parliamentary candidates, parties, or advocate for or against any political position related to the parliamentary elections. The content is focused on personal development and spiritual growth, which is unrelated to the electoral process.  The paid advertisement is for a conference, not a political campaign.\n</electoral-propaganda-analysis>\n<electoral-propaganda-decision>FALSE</electoral-propaganda-decision>\n<electoral-propaganda-candidates/>\n<responsible-party-or-group>INDEPENDENT</responsible-party-or-group>\n<message-for-police/>\n</conclusion>\n</output>\n```\n"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "avgLogprobs": -0.11403727203549008
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 6578,
+    "candidatesTokenCount": 509,
+    "totalTokenCount": 7087
+  },
+  "modelVersion": "gemini-1.5-flash-002"
+}

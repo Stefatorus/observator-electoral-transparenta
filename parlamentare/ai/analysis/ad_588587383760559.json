@@ -1,0 +1,22 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "```xml\n<output>\n<analysis>\n<has-cmf>False. There is no CMF number present in the provided post.</has-cmf>\n<refers-to-candidate>False. The post does not refer to any parliamentary candidate.  It promotes the services of the Eurotrans Foundation regarding Hungarian citizenship applications.</refers-to-candidate>\n<addresses-the-wide-population>True. The post is a paid advertisement on Facebook, a public platform, and aims to reach a wide audience interested in Hungarian citizenship acquisition services. The targeting parameters further suggest an attempt to reach a broad demographic.</addresses-the-wide-population>\n<electoral-objective>False. The objective of the post is not to influence the vote in the parliamentary elections. It promotes the services of a foundation related to citizenship applications, which is unrelated to the electoral process.</electoral-objective>\n<journalism>False. While the post provides information, it's not presented in a journalistic style. It's an advertisement for a service, not an objective news report or analysis.</journalism>\n<personal_opinion>Not applicable. The post doesn't express personal opinions; it's a straightforward advertisement.</personal_opinion>\n</analysis>\n\n<conclusion>\n<post_id>588587383760559</post_id>\n<electoral-propaganda-analysis>\nThe Facebook post promotes the services of the Eurotrans Foundation regarding Hungarian citizenship applications.  The post does not mention any political party or candidate participating in the parliamentary elections. The content is focused on informing potential clients about the foundation's services and upcoming event.  There is no evidence suggesting an intention to influence voters' choices in the parliamentary elections. The targeting parameters, while broad, do not inherently violate electoral laws.  The post does not contain any elements that could be interpreted as electoral propaganda.\n</electoral-propaganda-analysis>\n<electoral-propaganda-decision>FALSE</electoral-propaganda-decision>\n<electoral-propaganda-candidates/>\n<responsible-party-or-group>Eurotrans Alap\u00edtv\u00e1ny</responsible-party-or-group>\n<message-for-police/>\n</conclusion>\n</output>\n```\n"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "avgLogprobs": -0.1354427030009608
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 6546,
+    "candidatesTokenCount": 496,
+    "totalTokenCount": 7042
+  },
+  "modelVersion": "gemini-1.5-flash-002"
+}

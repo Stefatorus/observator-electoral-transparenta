@@ -1,0 +1,22 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "```xml\n<output>\n<analysis>\n<has-cmf>False. There is no CMF number present in the post.</has-cmf>\n<refers-to-candidate>False. The post does not refer to any parliamentary candidate. It promotes events organized by the Viseu de Sus City Hall to celebrate Romania's National Day.</refers-to-candidate>\n<addresses-the-wide-population>True. The post is a paid Facebook advertisement targeting the population of Viseu de Sus, aiming for a wide reach, as evidenced by the reach estimate (10K-50K) and the targeting data in the `aaa_info` section.</addresses-the-wide-population>\n<electoral-objective>False. The objective of the post is to inform the public about community events, not to influence votes in the parliamentary elections.  The content is focused on celebrating Romania's National Day and promoting local events.</electoral-objective>\n<journalism>True. The post can be considered a form of public service announcement, informing citizens about local events. It does not contain any opinion or analysis that could be considered biased or intended to influence the vote.</journalism>\n<personal_opinion>Not applicable. The post does not express personal opinions.</personal_opinion>\n</analysis>\n\n<conclusion>\n<post_id>1784289802402651</post_id>\n<electoral-propaganda-analysis>\nThe Facebook post promotes community events organized by the Viseu de Sus City Hall to celebrate Romania's National Day.  It does not mention any parliamentary candidates or parties, nor does it attempt to influence voters' choices in the parliamentary elections. The content is purely informational and focuses on local events.  The paid nature of the post does not automatically make it electoral propaganda; the content itself must be analyzed. In this case, the content is clearly not related to the parliamentary elections and does not violate Article 98 t).\n</electoral-propaganda-analysis>\n<electoral-propaganda-decision>FALSE</electoral-propaganda-decision>\n<electoral-propaganda-candidates/>\n<responsible-party-or-group>Prim\\u0103ria Vi\\u0219eu de Sus</responsible-party-or-group>\n<message-for-police/>\n</conclusion>\n</output>\n```\n"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "avgLogprobs": -0.09146791134240492
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 6752,
+    "candidatesTokenCount": 530,
+    "totalTokenCount": 7282
+  },
+  "modelVersion": "gemini-1.5-flash-002"
+}
