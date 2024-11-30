@@ -1,0 +1,2157 @@
+{
+  "AIGCDescription": "",
+  "BAInfo": "",
+  "CategoryType": 120,
+  "adAuthorization": false,
+  "adLabelVersion": 0,
+  "aigcLabelType": 0,
+  "author": {
+    "avatarLarger": "https://p16-pu-sign-no.tiktokcdn-eu.com/obj/tos-no1a-avt-0068c001-no/5750eabd23ced315eefaa7cf0d7c65e3?lk3s=a5d48078&nonce=48212&refresh_token=7305d5c97d3ac57a814e16af0652bbc8&x-expires=1733180400&x-signature=u2ItGFpXm%2FARp6AnnVBh9L8wsec%3D&shp=a5d48078&shcp=b59d6b55",
+    "avatarMedium": "https://p16-pu-sign-no.tiktokcdn-eu.com/obj/tos-no1a-avt-0068c001-no/5750eabd23ced315eefaa7cf0d7c65e3?lk3s=a5d48078&nonce=14905&refresh_token=4c189c920f97e375590301c76c88a701&x-expires=1733180400&x-signature=u2ItGFpXm%2FARp6AnnVBh9L8wsec%3D&shp=a5d48078&shcp=b59d6b55",
+    "avatarThumb": "https://p16-pu-sign-no.tiktokcdn-eu.com/obj/tos-no1a-avt-0068c001-no/5750eabd23ced315eefaa7cf0d7c65e3?lk3s=a5d48078&nonce=66577&refresh_token=88989aa564823308a42a808b7ae64c38&x-expires=1733180400&x-signature=u2ItGFpXm%2FARp6AnnVBh9L8wsec%3D&shp=a5d48078&shcp=b59d6b55",
+    "commentSetting": 0,
+    "downloadSetting": 0,
+    "duetSetting": 0,
+    "ftc": false,
+    "id": "7010986878363862022",
+    "isADVirtual": false,
+    "isEmbedBanned": false,
+    "nickname": "Anamaria Gavrila",
+    "openFavorite": false,
+    "privateAccount": false,
+    "relation": 0,
+    "secUid": "MS4wLjABAAAAhVqd4I5G9r42nmdao5R2XewDt-jIaQmHF25X5AI7V8TSseWcUoa9mmDPDTs0STd3",
+    "secret": false,
+    "signature": "Deputat\nPreședinte @Partidul Oamenilor Tineri\nSprijină POT în campanie👇",
+    "stitchSetting": 0,
+    "ttSeller": false,
+    "uniqueId": "anamaria.gavrila.deputat",
+    "verified": false
+  },
+  "authorStats": {
+    "diggCount": 868,
+    "followerCount": 291600,
+    "followingCount": 96,
+    "friendCount": 0,
+    "heart": 3300000,
+    "heartCount": 3300000,
+    "videoCount": 313
+  },
+  "challenges": [
+    {
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": "",
+      "desc": "",
+      "id": "1680467019763714",
+      "isCommerce": false,
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "stats": {
+        "videoCount": 0,
+        "viewCount": 0
+      },
+      "title": "alegeriparlamentare"
+    },
+    {
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": "",
+      "desc": "",
+      "id": "7261938142817550369",
+      "isCommerce": false,
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "stats": {
+        "videoCount": 0,
+        "viewCount": 0
+      },
+      "title": "partiduloamenilortineri"
+    },
+    {
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": "",
+      "desc": "",
+      "id": "1650026106656773",
+      "isCommerce": false,
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "stats": {
+        "videoCount": 0,
+        "viewCount": 0
+      },
+      "title": "parlamentulromaniei"
+    }
+  ],
+  "collected": false,
+  "contents": [
+    {
+      "desc": "@Partidul Oamenilor Tineri - Opriți dezinformările!‼️ POT are șanse‼️ #alegeriparlamentare #partiduloamenilortineri #parlamentulromaniei ",
+      "textExtra": [
+        {
+          "awemeId": "",
+          "end": 26,
+          "hashtagId": "",
+          "hashtagName": "",
+          "isCommerce": false,
+          "secUid": "MS4wLjABAAAA8CKpO4bFu8N00u3iFZb50kEOVcACfYLJRcZV78KG93MDDKYA_E0VLiNVDPEVBsZF",
+          "start": 0,
+          "subType": 0,
+          "type": 0,
+          "userId": "7231626164127925274",
+          "userUniqueId": "partiduloamenilortineri"
+        },
+        {
+          "awemeId": "",
+          "end": 90,
+          "hashtagId": "1680467019763714",
+          "hashtagName": "alegeriparlamentare",
+          "isCommerce": false,
+          "secUid": "",
+          "start": 70,
+          "subType": 0,
+          "type": 1,
+          "userId": "",
+          "userUniqueId": ""
+        },
+        {
+          "awemeId": "",
+          "end": 115,
+          "hashtagId": "7261938142817550369",
+          "hashtagName": "partiduloamenilortineri",
+          "isCommerce": false,
+          "secUid": "",
+          "start": 91,
+          "subType": 0,
+          "type": 1,
+          "userId": "",
+          "userUniqueId": ""
+        },
+        {
+          "awemeId": "",
+          "end": 136,
+          "hashtagId": "1650026106656773",
+          "hashtagName": "parlamentulromaniei",
+          "isCommerce": false,
+          "secUid": "",
+          "start": 116,
+          "subType": 0,
+          "type": 1,
+          "userId": "",
+          "userUniqueId": ""
+        }
+      ]
+    }
+  ],
+  "createTime": 1732969379,
+  "desc": "@Partidul Oamenilor Tineri - Opriți dezinformările!‼️ POT are șanse‼️ #alegeriparlamentare #partiduloamenilortineri #parlamentulromaniei ",
+  "digged": false,
+  "diversificationId": 10083,
+  "duetDisplay": 0,
+  "duetEnabled": true,
+  "duetInfo": {
+    "duetFromId": "0"
+  },
+  "forFriend": false,
+  "id": "7443046787746712854",
+  "isAd": false,
+  "itemCommentStatus": 0,
+  "itemMute": false,
+  "item_control": {
+    "can_repost": true
+  },
+  "music": {
+    "album": "Dramatic",
+    "authorName": "Big Dreams",
+    "coverLarge": "https://p77-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/oEEDUsAyVwCm2iDH7PCB3wAWozAfB6lA2EAdiU.jpeg",
+    "coverMedium": "https://p77-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/oEEDUsAyVwCm2iDH7PCB3wAWozAfB6lA2EAdiU.jpeg",
+    "coverThumb": "https://p77-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/oEEDUsAyVwCm2iDH7PCB3wAWozAfB6lA2EAdiU.jpeg",
+    "duration": 47,
+    "id": "7309015696613459970",
+    "original": false,
+    "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/osIWuiyQ2AtRAHBiMfjUIoLwip1jPtxSbRvBs6",
+    "title": "Dramatic"
+  },
+  "officalItem": false,
+  "originalItem": false,
+  "playlistId": "",
+  "privateItem": false,
+  "secret": false,
+  "shareEnabled": true,
+  "showNotPass": false,
+  "stats": {
+    "collectCount": 783,
+    "commentCount": 2768,
+    "diggCount": 29300,
+    "playCount": 353700,
+    "shareCount": 2756
+  },
+  "statsV2": {
+    "collectCount": "783",
+    "commentCount": "2768",
+    "diggCount": "29319",
+    "playCount": "353699",
+    "repostCount": "0",
+    "shareCount": "2756"
+  },
+  "stickersOnItem": [
+    {
+      "stickerText": [
+        "Opriți dezinformările!\nPOT are șanse!"
+      ],
+      "stickerType": 4
+    },
+    {
+      "stickerText": [
+        "Opriți dezinformările!\n       POT are șanse!"
+      ],
+      "stickerType": 9
+    }
+  ],
+  "stitchDisplay": 0,
+  "stitchEnabled": true,
+  "textExtra": [
+    {
+      "awemeId": "",
+      "end": 26,
+      "hashtagId": "",
+      "hashtagName": "",
+      "isCommerce": false,
+      "secUid": "MS4wLjABAAAA8CKpO4bFu8N00u3iFZb50kEOVcACfYLJRcZV78KG93MDDKYA_E0VLiNVDPEVBsZF",
+      "start": 0,
+      "subType": 0,
+      "type": 0,
+      "userId": "7231626164127925274",
+      "userUniqueId": "partiduloamenilortineri"
+    },
+    {
+      "awemeId": "",
+      "end": 90,
+      "hashtagId": "1680467019763714",
+      "hashtagName": "alegeriparlamentare",
+      "isCommerce": false,
+      "secUid": "",
+      "start": 70,
+      "subType": 0,
+      "type": 1,
+      "userId": "",
+      "userUniqueId": ""
+    },
+    {
+      "awemeId": "",
+      "end": 115,
+      "hashtagId": "7261938142817550369",
+      "hashtagName": "partiduloamenilortineri",
+      "isCommerce": false,
+      "secUid": "",
+      "start": 91,
+      "subType": 0,
+      "type": 1,
+      "userId": "",
+      "userUniqueId": ""
+    },
+    {
+      "awemeId": "",
+      "end": 136,
+      "hashtagId": "1650026106656773",
+      "hashtagName": "parlamentulromaniei",
+      "isCommerce": false,
+      "secUid": "",
+      "start": 116,
+      "subType": 0,
+      "type": 1,
+      "userId": "",
+      "userUniqueId": ""
+    }
+  ],
+  "video": {
+    "VQScore": "77.89",
+    "bitrate": 476913,
+    "bitrateInfo": [
+      {
+        "Bitrate": 476913,
+        "CodecType": "h264",
+        "GearName": "normal_540_0",
+        "MVMAF": "\"\"",
+        "PlayAddr": {
+          "DataSize": 8059832,
+          "FileCs": "c:0-112677-357f",
+          "FileHash": "b47153c9cd23e0ef1e9b94e92e53cc3f",
+          "Height": 1024,
+          "Uri": "v24044gl0000ct5g4m7og65s8l1r7hng",
+          "UrlKey": "v24044gl0000ct5g4m7og65s8l1r7hng_h264_540p_476913",
+          "UrlList": [
+            "https://v16-webapp-prime.tiktok.com/video/tos/no1a/tos-no1a-ve-0068c001-no/oEiWPAO0sQrEB5YHCRAoZzvkZ7xECIBBLWi8U/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=930&bt=465&cs=0&ds=6&ft=4fUEKMT88Zmo0JpNjb4jV5fCrpWrKsd.&mime_type=video_mp4&qs=0&rc=MzlmZDg2ZjdmNDM0MzYzZUBpamt1b3Y5cnBqdzMzbzczNUBhYTM1LmI0XjUxMzQ2MTAwYSNrNC41MmQ0MTJgLS1kMTFzcw%3D%3D&btag=e00090000&expire=1733182216&l=2024113023275910287927435CDDDD8200&ply_type=2&policy=2&signature=20d8e7784299904afcbacbdef3936246&tk=tt_chain_token",
+            "https://v19-webapp-prime.tiktok.com/video/tos/no1a/tos-no1a-ve-0068c001-no/oEiWPAO0sQrEB5YHCRAoZzvkZ7xECIBBLWi8U/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=930&bt=465&cs=0&ds=6&ft=4fUEKMT88Zmo0JpNjb4jV5fCrpWrKsd.&mime_type=video_mp4&qs=0&rc=MzlmZDg2ZjdmNDM0MzYzZUBpamt1b3Y5cnBqdzMzbzczNUBhYTM1LmI0XjUxMzQ2MTAwYSNrNC41MmQ0MTJgLS1kMTFzcw%3D%3D&btag=e00090000&expire=1733182216&l=2024113023275910287927435CDDDD8200&ply_type=2&policy=2&signature=20d8e7784299904afcbacbdef3936246&tk=tt_chain_token",
+            "https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=3b3043907160418ca47ce3158a6cd6d0&is_play_url=1&item_id=7443046787746712854&line=0&ply_type=2&redirect=0&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjdlYjEzMjFlN2U5MTAzZjYxNzQ0OWY5ZThmYjc0NjM2&tk=tt_chain_token&vidc=no1a&video_id=v24044gl0000ct5g4m7og65s8l1r7hng"
+          ],
+          "Width": 576
+        },
+        "QualityType": 20
+      },
+      {
+        "Bitrate": 263883,
+        "CodecType": "h265_hvc1",
+        "GearName": "adapt_lowest_1080_1",
+        "MVMAF": "\"{\\\"v2.0\\\": {\\\"srv1\\\": {\\\"v1080\\\": -1, \\\"v960\\\": -1, \\\"v864\\\": -1, \\\"v720\\\": -1}, \\\"ori\\\": {\\\"v1080\\\": 94.329, \\\"v960\\\": 94.668, \\\"v864\\\": 95.143, \\\"v720\\\": 95.599}}}\"",
+        "PlayAddr": {
+          "DataSize": 4459634,
+          "FileCs": "c:0-112822-72a7",
+          "FileHash": "a1e477e6f72039abdcad4b2b29c87636",
+          "Height": 1920,
+          "Uri": "v24044gl0000ct5g4m7og65s8l1r7hng",
+          "UrlKey": "v24044gl0000ct5g4m7og65s8l1r7hng_bytevc1_1080p_263883",
+          "UrlList": [
+            "https://v16-webapp-prime.tiktok.com/video/tos/no1a/tos-no1a-ve-0068c001-no/o8BOdUEliYr0BvxQPzNCiQRtZLWsAEWIBZBE8/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=514&bt=257&cs=2&ds=4&ft=4fUEKMT88Zmo0JpNjb4jV5fCrpWrKsd.&mime_type=video_mp4&qs=15&rc=PDlnOGZlM2Y5aDw5ZmdlOEBpamt1b3Y5cnBqdzMzbzczNUBjXzFeYWBfXmAxYTAxMTNfYSNrNC41MmQ0MTJgLS1kMTFzcw%3D%3D&btag=e00090000&expire=1733182216&l=2024113023275910287927435CDDDD8200&ply_type=2&policy=2&signature=0a88f87e09be46f2e344dcbc59f94097&tk=tt_chain_token",
+            "https://v19-webapp-prime.tiktok.com/video/tos/no1a/tos-no1a-ve-0068c001-no/o8BOdUEliYr0BvxQPzNCiQRtZLWsAEWIBZBE8/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=514&bt=257&cs=2&ds=4&ft=4fUEKMT88Zmo0JpNjb4jV5fCrpWrKsd.&mime_type=video_mp4&qs=15&rc=PDlnOGZlM2Y5aDw5ZmdlOEBpamt1b3Y5cnBqdzMzbzczNUBjXzFeYWBfXmAxYTAxMTNfYSNrNC41MmQ0MTJgLS1kMTFzcw%3D%3D&btag=e00090000&expire=1733182216&l=2024113023275910287927435CDDDD8200&ply_type=2&policy=2&signature=0a88f87e09be46f2e344dcbc59f94097&tk=tt_chain_token",
+            "https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=b56b4d4c36d94ec6acb0cbdca54db6f9&is_play_url=1&item_id=7443046787746712854&line=0&ply_type=2&redirect=0&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjg2MmE1NDM3ZDE0NTI4MGVjMDJkMjE1ZDAzMDQzMTI1&tk=tt_chain_token&vidc=no1a&video_id=v24044gl0000ct5g4m7og65s8l1r7hng"
+          ],
+          "Width": 1080
+        },
+        "QualityType": 2
+      },
+      {
+        "Bitrate": 201664,
+        "CodecType": "h264",
+        "GearName": "lowest_540_0",
+        "MVMAF": "\"\"",
+        "PlayAddr": {
+          "DataSize": 3408136,
+          "FileCs": "c:0-112677-a95c",
+          "FileHash": "b37ed67eabc82e63dd30ba65657fcb26",
+          "Height": 1024,
+          "Uri": "v24044gl0000ct5g4m7og65s8l1r7hng",
+          "UrlKey": "v24044gl0000ct5g4m7og65s8l1r7hng_h264_540p_201664",
+          "UrlList": [
+            "https://v16-webapp-prime.tiktok.com/video/tos/no1a/tos-no1a-ve-0068-no/o8d08BWizYnZZBOQ7UQvsxFDIBcRLEECABPiA/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=392&bt=196&cs=0&ds=6&ft=4fUEKMT88Zmo0JpNjb4jV5fCrpWrKsd.&mime_type=video_mp4&qs=5&rc=Zjw3aWYzZGZmaDxmN2doZEBpamt1b3Y5cnBqdzMzbzczNUAuMDAzMDA0Xi4xYDYvLzYuYSNrNC41MmQ0MTJgLS1kMTFzcw%3D%3D&btag=e00090000&expire=1733182216&l=2024113023275910287927435CDDDD8200&ply_type=2&policy=2&signature=8ab8501af51d9e0458b388f8bed5978b&tk=tt_chain_token",
+            "https://v19-webapp-prime.tiktok.com/video/tos/no1a/tos-no1a-ve-0068-no/o8d08BWizYnZZBOQ7UQvsxFDIBcRLEECABPiA/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=392&bt=196&cs=0&ds=6&ft=4fUEKMT88Zmo0JpNjb4jV5fCrpWrKsd.&mime_type=video_mp4&qs=5&rc=Zjw3aWYzZGZmaDxmN2doZEBpamt1b3Y5cnBqdzMzbzczNUAuMDAzMDA0Xi4xYDYvLzYuYSNrNC41MmQ0MTJgLS1kMTFzcw%3D%3D&btag=e00090000&expire=1733182216&l=2024113023275910287927435CDDDD8200&ply_type=2&policy=2&signature=8ab8501af51d9e0458b388f8bed5978b&tk=tt_chain_token",
+            "https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=1a9e2d249cc94e1cac7a303c6f34391c&is_play_url=1&item_id=7443046787746712854&line=0&ply_type=2&redirect=0&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLmQ1MGQxYzI5Y2E1ZjcwODgyNWQwMDcyNzVmNzM0YTQ3&tk=tt_chain_token&vidc=no1a&video_id=v24044gl0000ct5g4m7og65s8l1r7hng"
+          ],
+          "Width": 576
+        },
+        "QualityType": 25
+      },
+      {
+        "Bitrate": 198779,
+        "CodecType": "h265_hvc1",
+        "GearName": "adapt_lower_720_1",
+        "MVMAF": "\"{\\\"v2.0\\\": {\\\"srv1\\\": {\\\"v1080\\\": 96.92, \\\"v960\\\": 98.999, \\\"v864\\\": 99.434, \\\"v720\\\": 99.956}, \\\"ori\\\": {\\\"v1080\\\": 88.385, \\\"v960\\\": 90.627, \\\"v864\\\": 92.523, \\\"v720\\\": 95.059}}}\"",
+        "PlayAddr": {
+          "DataSize": 3359369,
+          "FileCs": "c:0-112821-e3e4",
+          "FileHash": "bafa117107f68f50361bf36a1fe71185",
+          "Height": 1280,
+          "Uri": "v24044gl0000ct5g4m7og65s8l1r7hng",
+          "UrlKey": "v24044gl0000ct5g4m7og65s8l1r7hng_bytevc1_720p_198779",
+          "UrlList": [
+            "https://v16-webapp-prime.tiktok.com/video/tos/no1a/tos-no1a-ve-0068-no/osGaGNIIQLAOxSleQCLIWDCPeeS7MIAFGDgjgx/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=388&bt=194&cs=2&ds=3&ft=4fUEKMT88Zmo0JpNjb4jV5fCrpWrKsd.&mime_type=video_mp4&qs=14&rc=Omk3NzU5ZWk6ZDM5N2k7OkBpamt1b3Y5cnBqdzMzbzczNUA2XmE2Mi9eNmExNF9eYzQtYSNrNC41MmQ0MTJgLS1kMTFzcw%3D%3D&btag=e00090000&expire=1733182216&l=2024113023275910287927435CDDDD8200&ply_type=2&policy=2&signature=cbc55514c4d0f73999e34c4bdc7d3849&tk=tt_chain_token",
+            "https://v19-webapp-prime.tiktok.com/video/tos/no1a/tos-no1a-ve-0068-no/osGaGNIIQLAOxSleQCLIWDCPeeS7MIAFGDgjgx/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=388&bt=194&cs=2&ds=3&ft=4fUEKMT88Zmo0JpNjb4jV5fCrpWrKsd.&mime_type=video_mp4&qs=14&rc=Omk3NzU5ZWk6ZDM5N2k7OkBpamt1b3Y5cnBqdzMzbzczNUA2XmE2Mi9eNmExNF9eYzQtYSNrNC41MmQ0MTJgLS1kMTFzcw%3D%3D&btag=e00090000&expire=1733182216&l=2024113023275910287927435CDDDD8200&ply_type=2&policy=2&signature=cbc55514c4d0f73999e34c4bdc7d3849&tk=tt_chain_token",
+            "https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=0778ffa4b6704ad79fab265294d4af97&is_play_url=1&item_id=7443046787746712854&line=0&ply_type=2&redirect=0&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjRlOTE3MmIzODc0ZWUxMzVlY2JlOGE3MTMwOTM0OTFm&tk=tt_chain_token&vidc=no1a&video_id=v24044gl0000ct5g4m7og65s8l1r7hng"
+          ],
+          "Width": 720
+        },
+        "QualityType": 14
+      },
+      {
+        "Bitrate": 154291,
+        "CodecType": "h265_hvc1",
+        "GearName": "adapt_540_1",
+        "MVMAF": "\"{\\\"v2.0\\\": {\\\"srv1\\\": {\\\"v1080\\\": 95.497, \\\"v960\\\": 97.06, \\\"v864\\\": 97.797, \\\"v720\\\": 98.942}, \\\"ori\\\": {\\\"v1080\\\": 84.927, \\\"v960\\\": 88.122, \\\"v864\\\": 89.343, \\\"v720\\\": 92.476}}}\"",
+        "PlayAddr": {
+          "DataSize": 2607532,
+          "FileCs": "c:0-112821-0cd2",
+          "FileHash": "d62d74b46428121a5b39636171e40f12",
+          "Height": 1024,
+          "Uri": "v24044gl0000ct5g4m7og65s8l1r7hng",
+          "UrlKey": "v24044gl0000ct5g4m7og65s8l1r7hng_bytevc1_540p_154291",
+          "UrlList": [
+            "https://v16-webapp-prime.tiktok.com/video/tos/no1a/tos-no1a-ve-0068c001-no/oULSYE6OlA9PLGxgIxQgJjBDITLeII7fIFeAQG/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=300&bt=150&cs=2&ds=6&ft=4fUEKMT88Zmo0JpNjb4jV5fCrpWrKsd.&mime_type=video_mp4&qs=11&rc=PGZpNmRpNGY6ZGQ3ZTVlNEBpamt1b3Y5cnBqdzMzbzczNUAzMGBiNl5eXmMxNDJeMl8yYSNrNC41MmQ0MTJgLS1kMTFzcw%3D%3D&btag=e00090000&expire=1733182216&l=2024113023275910287927435CDDDD8200&ply_type=2&policy=2&signature=b0d99059889795166508a0e114864e8c&tk=tt_chain_token",
+            "https://v19-webapp-prime.tiktok.com/video/tos/no1a/tos-no1a-ve-0068c001-no/oULSYE6OlA9PLGxgIxQgJjBDITLeII7fIFeAQG/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=300&bt=150&cs=2&ds=6&ft=4fUEKMT88Zmo0JpNjb4jV5fCrpWrKsd.&mime_type=video_mp4&qs=11&rc=PGZpNmRpNGY6ZGQ3ZTVlNEBpamt1b3Y5cnBqdzMzbzczNUAzMGBiNl5eXmMxNDJeMl8yYSNrNC41MmQ0MTJgLS1kMTFzcw%3D%3D&btag=e00090000&expire=1733182216&l=2024113023275910287927435CDDDD8200&ply_type=2&policy=2&signature=b0d99059889795166508a0e114864e8c&tk=tt_chain_token",
+            "https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=51bb52ab547a4af7aca1af9ae3cf3c69&is_play_url=1&item_id=7443046787746712854&line=0&ply_type=2&redirect=0&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLmUwMmJhYjQ5NTc3YjBmYzNmOThkNTRiYjIyZGIzNjBm&tk=tt_chain_token&vidc=no1a&video_id=v24044gl0000ct5g4m7og65s8l1r7hng"
+          ],
+          "Width": 576
+        },
+        "QualityType": 28
+      }
+    ],
+    "claInfo": {
+      "captionInfos": [
+        {
+          "captionFormat": "webvtt",
+          "claSubtitleID": "7443047633012165398",
+          "expire": "1733182216",
+          "isAutoGen": true,
+          "isOriginalCaption": true,
+          "language": "ron-RO",
+          "languageCode": "",
+          "languageID": "40",
+          "subID": "1330555174",
+          "subtitleType": "1",
+          "url": "https://v16-webapp.tiktok.com/127fc38e2ca9442d0d6f38ef2b055d0f/674e4308/video/tos/no1a/tos-no1a-v-0037-no/f28ea8483f4c4f89bf26017dff103cdf/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=13402&bt=6701&ds=4&ft=4b~OyMT88Zmo0JpNjb4jV5fCrpWrKsd.&mime_type=video_mp4&qs=13&rc=amt1b3Y5cnBqdzMzbzczNUBpamt1b3Y5cnBqdzMzbzczNUBrNC41MmQ0MTJgLS1kMTFzYSNrNC41MmQ0MTJgLS1kMTFzcw%3D%3D&l=2024113023275910287927435CDDDD8200&btag=e00050000",
+          "urlList": [
+            "https://v16-webapp.tiktok.com/127fc38e2ca9442d0d6f38ef2b055d0f/674e4308/video/tos/no1a/tos-no1a-v-0037-no/f28ea8483f4c4f89bf26017dff103cdf/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=13402&bt=6701&ds=4&ft=4b~OyMT88Zmo0JpNjb4jV5fCrpWrKsd.&mime_type=video_mp4&qs=13&rc=amt1b3Y5cnBqdzMzbzczNUBpamt1b3Y5cnBqdzMzbzczNUBrNC41MmQ0MTJgLS1kMTFzYSNrNC41MmQ0MTJgLS1kMTFzcw%3D%3D&l=2024113023275910287927435CDDDD8200&btag=e00050000",
+            "https://v16-webapp.tiktok.com/127fc38e2ca9442d0d6f38ef2b055d0f/674e4308/video/tos/no1a/tos-no1a-v-0037-no/f28ea8483f4c4f89bf26017dff103cdf/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=13402&bt=6701&ds=4&ft=4b~OyMT88Zmo0JpNjb4jV5fCrpWrKsd.&mime_type=video_mp4&qs=13&rc=amt1b3Y5cnBqdzMzbzczNUBpamt1b3Y5cnBqdzMzbzczNUBrNC41MmQ0MTJgLS1kMTFzYSNrNC41MmQ0MTJgLS1kMTFzcw%3D%3D&l=2024113023275910287927435CDDDD8200&btag=e00050000",
+            "https://vas-useast2a.tiktokv.com/tiktok/v1/subtitle/url?aid=1988&format=webvtt&language=ron-RO&sign=628707ad9980e6dcfa8ddd9af1e974a6&version=1%3Awhisper_lid&vid=v24044gl0000ct5g4m7og65s8l1r7hng"
+          ],
+          "variant": "whisper_lid"
+        }
+      ],
+      "captionsType": 1,
+      "enableAutoCaption": true,
+      "hasOriginalAudio": true,
+      "originalLanguageInfo": {
+        "language": "ron-RO",
+        "languageCode": "",
+        "languageID": "40"
+      }
+    },
+    "codecType": "h264",
+    "cover": "https://p16-pu-sign-no.tiktokcdn-eu.com/tos-no1a-p-0037-no/okROYxZiZPVExBUzIWC6MAIxL80DIBstBAivC~tplv-dmt-logom:tos-no1a-i-0068-no/oILEIYB0oAFBKDji3AqZXpA1A6mBBsi2vAEJP.image?lk3s=b59d6b55&x-expires=1733180400&x-signature=4MEjjrbbH4ya4frD5RyoK6PuHUQ%3D&shp=b59d6b55&shcp=-",
+    "definition": "540p",
+    "downloadAddr": "https://v16-webapp-prime.tiktok.com/video/tos/no1a/tos-no1a-ve-0068c001-no/osGWjgeeOQIQIdLxBDlLliSII7GgFgAPxAek3Q/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=996&bt=498&cs=0&ds=3&ft=4fUEKMT88Zmo0JpNjb4jV5fCrpWrKsd.&mime_type=video_mp4&qs=0&rc=ZzRmOzc4N2U3NmU6NTg5Z0Bpamt1b3Y5cnBqdzMzbzczNUBfNV4uXzYzXi0xYzU0NTZjYSNrNC41MmQ0MTJgLS1kMTFzcw%3D%3D&btag=e00090000&expire=1733182216&l=2024113023275910287927435CDDDD8200&ply_type=2&policy=2&signature=f41246aa797eadfd1b7900c7ec3de376&tk=tt_chain_token",
+    "duration": 135,
+    "dynamicCover": "https://p16-pu-sign-no.tiktokcdn-eu.com/obj/tos-no1a-p-0037-no/oUPLzCZxbWB8EYZB9shRU0ABVi2A0B6iIIv2O?lk3s=b59d6b55&x-expires=1733180400&x-signature=KUCRL4e%2BD3E0YAZ7kcMQzD8NgCg%3D&shp=b59d6b55&shcp=-",
+    "encodeUserTag": "",
+    "encodedType": "normal",
+    "format": "mp4",
+    "height": 1024,
+    "id": "7443046787746712854",
+    "originCover": "https://p16-pu-sign-no.tiktokcdn-eu.com/obj/tos-no1a-p-0037-no/o8xBsEPU9CZTxIY0NAITiLvzOB6RZWIABBR8i?lk3s=b59d6b55&x-expires=1733180400&x-signature=A9IKR1xUtVZsDouo8s7VNnNXFT8%3D&shp=b59d6b55&shcp=-",
+    "playAddr": "https://v16-webapp-prime.tiktok.com/video/tos/no1a/tos-no1a-ve-0068c001-no/oEiWPAO0sQrEB5YHCRAoZzvkZ7xECIBBLWi8U/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=930&bt=465&cs=0&ds=6&ft=4fUEKMT88Zmo0JpNjb4jV5fCrpWrKsd.&mime_type=video_mp4&qs=0&rc=MzlmZDg2ZjdmNDM0MzYzZUBpamt1b3Y5cnBqdzMzbzczNUBhYTM1LmI0XjUxMzQ2MTAwYSNrNC41MmQ0MTJgLS1kMTFzcw%3D%3D&btag=e00090000&expire=1733182216&l=2024113023275910287927435CDDDD8200&ply_type=2&policy=2&signature=20d8e7784299904afcbacbdef3936246&tk=tt_chain_token",
+    "ratio": "540p",
+    "reflowCover": "https://p16-pu-sign-no.tiktokcdn-eu.com/tos-no1a-p-0037-no/okROYxZiZPVExBUzIWC6MAIxL80DIBstBAivC~tplv-photomode-video-cover:480:480.jpeg?lk3s=b59d6b55&x-expires=1733180400&x-signature=LPZ8jKUu8f1klr117N3oDohjhFE%3D&shp=b59d6b55&shcp=-",
+    "shareCover": [
+      "",
+      "https://p16-pu-sign-no.tiktokcdn-eu.com/tos-no1a-p-0037-no/o8xBsEPU9CZTxIY0NAITiLvzOB6RZWIABBR8i~tplv-photomode-tiktok-play.jpeg?lk3s=b59d6b55&x-expires=1733612400&x-signature=soU%2BYcka%2B3wxinrv12NhU%2BquPVk%3D&shp=b59d6b55&shcp=-",
+      "https://p16-pu-sign-no.tiktokcdn-eu.com/tos-no1a-p-0037-no/o8xBsEPU9CZTxIY0NAITiLvzOB6RZWIABBR8i~tplv-photomode-share-play.jpeg?lk3s=b59d6b55&x-expires=1733612400&x-signature=731N%2FvCvVC6IXPYYXDmcUQis4KQ%3D&shp=b59d6b55&shcp=-"
+    ],
+    "size": 8059832,
+    "subtitleInfos": [
+      {
+        "Format": "webvtt",
+        "LanguageCodeName": "ron-RO",
+        "LanguageID": "40",
+        "Size": 3007,
+        "Source": "ASR",
+        "Url": "https://v16-webapp.tiktok.com/127fc38e2ca9442d0d6f38ef2b055d0f/674e4308/video/tos/no1a/tos-no1a-v-0037-no/f28ea8483f4c4f89bf26017dff103cdf/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=13402&bt=6701&ds=4&ft=4b~OyMT88Zmo0JpNjb4jV5fCrpWrKsd.&mime_type=video_mp4&qs=13&rc=amt1b3Y5cnBqdzMzbzczNUBpamt1b3Y5cnBqdzMzbzczNUBrNC41MmQ0MTJgLS1kMTFzYSNrNC41MmQ0MTJgLS1kMTFzcw%3D%3D&l=2024113023275910287927435CDDDD8200&btag=e00050000",
+        "UrlExpire": 1733182216,
+        "Version": "1:whisper_lid",
+        "VideoSubtitleID": 1330555174
+      }
+    ],
+    "videoQuality": "normal",
+    "volumeInfo": {
+      "Loudness": -21.1,
+      "Peak": 0.69984
+    },
+    "width": 576,
+    "zoomCover": {
+      "240": "https://p16-pu-sign-no.tiktokcdn-eu.com/tos-no1a-p-0037-no/okROYxZiZPVExBUzIWC6MAIxL80DIBstBAivC~tplv-tiktok-logom-rs:tos-no1a-i-0068-no/oILEIYB0oAFBKDji3AqZXpA1A6mBBsi2vAEJP:240:240.jpeg?lk3s=b59d6b55&x-expires=1733180400&x-signature=A3EO2VFN6LvlVEZomVXMSKfzL%2B8%3D&shp=b59d6b55&shcp=-",
+      "480": "https://p16-pu-sign-no.tiktokcdn-eu.com/tos-no1a-p-0037-no/okROYxZiZPVExBUzIWC6MAIxL80DIBstBAivC~tplv-tiktok-logom-rs:tos-no1a-i-0068-no/oILEIYB0oAFBKDji3AqZXpA1A6mBBsi2vAEJP:480:480.jpeg?lk3s=b59d6b55&x-expires=1733180400&x-signature=dW%2B8NNqtJ3iJplWflTURdTmhwcA%3D&shp=b59d6b55&shcp=-",
+      "720": "https://p16-pu-sign-no.tiktokcdn-eu.com/tos-no1a-p-0037-no/okROYxZiZPVExBUzIWC6MAIxL80DIBstBAivC~tplv-tiktok-logom-rs:tos-no1a-i-0068-no/oILEIYB0oAFBKDji3AqZXpA1A6mBBsi2vAEJP:720:720.jpeg?lk3s=b59d6b55&x-expires=1733180400&x-signature=rAPdeaSxVvBbub7qo%2FHiJE%2B880U%3D&shp=b59d6b55&shcp=-",
+      "960": "https://p16-pu-sign-no.tiktokcdn-eu.com/tos-no1a-p-0037-no/okROYxZiZPVExBUzIWC6MAIxL80DIBstBAivC~tplv-tiktok-logom-rs:tos-no1a-i-0068-no/oILEIYB0oAFBKDji3AqZXpA1A6mBBsi2vAEJP:960:960.jpeg?lk3s=b59d6b55&x-expires=1733180400&x-signature=Sd9TSi8Tqf%2FiNfbSUCIDDOCBr%2FM%3D&shp=b59d6b55&shcp=-"
+    }
+  },
+  "vl1": false,
+  "comments": [
+    {
+      "author_pin": false,
+      "aweme_id": "7443046787746712854",
+      "cid": "7443053621681636129",
+      "collect_stat": 0,
+      "comment_language": "ca",
+      "comment_post_item_ids": null,
+      "create_time": 1732970987,
+      "digg_count": 331,
+      "forbid_reply_with_video": true,
+      "image_list": null,
+      "is_author_digged": true,
+      "is_comment_translatable": true,
+      "label_list": [
+        {
+          "text": "Liked by creator",
+          "type": 20
+        }
+      ],
+      "no_show": false,
+      "reply_comment": null,
+      "reply_comment_total": 2,
+      "reply_id": "0",
+      "reply_to_reply_id": "0",
+      "share_info": {
+        "acl": {
+          "code": 0,
+          "extra": "{}"
+        },
+        "desc": "Ioan-Adrian Goga’s comment: POT si CG !",
+        "title": "@Partidul Oamenilor Tineri - Opriți dezinformările!‼️ POT are șanse‼️ #alegeriparlamentare #partiduloamenilortineri #parlamentulromaniei ",
+        "url": "https://m.tiktok.com/v/7443046787746712854.html?_d=4c72mlkc83557j&comment_author_id=7052413720798610438&preview_pb=0&share_comment_id=7443053621681636129&share_item_id=7443046787746712854&sharer_language=en-US&source=h5_m&u_code=e8hegggb201lba"
+      },
+      "sort_extra_score": {
+        "reply_score": 0.000269,
+        "show_more_score": 0.023492
+      },
+      "sort_tags": "{\"author_digg\":1,\"top_list\":1}",
+      "status": 1,
+      "stick_position": 0,
+      "text": "POT si CG !",
+      "text_extra": [],
+      "trans_btn_style": 1,
+      "user": {
+        "account_labels": null,
+        "ad_cover_url": null,
+        "advance_feature_item_order": null,
+        "advanced_feature_info": null,
+        "avatar_thumb": {
+          "uri": "tos-useast2a-avt-0068-giso/0e5d490d059d9129cc9f0235f5711f6c",
+          "url_list": [
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/0e5d490d059d9129cc9f0235f5711f6c~c5_100x100.jpg?lk3s=30310797&nonce=3087&refresh_token=3989f052fe84b21bd0cf97b598f045bd&x-expires=1733094000&x-signature=7gC9L9B%2BAZvIvQ66cj5BytCTBF8%3D&shp=30310797&shcp=-",
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/0e5d490d059d9129cc9f0235f5711f6c~c5_100x100.jpeg?lk3s=30310797&nonce=44356&refresh_token=c3432f4a4d5e0ab73f3e4c27640344ea&x-expires=1733094000&x-signature=aUWGxvmp%2Fa0E%2FDDBRPtDoxP5MHY%3D&shp=30310797&shcp=-"
+          ],
+          "url_prefix": null
+        },
+        "bold_fields": null,
+        "can_message_follow_status_list": null,
+        "can_set_geofencing": null,
+        "cha_list": null,
+        "cover_url": null,
+        "custom_verify": "",
+        "enterprise_verify_reason": "",
+        "events": null,
+        "followers_detail": null,
+        "geofencing": null,
+        "homepage_bottom_toast": null,
+        "item_list": null,
+        "mutual_relation_avatars": null,
+        "need_points": null,
+        "nickname": "Ioan-Adrian Goga",
+        "platform_sync_info": null,
+        "relative_users": null,
+        "search_highlight": null,
+        "sec_uid": "MS4wLjABAAAAnttxIJuwarWJMFo8jl6Z1R-auUuDJ7IDxtwFXFYiBWVxW2RRLtoku9t7tJFlbKU-",
+        "shield_edit_field_info": null,
+        "type_label": null,
+        "uid": "7052413720798610438",
+        "unique_id": "cabanaloca77",
+        "user_profile_guide": null,
+        "user_tags": null,
+        "white_cover_url": null
+      },
+      "user_buried": false,
+      "user_digged": 0
+    },
+    {
+      "author_pin": false,
+      "aweme_id": "7443046787746712854",
+      "cid": "7443050360891097878",
+      "collect_stat": 0,
+      "comment_language": "ca",
+      "comment_post_item_ids": null,
+      "create_time": 1732970229,
+      "digg_count": 78,
+      "forbid_reply_with_video": true,
+      "image_list": null,
+      "is_author_digged": true,
+      "is_comment_translatable": true,
+      "label_list": [
+        {
+          "text": "Liked by creator",
+          "type": 20
+        }
+      ],
+      "no_show": false,
+      "reply_comment": null,
+      "reply_comment_total": 0,
+      "reply_id": "0",
+      "reply_to_reply_id": "0",
+      "share_info": {
+        "acl": {
+          "code": 0,
+          "extra": "{}"
+        },
+        "desc": "Roxana Raluca7345’s comment: POT+CG🙏",
+        "title": "@Partidul Oamenilor Tineri - Opriți dezinformările!‼️ POT are șanse‼️ #alegeriparlamentare #partiduloamenilortineri #parlamentulromaniei ",
+        "url": "https://m.tiktok.com/v/7443046787746712854.html?_d=4c72mlkc83557j&comment_author_id=6772875289619350533&preview_pb=0&share_comment_id=7443050360891097878&share_item_id=7443046787746712854&sharer_language=en-US&source=h5_m&u_code=e8hegggb201lba"
+      },
+      "sort_extra_score": {
+        "reply_score": 0.000277,
+        "show_more_score": 0.000291
+      },
+      "sort_tags": "{\"author_digg\":1,\"top_list\":1}",
+      "status": 1,
+      "stick_position": 0,
+      "text": "POT+CG🙏",
+      "text_extra": [],
+      "trans_btn_style": 1,
+      "user": {
+        "account_labels": null,
+        "ad_cover_url": null,
+        "advance_feature_item_order": null,
+        "advanced_feature_info": null,
+        "avatar_thumb": {
+          "uri": "tos-maliva-avt-0068/7335449467878146053",
+          "url_list": [
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7335449467878146053~c5_100x100.jpg?lk3s=30310797&nonce=47337&refresh_token=af0000e137494f9c47e8e4012aaee753&x-expires=1733094000&x-signature=azVhUSEOPyaQkgXkBKqkdNCQKyQ%3D&shp=30310797&shcp=-",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7335449467878146053~c5_100x100.jpeg?lk3s=30310797&nonce=34013&refresh_token=79a12345bbaa2714ffd71de6954cbda1&x-expires=1733094000&x-signature=Eq3C4Yc0fxEoVKQfPAZnv66s7D0%3D&shp=30310797&shcp=-"
+          ],
+          "url_prefix": null
+        },
+        "bold_fields": null,
+        "can_message_follow_status_list": null,
+        "can_set_geofencing": null,
+        "cha_list": null,
+        "cover_url": null,
+        "custom_verify": "",
+        "enterprise_verify_reason": "",
+        "events": null,
+        "followers_detail": null,
+        "geofencing": null,
+        "homepage_bottom_toast": null,
+        "item_list": null,
+        "mutual_relation_avatars": null,
+        "need_points": null,
+        "nickname": "Roxana Raluca7345",
+        "platform_sync_info": null,
+        "relative_users": null,
+        "search_highlight": null,
+        "sec_uid": "MS4wLjABAAAAOi2c8J9gEZ-KNXVSJSdHuyyiMJ4dKn24LGU8t5wYSZqD8c0wSDsa9XCzjQTXr2rt",
+        "shield_edit_field_info": null,
+        "type_label": null,
+        "uid": "6772875289619350533",
+        "unique_id": "roxanaraluca7345",
+        "user_profile_guide": null,
+        "user_tags": null,
+        "white_cover_url": null
+      },
+      "user_buried": false,
+      "user_digged": 0
+    },
+    {
+      "author_pin": false,
+      "aweme_id": "7443046787746712854",
+      "cid": "7443047564742558486",
+      "collect_stat": 0,
+      "comment_language": "ro",
+      "comment_post_item_ids": null,
+      "create_time": 1732969592,
+      "digg_count": 237,
+      "forbid_reply_with_video": true,
+      "image_list": null,
+      "is_author_digged": true,
+      "is_comment_translatable": true,
+      "label_list": [
+        {
+          "text": "Liked by creator",
+          "type": 20
+        }
+      ],
+      "no_show": false,
+      "reply_comment": null,
+      "reply_comment_total": 0,
+      "reply_id": "0",
+      "reply_to_reply_id": "0",
+      "share_info": {
+        "acl": {
+          "code": 0,
+          "extra": "{}"
+        },
+        "desc": "Românii din Republica Moldova’s comment: VOTEZ POT ȘI CĂLIN GEORGESCU",
+        "title": "@Partidul Oamenilor Tineri - Opriți dezinformările!‼️ POT are șanse‼️ #alegeriparlamentare #partiduloamenilortineri #parlamentulromaniei ",
+        "url": "https://m.tiktok.com/v/7443046787746712854.html?_d=4c72mlkc83557j&comment_author_id=7426401606348325921&preview_pb=0&share_comment_id=7443047564742558486&share_item_id=7443046787746712854&sharer_language=en-US&source=h5_m&u_code=e8hegggb201lba"
+      },
+      "sort_extra_score": {
+        "reply_score": 0.000215,
+        "show_more_score": 0.000698
+      },
+      "sort_tags": "{\"author_digg\":1,\"top_list\":1}",
+      "status": 1,
+      "stick_position": 0,
+      "text": "VOTEZ POT ȘI CĂLIN GEORGESCU",
+      "text_extra": [],
+      "trans_btn_style": 1,
+      "user": {
+        "account_labels": null,
+        "ad_cover_url": null,
+        "advance_feature_item_order": null,
+        "advanced_feature_info": null,
+        "avatar_thumb": {
+          "uri": "musically-maliva-obj/1594805258216454",
+          "url_list": [
+            "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1594805258216454~c5_100x100.jpg?lk3s=30310797&nonce=77872&refresh_token=a0c5718bc29ae966addac5a020d575ff&x-expires=1733094000&x-signature=88S4txMg8njxffS0uuBQ5y4RqEM%3D&shp=30310797&shcp=-",
+            "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1594805258216454~c5_100x100.jpeg?lk3s=30310797&nonce=28648&refresh_token=564cc739bed50104d3f8856e6ef5cd1b&x-expires=1733094000&x-signature=2Jni8InoYc7g7hDs5B09p2aIoUM%3D&shp=30310797&shcp=-"
+          ],
+          "url_prefix": null
+        },
+        "bold_fields": null,
+        "can_message_follow_status_list": null,
+        "can_set_geofencing": null,
+        "cha_list": null,
+        "cover_url": null,
+        "custom_verify": "",
+        "enterprise_verify_reason": "",
+        "events": null,
+        "followers_detail": null,
+        "geofencing": null,
+        "homepage_bottom_toast": null,
+        "item_list": null,
+        "mutual_relation_avatars": null,
+        "need_points": null,
+        "nickname": "Românii din Republica Moldova",
+        "platform_sync_info": null,
+        "relative_users": null,
+        "search_highlight": null,
+        "sec_uid": "MS4wLjABAAAABFx1IS-AUrKZIFiOtLrJSRnWpimx4sjZgs62IUe2eCNOySnVA5uTcGKjjj4NfXQV",
+        "shield_edit_field_info": null,
+        "type_label": null,
+        "uid": "7426401606348325921",
+        "unique_id": "romaniidinrmd",
+        "user_profile_guide": null,
+        "user_tags": null,
+        "white_cover_url": null
+      },
+      "user_buried": false,
+      "user_digged": 0
+    },
+    {
+      "author_pin": false,
+      "aweme_id": "7443046787746712854",
+      "cid": "7443144211165479702",
+      "collect_stat": 0,
+      "comment_language": "ro",
+      "comment_post_item_ids": null,
+      "create_time": 1732992079,
+      "digg_count": 12,
+      "forbid_reply_with_video": true,
+      "image_list": null,
+      "is_author_digged": false,
+      "is_comment_translatable": true,
+      "label_list": null,
+      "no_show": false,
+      "reply_comment": null,
+      "reply_comment_total": 0,
+      "reply_id": "0",
+      "reply_to_reply_id": "0",
+      "share_info": {
+        "acl": {
+          "code": 0,
+          "extra": "{}"
+        },
+        "desc": "Alin Alin’s comment: Am votat Pot si votez cu Calin Georgescu",
+        "title": "@Partidul Oamenilor Tineri - Opriți dezinformările!‼️ POT are șanse‼️ #alegeriparlamentare #partiduloamenilortineri #parlamentulromaniei ",
+        "url": "https://m.tiktok.com/v/7443046787746712854.html?_d=4c72mlkc83557j&comment_author_id=6952029327509816325&preview_pb=0&share_comment_id=7443144211165479702&share_item_id=7443046787746712854&sharer_language=en-US&source=h5_m&u_code=e8hegggb201lba"
+      },
+      "sort_extra_score": {
+        "reply_score": 0.000496,
+        "show_more_score": 0.000384
+      },
+      "sort_tags": "{\"top_list\":1}",
+      "status": 1,
+      "stick_position": 0,
+      "text": "Am votat Pot si votez cu Calin Georgescu",
+      "text_extra": [],
+      "trans_btn_style": 1,
+      "user": {
+        "account_labels": null,
+        "ad_cover_url": null,
+        "advance_feature_item_order": null,
+        "advanced_feature_info": null,
+        "avatar_thumb": {
+          "uri": "tos-useast2a-avt-0068-euttp/580cf371ed2bd8d379797c9692d8e5a4",
+          "url_list": [
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/580cf371ed2bd8d379797c9692d8e5a4~c5_100x100.jpg?lk3s=30310797&nonce=70153&refresh_token=e8c3d2af44b93fba50fa847b2b01f5e8&x-expires=1733094000&x-signature=su6%2BZMRrK8j%2B%2Bhg%2BGlNo1aSqHYU%3D&shp=30310797&shcp=-",
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/580cf371ed2bd8d379797c9692d8e5a4~c5_100x100.jpeg?lk3s=30310797&nonce=8645&refresh_token=98d94e9fe230f0aad1599d92d82d5a71&x-expires=1733094000&x-signature=as6Yl1McBZTtJtgg9Z4kKPT6iUA%3D&shp=30310797&shcp=-"
+          ],
+          "url_prefix": null
+        },
+        "bold_fields": null,
+        "can_message_follow_status_list": null,
+        "can_set_geofencing": null,
+        "cha_list": null,
+        "cover_url": null,
+        "custom_verify": "",
+        "enterprise_verify_reason": "",
+        "events": null,
+        "followers_detail": null,
+        "geofencing": null,
+        "homepage_bottom_toast": null,
+        "item_list": null,
+        "mutual_relation_avatars": null,
+        "need_points": null,
+        "nickname": "Alin Alin",
+        "platform_sync_info": null,
+        "relative_users": null,
+        "search_highlight": null,
+        "sec_uid": "MS4wLjABAAAAZzM4I9aCvM_WVnjAo-cCc12UPWLIAhlIXWPXbkj8_2-0wZmZjMfc9bADr79yuho0",
+        "shield_edit_field_info": null,
+        "type_label": null,
+        "uid": "6952029327509816325",
+        "unique_id": "alyalyaly09",
+        "user_profile_guide": null,
+        "user_tags": null,
+        "white_cover_url": null
+      },
+      "user_buried": false,
+      "user_digged": 0
+    },
+    {
+      "author_pin": false,
+      "aweme_id": "7443046787746712854",
+      "cid": "7443058306933326615",
+      "collect_stat": 0,
+      "comment_language": "ro",
+      "comment_post_item_ids": null,
+      "create_time": 1732972085,
+      "digg_count": 63,
+      "forbid_reply_with_video": true,
+      "image_list": null,
+      "is_author_digged": true,
+      "is_comment_translatable": true,
+      "label_list": [
+        {
+          "text": "Liked by creator",
+          "type": 20
+        }
+      ],
+      "no_show": false,
+      "reply_comment": null,
+      "reply_comment_total": 11,
+      "reply_id": "0",
+      "reply_to_reply_id": "0",
+      "share_info": {
+        "acl": {
+          "code": 0,
+          "extra": "{}"
+        },
+        "desc": "adi solomon’s comment: Am votat pot acum o oră în Germania 🥰",
+        "title": "@Partidul Oamenilor Tineri - Opriți dezinformările!‼️ POT are șanse‼️ #alegeriparlamentare #partiduloamenilortineri #parlamentulromaniei ",
+        "url": "https://m.tiktok.com/v/7443046787746712854.html?_d=4c72mlkc83557j&comment_author_id=6816318982854214662&preview_pb=0&share_comment_id=7443058306933326615&share_item_id=7443046787746712854&sharer_language=en-US&source=h5_m&u_code=e8hegggb201lba"
+      },
+      "sort_extra_score": {
+        "reply_score": 0.000792,
+        "show_more_score": 0.079873
+      },
+      "sort_tags": "{\"author_digg\":1,\"top_list\":1}",
+      "status": 1,
+      "stick_position": 0,
+      "text": "Am votat pot acum o oră în Germania 🥰",
+      "text_extra": [],
+      "trans_btn_style": 1,
+      "user": {
+        "account_labels": null,
+        "ad_cover_url": null,
+        "advance_feature_item_order": null,
+        "advanced_feature_info": null,
+        "avatar_thumb": {
+          "uri": "tos-maliva-avt-0068/ae846739825b0dbdb8ecc63a6cac82e7",
+          "url_list": [
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ae846739825b0dbdb8ecc63a6cac82e7~c5_100x100.jpg?lk3s=30310797&nonce=50371&refresh_token=f23efbc46d000ec9b64fa06abd24feaf&x-expires=1733094000&x-signature=xqWzDOCCfmRVyoGcY3HJej3xLYg%3D&shp=30310797&shcp=-",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/ae846739825b0dbdb8ecc63a6cac82e7~c5_100x100.jpeg?lk3s=30310797&nonce=10745&refresh_token=fcde6af9f2230ac072f191df15b4c9a9&x-expires=1733094000&x-signature=YJd5uUHWsmI9sOeTEgtoI3BuT58%3D&shp=30310797&shcp=-"
+          ],
+          "url_prefix": null
+        },
+        "bold_fields": null,
+        "can_message_follow_status_list": null,
+        "can_set_geofencing": null,
+        "cha_list": null,
+        "cover_url": null,
+        "custom_verify": "",
+        "enterprise_verify_reason": "",
+        "events": null,
+        "followers_detail": null,
+        "geofencing": null,
+        "homepage_bottom_toast": null,
+        "item_list": null,
+        "mutual_relation_avatars": null,
+        "need_points": null,
+        "nickname": "adi solomon",
+        "platform_sync_info": null,
+        "relative_users": null,
+        "search_highlight": null,
+        "sec_uid": "MS4wLjABAAAAehUMfalXLmWauFa_7dtP7q5m63KyozQ7HF6Em4oQOkSpTmKRzwYKynrhDjN_IpYg",
+        "shield_edit_field_info": null,
+        "type_label": null,
+        "uid": "6816318982854214662",
+        "unique_id": "adisolomon6",
+        "user_profile_guide": null,
+        "user_tags": null,
+        "white_cover_url": null
+      },
+      "user_buried": false,
+      "user_digged": 0
+    },
+    {
+      "author_pin": false,
+      "aweme_id": "7443046787746712854",
+      "cid": "7443065734228476694",
+      "collect_stat": 0,
+      "comment_language": "ro",
+      "comment_post_item_ids": null,
+      "create_time": 1732973825,
+      "digg_count": 246,
+      "forbid_reply_with_video": true,
+      "image_list": null,
+      "is_author_digged": true,
+      "is_comment_translatable": true,
+      "label_list": [
+        {
+          "text": "Liked by creator",
+          "type": 20
+        }
+      ],
+      "no_show": false,
+      "reply_comment": null,
+      "reply_comment_total": 4,
+      "reply_id": "0",
+      "reply_to_reply_id": "0",
+      "share_info": {
+        "acl": {
+          "code": 0,
+          "extra": "{}"
+        },
+        "desc": "ilincaelvin’s comment: POT\nCalin Georgescu.",
+        "title": "@Partidul Oamenilor Tineri - Opriți dezinformările!‼️ POT are șanse‼️ #alegeriparlamentare #partiduloamenilortineri #parlamentulromaniei ",
+        "url": "https://m.tiktok.com/v/7443046787746712854.html?_d=4c72mlkc83557j&comment_author_id=7007640554499556358&preview_pb=0&share_comment_id=7443065734228476694&share_item_id=7443046787746712854&sharer_language=en-US&source=h5_m&u_code=e8hegggb201lba"
+      },
+      "sort_extra_score": {
+        "reply_score": 0.000293,
+        "show_more_score": 0.022369
+      },
+      "sort_tags": "{\"author_digg\":1,\"top_list\":1}",
+      "status": 1,
+      "stick_position": 0,
+      "text": "POT\nCalin Georgescu.",
+      "text_extra": [],
+      "trans_btn_style": 1,
+      "user": {
+        "account_labels": null,
+        "ad_cover_url": null,
+        "advance_feature_item_order": null,
+        "advanced_feature_info": null,
+        "avatar_thumb": {
+          "uri": "tos-maliva-avt-0068/a107a9f3d1c0030e73cee8bfdb7968ba",
+          "url_list": [
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a107a9f3d1c0030e73cee8bfdb7968ba~c5_100x100.jpg?lk3s=30310797&nonce=92128&refresh_token=7399b0e4feb1643b3948dbb7fbec5dea&x-expires=1733094000&x-signature=UHo9s6ez9XLi6FXHZUdO64jsjm4%3D&shp=30310797&shcp=-",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a107a9f3d1c0030e73cee8bfdb7968ba~c5_100x100.jpeg?lk3s=30310797&nonce=31013&refresh_token=e77b4ebf34cbd12811c405c38fe17b9d&x-expires=1733094000&x-signature=p3gdtjsEUbGuDzCi5tCRTvv7Kic%3D&shp=30310797&shcp=-"
+          ],
+          "url_prefix": null
+        },
+        "bold_fields": null,
+        "can_message_follow_status_list": null,
+        "can_set_geofencing": null,
+        "cha_list": null,
+        "cover_url": null,
+        "custom_verify": "",
+        "enterprise_verify_reason": "",
+        "events": null,
+        "followers_detail": null,
+        "geofencing": null,
+        "homepage_bottom_toast": null,
+        "item_list": null,
+        "mutual_relation_avatars": null,
+        "need_points": null,
+        "nickname": "ilincaelvin",
+        "platform_sync_info": null,
+        "relative_users": null,
+        "search_highlight": null,
+        "sec_uid": "MS4wLjABAAAAPiV5dQvgv7MeZtfOJY7UJv6YJR4MbNNOcuVjcpgMjxrtG6JjCqF1s7ZIg6AV30ag",
+        "shield_edit_field_info": null,
+        "type_label": null,
+        "uid": "7007640554499556358",
+        "unique_id": "ilincaelvin",
+        "user_profile_guide": null,
+        "user_tags": null,
+        "white_cover_url": null
+      },
+      "user_buried": false,
+      "user_digged": 0
+    },
+    {
+      "author_pin": false,
+      "aweme_id": "7443046787746712854",
+      "cid": "7443053627256898336",
+      "collect_stat": 0,
+      "comment_language": "ro",
+      "comment_post_item_ids": null,
+      "create_time": 1732970994,
+      "digg_count": 33,
+      "forbid_reply_with_video": true,
+      "image_list": null,
+      "is_author_digged": true,
+      "is_comment_translatable": true,
+      "label_list": [
+        {
+          "text": "Liked by creator",
+          "type": 20
+        }
+      ],
+      "no_show": false,
+      "reply_comment": null,
+      "reply_comment_total": 1,
+      "reply_id": "0",
+      "reply_to_reply_id": "0",
+      "share_info": {
+        "acl": {
+          "code": 0,
+          "extra": "{}"
+        },
+        "desc": "Cabujan Catalin’s comment: votam pot masiv",
+        "title": "@Partidul Oamenilor Tineri - Opriți dezinformările!‼️ POT are șanse‼️ #alegeriparlamentare #partiduloamenilortineri #parlamentulromaniei ",
+        "url": "https://m.tiktok.com/v/7443046787746712854.html?_d=4c72mlkc83557j&comment_author_id=6906723479233430534&preview_pb=0&share_comment_id=7443053627256898336&share_item_id=7443046787746712854&sharer_language=en-US&source=h5_m&u_code=e8hegggb201lba"
+      },
+      "sort_extra_score": {
+        "reply_score": 0.0002,
+        "show_more_score": 0.027551
+      },
+      "sort_tags": "{\"author_digg\":1,\"top_list\":1}",
+      "status": 1,
+      "stick_position": 0,
+      "text": "votam pot masiv",
+      "text_extra": [],
+      "trans_btn_style": 1,
+      "user": {
+        "account_labels": null,
+        "ad_cover_url": null,
+        "advance_feature_item_order": null,
+        "advanced_feature_info": null,
+        "avatar_thumb": {
+          "uri": "tos-maliva-avt-0068/7322706576258580486",
+          "url_list": [
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7322706576258580486~c5_100x100.jpg?lk3s=30310797&nonce=23118&refresh_token=fc27a1ae4afb6b57b3523df281d39499&x-expires=1733094000&x-signature=SknH%2FnA9Qgub6O%2FoIORxu46%2F10w%3D&shp=30310797&shcp=-",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7322706576258580486~c5_100x100.jpeg?lk3s=30310797&nonce=24362&refresh_token=a583956b5a730a0f29140643bb2acc1f&x-expires=1733094000&x-signature=VPf2tTmdB58AzsJ1ELYD3ZALVLU%3D&shp=30310797&shcp=-"
+          ],
+          "url_prefix": null
+        },
+        "bold_fields": null,
+        "can_message_follow_status_list": null,
+        "can_set_geofencing": null,
+        "cha_list": null,
+        "cover_url": null,
+        "custom_verify": "",
+        "enterprise_verify_reason": "",
+        "events": null,
+        "followers_detail": null,
+        "geofencing": null,
+        "homepage_bottom_toast": null,
+        "item_list": null,
+        "mutual_relation_avatars": null,
+        "need_points": null,
+        "nickname": "Cabujan Catalin",
+        "platform_sync_info": null,
+        "relative_users": null,
+        "search_highlight": null,
+        "sec_uid": "MS4wLjABAAAA3TxfffXgczQkuyr1oGc3br0Xr4uuv2R7poXb-SvUx53KUtmJEBeZoP5_y3X5dpCC",
+        "shield_edit_field_info": null,
+        "type_label": null,
+        "uid": "6906723479233430534",
+        "unique_id": "catalincabujan80",
+        "user_profile_guide": null,
+        "user_tags": null,
+        "white_cover_url": null
+      },
+      "user_buried": false,
+      "user_digged": 0
+    },
+    {
+      "author_pin": false,
+      "aweme_id": "7443046787746712854",
+      "cid": "7443070102867690262",
+      "collect_stat": 0,
+      "comment_language": "ro",
+      "comment_post_item_ids": null,
+      "create_time": 1732974825,
+      "digg_count": 22,
+      "forbid_reply_with_video": true,
+      "image_list": null,
+      "is_author_digged": true,
+      "is_comment_translatable": true,
+      "label_list": [
+        {
+          "text": "Liked by creator",
+          "type": 20
+        }
+      ],
+      "no_show": false,
+      "reply_comment": null,
+      "reply_comment_total": 0,
+      "reply_id": "0",
+      "reply_to_reply_id": "0",
+      "share_info": {
+        "acl": {
+          "code": 0,
+          "extra": "{}"
+        },
+        "desc": "Alina Paduraru’s comment: Votăm POT 🙏🙏🙏 ȘI Calin Georgescu",
+        "title": "@Partidul Oamenilor Tineri - Opriți dezinformările!‼️ POT are șanse‼️ #alegeriparlamentare #partiduloamenilortineri #parlamentulromaniei ",
+        "url": "https://m.tiktok.com/v/7443046787746712854.html?_d=4c72mlkc83557j&comment_author_id=7184704007339557894&preview_pb=0&share_comment_id=7443070102867690262&share_item_id=7443046787746712854&sharer_language=en-US&source=h5_m&u_code=e8hegggb201lba"
+      },
+      "sort_extra_score": {
+        "reply_score": 0.000176,
+        "show_more_score": 0.00013
+      },
+      "sort_tags": "{\"author_digg\":1,\"top_list\":1}",
+      "status": 1,
+      "stick_position": 0,
+      "text": "Votăm POT 🙏🙏🙏 ȘI Calin Georgescu",
+      "text_extra": [],
+      "trans_btn_style": 1,
+      "user": {
+        "account_labels": null,
+        "ad_cover_url": null,
+        "advance_feature_item_order": null,
+        "advanced_feature_info": null,
+        "avatar_thumb": {
+          "uri": "tos-useast2a-avt-0068-euttp/7d39acff449464431686c9ceb806061a",
+          "url_list": [
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/7d39acff449464431686c9ceb806061a~c5_100x100.jpg?lk3s=30310797&nonce=91082&refresh_token=9bfa41a3de9aeec3f18399ddafb4297e&x-expires=1733094000&x-signature=6e8CzEal1fFNQP84rRt819P0cTo%3D&shp=30310797&shcp=-",
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/7d39acff449464431686c9ceb806061a~c5_100x100.jpeg?lk3s=30310797&nonce=44536&refresh_token=0d58da1d7238fbe5386027baccd8918d&x-expires=1733094000&x-signature=rx2yiEONaQUX2uG8IuL2i57yNGI%3D&shp=30310797&shcp=-"
+          ],
+          "url_prefix": null
+        },
+        "bold_fields": null,
+        "can_message_follow_status_list": null,
+        "can_set_geofencing": null,
+        "cha_list": null,
+        "cover_url": null,
+        "custom_verify": "",
+        "enterprise_verify_reason": "",
+        "events": null,
+        "followers_detail": null,
+        "geofencing": null,
+        "homepage_bottom_toast": null,
+        "item_list": null,
+        "mutual_relation_avatars": null,
+        "need_points": null,
+        "nickname": "Alina Paduraru",
+        "platform_sync_info": null,
+        "relative_users": null,
+        "search_highlight": null,
+        "sec_uid": "MS4wLjABAAAAfVxpy5NhTw0R75kjl2JGkrhHUwTISwfrwbF8gWtPlNYHoJUEsRgMDJLd4eI4kjza",
+        "shield_edit_field_info": null,
+        "type_label": null,
+        "uid": "7184704007339557894",
+        "unique_id": "alinapaduraruv",
+        "user_profile_guide": null,
+        "user_tags": null,
+        "white_cover_url": null
+      },
+      "user_buried": false,
+      "user_digged": 0
+    },
+    {
+      "author_pin": false,
+      "aweme_id": "7443046787746712854",
+      "cid": "7443066274966192918",
+      "collect_stat": 0,
+      "comment_language": "ro",
+      "comment_post_item_ids": null,
+      "create_time": 1732973946,
+      "digg_count": 122,
+      "forbid_reply_with_video": true,
+      "image_list": null,
+      "is_author_digged": true,
+      "is_comment_translatable": true,
+      "label_list": [
+        {
+          "text": "Liked by creator",
+          "type": 20
+        }
+      ],
+      "no_show": false,
+      "reply_comment": null,
+      "reply_comment_total": 0,
+      "reply_id": "0",
+      "reply_to_reply_id": "0",
+      "share_info": {
+        "acl": {
+          "code": 0,
+          "extra": "{}"
+        },
+        "desc": "Marian Mirica’s comment: votez Călin Georgescu Pot",
+        "title": "@Partidul Oamenilor Tineri - Opriți dezinformările!‼️ POT are șanse‼️ #alegeriparlamentare #partiduloamenilortineri #parlamentulromaniei ",
+        "url": "https://m.tiktok.com/v/7443046787746712854.html?_d=4c72mlkc83557j&comment_author_id=7376341207809885216&preview_pb=0&share_comment_id=7443066274966192918&share_item_id=7443046787746712854&sharer_language=en-US&source=h5_m&u_code=e8hegggb201lba"
+      },
+      "sort_extra_score": {
+        "reply_score": 9.7e-05,
+        "show_more_score": 6.8e-05
+      },
+      "sort_tags": "{\"author_digg\":1,\"top_list\":1}",
+      "status": 1,
+      "stick_position": 0,
+      "text": "votez Călin Georgescu Pot",
+      "text_extra": [],
+      "trans_btn_style": 1,
+      "user": {
+        "account_labels": null,
+        "ad_cover_url": null,
+        "advance_feature_item_order": null,
+        "advanced_feature_info": null,
+        "avatar_thumb": {
+          "uri": "tos-useast2a-avt-0068-euttp/7376342437932531744",
+          "url_list": [
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/7376342437932531744~c5_100x100.jpg?lk3s=30310797&nonce=23872&refresh_token=1be7afe7fbf8162afb8c706b33459539&x-expires=1733094000&x-signature=Bee0c0hKdLLmJhodHng7XqEFYHY%3D&shp=30310797&shcp=-",
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/7376342437932531744~c5_100x100.jpeg?lk3s=30310797&nonce=84634&refresh_token=d4cd7268e90cc25be9d4a23cb6c75e6a&x-expires=1733094000&x-signature=1XjRQgYjXN6WcIWeVmMzN7Lp2hQ%3D&shp=30310797&shcp=-"
+          ],
+          "url_prefix": null
+        },
+        "bold_fields": null,
+        "can_message_follow_status_list": null,
+        "can_set_geofencing": null,
+        "cha_list": null,
+        "cover_url": null,
+        "custom_verify": "",
+        "enterprise_verify_reason": "",
+        "events": null,
+        "followers_detail": null,
+        "geofencing": null,
+        "homepage_bottom_toast": null,
+        "item_list": null,
+        "mutual_relation_avatars": null,
+        "need_points": null,
+        "nickname": "Marian Mirica",
+        "platform_sync_info": null,
+        "relative_users": null,
+        "search_highlight": null,
+        "sec_uid": "MS4wLjABAAAAjTjvhLSE8euF8_g_E67l_JVc6g00H4wffSogWhCydKN00udHW2tDdSyn9_lw8RA-",
+        "shield_edit_field_info": null,
+        "type_label": null,
+        "uid": "7376341207809885216",
+        "unique_id": "marian.mirica0",
+        "user_profile_guide": null,
+        "user_tags": null,
+        "white_cover_url": null
+      },
+      "user_buried": false,
+      "user_digged": 0
+    },
+    {
+      "author_pin": false,
+      "aweme_id": "7443046787746712854",
+      "cid": "7443061345480540950",
+      "collect_stat": 0,
+      "comment_language": "ro",
+      "comment_post_item_ids": null,
+      "create_time": 1732972797,
+      "digg_count": 94,
+      "forbid_reply_with_video": true,
+      "image_list": null,
+      "is_author_digged": true,
+      "is_comment_translatable": true,
+      "label_list": [
+        {
+          "text": "Liked by creator",
+          "type": 20
+        }
+      ],
+      "no_show": false,
+      "reply_comment": null,
+      "reply_comment_total": 0,
+      "reply_id": "0",
+      "reply_to_reply_id": "0",
+      "share_info": {
+        "acl": {
+          "code": 0,
+          "extra": "{}"
+        },
+        "desc": "Cornelia Pantea’s comment: Te iubim fata dragă...POT...din inimă",
+        "title": "@Partidul Oamenilor Tineri - Opriți dezinformările!‼️ POT are șanse‼️ #alegeriparlamentare #partiduloamenilortineri #parlamentulromaniei ",
+        "url": "https://m.tiktok.com/v/7443046787746712854.html?_d=4c72mlkc83557j&comment_author_id=7060562754180973573&preview_pb=0&share_comment_id=7443061345480540950&share_item_id=7443046787746712854&sharer_language=en-US&source=h5_m&u_code=e8hegggb201lba"
+      },
+      "sort_extra_score": {
+        "reply_score": 0.000164,
+        "show_more_score": 0.000103
+      },
+      "sort_tags": "{\"author_digg\":1,\"top_list\":1}",
+      "status": 1,
+      "stick_position": 0,
+      "text": "Te iubim fata dragă...POT...din inimă",
+      "text_extra": [],
+      "trans_btn_style": 1,
+      "user": {
+        "account_labels": null,
+        "ad_cover_url": null,
+        "advance_feature_item_order": null,
+        "advanced_feature_info": null,
+        "avatar_thumb": {
+          "uri": "tos-useast2a-avt-0068-euttp/3c583cbd2b01889e2c29f40f33d3c157",
+          "url_list": [
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/3c583cbd2b01889e2c29f40f33d3c157~c5_100x100.jpg?lk3s=30310797&nonce=7729&refresh_token=c89c6cd69c38888e13f07a81ca0c1c96&x-expires=1733094000&x-signature=MrmbrtzOejTko9E%2Fm9afGrtEIe4%3D&shp=30310797&shcp=-",
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/3c583cbd2b01889e2c29f40f33d3c157~c5_100x100.jpeg?lk3s=30310797&nonce=11656&refresh_token=599e01d3e7a8ad4e86be9d68be4e2d59&x-expires=1733094000&x-signature=mOobcmqk9LjxX4BtVypSwUDgjik%3D&shp=30310797&shcp=-"
+          ],
+          "url_prefix": null
+        },
+        "bold_fields": null,
+        "can_message_follow_status_list": null,
+        "can_set_geofencing": null,
+        "cha_list": null,
+        "cover_url": null,
+        "custom_verify": "",
+        "enterprise_verify_reason": "",
+        "events": null,
+        "followers_detail": null,
+        "geofencing": null,
+        "homepage_bottom_toast": null,
+        "item_list": null,
+        "mutual_relation_avatars": null,
+        "need_points": null,
+        "nickname": "Cornelia Pantea",
+        "platform_sync_info": null,
+        "relative_users": null,
+        "search_highlight": null,
+        "sec_uid": "MS4wLjABAAAA87I-__5IBoEXp30DVIfk7tZoJ9JXtQpKsSGASZi3r6v0wq9ZagZJTyc06_nOipeS",
+        "shield_edit_field_info": null,
+        "type_label": null,
+        "uid": "7060562754180973573",
+        "unique_id": "corneliapantea850",
+        "user_profile_guide": null,
+        "user_tags": null,
+        "white_cover_url": null
+      },
+      "user_buried": false,
+      "user_digged": 0
+    },
+    {
+      "author_pin": false,
+      "aweme_id": "7443046787746712854",
+      "cid": "7443048975462630166",
+      "collect_stat": 0,
+      "comment_language": "ro",
+      "comment_post_item_ids": null,
+      "create_time": 1732969915,
+      "digg_count": 159,
+      "forbid_reply_with_video": true,
+      "image_list": null,
+      "is_author_digged": true,
+      "is_comment_translatable": true,
+      "label_list": [
+        {
+          "text": "Liked by creator",
+          "type": 20
+        }
+      ],
+      "no_show": false,
+      "reply_comment": null,
+      "reply_comment_total": 2,
+      "reply_id": "0",
+      "reply_to_reply_id": "0",
+      "share_info": {
+        "acl": {
+          "code": 0,
+          "extra": "{}"
+        },
+        "desc": "Pintea Calin’s comment: stați liniștită, votăm POT 🥰🥰🥰🥰",
+        "title": "@Partidul Oamenilor Tineri - Opriți dezinformările!‼️ POT are șanse‼️ #alegeriparlamentare #partiduloamenilortineri #parlamentulromaniei ",
+        "url": "https://m.tiktok.com/v/7443046787746712854.html?_d=4c72mlkc83557j&comment_author_id=6720137865664054278&preview_pb=0&share_comment_id=7443048975462630166&share_item_id=7443046787746712854&sharer_language=en-US&source=h5_m&u_code=e8hegggb201lba"
+      },
+      "sort_extra_score": {
+        "reply_score": 0.000118,
+        "show_more_score": 0.016513
+      },
+      "sort_tags": "{\"author_digg\":1,\"top_list\":1}",
+      "status": 1,
+      "stick_position": 0,
+      "text": "stați liniștită, votăm POT 🥰🥰🥰🥰",
+      "text_extra": [],
+      "trans_btn_style": 1,
+      "user": {
+        "account_labels": null,
+        "ad_cover_url": null,
+        "advance_feature_item_order": null,
+        "advanced_feature_info": null,
+        "avatar_thumb": {
+          "uri": "tos-useast2a-avt-0068-euttp/e7c7b46faba9e21a14c3c817ad4e1bf3",
+          "url_list": [
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/e7c7b46faba9e21a14c3c817ad4e1bf3~c5_100x100.jpg?lk3s=30310797&nonce=25602&refresh_token=5a505523e8140c54cf4ee8499a11c3ef&x-expires=1733094000&x-signature=JQyvW1%2FPtw4NFCnyYFW%2FJWMoGK4%3D&shp=30310797&shcp=-",
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/e7c7b46faba9e21a14c3c817ad4e1bf3~c5_100x100.jpeg?lk3s=30310797&nonce=89239&refresh_token=b02afff075336e78acf39433aac78686&x-expires=1733094000&x-signature=%2Bi00RWm%2BWQFOT%2Bs4LjBApTQTDY4%3D&shp=30310797&shcp=-"
+          ],
+          "url_prefix": null
+        },
+        "bold_fields": null,
+        "can_message_follow_status_list": null,
+        "can_set_geofencing": null,
+        "cha_list": null,
+        "cover_url": null,
+        "custom_verify": "",
+        "enterprise_verify_reason": "",
+        "events": null,
+        "followers_detail": null,
+        "geofencing": null,
+        "homepage_bottom_toast": null,
+        "item_list": null,
+        "mutual_relation_avatars": null,
+        "need_points": null,
+        "nickname": "Pintea Calin",
+        "platform_sync_info": null,
+        "relative_users": null,
+        "search_highlight": null,
+        "sec_uid": "MS4wLjABAAAAmU6TZHwwqFJDxSeJcf9mNzJsV-uBGfRAFZqiYG66s02GLxV-kDSUWZObBomJQorF",
+        "shield_edit_field_info": null,
+        "type_label": null,
+        "uid": "6720137865664054278",
+        "unique_id": "pinteacalin72",
+        "user_profile_guide": null,
+        "user_tags": null,
+        "white_cover_url": null
+      },
+      "user_buried": false,
+      "user_digged": 0
+    },
+    {
+      "author_pin": false,
+      "aweme_id": "7443046787746712854",
+      "cid": "7443108451444818721",
+      "collect_stat": 0,
+      "comment_language": "ro",
+      "comment_post_item_ids": null,
+      "create_time": 1732983767,
+      "digg_count": 78,
+      "forbid_reply_with_video": true,
+      "image_list": null,
+      "is_author_digged": false,
+      "is_comment_translatable": true,
+      "label_list": null,
+      "no_show": false,
+      "reply_comment": null,
+      "reply_comment_total": 0,
+      "reply_id": "0",
+      "reply_to_reply_id": "0",
+      "share_info": {
+        "acl": {
+          "code": 0,
+          "extra": "{}"
+        },
+        "desc": "@Scorpion Gabriela’s comment: POT si Calin Georgescu",
+        "title": "@Partidul Oamenilor Tineri - Opriți dezinformările!‼️ POT are șanse‼️ #alegeriparlamentare #partiduloamenilortineri #parlamentulromaniei ",
+        "url": "https://m.tiktok.com/v/7443046787746712854.html?_d=4c72mlkc83557j&comment_author_id=7422614109643228192&preview_pb=0&share_comment_id=7443108451444818721&share_item_id=7443046787746712854&sharer_language=en-US&source=h5_m&u_code=e8hegggb201lba"
+      },
+      "sort_extra_score": {
+        "reply_score": 0.000101,
+        "show_more_score": 0.000112
+      },
+      "sort_tags": "{\"top_list\":1}",
+      "status": 1,
+      "stick_position": 0,
+      "text": "POT si Calin Georgescu",
+      "text_extra": [],
+      "trans_btn_style": 1,
+      "user": {
+        "account_labels": null,
+        "ad_cover_url": null,
+        "advance_feature_item_order": null,
+        "advanced_feature_info": null,
+        "avatar_thumb": {
+          "uri": "tos-useast2a-avt-0068-euttp/99b92f6eee8e7a04f3f3606ff603ae69",
+          "url_list": [
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/99b92f6eee8e7a04f3f3606ff603ae69~c5_100x100.jpg?lk3s=30310797&nonce=60648&refresh_token=ec71e10a8daef908f3c21f1968985493&x-expires=1733094000&x-signature=ig3lwZmbAk1E23o0fHVNhco7D%2F0%3D&shp=30310797&shcp=-",
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/99b92f6eee8e7a04f3f3606ff603ae69~c5_100x100.jpeg?lk3s=30310797&nonce=61344&refresh_token=a48db38326f68e232fda0e797ac8b5fb&x-expires=1733094000&x-signature=4x%2Fk2oElMTzKaWajx%2BKJQUQ8S5Y%3D&shp=30310797&shcp=-"
+          ],
+          "url_prefix": null
+        },
+        "bold_fields": null,
+        "can_message_follow_status_list": null,
+        "can_set_geofencing": null,
+        "cha_list": null,
+        "cover_url": null,
+        "custom_verify": "",
+        "enterprise_verify_reason": "",
+        "events": null,
+        "followers_detail": null,
+        "geofencing": null,
+        "homepage_bottom_toast": null,
+        "item_list": null,
+        "mutual_relation_avatars": null,
+        "need_points": null,
+        "nickname": "@Scorpion Gabriela",
+        "platform_sync_info": null,
+        "relative_users": null,
+        "search_highlight": null,
+        "sec_uid": "MS4wLjABAAAAgPO4EUybEfqtrPgDmjlaI0SZubbP59iaTeEnNi4Fj-5NdhJcU8hD7Mh7UakQk6KL",
+        "shield_edit_field_info": null,
+        "type_label": null,
+        "uid": "7422614109643228192",
+        "unique_id": "scorpion.gabriela",
+        "user_profile_guide": null,
+        "user_tags": null,
+        "white_cover_url": null
+      },
+      "user_buried": false,
+      "user_digged": 0
+    },
+    {
+      "author_pin": false,
+      "aweme_id": "7443046787746712854",
+      "cid": "7443100248686297889",
+      "collect_stat": 0,
+      "comment_language": "ro",
+      "comment_post_item_ids": null,
+      "create_time": 1732981847,
+      "digg_count": 58,
+      "forbid_reply_with_video": true,
+      "image_list": null,
+      "is_author_digged": false,
+      "is_comment_translatable": true,
+      "label_list": null,
+      "no_show": false,
+      "reply_comment": null,
+      "reply_comment_total": 2,
+      "reply_id": "0",
+      "reply_to_reply_id": "0",
+      "share_info": {
+        "acl": {
+          "code": 0,
+          "extra": "{}"
+        },
+        "desc": "Fabiean Claudiu Si E’s comment: Votez POT si Calin Georgescu cu Dumnezeu anainte",
+        "title": "@Partidul Oamenilor Tineri - Opriți dezinformările!‼️ POT are șanse‼️ #alegeriparlamentare #partiduloamenilortineri #parlamentulromaniei ",
+        "url": "https://m.tiktok.com/v/7443046787746712854.html?_d=4c72mlkc83557j&comment_author_id=6824526904542004229&preview_pb=0&share_comment_id=7443100248686297889&share_item_id=7443046787746712854&sharer_language=en-US&source=h5_m&u_code=e8hegggb201lba"
+      },
+      "sort_extra_score": {
+        "reply_score": 0.000277,
+        "show_more_score": 0.029791
+      },
+      "sort_tags": "{\"top_list\":1}",
+      "status": 1,
+      "stick_position": 0,
+      "text": "Votez POT si Calin Georgescu cu Dumnezeu anainte",
+      "text_extra": [],
+      "trans_btn_style": 1,
+      "user": {
+        "account_labels": null,
+        "ad_cover_url": null,
+        "advance_feature_item_order": null,
+        "advanced_feature_info": null,
+        "avatar_thumb": {
+          "uri": "tos-maliva-avt-0068/7321930021621530629",
+          "url_list": [
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7321930021621530629~c5_100x100.jpg?lk3s=30310797&nonce=79215&refresh_token=decacf5ddacc5d280b305a9a3eefff3c&x-expires=1733094000&x-signature=0MK1lERefrRCBCeGrGunL7c3X00%3D&shp=30310797&shcp=-",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7321930021621530629~c5_100x100.jpeg?lk3s=30310797&nonce=65327&refresh_token=45d491ac665bbffe458a198018c4551e&x-expires=1733094000&x-signature=OoXMNJ4aG9C%2FIY0iCCtZJx1alAQ%3D&shp=30310797&shcp=-"
+          ],
+          "url_prefix": null
+        },
+        "bold_fields": null,
+        "can_message_follow_status_list": null,
+        "can_set_geofencing": null,
+        "cha_list": null,
+        "cover_url": null,
+        "custom_verify": "",
+        "enterprise_verify_reason": "",
+        "events": null,
+        "followers_detail": null,
+        "geofencing": null,
+        "homepage_bottom_toast": null,
+        "item_list": null,
+        "mutual_relation_avatars": null,
+        "need_points": null,
+        "nickname": "Fabiean Claudiu Si E",
+        "platform_sync_info": null,
+        "relative_users": null,
+        "search_highlight": null,
+        "sec_uid": "MS4wLjABAAAACFuwSvC_q9Xs2LSPPm0T-veH5SeRFkGR9zdpLeUoyfEzErWPcnOEvQ3zPLTU6ti7",
+        "shield_edit_field_info": null,
+        "type_label": null,
+        "uid": "6824526904542004229",
+        "unique_id": "fc_fabio78",
+        "user_profile_guide": null,
+        "user_tags": null,
+        "white_cover_url": null
+      },
+      "user_buried": false,
+      "user_digged": 0
+    },
+    {
+      "author_pin": false,
+      "aweme_id": "7443046787746712854",
+      "cid": "7443145611912708887",
+      "collect_stat": 0,
+      "comment_language": "ro",
+      "comment_post_item_ids": null,
+      "create_time": 1732992408,
+      "digg_count": 24,
+      "forbid_reply_with_video": true,
+      "image_list": null,
+      "is_author_digged": false,
+      "is_comment_translatable": true,
+      "label_list": null,
+      "no_show": false,
+      "reply_comment": null,
+      "reply_comment_total": 4,
+      "reply_id": "0",
+      "reply_to_reply_id": "0",
+      "share_info": {
+        "acl": {
+          "code": 0,
+          "extra": "{}"
+        },
+        "desc": "Anca Crucin’s comment: Da, așa este și cu un partid mic nu veți intra la guvernare și așa voturile voastre vor merge la PSD sau PNL!",
+        "title": "@Partidul Oamenilor Tineri - Opriți dezinformările!‼️ POT are șanse‼️ #alegeriparlamentare #partiduloamenilortineri #parlamentulromaniei ",
+        "url": "https://m.tiktok.com/v/7443046787746712854.html?_d=4c72mlkc83557j&comment_author_id=7321700578500330528&preview_pb=0&share_comment_id=7443145611912708887&share_item_id=7443046787746712854&sharer_language=en-US&source=h5_m&u_code=e8hegggb201lba"
+      },
+      "sort_extra_score": {
+        "reply_score": 0.000633,
+        "show_more_score": 0.044757
+      },
+      "sort_tags": "{\"top_list\":1}",
+      "status": 1,
+      "stick_position": 0,
+      "text": "Da, așa este și cu un partid mic nu veți intra la guvernare și așa voturile voastre vor merge la PSD sau PNL!",
+      "text_extra": [],
+      "trans_btn_style": 1,
+      "user": {
+        "account_labels": null,
+        "ad_cover_url": null,
+        "advance_feature_item_order": null,
+        "advanced_feature_info": null,
+        "avatar_thumb": {
+          "uri": "tos-useast2a-avt-0068-euttp/31263e67ce6a9f94803bbb7f6032853f",
+          "url_list": [
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/31263e67ce6a9f94803bbb7f6032853f~c5_100x100.jpg?lk3s=30310797&nonce=77745&refresh_token=ef09a4193be020f7cc752835f11db152&x-expires=1733094000&x-signature=fAzmg7jnGs8D8rntT3FmKcJSNPY%3D&shp=30310797&shcp=-",
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/31263e67ce6a9f94803bbb7f6032853f~c5_100x100.jpeg?lk3s=30310797&nonce=35019&refresh_token=bf52778f8578cc704ed6cbbd28a4dd23&x-expires=1733094000&x-signature=MeTEqGJhT2oWc79Uny%2F7qtols90%3D&shp=30310797&shcp=-"
+          ],
+          "url_prefix": null
+        },
+        "bold_fields": null,
+        "can_message_follow_status_list": null,
+        "can_set_geofencing": null,
+        "cha_list": null,
+        "cover_url": null,
+        "custom_verify": "",
+        "enterprise_verify_reason": "",
+        "events": null,
+        "followers_detail": null,
+        "geofencing": null,
+        "homepage_bottom_toast": null,
+        "item_list": null,
+        "mutual_relation_avatars": null,
+        "need_points": null,
+        "nickname": "Anca Crucin",
+        "platform_sync_info": null,
+        "relative_users": null,
+        "search_highlight": null,
+        "sec_uid": "MS4wLjABAAAATGGuW84xayx4aZfWouvm0Ho23agTInZEA1dstlQwp-lzJIm_KVVp1RQHJbK_AyoJ",
+        "shield_edit_field_info": null,
+        "type_label": null,
+        "uid": "7321700578500330528",
+        "unique_id": "anca.crucin",
+        "user_profile_guide": null,
+        "user_tags": null,
+        "white_cover_url": null
+      },
+      "user_buried": false,
+      "user_digged": 0
+    },
+    {
+      "author_pin": false,
+      "aweme_id": "7443046787746712854",
+      "cid": "7443050250812146454",
+      "collect_stat": 0,
+      "comment_language": "ro",
+      "comment_post_item_ids": null,
+      "create_time": 1732970212,
+      "digg_count": 100,
+      "forbid_reply_with_video": true,
+      "image_list": null,
+      "is_author_digged": true,
+      "is_comment_translatable": true,
+      "label_list": [
+        {
+          "text": "Liked by creator",
+          "type": 20
+        }
+      ],
+      "no_show": false,
+      "reply_comment": null,
+      "reply_comment_total": 0,
+      "reply_id": "0",
+      "reply_to_reply_id": "0",
+      "share_info": {
+        "acl": {
+          "code": 0,
+          "extra": "{}"
+        },
+        "desc": "Matei marius’s comment: Votez din inimă POT 🌹",
+        "title": "@Partidul Oamenilor Tineri - Opriți dezinformările!‼️ POT are șanse‼️ #alegeriparlamentare #partiduloamenilortineri #parlamentulromaniei ",
+        "url": "https://m.tiktok.com/v/7443046787746712854.html?_d=4c72mlkc83557j&comment_author_id=7308762688648627232&preview_pb=0&share_comment_id=7443050250812146454&share_item_id=7443046787746712854&sharer_language=en-US&source=h5_m&u_code=e8hegggb201lba"
+      },
+      "sort_extra_score": {
+        "reply_score": 9.8e-05,
+        "show_more_score": 7.4e-05
+      },
+      "sort_tags": "{\"author_digg\":1,\"top_list\":1}",
+      "status": 1,
+      "stick_position": 0,
+      "text": "Votez din inimă POT 🌹",
+      "text_extra": [],
+      "trans_btn_style": 1,
+      "user": {
+        "account_labels": null,
+        "ad_cover_url": null,
+        "advance_feature_item_order": null,
+        "advanced_feature_info": null,
+        "avatar_thumb": {
+          "uri": "musically-maliva-obj/1594805258216454",
+          "url_list": [
+            "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1594805258216454~c5_100x100.jpg?lk3s=30310797&nonce=51724&refresh_token=23b1cd527f150da5bfb75651a5468b7d&x-expires=1733094000&x-signature=88S4txMg8njxffS0uuBQ5y4RqEM%3D&shp=30310797&shcp=-",
+            "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1594805258216454~c5_100x100.jpeg?lk3s=30310797&nonce=90972&refresh_token=76ca2cabefcb72ffb3557c5d6679d5e7&x-expires=1733094000&x-signature=2Jni8InoYc7g7hDs5B09p2aIoUM%3D&shp=30310797&shcp=-"
+          ],
+          "url_prefix": null
+        },
+        "bold_fields": null,
+        "can_message_follow_status_list": null,
+        "can_set_geofencing": null,
+        "cha_list": null,
+        "cover_url": null,
+        "custom_verify": "",
+        "enterprise_verify_reason": "",
+        "events": null,
+        "followers_detail": null,
+        "geofencing": null,
+        "homepage_bottom_toast": null,
+        "item_list": null,
+        "mutual_relation_avatars": null,
+        "need_points": null,
+        "nickname": "Matei marius",
+        "platform_sync_info": null,
+        "relative_users": null,
+        "search_highlight": null,
+        "sec_uid": "MS4wLjABAAAASACeWZJ64yYeGqw-N8c_nqJy9UJmakXggg12bR_udN8PA-9N41KIyxQW_wv9w96O",
+        "shield_edit_field_info": null,
+        "type_label": null,
+        "uid": "7308762688648627232",
+        "unique_id": "matei.marius40",
+        "user_profile_guide": null,
+        "user_tags": null,
+        "white_cover_url": null
+      },
+      "user_buried": false,
+      "user_digged": 0
+    },
+    {
+      "author_pin": false,
+      "aweme_id": "7443046787746712854",
+      "cid": "7443087150936245014",
+      "collect_stat": 0,
+      "comment_language": "ro",
+      "comment_post_item_ids": null,
+      "create_time": 1732978818,
+      "digg_count": 137,
+      "forbid_reply_with_video": true,
+      "image_list": null,
+      "is_author_digged": true,
+      "is_comment_translatable": true,
+      "label_list": [
+        {
+          "text": "Liked by creator",
+          "type": 20
+        }
+      ],
+      "no_show": false,
+      "reply_comment": null,
+      "reply_comment_total": 0,
+      "reply_id": "0",
+      "reply_to_reply_id": "0",
+      "share_info": {
+        "acl": {
+          "code": 0,
+          "extra": "{}"
+        },
+        "desc": "Laurențiu Bobic’s comment: votăm pot\nvotăm Călin Georgescu",
+        "title": "@Partidul Oamenilor Tineri - Opriți dezinformările!‼️ POT are șanse‼️ #alegeriparlamentare #partiduloamenilortineri #parlamentulromaniei ",
+        "url": "https://m.tiktok.com/v/7443046787746712854.html?_d=4c72mlkc83557j&comment_author_id=7116960346397230086&preview_pb=0&share_comment_id=7443087150936245014&share_item_id=7443046787746712854&sharer_language=en-US&source=h5_m&u_code=e8hegggb201lba"
+      },
+      "sort_extra_score": {
+        "reply_score": 0.000135,
+        "show_more_score": 0.000111
+      },
+      "sort_tags": "{\"author_digg\":1,\"top_list\":1}",
+      "status": 1,
+      "stick_position": 0,
+      "text": "votăm pot\nvotăm Călin Georgescu",
+      "text_extra": [],
+      "trans_btn_style": 1,
+      "user": {
+        "account_labels": null,
+        "ad_cover_url": null,
+        "advance_feature_item_order": null,
+        "advanced_feature_info": null,
+        "avatar_thumb": {
+          "uri": "tos-useast2a-avt-0068-euttp/71361236a3fa7bd6bfdca0ce5fe8fae5",
+          "url_list": [
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/71361236a3fa7bd6bfdca0ce5fe8fae5~c5_100x100.jpg?lk3s=30310797&nonce=52389&refresh_token=80d8c82aec6c3d378b386c882ac430a5&x-expires=1733094000&x-signature=0MhsI2Y%2FFbnlnCquKZ%2BaoIFp%2Bp4%3D&shp=30310797&shcp=-",
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/71361236a3fa7bd6bfdca0ce5fe8fae5~c5_100x100.jpeg?lk3s=30310797&nonce=48511&refresh_token=61ef36050defb62e339b7f98599afcf1&x-expires=1733094000&x-signature=cA8BSvor3geotYvzw99Sqqbdr9w%3D&shp=30310797&shcp=-"
+          ],
+          "url_prefix": null
+        },
+        "bold_fields": null,
+        "can_message_follow_status_list": null,
+        "can_set_geofencing": null,
+        "cha_list": null,
+        "cover_url": null,
+        "custom_verify": "",
+        "enterprise_verify_reason": "",
+        "events": null,
+        "followers_detail": null,
+        "geofencing": null,
+        "homepage_bottom_toast": null,
+        "item_list": null,
+        "mutual_relation_avatars": null,
+        "need_points": null,
+        "nickname": "Laurențiu Bobic",
+        "platform_sync_info": null,
+        "relative_users": null,
+        "search_highlight": null,
+        "sec_uid": "MS4wLjABAAAAqUXWaIgU3hA9J_BckA24r1bdcLTp8f4hTHcAYuZ3TGlhvztft3XvcxJFzv77qhXz",
+        "shield_edit_field_info": null,
+        "type_label": null,
+        "uid": "7116960346397230086",
+        "unique_id": "laurentiubobic85",
+        "user_profile_guide": null,
+        "user_tags": null,
+        "white_cover_url": null
+      },
+      "user_buried": false,
+      "user_digged": 0
+    },
+    {
+      "author_pin": false,
+      "aweme_id": "7443046787746712854",
+      "cid": "7443089383907017494",
+      "collect_stat": 0,
+      "comment_language": "ro",
+      "comment_post_item_ids": null,
+      "create_time": 1732979321,
+      "digg_count": 47,
+      "forbid_reply_with_video": true,
+      "image_list": null,
+      "is_author_digged": true,
+      "is_comment_translatable": true,
+      "label_list": [
+        {
+          "text": "Liked by creator",
+          "type": 20
+        }
+      ],
+      "no_show": false,
+      "reply_comment": null,
+      "reply_comment_total": 0,
+      "reply_id": "0",
+      "reply_to_reply_id": "0",
+      "share_info": {
+        "acl": {
+          "code": 0,
+          "extra": "{}"
+        },
+        "desc": "Alexandru’s comment: POT și eu pe 1 Decembrie 🥰🥰🥰",
+        "title": "@Partidul Oamenilor Tineri - Opriți dezinformările!‼️ POT are șanse‼️ #alegeriparlamentare #partiduloamenilortineri #parlamentulromaniei ",
+        "url": "https://m.tiktok.com/v/7443046787746712854.html?_d=4c72mlkc83557j&comment_author_id=7123206145859011590&preview_pb=0&share_comment_id=7443089383907017494&share_item_id=7443046787746712854&sharer_language=en-US&source=h5_m&u_code=e8hegggb201lba"
+      },
+      "sort_extra_score": {
+        "reply_score": 0.000195,
+        "show_more_score": 0.000125
+      },
+      "sort_tags": "{\"author_digg\":1,\"top_list\":1}",
+      "status": 1,
+      "stick_position": 0,
+      "text": "POT și eu pe 1 Decembrie 🥰🥰🥰",
+      "text_extra": [],
+      "trans_btn_style": 1,
+      "user": {
+        "account_labels": null,
+        "ad_cover_url": null,
+        "advance_feature_item_order": null,
+        "advanced_feature_info": null,
+        "avatar_thumb": {
+          "uri": "tos-no1a-avt-0068c001-no/706d2f4b5c3c9062120a8f6403977ec6",
+          "url_list": [
+            "https://p16-pu-sign-no.tiktokcdn-eu.com/obj/tos-no1a-avt-0068c001-no/706d2f4b5c3c9062120a8f6403977ec6?lk3s=30310797&nonce=53178&refresh_token=de3870a562cd5f154aa8aa76509866d6&x-expires=1733094000&x-signature=AaCn3YNqiLKjR5HJiWXPsRVTXt8%3D&shp=30310797&shcp=-",
+            "https://p19-pu-sign-no.tiktokcdn-eu.com/obj/tos-no1a-avt-0068c001-no/706d2f4b5c3c9062120a8f6403977ec6?lk3s=30310797&nonce=84408&refresh_token=d3afa2ea0338a1d280b809715251dd5c&x-expires=1733094000&x-signature=B5Cr3qWCA2hi6eTgGjeP3g8Dj%2B4%3D&shp=30310797&shcp=-"
+          ],
+          "url_prefix": null
+        },
+        "bold_fields": null,
+        "can_message_follow_status_list": null,
+        "can_set_geofencing": null,
+        "cha_list": null,
+        "cover_url": null,
+        "custom_verify": "",
+        "enterprise_verify_reason": "",
+        "events": null,
+        "followers_detail": null,
+        "geofencing": null,
+        "homepage_bottom_toast": null,
+        "item_list": null,
+        "mutual_relation_avatars": null,
+        "need_points": null,
+        "nickname": "Alexandru",
+        "platform_sync_info": null,
+        "relative_users": null,
+        "search_highlight": null,
+        "sec_uid": "MS4wLjABAAAAi0TrxQK94Ng_POXU-f_8e_fj_lAzzWwltyvOfDoPjWZ_5PlxgA42fRTfBCp3Ydxf",
+        "shield_edit_field_info": null,
+        "type_label": null,
+        "uid": "7123206145859011590",
+        "unique_id": "_bossul._.alexandru_",
+        "user_profile_guide": null,
+        "user_tags": null,
+        "white_cover_url": null
+      },
+      "user_buried": false,
+      "user_digged": 0
+    },
+    {
+      "author_pin": false,
+      "aweme_id": "7443046787746712854",
+      "cid": "7443055871942787862",
+      "collect_stat": 0,
+      "comment_language": "ro",
+      "comment_post_item_ids": null,
+      "create_time": 1732971524,
+      "digg_count": 173,
+      "forbid_reply_with_video": true,
+      "image_list": null,
+      "is_author_digged": true,
+      "is_comment_translatable": true,
+      "label_list": [
+        {
+          "text": "Liked by creator",
+          "type": 20
+        }
+      ],
+      "no_show": false,
+      "reply_comment": null,
+      "reply_comment_total": 0,
+      "reply_id": "0",
+      "reply_to_reply_id": "0",
+      "share_info": {
+        "acl": {
+          "code": 0,
+          "extra": "{}"
+        },
+        "desc": "razvan baluta’s comment: POT și Călin Georgescu!🇷🇴",
+        "title": "@Partidul Oamenilor Tineri - Opriți dezinformările!‼️ POT are șanse‼️ #alegeriparlamentare #partiduloamenilortineri #parlamentulromaniei ",
+        "url": "https://m.tiktok.com/v/7443046787746712854.html?_d=4c72mlkc83557j&comment_author_id=7394853027725837345&preview_pb=0&share_comment_id=7443055871942787862&share_item_id=7443046787746712854&sharer_language=en-US&source=h5_m&u_code=e8hegggb201lba"
+      },
+      "sort_extra_score": {
+        "reply_score": 0.000109,
+        "show_more_score": 0.000148
+      },
+      "sort_tags": "{\"author_digg\":1,\"top_list\":1}",
+      "status": 1,
+      "stick_position": 0,
+      "text": "POT și Călin Georgescu!🇷🇴",
+      "text_extra": [],
+      "trans_btn_style": 1,
+      "user": {
+        "account_labels": null,
+        "ad_cover_url": null,
+        "advance_feature_item_order": null,
+        "advanced_feature_info": null,
+        "avatar_thumb": {
+          "uri": "tos-useast2a-avt-0068-euttp/7394853721002147872",
+          "url_list": [
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/7394853721002147872~c5_100x100.jpg?lk3s=30310797&nonce=67950&refresh_token=ef0b658180114c0cb430801f81f71be6&x-expires=1733094000&x-signature=hrbqdNl8Xe52AQ9dh1%2FaQv%2BFxww%3D&shp=30310797&shcp=-",
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/7394853721002147872~c5_100x100.jpeg?lk3s=30310797&nonce=39467&refresh_token=629c96a210e900d2bcef8a0d9af4a1f8&x-expires=1733094000&x-signature=oDkAVbAX6alldwgeLhnqtVNyn0Q%3D&shp=30310797&shcp=-"
+          ],
+          "url_prefix": null
+        },
+        "bold_fields": null,
+        "can_message_follow_status_list": null,
+        "can_set_geofencing": null,
+        "cha_list": null,
+        "cover_url": null,
+        "custom_verify": "",
+        "enterprise_verify_reason": "",
+        "events": null,
+        "followers_detail": null,
+        "geofencing": null,
+        "homepage_bottom_toast": null,
+        "item_list": null,
+        "mutual_relation_avatars": null,
+        "need_points": null,
+        "nickname": "razvan baluta",
+        "platform_sync_info": null,
+        "relative_users": null,
+        "search_highlight": null,
+        "sec_uid": "MS4wLjABAAAAu404RtRwTp15QPArZCY293WdVWoa1R6jfyF1M9Tk0hmg1dIF4sowdlnEWU6qCHPz",
+        "shield_edit_field_info": null,
+        "type_label": null,
+        "uid": "7394853027725837345",
+        "unique_id": "razvan.baluta",
+        "user_profile_guide": null,
+        "user_tags": null,
+        "white_cover_url": null
+      },
+      "user_buried": false,
+      "user_digged": 0
+    },
+    {
+      "author_pin": false,
+      "aweme_id": "7443046787746712854",
+      "cid": "7443097611505124118",
+      "collect_stat": 0,
+      "comment_language": "ro",
+      "comment_post_item_ids": null,
+      "create_time": 1732981247,
+      "digg_count": 78,
+      "forbid_reply_with_video": true,
+      "image_list": null,
+      "is_author_digged": false,
+      "is_comment_translatable": true,
+      "label_list": null,
+      "no_show": false,
+      "reply_comment": null,
+      "reply_comment_total": 4,
+      "reply_id": "0",
+      "reply_to_reply_id": "0",
+      "share_info": {
+        "acl": {
+          "code": 0,
+          "extra": "{}"
+        },
+        "desc": "michaelavollack’s comment: Am votat acum o oră POT la senat și AUR la camera deputaților.Suntem datori ,moral sa acordam o șansă tineretului🥰🥰🥰",
+        "title": "@Partidul Oamenilor Tineri - Opriți dezinformările!‼️ POT are șanse‼️ #alegeriparlamentare #partiduloamenilortineri #parlamentulromaniei ",
+        "url": "https://m.tiktok.com/v/7443046787746712854.html?_d=4c72mlkc83557j&comment_author_id=6916888303296349185&preview_pb=0&share_comment_id=7443097611505124118&share_item_id=7443046787746712854&sharer_language=en-US&source=h5_m&u_code=e8hegggb201lba"
+      },
+      "sort_extra_score": {
+        "reply_score": 0.000383,
+        "show_more_score": 0.040137
+      },
+      "sort_tags": "{\"top_list\":1}",
+      "status": 1,
+      "stick_position": 0,
+      "text": "Am votat acum o oră POT la senat și AUR la camera deputaților.Suntem datori ,moral sa acordam o șansă tineretului🥰🥰🥰",
+      "text_extra": [],
+      "trans_btn_style": 1,
+      "user": {
+        "account_labels": null,
+        "ad_cover_url": null,
+        "advance_feature_item_order": null,
+        "advanced_feature_info": null,
+        "avatar_thumb": {
+          "uri": "tos-no1a-avt-0068c001-no/c55f255f4db18e9f9a183f36c638b5e2",
+          "url_list": [
+            "https://p16-pu-sign-no.tiktokcdn-eu.com/obj/tos-no1a-avt-0068c001-no/c55f255f4db18e9f9a183f36c638b5e2?lk3s=30310797&nonce=1960&refresh_token=a3eab77742df6b290a7b20eea760871c&x-expires=1733094000&x-signature=yvo2DRGcvSblYODyvlgYzbtNYM8%3D&shp=30310797&shcp=-",
+            "https://p19-pu-sign-no.tiktokcdn-eu.com/obj/tos-no1a-avt-0068c001-no/c55f255f4db18e9f9a183f36c638b5e2?lk3s=30310797&nonce=81518&refresh_token=6d0b5f839a1b296b6c6f6c1bba694216&x-expires=1733094000&x-signature=0ELo%2B1d%2BcQ5r7nEJVf2PanIXh60%3D&shp=30310797&shcp=-"
+          ],
+          "url_prefix": null
+        },
+        "bold_fields": null,
+        "can_message_follow_status_list": null,
+        "can_set_geofencing": null,
+        "cha_list": null,
+        "cover_url": null,
+        "custom_verify": "",
+        "enterprise_verify_reason": "",
+        "events": null,
+        "followers_detail": null,
+        "geofencing": null,
+        "homepage_bottom_toast": null,
+        "item_list": null,
+        "mutual_relation_avatars": null,
+        "need_points": null,
+        "nickname": "michaelavollack",
+        "platform_sync_info": null,
+        "relative_users": null,
+        "search_highlight": null,
+        "sec_uid": "MS4wLjABAAAAu6kQOz1j3xj0nMBvGUMbtJgAnRIoQk39GPCi3a4C051-UWhq-WfS8Q6FzSoZ7Zy2",
+        "shield_edit_field_info": null,
+        "type_label": null,
+        "uid": "6916888303296349185",
+        "unique_id": "michaelavollack",
+        "user_profile_guide": null,
+        "user_tags": null,
+        "white_cover_url": null
+      },
+      "user_buried": false,
+      "user_digged": 0
+    },
+    {
+      "author_pin": false,
+      "aweme_id": "7443046787746712854",
+      "cid": "7443083095358112534",
+      "collect_stat": 0,
+      "comment_language": "ro",
+      "comment_post_item_ids": null,
+      "create_time": 1732977858,
+      "digg_count": 45,
+      "forbid_reply_with_video": true,
+      "image_list": null,
+      "is_author_digged": true,
+      "is_comment_translatable": true,
+      "label_list": [
+        {
+          "text": "Liked by creator",
+          "type": 20
+        }
+      ],
+      "no_show": false,
+      "reply_comment": null,
+      "reply_comment_total": 0,
+      "reply_id": "0",
+      "reply_to_reply_id": "0",
+      "share_info": {
+        "acl": {
+          "code": 0,
+          "extra": "{}"
+        },
+        "desc": "mirelamanoiu11’s comment: Votam POT! Doamne ajuta! 🥰",
+        "title": "@Partidul Oamenilor Tineri - Opriți dezinformările!‼️ POT are șanse‼️ #alegeriparlamentare #partiduloamenilortineri #parlamentulromaniei ",
+        "url": "https://m.tiktok.com/v/7443046787746712854.html?_d=4c72mlkc83557j&comment_author_id=6755908964405429254&preview_pb=0&share_comment_id=7443083095358112534&share_item_id=7443046787746712854&sharer_language=en-US&source=h5_m&u_code=e8hegggb201lba"
+      },
+      "sort_extra_score": {
+        "reply_score": 0.000132,
+        "show_more_score": 8.9e-05
+      },
+      "sort_tags": "{\"author_digg\":1,\"top_list\":1}",
+      "status": 1,
+      "stick_position": 0,
+      "text": "Votam POT! Doamne ajuta! 🥰",
+      "text_extra": [],
+      "trans_btn_style": 1,
+      "user": {
+        "account_labels": null,
+        "ad_cover_url": null,
+        "advance_feature_item_order": null,
+        "advanced_feature_info": null,
+        "avatar_thumb": {
+          "uri": "tos-no1a-avt-0068c001-no/a065da844106d345e6ebcd40ca80dee9",
+          "url_list": [
+            "https://p16-pu-sign-no.tiktokcdn-eu.com/obj/tos-no1a-avt-0068c001-no/a065da844106d345e6ebcd40ca80dee9?lk3s=30310797&nonce=2655&refresh_token=7b1ebdf3671fa9013c226d96fb91bc93&x-expires=1733094000&x-signature=%2FfyRGNvmcOUzf3p6LeOZCb7xk3U%3D&shp=30310797&shcp=-",
+            "https://p19-pu-sign-no.tiktokcdn-eu.com/obj/tos-no1a-avt-0068c001-no/a065da844106d345e6ebcd40ca80dee9?lk3s=30310797&nonce=47379&refresh_token=7aae9b8a1372ea04650e5ac02d99a053&x-expires=1733094000&x-signature=leshAWZrQPmBnp1I0XiwLmwnLjw%3D&shp=30310797&shcp=-"
+          ],
+          "url_prefix": null
+        },
+        "bold_fields": null,
+        "can_message_follow_status_list": null,
+        "can_set_geofencing": null,
+        "cha_list": null,
+        "cover_url": null,
+        "custom_verify": "",
+        "enterprise_verify_reason": "",
+        "events": null,
+        "followers_detail": null,
+        "geofencing": null,
+        "homepage_bottom_toast": null,
+        "item_list": null,
+        "mutual_relation_avatars": null,
+        "need_points": null,
+        "nickname": "mirelamanoiu11",
+        "platform_sync_info": null,
+        "relative_users": null,
+        "search_highlight": null,
+        "sec_uid": "MS4wLjABAAAACdSnpjlkRYinZwaTNUB5ZXKZ2qADmUUWz9n7--Mt4k3yKQwPa4yi7LzPJXaCT0lc",
+        "shield_edit_field_info": null,
+        "type_label": null,
+        "uid": "6755908964405429254",
+        "unique_id": "mirelamanoiu11",
+        "user_profile_guide": null,
+        "user_tags": null,
+        "white_cover_url": null
+      },
+      "user_buried": false,
+      "user_digged": 0
+    }
+  ]
+}
