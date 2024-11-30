@@ -114,7 +114,7 @@ def upload_file_to_gemini(file_path: str) -> str:
             return file_uri, mime_type
 
     except Exception as e:
-        logger.error(f"Error uploading file {file_path}: {str(e)}")
+        logger.error(f"Error uploading file {file_path}: {str(e).replace(api_key, '***')}")
         raise
 
 
@@ -131,7 +131,7 @@ def find_image_for_ad(ad_id: str) -> Optional[tuple]:
                 try:
                     return filepath
                 except Exception as e:
-                    logger.error(f"Error processing image {filepath}: {str(e)}")
+                    logger.error(f"Error processing image {filepath}: {str(e).replace(api_key, '***')}")
                     return None
     return None
 
@@ -240,9 +240,9 @@ def process_single_ad(ad_data: Dict[str, Any], system_prompt: str, user_prompt_t
         return True
 
     except Exception as e:
-        logger.error(f"Error processing ad {ad_data['ad_archive_id']}: {str(e)}")
+        logger.error(f"Error processing ad {ad_data['ad_archive_id']}: {str(e).replace(api_key, '***')}")
         if hasattr(response, 'text'):
-            logger.error(f"Response text: {response.text}")
+            logger.error(f"Response text: {response.text.replace(api_key, '***')}")
         update_stats(success=False)
         return False
 
@@ -299,7 +299,7 @@ def process_ads(json_file_path: str, api_key: str, max_ads: int = None):
             try:
                 future.result()
             except Exception as e:
-                logger.error(f"Unexpected error in thread: {str(e)}")
+                logger.error(f"Unexpected error in thread: {str(e).replace(api_key, '***')}")
                 update_stats(success=False)
 
     logger.info("\nProcessing complete:")
@@ -314,11 +314,12 @@ if __name__ == "__main__":
         print("Usage: python script.py <api_key>")
         sys.exit(1)
 
+
     api_key = sys.argv[1]
     try:
         json_file_path = get_latest_results_file()
         print("Processing ads from:", json_file_path)
         process_ads(json_file_path, api_key)
     except FileNotFoundError as e:
-        logger.error(f"Error finding results file: {str(e)}")
+        logger.error(f"Error finding results file: {str(e).replace(api_key, '***')}")
         sys.exit(1)
