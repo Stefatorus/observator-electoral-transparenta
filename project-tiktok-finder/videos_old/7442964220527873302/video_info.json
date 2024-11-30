@@ -1,0 +1,752 @@
+{
+  "AIGCDescription": "",
+  "BAInfo": "",
+  "CategoryType": 120,
+  "adAuthorization": false,
+  "adLabelVersion": 0,
+  "aigcLabelType": 0,
+  "author": {
+    "avatarLarger": "https://p16-pu-sign-no.tiktokcdn-eu.com/obj/tos-no1a-avt-0068c001-no/c7b844b54901a0651708782358169e07?lk3s=a5d48078&nonce=93250&refresh_token=f189738bf4d083e082b1b0a5db6074e8&x-expires=1733180400&x-signature=JlziYneQERYs%2BKmyyvdDZNSiJ7I%3D&shp=a5d48078&shcp=b59d6b55",
+    "avatarMedium": "https://p16-pu-sign-no.tiktokcdn-eu.com/obj/tos-no1a-avt-0068c001-no/c7b844b54901a0651708782358169e07?lk3s=a5d48078&nonce=81575&refresh_token=280957cab5da877cbd6619e8663be74b&x-expires=1733180400&x-signature=JlziYneQERYs%2BKmyyvdDZNSiJ7I%3D&shp=a5d48078&shcp=b59d6b55",
+    "avatarThumb": "https://p16-pu-sign-no.tiktokcdn-eu.com/obj/tos-no1a-avt-0068c001-no/c7b844b54901a0651708782358169e07?lk3s=a5d48078&nonce=82549&refresh_token=b37e9a30f60aef75d44d015ce01117ee&x-expires=1733180400&x-signature=JlziYneQERYs%2BKmyyvdDZNSiJ7I%3D&shp=a5d48078&shcp=b59d6b55",
+    "commentSetting": 0,
+    "downloadSetting": 0,
+    "duetSetting": 0,
+    "ftc": false,
+    "id": "7410066611011486752",
+    "isADVirtual": false,
+    "isEmbedBanned": false,
+    "nickname": "Calingeorgescu",
+    "openFavorite": false,
+    "privateAccount": false,
+    "relation": 0,
+    "secUid": "MS4wLjABAAAAedOEd6nxV3S0649JgFK3hLcBElztbrPnQ7tu0fOrTmV06xq7mkuX-zaJ7iQyhZ_3",
+    "secret": false,
+    "signature": "",
+    "stitchSetting": 0,
+    "ttSeller": false,
+    "uniqueId": "calingeorgescuofficialll",
+    "verified": false
+  },
+  "authorStats": {
+    "diggCount": 152,
+    "followerCount": 1299,
+    "followingCount": 812,
+    "friendCount": 0,
+    "heart": 771,
+    "heartCount": 771,
+    "videoCount": 11
+  },
+  "challenges": [
+    {
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": "",
+      "desc": "",
+      "id": "114462",
+      "isCommerce": false,
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "stats": {
+        "videoCount": 0,
+        "viewCount": 0
+      },
+      "title": "calin"
+    },
+    {
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": "",
+      "desc": "",
+      "id": "1630792917310470",
+      "isCommerce": false,
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "stats": {
+        "videoCount": 0,
+        "viewCount": 0
+      },
+      "title": "georgescu"
+    }
+  ],
+  "collected": false,
+  "contents": [
+    {
+      "desc": "#calin #georgescu ",
+      "textExtra": [
+        {
+          "awemeId": "",
+          "end": 6,
+          "hashtagId": "114462",
+          "hashtagName": "calin",
+          "isCommerce": false,
+          "secUid": "",
+          "start": 0,
+          "subType": 0,
+          "type": 1,
+          "userId": "",
+          "userUniqueId": ""
+        },
+        {
+          "awemeId": "",
+          "end": 17,
+          "hashtagId": "1630792917310470",
+          "hashtagName": "georgescu",
+          "isCommerce": false,
+          "secUid": "",
+          "start": 7,
+          "subType": 0,
+          "type": 1,
+          "userId": "",
+          "userUniqueId": ""
+        }
+      ]
+    }
+  ],
+  "createTime": 1732950164,
+  "desc": "#calin #georgescu ",
+  "digged": false,
+  "duetDisplay": 0,
+  "duetEnabled": true,
+  "duetInfo": {
+    "duetFromId": "0"
+  },
+  "forFriend": false,
+  "id": "7442964220527873302",
+  "isAd": false,
+  "itemCommentStatus": 0,
+  "itemMute": false,
+  "item_control": {
+    "can_repost": true
+  },
+  "music": {
+    "album": "",
+    "authorName": "Calingeorgescu",
+    "coverLarge": "https://p16-pu-sign-no.tiktokcdn-eu.com/obj/tos-no1a-avt-0068c001-no/c7b844b54901a0651708782358169e07?lk3s=a5d48078&nonce=93250&refresh_token=f189738bf4d083e082b1b0a5db6074e8&x-expires=1733180400&x-signature=JlziYneQERYs%2BKmyyvdDZNSiJ7I%3D&shp=a5d48078&shcp=b59d6b55",
+    "coverMedium": "https://p16-pu-sign-no.tiktokcdn-eu.com/obj/tos-no1a-avt-0068c001-no/c7b844b54901a0651708782358169e07?lk3s=a5d48078&nonce=81575&refresh_token=280957cab5da877cbd6619e8663be74b&x-expires=1733180400&x-signature=JlziYneQERYs%2BKmyyvdDZNSiJ7I%3D&shp=a5d48078&shcp=b59d6b55",
+    "coverThumb": "https://p16-pu-sign-no.tiktokcdn-eu.com/obj/tos-no1a-avt-0068c001-no/c7b844b54901a0651708782358169e07?lk3s=a5d48078&nonce=82549&refresh_token=b37e9a30f60aef75d44d015ce01117ee&x-expires=1733180400&x-signature=JlziYneQERYs%2BKmyyvdDZNSiJ7I%3D&shp=a5d48078&shcp=b59d6b55",
+    "duration": 81,
+    "id": "7442964183416703766",
+    "original": true,
+    "playUrl": "https://v77.tiktokcdn-eu.com/2b9c0b5ebad4d7431298e3613954d5c3/674ba8b0/video/tos/no1a/tos-no1a-v-2370-no/ogEJOzMKyF2eQZDPBgf2FzCkQiI6KBHXFrSnuU/?a=1233&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=0&dr=0&er=2&cd=0%7C0%7C0%7C0&br=250&bt=125&ft=.NpOcInz7ThLmMqOXq8Zmo&mime_type=audio_mpeg&qs=6&rc=aWg7NzQ3OTo0O2U6NjszZ0BpM3RyeXM5cjhldzMzbzU8NUAzLWJgMi4zXy0xYzIuXzEuYSNvc2VgMmRzZTJgLS1kMTFzcw%3D%3D&vvpl=1&l=202411302305491B53B441EB263BDD8B08&btag=e00090000&download=true",
+    "title": "sunet original"
+  },
+  "officalItem": false,
+  "originalItem": false,
+  "playlistId": "",
+  "privateItem": false,
+  "secret": false,
+  "shareEnabled": true,
+  "showNotPass": false,
+  "stats": {
+    "collectCount": 7,
+    "commentCount": 7,
+    "diggCount": 141,
+    "playCount": 929,
+    "shareCount": 1
+  },
+  "statsV2": {
+    "collectCount": "7",
+    "commentCount": "7",
+    "diggCount": "141",
+    "playCount": "929",
+    "repostCount": "0",
+    "shareCount": "1"
+  },
+  "stitchDisplay": 0,
+  "stitchEnabled": true,
+  "textExtra": [
+    {
+      "awemeId": "",
+      "end": 6,
+      "hashtagId": "114462",
+      "hashtagName": "calin",
+      "isCommerce": false,
+      "secUid": "",
+      "start": 0,
+      "subType": 0,
+      "type": 1,
+      "userId": "",
+      "userUniqueId": ""
+    },
+    {
+      "awemeId": "",
+      "end": 17,
+      "hashtagId": "1630792917310470",
+      "hashtagName": "georgescu",
+      "isCommerce": false,
+      "secUid": "",
+      "start": 7,
+      "subType": 0,
+      "type": 1,
+      "userId": "",
+      "userUniqueId": ""
+    }
+  ],
+  "video": {
+    "VQScore": "70.65",
+    "bitrate": 814099,
+    "bitrateInfo": [
+      {
+        "Bitrate": 814099,
+        "CodecType": "h264",
+        "GearName": "normal_540_0",
+        "MVMAF": "\"\"",
+        "PlayAddr": {
+          "DataSize": 8357851,
+          "FileCs": "c:0-68171-d0bf",
+          "FileHash": "27b877f7f607d90a8295efb0482fed3c",
+          "Height": 1024,
+          "Uri": "v24044gl0000ct5bh47og65i5fnidkd0",
+          "UrlKey": "v24044gl0000ct5bh47og65i5fnidkd0_h264_540p_814099",
+          "UrlList": [
+            "https://v16-webapp-prime.tiktok.com/video/tos/no1a/tos-no1a-ve-0068c001-no/o4gPNEr5nFe5uoQkADByF4FSFgiQkIfRJE9VK0/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1590&bt=795&cs=0&ds=6&ft=4fUEKMT88Zmo039Njb4jVaQerpWrKsd.&mime_type=video_mp4&qs=0&rc=aTwzZDdlaGQ7Ojo0aTRlO0BpM25saWw5cjdldzMzbzczNUBgMC8vYzYyXy4xYTYwYGMxYSNhYWsyMmQ0ZTJgLS1kMTFzcw%3D%3D&btag=e00090000&expire=1733180833&l=202411302305491B53B441EB263BDD8B08&ply_type=2&policy=2&signature=24060f79fde455d7c5ad923bed276636&tk=tt_chain_token",
+            "https://v19-webapp-prime.tiktok.com/video/tos/no1a/tos-no1a-ve-0068c001-no/o4gPNEr5nFe5uoQkADByF4FSFgiQkIfRJE9VK0/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1590&bt=795&cs=0&ds=6&ft=4fUEKMT88Zmo039Njb4jVaQerpWrKsd.&mime_type=video_mp4&qs=0&rc=aTwzZDdlaGQ7Ojo0aTRlO0BpM25saWw5cjdldzMzbzczNUBgMC8vYzYyXy4xYTYwYGMxYSNhYWsyMmQ0ZTJgLS1kMTFzcw%3D%3D&btag=e00090000&expire=1733180833&l=202411302305491B53B441EB263BDD8B08&ply_type=2&policy=2&signature=24060f79fde455d7c5ad923bed276636&tk=tt_chain_token",
+            "https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=48fbc13f91d74718ba5e9bf42a2039cf&is_play_url=1&item_id=7442964220527873302&line=0&ply_type=2&redirect=0&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLmQzYjYwZWZlOTNkOTBiM2Y3YjgzYWY2OTkwZjAzMDU4&tk=tt_chain_token&vidc=no1a&video_id=v24044gl0000ct5bh47og65i5fnidkd0"
+          ],
+          "Width": 576
+        },
+        "QualityType": 20
+      },
+      {
+        "Bitrate": 404562,
+        "CodecType": "h264",
+        "GearName": "lowest_540_0",
+        "MVMAF": "\"\"",
+        "PlayAddr": {
+          "DataSize": 4153394,
+          "FileCs": "c:0-68187-a574",
+          "FileHash": "d3835e5c4ccfcfcf15c1affbfb8c76ba",
+          "Height": 1024,
+          "Uri": "v24044gl0000ct5bh47og65i5fnidkd0",
+          "UrlKey": "v24044gl0000ct5bh47og65i5fnidkd0_h264_540p_404562",
+          "UrlList": [
+            "https://v16-webapp-prime.tiktok.com/video/tos/no1a/tos-no1a-ve-0068-no/oIrBHNQfCV9nFFAkQiT0RcoDgELEk2g9V5SfI7/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=790&bt=395&cs=0&ds=6&ft=4fUEKMT88Zmo039Njb4jVaQerpWrKsd.&mime_type=video_mp4&qs=5&rc=MzNoPGdlOzdmZjhnPDxnO0BpM25saWw5cjdldzMzbzczNUBgXjNjMjYxNjMxXzQ2Ly0wYSNhYWsyMmQ0ZTJgLS1kMTFzcw%3D%3D&btag=e00090000&expire=1733180833&l=202411302305491B53B441EB263BDD8B08&ply_type=2&policy=2&signature=e4e01fee141f6cbed359dda57be61b06&tk=tt_chain_token",
+            "https://v19-webapp-prime.tiktok.com/video/tos/no1a/tos-no1a-ve-0068-no/oIrBHNQfCV9nFFAkQiT0RcoDgELEk2g9V5SfI7/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=790&bt=395&cs=0&ds=6&ft=4fUEKMT88Zmo039Njb4jVaQerpWrKsd.&mime_type=video_mp4&qs=5&rc=MzNoPGdlOzdmZjhnPDxnO0BpM25saWw5cjdldzMzbzczNUBgXjNjMjYxNjMxXzQ2Ly0wYSNhYWsyMmQ0ZTJgLS1kMTFzcw%3D%3D&btag=e00090000&expire=1733180833&l=202411302305491B53B441EB263BDD8B08&ply_type=2&policy=2&signature=e4e01fee141f6cbed359dda57be61b06&tk=tt_chain_token",
+            "https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=380d29997db54c6c94489b5df96ea0c0&is_play_url=1&item_id=7442964220527873302&line=0&ply_type=2&redirect=0&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjE5MThkYWJjOGJkYjVmYWNlMzg0ZWNhMmNiNzg2NTg3&tk=tt_chain_token&vidc=no1a&video_id=v24044gl0000ct5bh47og65i5fnidkd0"
+          ],
+          "Width": 576
+        },
+        "QualityType": 25
+      },
+      {
+        "Bitrate": 366434,
+        "CodecType": "h265_hvc1",
+        "GearName": "adapt_540_1",
+        "MVMAF": "\"{\\\"v2.0\\\": {\\\"srv1\\\": {\\\"v1080\\\": 93.543, \\\"v960\\\": 96.668, \\\"v864\\\": 96.696, \\\"v720\\\": 98.492}, \\\"ori\\\": {\\\"v1080\\\": 81.757, \\\"v960\\\": 86.025, \\\"v864\\\": 87.016, \\\"v720\\\": 90.669}}}\"",
+        "PlayAddr": {
+          "DataSize": 3761952,
+          "FileCs": "c:0-69080-19f7",
+          "FileHash": "a91d9270a8bf2e4762412bf71d9da7c7",
+          "Height": 1024,
+          "Uri": "v24044gl0000ct5bh47og65i5fnidkd0",
+          "UrlKey": "v24044gl0000ct5bh47og65i5fnidkd0_bytevc1_540p_366434",
+          "UrlList": [
+            "https://v16-webapp-prime.tiktok.com/video/tos/no1a/tos-no1a-ve-0068-no/os80EDKERkefmilaugQrPElSIAVn8kDpCQrFFB/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=714&bt=357&cs=2&ds=6&ft=4fUEKMT88Zmo039Njb4jVaQerpWrKsd.&mime_type=video_mp4&qs=11&rc=NjVlPGQ0ODo6ZzM6ZmgzZEBpM25saWw5cjdldzMzbzczNUAvX2NiMTQwX2ExNS5fLWE2YSNhYWsyMmQ0ZTJgLS1kMTFzcw%3D%3D&btag=e00090000&expire=1733180833&l=202411302305491B53B441EB263BDD8B08&ply_type=2&policy=2&signature=8eb5e7315bc201d5db6a39438804d22a&tk=tt_chain_token",
+            "https://v19-webapp-prime.tiktok.com/video/tos/no1a/tos-no1a-ve-0068-no/os80EDKERkefmilaugQrPElSIAVn8kDpCQrFFB/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=714&bt=357&cs=2&ds=6&ft=4fUEKMT88Zmo039Njb4jVaQerpWrKsd.&mime_type=video_mp4&qs=11&rc=NjVlPGQ0ODo6ZzM6ZmgzZEBpM25saWw5cjdldzMzbzczNUAvX2NiMTQwX2ExNS5fLWE2YSNhYWsyMmQ0ZTJgLS1kMTFzcw%3D%3D&btag=e00090000&expire=1733180833&l=202411302305491B53B441EB263BDD8B08&ply_type=2&policy=2&signature=8eb5e7315bc201d5db6a39438804d22a&tk=tt_chain_token",
+            "https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=9ad00ebc17804dd7b735714ae9fbb223&is_play_url=1&item_id=7442964220527873302&line=0&ply_type=2&redirect=0&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjI1N2RjMzNmY2E4YjZjYjQyOTI3Yzg3ZDhmM2ZjNDNk&tk=tt_chain_token&vidc=no1a&video_id=v24044gl0000ct5bh47og65i5fnidkd0"
+          ],
+          "Width": 576
+        },
+        "QualityType": 28
+      }
+    ],
+    "claInfo": {
+      "captionInfos": [
+        {
+          "captionFormat": "webvtt",
+          "claSubtitleID": "7442986217035074326",
+          "expire": "1733180833",
+          "isAutoGen": true,
+          "isOriginalCaption": true,
+          "language": "ron-RO",
+          "languageCode": "",
+          "languageID": "40",
+          "subID": "-25198868",
+          "subtitleType": "1",
+          "url": "https://v16-webapp.tiktok.com/94acce4974622a41c253d1821ac9a520/674e3da1/video/tos/no1a/tos-no1a-v-0037-no/8a5b150b31164095b8bfd02a59bfce21/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1664&bt=832&cs=0&ds=6&ft=4b~OyMT88Zmo039Njb4jVaQerpWrKsd.&mime_type=video_mp4&qs=13&rc=M25saWw5cjdldzMzbzczNUBpM25saWw5cjdldzMzbzczNUBhYWsyMmQ0ZTJgLS1kMTFzYSNhYWsyMmQ0ZTJgLS1kMTFzcw%3D%3D&l=202411302305491B53B441EB263BDD8B08&btag=e00050000",
+          "urlList": [
+            "https://v16-webapp.tiktok.com/94acce4974622a41c253d1821ac9a520/674e3da1/video/tos/no1a/tos-no1a-v-0037-no/8a5b150b31164095b8bfd02a59bfce21/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1664&bt=832&cs=0&ds=6&ft=4b~OyMT88Zmo039Njb4jVaQerpWrKsd.&mime_type=video_mp4&qs=13&rc=M25saWw5cjdldzMzbzczNUBpM25saWw5cjdldzMzbzczNUBhYWsyMmQ0ZTJgLS1kMTFzYSNhYWsyMmQ0ZTJgLS1kMTFzcw%3D%3D&l=202411302305491B53B441EB263BDD8B08&btag=e00050000",
+            "https://v16-webapp.tiktok.com/94acce4974622a41c253d1821ac9a520/674e3da1/video/tos/no1a/tos-no1a-v-0037-no/8a5b150b31164095b8bfd02a59bfce21/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1664&bt=832&cs=0&ds=6&ft=4b~OyMT88Zmo039Njb4jVaQerpWrKsd.&mime_type=video_mp4&qs=13&rc=M25saWw5cjdldzMzbzczNUBpM25saWw5cjdldzMzbzczNUBhYWsyMmQ0ZTJgLS1kMTFzYSNhYWsyMmQ0ZTJgLS1kMTFzcw%3D%3D&l=202411302305491B53B441EB263BDD8B08&btag=e00050000",
+            "https://vas-useast2a.tiktokv.com/tiktok/v1/subtitle/url?aid=1988&format=webvtt&language=ron-RO&sign=cc7169eecff5897c4b3053142659bf47&version=1%3Awhisper_lid&vid=v24044gl0000ct5bh47og65i5fnidkd0"
+          ],
+          "variant": "whisper_lid"
+        }
+      ],
+      "captionsType": 1,
+      "enableAutoCaption": true,
+      "hasOriginalAudio": true,
+      "originalLanguageInfo": {
+        "language": "ron-RO",
+        "languageCode": "",
+        "languageID": "40"
+      }
+    },
+    "codecType": "h264",
+    "cover": "https://p16-pu-sign-no.tiktokcdn-eu.com/obj/tos-no1a-p-0037-no/ocf9fADS0cCFSFR5nVoQiBkEgIZVB9kQPkkrEN?lk3s=b59d6b55&x-expires=1733180400&x-signature=r4%2FpVhKSQiOaFHLXNPp%2FSXfZjnU%3D&shp=b59d6b55&shcp=-",
+    "definition": "540p",
+    "downloadAddr": "https://v16-webapp-prime.tiktok.com/video/tos/no1a/tos-no1a-ve-0068c001-no/oIJSkIQED8kirBu0gEfKAIQBmFVeInFEQkaRoK/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1598&bt=799&cs=0&ds=3&ft=4fUEKMT88Zmo039Njb4jVaQerpWrKsd.&mime_type=video_mp4&qs=0&rc=O2c1N2VoOjw5ODU3PDM8ZEBpM25saWw5cjdldzMzbzczNUBgLTRiXl9eNS8xLi8wM2EuYSNhYWsyMmQ0ZTJgLS1kMTFzcw%3D%3D&btag=e00090000&expire=1733180833&l=202411302305491B53B441EB263BDD8B08&ply_type=2&policy=2&signature=7a1df0936f43b09fbf297853f3387f5d&tk=tt_chain_token",
+    "duration": 82,
+    "dynamicCover": "https://p16-pu-sign-no.tiktokcdn-eu.com/obj/tos-no1a-p-0037-no/oErBxmQfRKinFFAkIiJaRu0DgEIEkVBeV8SJIS?lk3s=b59d6b55&x-expires=1733180400&x-signature=ISTHMa8bKabyQg7sXOM9abyvKRM%3D&shp=b59d6b55&shcp=-",
+    "encodeUserTag": "",
+    "encodedType": "normal",
+    "format": "mp4",
+    "height": 1024,
+    "id": "7442964220527873302",
+    "originCover": "https://p16-pu-sign-no.tiktokcdn-eu.com/obj/tos-no1a-p-0037-no/oIHbBf0eDFZnFJ8EQKEuraIJSBkIVamgkURQiA?lk3s=b59d6b55&x-expires=1733180400&x-signature=LrgeQdxCH4iKXRZgzbX0KNYvJ%2FM%3D&shp=b59d6b55&shcp=-",
+    "playAddr": "https://v16-webapp-prime.tiktok.com/video/tos/no1a/tos-no1a-ve-0068c001-no/o4gPNEr5nFe5uoQkADByF4FSFgiQkIfRJE9VK0/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1590&bt=795&cs=0&ds=6&ft=4fUEKMT88Zmo039Njb4jVaQerpWrKsd.&mime_type=video_mp4&qs=0&rc=aTwzZDdlaGQ7Ojo0aTRlO0BpM25saWw5cjdldzMzbzczNUBgMC8vYzYyXy4xYTYwYGMxYSNhYWsyMmQ0ZTJgLS1kMTFzcw%3D%3D&btag=e00090000&expire=1733180833&l=202411302305491B53B441EB263BDD8B08&ply_type=2&policy=2&signature=24060f79fde455d7c5ad923bed276636&tk=tt_chain_token",
+    "ratio": "540p",
+    "reflowCover": "https://p16-pu-sign-no.tiktokcdn-eu.com/tos-no1a-p-0037-no/ocf9fADS0cCFSFR5nVoQiBkEgIZVB9kQPkkrEN~tplv-photomode-video-cover:480:480.jpeg?lk3s=b59d6b55&x-expires=1733180400&x-signature=Yf%2FPhk9dLbbw3YRwcN3ODWSr10U%3D&shp=b59d6b55&shcp=-",
+    "shareCover": [
+      "",
+      "https://p16-pu-sign-no.tiktokcdn-eu.com/tos-no1a-p-0037-no/oIHbBf0eDFZnFJ8EQKEuraIJSBkIVamgkURQiA~tplv-photomode-tiktok-play.jpeg?lk3s=b59d6b55&x-expires=1733612400&x-signature=Y%2FnCOl27Br%2BTSP0Lv%2FqBbeiBePc%3D&shp=b59d6b55&shcp=-",
+      "https://p16-pu-sign-no.tiktokcdn-eu.com/tos-no1a-p-0037-no/oIHbBf0eDFZnFJ8EQKEuraIJSBkIVamgkURQiA~tplv-photomode-share-play.jpeg?lk3s=b59d6b55&x-expires=1733612400&x-signature=vHAmuUMIsSXoRJCti3kIsED1La4%3D&shp=b59d6b55&shcp=-"
+    ],
+    "size": 8357851,
+    "subtitleInfos": [
+      {
+        "Format": "webvtt",
+        "LanguageCodeName": "ron-RO",
+        "LanguageID": "40",
+        "Size": 1935,
+        "Source": "ASR",
+        "Url": "https://v16-webapp.tiktok.com/94acce4974622a41c253d1821ac9a520/674e3da1/video/tos/no1a/tos-no1a-v-0037-no/8a5b150b31164095b8bfd02a59bfce21/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1664&bt=832&cs=0&ds=6&ft=4b~OyMT88Zmo039Njb4jVaQerpWrKsd.&mime_type=video_mp4&qs=13&rc=M25saWw5cjdldzMzbzczNUBpM25saWw5cjdldzMzbzczNUBhYWsyMmQ0ZTJgLS1kMTFzYSNhYWsyMmQ0ZTJgLS1kMTFzcw%3D%3D&l=202411302305491B53B441EB263BDD8B08&btag=e00050000",
+        "UrlExpire": 1733180833,
+        "Version": "1:whisper_lid",
+        "VideoSubtitleID": -25198868
+      }
+    ],
+    "videoQuality": "normal",
+    "volumeInfo": {
+      "Loudness": -12.9,
+      "Peak": 1
+    },
+    "width": 576,
+    "zoomCover": {
+      "240": "https://p16-pu-sign-no.tiktokcdn-eu.com/tos-no1a-p-0037-no/ocf9fADS0cCFSFR5nVoQiBkEgIZVB9kQPkkrEN~tplv-photomode-zoomcover:240:240.jpeg?lk3s=b59d6b55&x-expires=1733180400&x-signature=mqA97tesZ9NapD7ZMsXCEZfZELM%3D&shp=b59d6b55&shcp=-",
+      "480": "https://p16-pu-sign-no.tiktokcdn-eu.com/tos-no1a-p-0037-no/ocf9fADS0cCFSFR5nVoQiBkEgIZVB9kQPkkrEN~tplv-photomode-zoomcover:480:480.jpeg?lk3s=b59d6b55&x-expires=1733180400&x-signature=x5V1xGL39viF%2BBQ43Dt6tCuNYDg%3D&shp=b59d6b55&shcp=-",
+      "720": "https://p16-pu-sign-no.tiktokcdn-eu.com/tos-no1a-p-0037-no/ocf9fADS0cCFSFR5nVoQiBkEgIZVB9kQPkkrEN~tplv-photomode-zoomcover:720:720.jpeg?lk3s=b59d6b55&x-expires=1733180400&x-signature=XqZ0RPQo%2BjdcxxaBfdjQ9biit2U%3D&shp=b59d6b55&shcp=-",
+      "960": "https://p16-pu-sign-no.tiktokcdn-eu.com/tos-no1a-p-0037-no/ocf9fADS0cCFSFR5nVoQiBkEgIZVB9kQPkkrEN~tplv-photomode-zoomcover:960:960.jpeg?lk3s=b59d6b55&x-expires=1733180400&x-signature=9Q%2B93vIUg4aW3cQmK4aGmjNXWYY%3D&shp=b59d6b55&shcp=-"
+    }
+  },
+  "vl1": false,
+  "comments": [
+    {
+      "author_pin": false,
+      "aweme_id": "7442964220527873302",
+      "cid": "7442996653529908001",
+      "collect_stat": 0,
+      "comment_language": "ro",
+      "comment_post_item_ids": null,
+      "create_time": 1732957733,
+      "digg_count": 0,
+      "forbid_reply_with_video": false,
+      "image_list": null,
+      "is_author_digged": false,
+      "is_comment_translatable": true,
+      "label_list": null,
+      "no_show": false,
+      "reply_comment": null,
+      "reply_comment_total": 0,
+      "reply_id": "0",
+      "reply_to_reply_id": "0",
+      "share_info": {
+        "acl": {
+          "code": 1,
+          "extra": "{\"is_share_handler_failed\":\"1\"}"
+        },
+        "desc": "",
+        "title": "",
+        "url": ""
+      },
+      "sort_extra_score": {
+        "reply_score": 0.000845,
+        "show_more_score": 0.000814
+      },
+      "sort_tags": "{\"top_list\":1}",
+      "status": 1,
+      "stick_position": 0,
+      "text": "@tomescu78 scuzați …asa trebuia sa ma refer.. D-le președintele…‼️",
+      "text_extra": [],
+      "trans_btn_style": 1,
+      "user": {
+        "account_labels": null,
+        "ad_cover_url": null,
+        "advance_feature_item_order": null,
+        "advanced_feature_info": null,
+        "avatar_thumb": {
+          "uri": "tos-useast2a-avt-0068-euttp/ac6acc7af1d4dc471e2e6214c1cabe04",
+          "url_list": [
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/ac6acc7af1d4dc471e2e6214c1cabe04~c5_100x100.jpg?lk3s=30310797&nonce=17685&refresh_token=1b80f6288e37f019c41a8b6bc2b068ce&x-expires=1733094000&x-signature=7C%2BOYpMO3exJnGntmV7JSVVGG0o%3D&shp=30310797&shcp=-",
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/ac6acc7af1d4dc471e2e6214c1cabe04~c5_100x100.jpeg?lk3s=30310797&nonce=72178&refresh_token=172098dec8b803ece288a20ddf9d5e51&x-expires=1733094000&x-signature=XP9sac5mUcUJNSHjMVq6MMSOGEQ%3D&shp=30310797&shcp=-"
+          ],
+          "url_prefix": null
+        },
+        "bold_fields": null,
+        "can_message_follow_status_list": null,
+        "can_set_geofencing": null,
+        "cha_list": null,
+        "cover_url": null,
+        "custom_verify": "",
+        "enterprise_verify_reason": "",
+        "events": null,
+        "followers_detail": null,
+        "geofencing": null,
+        "homepage_bottom_toast": null,
+        "item_list": null,
+        "mutual_relation_avatars": null,
+        "need_points": null,
+        "nickname": "Tomescu78",
+        "platform_sync_info": null,
+        "relative_users": null,
+        "search_highlight": null,
+        "sec_uid": "MS4wLjABAAAA5I8OenPBw97tuTbzFjcybkz0-SAulfw1vp6fb1UChc4yqskDHRT7Cxfz22lCfwiv",
+        "shield_edit_field_info": null,
+        "type_label": null,
+        "uid": "7437961005786121248",
+        "unique_id": "tomescu78",
+        "user_profile_guide": null,
+        "user_tags": null,
+        "white_cover_url": null
+      },
+      "user_buried": false,
+      "user_digged": 0
+    },
+    {
+      "author_pin": false,
+      "aweme_id": "7442964220527873302",
+      "cid": "7442995285384676118",
+      "collect_stat": 0,
+      "comment_language": "ro",
+      "comment_post_item_ids": null,
+      "create_time": 1732957413,
+      "digg_count": 0,
+      "forbid_reply_with_video": false,
+      "image_list": null,
+      "is_author_digged": false,
+      "is_comment_translatable": true,
+      "label_list": null,
+      "no_show": false,
+      "reply_comment": null,
+      "reply_comment_total": 0,
+      "reply_id": "0",
+      "reply_to_reply_id": "0",
+      "share_info": {
+        "acl": {
+          "code": 1,
+          "extra": "{\"is_share_handler_failed\":\"1\"}"
+        },
+        "desc": "",
+        "title": "",
+        "url": ""
+      },
+      "sort_extra_score": {
+        "reply_score": 0.000531,
+        "show_more_score": 0.000502
+      },
+      "sort_tags": "{\"top_list\":1}",
+      "status": 1,
+      "stick_position": 0,
+      "text": "Profund Emoționant💯💯💯❤️❤️❤️",
+      "text_extra": [],
+      "trans_btn_style": 1,
+      "user": {
+        "account_labels": null,
+        "ad_cover_url": null,
+        "advance_feature_item_order": null,
+        "advanced_feature_info": null,
+        "avatar_thumb": {
+          "uri": "tos-maliva-avt-0068/1de778719791c269adca1f244a501246",
+          "url_list": [
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/1de778719791c269adca1f244a501246~c5_100x100.jpg?lk3s=30310797&nonce=48667&refresh_token=64f0b2b7c8c71f0922a31946dd2d54e5&x-expires=1733094000&x-signature=URaFB7Qrmi1jprEZqlXogCYXfuQ%3D&shp=30310797&shcp=-",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/1de778719791c269adca1f244a501246~c5_100x100.jpeg?lk3s=30310797&nonce=8626&refresh_token=690cf552857b35fd74c489144db63c9c&x-expires=1733094000&x-signature=vV02%2B0%2BauxLOUo3YQhg1idX6zcY%3D&shp=30310797&shcp=-"
+          ],
+          "url_prefix": null
+        },
+        "bold_fields": null,
+        "can_message_follow_status_list": null,
+        "can_set_geofencing": null,
+        "cha_list": null,
+        "cover_url": null,
+        "custom_verify": "",
+        "enterprise_verify_reason": "",
+        "events": null,
+        "followers_detail": null,
+        "geofencing": null,
+        "homepage_bottom_toast": null,
+        "item_list": null,
+        "mutual_relation_avatars": null,
+        "need_points": null,
+        "nickname": "Animal X878",
+        "platform_sync_info": null,
+        "relative_users": null,
+        "search_highlight": null,
+        "sec_uid": "MS4wLjABAAAAbqS8Fwt9sH495K5vNSj4YOL92ilMwNSuJqqGhIzAhPsYMe50VDU1TAcezojtVrdG",
+        "shield_edit_field_info": null,
+        "type_label": null,
+        "uid": "7100165539980723205",
+        "unique_id": "animalx878",
+        "user_profile_guide": null,
+        "user_tags": null,
+        "white_cover_url": null
+      },
+      "user_buried": false,
+      "user_digged": 0
+    },
+    {
+      "author_pin": false,
+      "aweme_id": "7442964220527873302",
+      "cid": "7442967551040717600",
+      "collect_stat": 0,
+      "comment_language": "un",
+      "comment_post_item_ids": null,
+      "create_time": 1732950968,
+      "digg_count": 1,
+      "forbid_reply_with_video": false,
+      "image_list": null,
+      "is_author_digged": true,
+      "is_comment_translatable": false,
+      "label_list": [
+        {
+          "text": "Liked by creator",
+          "type": 20
+        }
+      ],
+      "no_show": false,
+      "reply_comment": null,
+      "reply_comment_total": 0,
+      "reply_id": "0",
+      "reply_to_reply_id": "0",
+      "share_info": {
+        "acl": {
+          "code": 1,
+          "extra": "{\"is_share_handler_failed\":\"1\"}"
+        },
+        "desc": "",
+        "title": "",
+        "url": ""
+      },
+      "sort_extra_score": {
+        "reply_score": 0,
+        "show_more_score": 0
+      },
+      "sort_tags": "{}",
+      "status": 1,
+      "stick_position": 0,
+      "text": "🥰🥰🥰🥰♥️♥️♥️💞💞💞🥰🥰🥰♥️💛💙",
+      "text_extra": [],
+      "trans_btn_style": 0,
+      "user": {
+        "account_labels": null,
+        "ad_cover_url": null,
+        "advance_feature_item_order": null,
+        "advanced_feature_info": null,
+        "avatar_thumb": {
+          "uri": "tos-maliva-avt-0068/9a266d409c1680ec1e8c08c353764fbc",
+          "url_list": [
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/9a266d409c1680ec1e8c08c353764fbc~c5_100x100.jpg?lk3s=30310797&nonce=93589&refresh_token=c1f8c38d1dd2ddc369e99e006744c3c2&x-expires=1733094000&x-signature=d974B0LKZjd7kOPIKuEYQedUQfY%3D&shp=30310797&shcp=-",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/9a266d409c1680ec1e8c08c353764fbc~c5_100x100.jpeg?lk3s=30310797&nonce=86982&refresh_token=18ffd32ddb438113db7a5e97a477cb60&x-expires=1733094000&x-signature=fjjJztoowBXbhcHqsUyJMviphoA%3D&shp=30310797&shcp=-"
+          ],
+          "url_prefix": null
+        },
+        "bold_fields": null,
+        "can_message_follow_status_list": null,
+        "can_set_geofencing": null,
+        "cha_list": null,
+        "cover_url": null,
+        "custom_verify": "",
+        "enterprise_verify_reason": "",
+        "events": null,
+        "followers_detail": null,
+        "geofencing": null,
+        "homepage_bottom_toast": null,
+        "item_list": null,
+        "mutual_relation_avatars": null,
+        "need_points": null,
+        "nickname": "Cornelia Cocos503",
+        "platform_sync_info": null,
+        "relative_users": null,
+        "search_highlight": null,
+        "sec_uid": "MS4wLjABAAAAnNFvFKKX2hWr48zxeoMs5JyR83GxtZynWt98uOv2kIaHbYHR0PbeQi4W1Ts-g90g",
+        "shield_edit_field_info": null,
+        "type_label": null,
+        "uid": "6927053026553381893",
+        "unique_id": "corneliatok",
+        "user_profile_guide": null,
+        "user_tags": null,
+        "white_cover_url": null
+      },
+      "user_buried": false,
+      "user_digged": 0
+    },
+    {
+      "author_pin": false,
+      "aweme_id": "7442964220527873302",
+      "cid": "7442997973765718817",
+      "collect_stat": 0,
+      "comment_language": "ro",
+      "comment_post_item_ids": null,
+      "create_time": 1732958035,
+      "digg_count": 0,
+      "forbid_reply_with_video": false,
+      "image_list": null,
+      "is_author_digged": false,
+      "is_comment_translatable": true,
+      "label_list": null,
+      "no_show": false,
+      "reply_comment": null,
+      "reply_comment_total": 0,
+      "reply_id": "0",
+      "reply_to_reply_id": "0",
+      "share_info": {
+        "acl": {
+          "code": 1,
+          "extra": "{\"is_share_handler_failed\":\"1\"}"
+        },
+        "desc": "",
+        "title": "",
+        "url": ""
+      },
+      "sort_extra_score": {
+        "reply_score": 0,
+        "show_more_score": 0
+      },
+      "sort_tags": "{}",
+      "status": 1,
+      "stick_position": 0,
+      "text": "D-LE PREȘEDINTE!? DORESC SĂ FIU PRIMUL ROMÂN CARE S-A ÎNTORS ÎN ȚARĂ DIN DIASPORA INVITAT DE DV LA COTROCENI DUPĂ CE VEȚI AJUNGE LA COTROCENI… VREAU SĂ LUCRĂM ÎMPREUNĂ LA D. D. E. G.",
+      "text_extra": [],
+      "trans_btn_style": 1,
+      "user": {
+        "account_labels": null,
+        "ad_cover_url": null,
+        "advance_feature_item_order": null,
+        "advanced_feature_info": null,
+        "avatar_thumb": {
+          "uri": "tos-useast2a-avt-0068-euttp/ac6acc7af1d4dc471e2e6214c1cabe04",
+          "url_list": [
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/ac6acc7af1d4dc471e2e6214c1cabe04~c5_100x100.jpg?lk3s=30310797&nonce=17685&refresh_token=1b80f6288e37f019c41a8b6bc2b068ce&x-expires=1733094000&x-signature=7C%2BOYpMO3exJnGntmV7JSVVGG0o%3D&shp=30310797&shcp=-",
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/ac6acc7af1d4dc471e2e6214c1cabe04~c5_100x100.jpeg?lk3s=30310797&nonce=72178&refresh_token=172098dec8b803ece288a20ddf9d5e51&x-expires=1733094000&x-signature=XP9sac5mUcUJNSHjMVq6MMSOGEQ%3D&shp=30310797&shcp=-"
+          ],
+          "url_prefix": null
+        },
+        "bold_fields": null,
+        "can_message_follow_status_list": null,
+        "can_set_geofencing": null,
+        "cha_list": null,
+        "cover_url": null,
+        "custom_verify": "",
+        "enterprise_verify_reason": "",
+        "events": null,
+        "followers_detail": null,
+        "geofencing": null,
+        "homepage_bottom_toast": null,
+        "item_list": null,
+        "mutual_relation_avatars": null,
+        "need_points": null,
+        "nickname": "Tomescu78",
+        "platform_sync_info": null,
+        "relative_users": null,
+        "search_highlight": null,
+        "sec_uid": "MS4wLjABAAAA5I8OenPBw97tuTbzFjcybkz0-SAulfw1vp6fb1UChc4yqskDHRT7Cxfz22lCfwiv",
+        "shield_edit_field_info": null,
+        "type_label": null,
+        "uid": "7437961005786121248",
+        "unique_id": "tomescu78",
+        "user_profile_guide": null,
+        "user_tags": null,
+        "white_cover_url": null
+      },
+      "user_buried": false,
+      "user_digged": 0
+    },
+    {
+      "author_pin": false,
+      "aweme_id": "7442964220527873302",
+      "cid": "7442988548628316960",
+      "collect_stat": 0,
+      "comment_language": "ro",
+      "comment_post_item_ids": null,
+      "create_time": 1732955871,
+      "digg_count": 1,
+      "forbid_reply_with_video": false,
+      "image_list": null,
+      "is_author_digged": true,
+      "is_comment_translatable": true,
+      "label_list": [
+        {
+          "text": "Liked by creator",
+          "type": 20
+        }
+      ],
+      "no_show": false,
+      "reply_comment": null,
+      "reply_comment_total": 1,
+      "reply_id": "0",
+      "reply_to_reply_id": "0",
+      "share_info": {
+        "acl": {
+          "code": 1,
+          "extra": "{\"is_share_handler_failed\":\"1\"}"
+        },
+        "desc": "",
+        "title": "",
+        "url": ""
+      },
+      "sort_extra_score": {
+        "reply_score": 0,
+        "show_more_score": 0
+      },
+      "sort_tags": "{\"author_digg\":1}",
+      "status": 1,
+      "stick_position": 0,
+      "text": "SĂ TE ȚII DE CUVÂNTUL CE ȚI L-AI DAT ‼️",
+      "text_extra": [],
+      "trans_btn_style": 1,
+      "user": {
+        "account_labels": null,
+        "ad_cover_url": null,
+        "advance_feature_item_order": null,
+        "advanced_feature_info": null,
+        "avatar_thumb": {
+          "uri": "tos-useast2a-avt-0068-euttp/ac6acc7af1d4dc471e2e6214c1cabe04",
+          "url_list": [
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/ac6acc7af1d4dc471e2e6214c1cabe04~c5_100x100.jpg?lk3s=30310797&nonce=17685&refresh_token=1b80f6288e37f019c41a8b6bc2b068ce&x-expires=1733094000&x-signature=7C%2BOYpMO3exJnGntmV7JSVVGG0o%3D&shp=30310797&shcp=-",
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/ac6acc7af1d4dc471e2e6214c1cabe04~c5_100x100.jpeg?lk3s=30310797&nonce=72178&refresh_token=172098dec8b803ece288a20ddf9d5e51&x-expires=1733094000&x-signature=XP9sac5mUcUJNSHjMVq6MMSOGEQ%3D&shp=30310797&shcp=-"
+          ],
+          "url_prefix": null
+        },
+        "bold_fields": null,
+        "can_message_follow_status_list": null,
+        "can_set_geofencing": null,
+        "cha_list": null,
+        "cover_url": null,
+        "custom_verify": "",
+        "enterprise_verify_reason": "",
+        "events": null,
+        "followers_detail": null,
+        "geofencing": null,
+        "homepage_bottom_toast": null,
+        "item_list": null,
+        "mutual_relation_avatars": null,
+        "need_points": null,
+        "nickname": "Tomescu78",
+        "platform_sync_info": null,
+        "relative_users": null,
+        "search_highlight": null,
+        "sec_uid": "MS4wLjABAAAA5I8OenPBw97tuTbzFjcybkz0-SAulfw1vp6fb1UChc4yqskDHRT7Cxfz22lCfwiv",
+        "shield_edit_field_info": null,
+        "type_label": null,
+        "uid": "7437961005786121248",
+        "unique_id": "tomescu78",
+        "user_profile_guide": null,
+        "user_tags": null,
+        "white_cover_url": null
+      },
+      "user_buried": false,
+      "user_digged": 0
+    }
+  ]
+}

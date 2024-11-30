@@ -1,0 +1,1372 @@
+{
+  "AIGCDescription": "",
+  "BAInfo": "",
+  "CategoryType": 120,
+  "adAuthorization": false,
+  "adLabelVersion": 0,
+  "aigcLabelType": 0,
+  "author": {
+    "avatarLarger": "https://p16-pu-sign-no.tiktokcdn-eu.com/obj/tos-no1a-avt-0068c001-no/534c2aab5c04c05649ddc9732044c31f?lk3s=a5d48078&nonce=16139&refresh_token=0b1f48f579a8778d4c7638f2fab30005&x-expires=1733180400&x-signature=nSfy2T%2F78d%2BQesKUOzsu0M1fAGE%3D&shp=a5d48078&shcp=b59d6b55",
+    "avatarMedium": "https://p16-pu-sign-no.tiktokcdn-eu.com/obj/tos-no1a-avt-0068c001-no/534c2aab5c04c05649ddc9732044c31f?lk3s=a5d48078&nonce=34556&refresh_token=729e129b95bbeefc298f358caec767ac&x-expires=1733180400&x-signature=nSfy2T%2F78d%2BQesKUOzsu0M1fAGE%3D&shp=a5d48078&shcp=b59d6b55",
+    "avatarThumb": "https://p16-pu-sign-no.tiktokcdn-eu.com/obj/tos-no1a-avt-0068c001-no/534c2aab5c04c05649ddc9732044c31f?lk3s=a5d48078&nonce=50993&refresh_token=9f876e7b1d2b6afb27bf65e4e6e19d24&x-expires=1733180400&x-signature=nSfy2T%2F78d%2BQesKUOzsu0M1fAGE%3D&shp=a5d48078&shcp=b59d6b55",
+    "commentSetting": 0,
+    "downloadSetting": 0,
+    "duetSetting": 0,
+    "ftc": false,
+    "id": "7428501320514520097",
+    "isADVirtual": false,
+    "isEmbedBanned": false,
+    "nickname": "Kiki.SOS",
+    "openFavorite": false,
+    "privateAccount": false,
+    "relation": 0,
+    "secUid": "MS4wLjABAAAAhaCcBlo3IG1eInKtqxtuQPu5wOOg0kTF3-38Mbp59XzNu_8n_faYukZK9qA1S7tW",
+    "secret": false,
+    "signature": "Kikis.ro192@gmail.com",
+    "stitchSetting": 0,
+    "ttSeller": false,
+    "uniqueId": "kiki.sos",
+    "verified": false
+  },
+  "authorStats": {
+    "diggCount": 4140,
+    "followerCount": 6445,
+    "followingCount": 23,
+    "friendCount": 0,
+    "heart": 190100,
+    "heartCount": 190100,
+    "videoCount": 220
+  },
+  "challenges": [
+    {
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": "",
+      "desc": "",
+      "id": "7204029847977820166",
+      "isCommerce": false,
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "stats": {
+        "videoCount": 0,
+        "viewCount": 0
+      },
+      "title": "calingeorgescu2024"
+    },
+    {
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": "",
+      "desc": "",
+      "id": "7291012636634775584",
+      "isCommerce": false,
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "stats": {
+        "videoCount": 0,
+        "viewCount": 0
+      },
+      "title": "calingeorgescupresedinte"
+    },
+    {
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": "",
+      "desc": "",
+      "id": "1685965580220418",
+      "isCommerce": false,
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "stats": {
+        "videoCount": 0,
+        "viewCount": 0
+      },
+      "title": "dianasosoaca"
+    },
+    {
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": "",
+      "desc": "",
+      "id": "7255387648829685786",
+      "isCommerce": false,
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "stats": {
+        "videoCount": 0,
+        "viewCount": 0
+      },
+      "title": "partidulsosromania🇷🇴"
+    },
+    {
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": "",
+      "desc": "",
+      "id": "1685000714187777",
+      "isCommerce": false,
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "stats": {
+        "videoCount": 0,
+        "viewCount": 0
+      },
+      "title": "sosoaca"
+    },
+    {
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": "",
+      "desc": "",
+      "id": "1683329365993474",
+      "isCommerce": false,
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "stats": {
+        "videoCount": 0,
+        "viewCount": 0
+      },
+      "title": "georgesimion"
+    },
+    {
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": "",
+      "desc": "",
+      "id": "1681595869556738",
+      "isCommerce": false,
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "stats": {
+        "videoCount": 0,
+        "viewCount": 0
+      },
+      "title": "elenalasconi"
+    },
+    {
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": "",
+      "desc": "",
+      "id": "52396262",
+      "isCommerce": false,
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "stats": {
+        "videoCount": 0,
+        "viewCount": 0
+      },
+      "title": "tradatori"
+    },
+    {
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": "",
+      "desc": "",
+      "id": "78563",
+      "isCommerce": false,
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "stats": {
+        "videoCount": 0,
+        "viewCount": 0
+      },
+      "title": "huaa"
+    },
+    {
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": "",
+      "desc": "",
+      "id": "49817248",
+      "isCommerce": false,
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "stats": {
+        "videoCount": 0,
+        "viewCount": 0
+      },
+      "title": "demisia"
+    },
+    {
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": "",
+      "desc": "",
+      "id": "21090",
+      "isCommerce": false,
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "stats": {
+        "videoCount": 0,
+        "viewCount": 0
+      },
+      "title": "vot"
+    },
+    {
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": "",
+      "desc": "",
+      "id": "7200519888544464901",
+      "isCommerce": false,
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "stats": {
+        "videoCount": 0,
+        "viewCount": 0
+      },
+      "title": "romaniatradata"
+    },
+    {
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": "",
+      "desc": "",
+      "id": "1674129554455557",
+      "isCommerce": false,
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "stats": {
+        "videoCount": 0,
+        "viewCount": 0
+      },
+      "title": "poporulroman"
+    },
+    {
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": "",
+      "desc": "",
+      "id": "66997538",
+      "isCommerce": false,
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "stats": {
+        "videoCount": 0,
+        "viewCount": 0
+      },
+      "title": "romaniamea"
+    },
+    {
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": "",
+      "desc": "",
+      "id": "229207",
+      "isCommerce": false,
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "stats": {
+        "videoCount": 0,
+        "viewCount": 0
+      },
+      "title": "fyp"
+    },
+    {
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": "",
+      "desc": "",
+      "id": "1661618676302854",
+      "isCommerce": false,
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "stats": {
+        "videoCount": 0,
+        "viewCount": 0
+      },
+      "title": "diasporatiktok"
+    },
+    {
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": "",
+      "desc": "",
+      "id": "448694",
+      "isCommerce": false,
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "stats": {
+        "videoCount": 0,
+        "viewCount": 0
+      },
+      "title": "diaspora"
+    },
+    {
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": "",
+      "desc": "",
+      "id": "1592199128507398",
+      "isCommerce": false,
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "stats": {
+        "videoCount": 0,
+        "viewCount": 0
+      },
+      "title": "romania🇷🇴"
+    }
+  ],
+  "collected": false,
+  "contents": [
+    {
+      "desc": "GEORGE SIMION NUMIT TRADATOR  PARTIDUL AUR A TRADAT DIN CAUZA TA 😤 Pe Calin Georgescu ,Diana Sosoaca ,Ciprian Ciubuc ,Marș#calingeorgescu2024 #calingeorgescupresedinte #dianasosoaca #partidulsosromania🇷🇴 #sosoaca #georgesimion #elenalasconi #tradatori #huaa #demisia #vot #romaniatradata #poporulroman #romaniamea #fyp #diasporatiktok #diaspora #romania🇷🇴 ",
+      "textExtra": [
+        {
+          "awemeId": "",
+          "end": 142,
+          "hashtagId": "7204029847977820166",
+          "hashtagName": "calingeorgescu2024",
+          "isCommerce": false,
+          "secUid": "",
+          "start": 123,
+          "subType": 0,
+          "type": 1,
+          "userId": "",
+          "userUniqueId": ""
+        },
+        {
+          "awemeId": "",
+          "end": 168,
+          "hashtagId": "7291012636634775584",
+          "hashtagName": "calingeorgescupresedinte",
+          "isCommerce": false,
+          "secUid": "",
+          "start": 143,
+          "subType": 0,
+          "type": 1,
+          "userId": "",
+          "userUniqueId": ""
+        },
+        {
+          "awemeId": "",
+          "end": 182,
+          "hashtagId": "1685965580220418",
+          "hashtagName": "dianasosoaca",
+          "isCommerce": false,
+          "secUid": "",
+          "start": 169,
+          "subType": 0,
+          "type": 1,
+          "userId": "",
+          "userUniqueId": ""
+        },
+        {
+          "awemeId": "",
+          "end": 206,
+          "hashtagId": "7255387648829685786",
+          "hashtagName": "partidulsosromania🇷🇴",
+          "isCommerce": false,
+          "secUid": "",
+          "start": 183,
+          "subType": 0,
+          "type": 1,
+          "userId": "",
+          "userUniqueId": ""
+        },
+        {
+          "awemeId": "",
+          "end": 215,
+          "hashtagId": "1685000714187777",
+          "hashtagName": "sosoaca",
+          "isCommerce": false,
+          "secUid": "",
+          "start": 207,
+          "subType": 0,
+          "type": 1,
+          "userId": "",
+          "userUniqueId": ""
+        },
+        {
+          "awemeId": "",
+          "end": 229,
+          "hashtagId": "1683329365993474",
+          "hashtagName": "georgesimion",
+          "isCommerce": false,
+          "secUid": "",
+          "start": 216,
+          "subType": 0,
+          "type": 1,
+          "userId": "",
+          "userUniqueId": ""
+        },
+        {
+          "awemeId": "",
+          "end": 243,
+          "hashtagId": "1681595869556738",
+          "hashtagName": "elenalasconi",
+          "isCommerce": false,
+          "secUid": "",
+          "start": 230,
+          "subType": 0,
+          "type": 1,
+          "userId": "",
+          "userUniqueId": ""
+        },
+        {
+          "awemeId": "",
+          "end": 254,
+          "hashtagId": "52396262",
+          "hashtagName": "tradatori",
+          "isCommerce": false,
+          "secUid": "",
+          "start": 244,
+          "subType": 0,
+          "type": 1,
+          "userId": "",
+          "userUniqueId": ""
+        },
+        {
+          "awemeId": "",
+          "end": 260,
+          "hashtagId": "78563",
+          "hashtagName": "huaa",
+          "isCommerce": false,
+          "secUid": "",
+          "start": 255,
+          "subType": 0,
+          "type": 1,
+          "userId": "",
+          "userUniqueId": ""
+        },
+        {
+          "awemeId": "",
+          "end": 269,
+          "hashtagId": "49817248",
+          "hashtagName": "demisia",
+          "isCommerce": false,
+          "secUid": "",
+          "start": 261,
+          "subType": 0,
+          "type": 1,
+          "userId": "",
+          "userUniqueId": ""
+        },
+        {
+          "awemeId": "",
+          "end": 274,
+          "hashtagId": "21090",
+          "hashtagName": "vot",
+          "isCommerce": false,
+          "secUid": "",
+          "start": 270,
+          "subType": 0,
+          "type": 1,
+          "userId": "",
+          "userUniqueId": ""
+        },
+        {
+          "awemeId": "",
+          "end": 290,
+          "hashtagId": "7200519888544464901",
+          "hashtagName": "romaniatradata",
+          "isCommerce": false,
+          "secUid": "",
+          "start": 275,
+          "subType": 0,
+          "type": 1,
+          "userId": "",
+          "userUniqueId": ""
+        },
+        {
+          "awemeId": "",
+          "end": 304,
+          "hashtagId": "1674129554455557",
+          "hashtagName": "poporulroman",
+          "isCommerce": false,
+          "secUid": "",
+          "start": 291,
+          "subType": 0,
+          "type": 1,
+          "userId": "",
+          "userUniqueId": ""
+        },
+        {
+          "awemeId": "",
+          "end": 316,
+          "hashtagId": "66997538",
+          "hashtagName": "romaniamea",
+          "isCommerce": false,
+          "secUid": "",
+          "start": 305,
+          "subType": 0,
+          "type": 1,
+          "userId": "",
+          "userUniqueId": ""
+        },
+        {
+          "awemeId": "",
+          "end": 321,
+          "hashtagId": "229207",
+          "hashtagName": "fyp",
+          "isCommerce": false,
+          "secUid": "",
+          "start": 317,
+          "subType": 0,
+          "type": 1,
+          "userId": "",
+          "userUniqueId": ""
+        },
+        {
+          "awemeId": "",
+          "end": 337,
+          "hashtagId": "1661618676302854",
+          "hashtagName": "diasporatiktok",
+          "isCommerce": false,
+          "secUid": "",
+          "start": 322,
+          "subType": 0,
+          "type": 1,
+          "userId": "",
+          "userUniqueId": ""
+        },
+        {
+          "awemeId": "",
+          "end": 347,
+          "hashtagId": "448694",
+          "hashtagName": "diaspora",
+          "isCommerce": false,
+          "secUid": "",
+          "start": 338,
+          "subType": 0,
+          "type": 1,
+          "userId": "",
+          "userUniqueId": ""
+        },
+        {
+          "awemeId": "",
+          "end": 360,
+          "hashtagId": "1592199128507398",
+          "hashtagName": "romania🇷🇴",
+          "isCommerce": false,
+          "secUid": "",
+          "start": 348,
+          "subType": 0,
+          "type": 1,
+          "userId": "",
+          "userUniqueId": ""
+        }
+      ]
+    }
+  ],
+  "createTime": 1733000507,
+  "desc": "GEORGE SIMION NUMIT TRADATOR  PARTIDUL AUR A TRADAT DIN CAUZA TA 😤 Pe Calin Georgescu ,Diana Sosoaca ,Ciprian Ciubuc ,Marș#calingeorgescu2024 #calingeorgescupresedinte #dianasosoaca #partidulsosromania🇷🇴 #sosoaca #georgesimion #elenalasconi #tradatori #huaa #demisia #vot #romaniatradata #poporulroman #romaniamea #fyp #diasporatiktok #diaspora #romania🇷🇴 ",
+  "digged": false,
+  "diversificationId": 10083,
+  "duetDisplay": 0,
+  "duetEnabled": false,
+  "duetInfo": {
+    "duetFromId": "0"
+  },
+  "forFriend": false,
+  "id": "7443180478900866326",
+  "isAd": false,
+  "itemCommentStatus": 0,
+  "itemMute": false,
+  "item_control": {
+    "can_repost": true
+  },
+  "music": {
+    "album": "",
+    "authorName": "Kiki.SOS",
+    "coverLarge": "https://p16-pu-sign-no.tiktokcdn-eu.com/obj/tos-no1a-avt-0068c001-no/534c2aab5c04c05649ddc9732044c31f?lk3s=a5d48078&nonce=16139&refresh_token=0b1f48f579a8778d4c7638f2fab30005&x-expires=1733180400&x-signature=nSfy2T%2F78d%2BQesKUOzsu0M1fAGE%3D&shp=a5d48078&shcp=b59d6b55",
+    "coverMedium": "https://p16-pu-sign-no.tiktokcdn-eu.com/obj/tos-no1a-avt-0068c001-no/534c2aab5c04c05649ddc9732044c31f?lk3s=a5d48078&nonce=34556&refresh_token=729e129b95bbeefc298f358caec767ac&x-expires=1733180400&x-signature=nSfy2T%2F78d%2BQesKUOzsu0M1fAGE%3D&shp=a5d48078&shcp=b59d6b55",
+    "coverThumb": "https://p16-pu-sign-no.tiktokcdn-eu.com/obj/tos-no1a-avt-0068c001-no/534c2aab5c04c05649ddc9732044c31f?lk3s=a5d48078&nonce=50993&refresh_token=9f876e7b1d2b6afb27bf65e4e6e19d24&x-expires=1733180400&x-signature=nSfy2T%2F78d%2BQesKUOzsu0M1fAGE%3D&shp=a5d48078&shcp=b59d6b55",
+    "duration": 26,
+    "id": "7443180453288872726",
+    "original": true,
+    "playUrl": "https://v77.tiktokcdn-eu.com/d5994a5644365748515198e7e6a2c817/674ba933/video/tos/no1a/tos-no1a-v-2370-no/oQQUWFnV3BMWFSDbYfWnKkNgEZfucSs9cy0CJU/?a=1233&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=0&dr=0&er=2&cd=0%7C0%7C0%7C0&br=250&bt=125&ft=.NpOcInz7Thv7MqOXq8Zmo&mime_type=audio_mpeg&qs=6&rc=ZThlNzllODg1aTs5NWQ1Z0BpM2U3Z3A5cmlxdzMzbzU8NUAxNjYwLV4uNl8xNjZjYC8xYSM0cG0yMmRjbjJgLS1kMTFzcw%3D%3D&vvpl=1&l=202411302308559E8D56EC27C2F9D10317&btag=e00088000&download=true",
+    "title": "sunet original"
+  },
+  "officalItem": false,
+  "originalItem": false,
+  "playlistId": "",
+  "privateItem": false,
+  "secret": false,
+  "shareEnabled": true,
+  "showNotPass": false,
+  "stats": {
+    "collectCount": 1,
+    "commentCount": 5,
+    "diggCount": 20,
+    "playCount": 1143,
+    "shareCount": 1
+  },
+  "statsV2": {
+    "collectCount": "1",
+    "commentCount": "5",
+    "diggCount": "20",
+    "playCount": "1143",
+    "repostCount": "0",
+    "shareCount": "1"
+  },
+  "stickersOnItem": [
+    {
+      "stickerText": [
+        "CALIN GEORGESCU \nDIANA I.SOSOACA \nCIPRIAN CIUBUC \n\nPE ACESTI \nOAMENI CARE \nAU FOST ALATURI DE TINE \nI-AI TRADAT \nLASA PARTIDUL ALA \nSI DUTE LA PEȘTE ",
+        "Intrati la mine \nAm postarea unde \nPRESEDINTELE \n🇷🇴ROMANIEI \n⚜️CALIN GEORGESCU ⚜️\nSPUNE CA A FOST \nTRADAT ",
+        " AI ALIANTE CU PSD PNL \nTRADATORULE 😤",
+        "MARȘ"
+      ],
+      "stickerType": 4
+    }
+  ],
+  "stitchDisplay": 0,
+  "stitchEnabled": true,
+  "textExtra": [
+    {
+      "awemeId": "",
+      "end": 142,
+      "hashtagId": "7204029847977820166",
+      "hashtagName": "calingeorgescu2024",
+      "isCommerce": false,
+      "secUid": "",
+      "start": 123,
+      "subType": 0,
+      "type": 1,
+      "userId": "",
+      "userUniqueId": ""
+    },
+    {
+      "awemeId": "",
+      "end": 168,
+      "hashtagId": "7291012636634775584",
+      "hashtagName": "calingeorgescupresedinte",
+      "isCommerce": false,
+      "secUid": "",
+      "start": 143,
+      "subType": 0,
+      "type": 1,
+      "userId": "",
+      "userUniqueId": ""
+    },
+    {
+      "awemeId": "",
+      "end": 182,
+      "hashtagId": "1685965580220418",
+      "hashtagName": "dianasosoaca",
+      "isCommerce": false,
+      "secUid": "",
+      "start": 169,
+      "subType": 0,
+      "type": 1,
+      "userId": "",
+      "userUniqueId": ""
+    },
+    {
+      "awemeId": "",
+      "end": 206,
+      "hashtagId": "7255387648829685786",
+      "hashtagName": "partidulsosromania🇷🇴",
+      "isCommerce": false,
+      "secUid": "",
+      "start": 183,
+      "subType": 0,
+      "type": 1,
+      "userId": "",
+      "userUniqueId": ""
+    },
+    {
+      "awemeId": "",
+      "end": 215,
+      "hashtagId": "1685000714187777",
+      "hashtagName": "sosoaca",
+      "isCommerce": false,
+      "secUid": "",
+      "start": 207,
+      "subType": 0,
+      "type": 1,
+      "userId": "",
+      "userUniqueId": ""
+    },
+    {
+      "awemeId": "",
+      "end": 229,
+      "hashtagId": "1683329365993474",
+      "hashtagName": "georgesimion",
+      "isCommerce": false,
+      "secUid": "",
+      "start": 216,
+      "subType": 0,
+      "type": 1,
+      "userId": "",
+      "userUniqueId": ""
+    },
+    {
+      "awemeId": "",
+      "end": 243,
+      "hashtagId": "1681595869556738",
+      "hashtagName": "elenalasconi",
+      "isCommerce": false,
+      "secUid": "",
+      "start": 230,
+      "subType": 0,
+      "type": 1,
+      "userId": "",
+      "userUniqueId": ""
+    },
+    {
+      "awemeId": "",
+      "end": 254,
+      "hashtagId": "52396262",
+      "hashtagName": "tradatori",
+      "isCommerce": false,
+      "secUid": "",
+      "start": 244,
+      "subType": 0,
+      "type": 1,
+      "userId": "",
+      "userUniqueId": ""
+    },
+    {
+      "awemeId": "",
+      "end": 260,
+      "hashtagId": "78563",
+      "hashtagName": "huaa",
+      "isCommerce": false,
+      "secUid": "",
+      "start": 255,
+      "subType": 0,
+      "type": 1,
+      "userId": "",
+      "userUniqueId": ""
+    },
+    {
+      "awemeId": "",
+      "end": 269,
+      "hashtagId": "49817248",
+      "hashtagName": "demisia",
+      "isCommerce": false,
+      "secUid": "",
+      "start": 261,
+      "subType": 0,
+      "type": 1,
+      "userId": "",
+      "userUniqueId": ""
+    },
+    {
+      "awemeId": "",
+      "end": 274,
+      "hashtagId": "21090",
+      "hashtagName": "vot",
+      "isCommerce": false,
+      "secUid": "",
+      "start": 270,
+      "subType": 0,
+      "type": 1,
+      "userId": "",
+      "userUniqueId": ""
+    },
+    {
+      "awemeId": "",
+      "end": 290,
+      "hashtagId": "7200519888544464901",
+      "hashtagName": "romaniatradata",
+      "isCommerce": false,
+      "secUid": "",
+      "start": 275,
+      "subType": 0,
+      "type": 1,
+      "userId": "",
+      "userUniqueId": ""
+    },
+    {
+      "awemeId": "",
+      "end": 304,
+      "hashtagId": "1674129554455557",
+      "hashtagName": "poporulroman",
+      "isCommerce": false,
+      "secUid": "",
+      "start": 291,
+      "subType": 0,
+      "type": 1,
+      "userId": "",
+      "userUniqueId": ""
+    },
+    {
+      "awemeId": "",
+      "end": 316,
+      "hashtagId": "66997538",
+      "hashtagName": "romaniamea",
+      "isCommerce": false,
+      "secUid": "",
+      "start": 305,
+      "subType": 0,
+      "type": 1,
+      "userId": "",
+      "userUniqueId": ""
+    },
+    {
+      "awemeId": "",
+      "end": 321,
+      "hashtagId": "229207",
+      "hashtagName": "fyp",
+      "isCommerce": false,
+      "secUid": "",
+      "start": 317,
+      "subType": 0,
+      "type": 1,
+      "userId": "",
+      "userUniqueId": ""
+    },
+    {
+      "awemeId": "",
+      "end": 337,
+      "hashtagId": "1661618676302854",
+      "hashtagName": "diasporatiktok",
+      "isCommerce": false,
+      "secUid": "",
+      "start": 322,
+      "subType": 0,
+      "type": 1,
+      "userId": "",
+      "userUniqueId": ""
+    },
+    {
+      "awemeId": "",
+      "end": 347,
+      "hashtagId": "448694",
+      "hashtagName": "diaspora",
+      "isCommerce": false,
+      "secUid": "",
+      "start": 338,
+      "subType": 0,
+      "type": 1,
+      "userId": "",
+      "userUniqueId": ""
+    },
+    {
+      "awemeId": "",
+      "end": 360,
+      "hashtagId": "1592199128507398",
+      "hashtagName": "romania🇷🇴",
+      "isCommerce": false,
+      "secUid": "",
+      "start": 348,
+      "subType": 0,
+      "type": 1,
+      "userId": "",
+      "userUniqueId": ""
+    }
+  ],
+  "video": {
+    "VQScore": "63.12",
+    "bitrate": 860845,
+    "bitrateInfo": [
+      {
+        "Bitrate": 860845,
+        "CodecType": "h264",
+        "GearName": "normal_540_0",
+        "MVMAF": "\"\"",
+        "PlayAddr": {
+          "DataSize": 2905352,
+          "FileCs": "c:0-23091-ff42",
+          "FileHash": "63eb9bba002db396373a328c73de0d46",
+          "Height": 954,
+          "Uri": "v24044gl0000ct5nnnnog65g8jrv0p50",
+          "UrlKey": "v24044gl0000ct5nnnnog65g8jrv0p50_h264_540p_860845",
+          "UrlList": [
+            "https://v16-webapp-prime.tiktok.com/video/tos/no1a/tos-no1a-ve-0068-no/oc8f9e9gWMsWffogARBFCLAEkJeAQ6s7MiMtQU/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1680&bt=840&cs=0&ds=6&ft=4fUEKMT88Zmo0dmNjb4jVUChrpWrKsd.&mime_type=video_mp4&qs=0&rc=ZmhnNDlmNGRpZDo6M2Y0Z0BpM3N5bWo5cnFxdzMzbzczNUBgMDJgMjQ1XjYxLWIyYC8uYSMyLW81MmRrazJgLS1kMTFzcw%3D%3D&btag=e00088000&expire=1733180964&l=202411302308559E8D56EC27C2F9D10317&ply_type=2&policy=2&signature=956568671ea075019aae544358a044b2&tk=tt_chain_token",
+            "https://v19-webapp-prime.tiktok.com/video/tos/no1a/tos-no1a-ve-0068-no/oc8f9e9gWMsWffogARBFCLAEkJeAQ6s7MiMtQU/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1680&bt=840&cs=0&ds=6&ft=4fUEKMT88Zmo0dmNjb4jVUChrpWrKsd.&mime_type=video_mp4&qs=0&rc=ZmhnNDlmNGRpZDo6M2Y0Z0BpM3N5bWo5cnFxdzMzbzczNUBgMDJgMjQ1XjYxLWIyYC8uYSMyLW81MmRrazJgLS1kMTFzcw%3D%3D&btag=e00088000&expire=1733180964&l=202411302308559E8D56EC27C2F9D10317&ply_type=2&policy=2&signature=956568671ea075019aae544358a044b2&tk=tt_chain_token",
+            "https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=1d21cc50e7074a9faa817c56c15d3ecc&is_play_url=1&item_id=7443180478900866326&line=0&ply_type=2&redirect=0&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjhiMTFjMzEwODgwMjBiN2ZhZjE4NTE2YTIxNDJlMDEx&tk=tt_chain_token&vidc=no1a&video_id=v24044gl0000ct5nnnnog65g8jrv0p50"
+          ],
+          "Width": 576
+        },
+        "QualityType": 20
+      },
+      {
+        "Bitrate": 377339,
+        "CodecType": "h265_hvc1",
+        "GearName": "adapt_540_1",
+        "MVMAF": "\"{\\\"v2.0\\\": {\\\"srv1\\\": {\\\"v1080\\\": 84.611, \\\"v960\\\": 86.098, \\\"v864\\\": 88.66, \\\"v720\\\": 89.758}, \\\"ori\\\": {\\\"v1080\\\": 80.376, \\\"v960\\\": 84.313, \\\"v864\\\": 84.543, \\\"v720\\\": 88.569}}}\"",
+        "PlayAddr": {
+          "DataSize": 1273522,
+          "FileCs": "c:0-23986-7852",
+          "FileHash": "15bd71358e94610c794b2b406bbc4ec8",
+          "Height": 954,
+          "Uri": "v24044gl0000ct5nnnnog65g8jrv0p50",
+          "UrlKey": "v24044gl0000ct5nnnnog65g8jrv0p50_bytevc1_540p_377339",
+          "UrlList": [
+            "https://v16-webapp-prime.tiktok.com/video/tos/no1a/tos-no1a-ve-0068-no/oUeEBAeegWEQKgMti9AfIwLIuGBZN6LCGaseM6/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=736&bt=368&cs=2&ds=6&ft=4fUEKMT88Zmo0dmNjb4jVUChrpWrKsd.&mime_type=video_mp4&qs=11&rc=PDtkM2dkPDc2aTU5ZzlpZkBpM3N5bWo5cnFxdzMzbzczNUBjMF8zNmFgXzAxLmFfYmE1YSMyLW81MmRrazJgLS1kMTFzcw%3D%3D&btag=e00088000&expire=1733180964&l=202411302308559E8D56EC27C2F9D10317&ply_type=2&policy=2&signature=d8633b8a8a89b050e41041c23f144204&tk=tt_chain_token",
+            "https://v19-webapp-prime.tiktok.com/video/tos/no1a/tos-no1a-ve-0068-no/oUeEBAeegWEQKgMti9AfIwLIuGBZN6LCGaseM6/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=736&bt=368&cs=2&ds=6&ft=4fUEKMT88Zmo0dmNjb4jVUChrpWrKsd.&mime_type=video_mp4&qs=11&rc=PDtkM2dkPDc2aTU5ZzlpZkBpM3N5bWo5cnFxdzMzbzczNUBjMF8zNmFgXzAxLmFfYmE1YSMyLW81MmRrazJgLS1kMTFzcw%3D%3D&btag=e00088000&expire=1733180964&l=202411302308559E8D56EC27C2F9D10317&ply_type=2&policy=2&signature=d8633b8a8a89b050e41041c23f144204&tk=tt_chain_token",
+            "https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=8cdfe6bdd6124f33b4c9da9d60ba38f9&is_play_url=1&item_id=7443180478900866326&line=0&ply_type=2&redirect=0&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjVkZTI4YTVmN2RjZDVhY2Q5YThjY2FkMjczNzNiNTU0&tk=tt_chain_token&vidc=no1a&video_id=v24044gl0000ct5nnnnog65g8jrv0p50"
+          ],
+          "Width": 576
+        },
+        "QualityType": 28
+      },
+      {
+        "Bitrate": 345181,
+        "CodecType": "h264",
+        "GearName": "lowest_540_0",
+        "MVMAF": "\"\"",
+        "PlayAddr": {
+          "DataSize": 1164989,
+          "FileCs": "c:0-22995-83b3",
+          "FileHash": "dd4e3816e9382d38ead33cef1c71750c",
+          "Height": 954,
+          "Uri": "v24044gl0000ct5nnnnog65g8jrv0p50",
+          "UrlKey": "v24044gl0000ct5nnnnog65g8jrv0p50_h264_540p_345181",
+          "UrlList": [
+            "https://v16-webapp-prime.tiktok.com/video/tos/no1a/tos-no1a-ve-0068c001-no/oAJ7giM6sAcRfUMoEQGn8AkAt9tMWWCeegBefi/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=674&bt=337&cs=0&ds=6&ft=4fUEKMT88Zmo0dmNjb4jVUChrpWrKsd.&mime_type=video_mp4&qs=5&rc=OjVlN2U7aDUzaWVpaDhnNkBpM3N5bWo5cnFxdzMzbzczNUAuLzUyYF5fNS4xM2IvYmBiYSMyLW81MmRrazJgLS1kMTFzcw%3D%3D&btag=e00088000&expire=1733180964&l=202411302308559E8D56EC27C2F9D10317&ply_type=2&policy=2&signature=e3522b2d4594fd26c0e421a08bdc86f1&tk=tt_chain_token",
+            "https://v19-webapp-prime.tiktok.com/video/tos/no1a/tos-no1a-ve-0068c001-no/oAJ7giM6sAcRfUMoEQGn8AkAt9tMWWCeegBefi/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=674&bt=337&cs=0&ds=6&ft=4fUEKMT88Zmo0dmNjb4jVUChrpWrKsd.&mime_type=video_mp4&qs=5&rc=OjVlN2U7aDUzaWVpaDhnNkBpM3N5bWo5cnFxdzMzbzczNUAuLzUyYF5fNS4xM2IvYmBiYSMyLW81MmRrazJgLS1kMTFzcw%3D%3D&btag=e00088000&expire=1733180964&l=202411302308559E8D56EC27C2F9D10317&ply_type=2&policy=2&signature=e3522b2d4594fd26c0e421a08bdc86f1&tk=tt_chain_token",
+            "https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=e3cde52eef6b4f1082bea8cb548b2217&is_play_url=1&item_id=7443180478900866326&line=0&ply_type=2&redirect=0&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjQ2M2NhOTE4MzgxYmU2MDg3OWZiZjVhMzgwNmI2YTkz&tk=tt_chain_token&vidc=no1a&video_id=v24044gl0000ct5nnnnog65g8jrv0p50"
+          ],
+          "Width": 576
+        },
+        "QualityType": 25
+      }
+    ],
+    "claInfo": {
+      "captionInfos": [
+        {
+          "captionFormat": "webvtt",
+          "claSubtitleID": "7443193547858578198",
+          "expire": "1733180964",
+          "isAutoGen": true,
+          "isOriginalCaption": true,
+          "language": "ron-RO",
+          "languageCode": "",
+          "languageID": "40",
+          "subID": "-914332443",
+          "subtitleType": "1",
+          "url": "https://v16-webapp.tiktok.com/d6517f233ca31402f3bcdcb185005bab/674e3e24/video/tos/no1a/tos-no1a-v-0037-no/358fbd940cb74f9bab3661cc6906b95d/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1510&bt=755&ds=3&ft=4b~OyMT88Zmo0dmNjb4jVUChrpWrKsd.&mime_type=video_mp4&qs=13&rc=M3N5bWo5cnFxdzMzbzczNUBpM3N5bWo5cnFxdzMzbzczNUAyLW81MmRrazJgLS1kMTFzYSMyLW81MmRrazJgLS1kMTFzcw%3D%3D&l=202411302308559E8D56EC27C2F9D10317&btag=e00048000",
+          "urlList": [
+            "https://v16-webapp.tiktok.com/d6517f233ca31402f3bcdcb185005bab/674e3e24/video/tos/no1a/tos-no1a-v-0037-no/358fbd940cb74f9bab3661cc6906b95d/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1510&bt=755&ds=3&ft=4b~OyMT88Zmo0dmNjb4jVUChrpWrKsd.&mime_type=video_mp4&qs=13&rc=M3N5bWo5cnFxdzMzbzczNUBpM3N5bWo5cnFxdzMzbzczNUAyLW81MmRrazJgLS1kMTFzYSMyLW81MmRrazJgLS1kMTFzcw%3D%3D&l=202411302308559E8D56EC27C2F9D10317&btag=e00048000",
+            "https://v16-webapp.tiktok.com/d6517f233ca31402f3bcdcb185005bab/674e3e24/video/tos/no1a/tos-no1a-v-0037-no/358fbd940cb74f9bab3661cc6906b95d/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1510&bt=755&ds=3&ft=4b~OyMT88Zmo0dmNjb4jVUChrpWrKsd.&mime_type=video_mp4&qs=13&rc=M3N5bWo5cnFxdzMzbzczNUBpM3N5bWo5cnFxdzMzbzczNUAyLW81MmRrazJgLS1kMTFzYSMyLW81MmRrazJgLS1kMTFzcw%3D%3D&l=202411302308559E8D56EC27C2F9D10317&btag=e00048000",
+            "https://vas-useast2a.tiktokv.com/tiktok/v1/subtitle/url?aid=1988&format=webvtt&language=ron-RO&sign=950e3be97e6b82e0ad85529cb60d3a9f&version=1%3Awhisper_lid&vid=v24044gl0000ct5nnnnog65g8jrv0p50"
+          ],
+          "variant": "whisper_lid"
+        }
+      ],
+      "captionsType": 1,
+      "enableAutoCaption": true,
+      "hasOriginalAudio": true,
+      "originalLanguageInfo": {
+        "language": "ron-RO",
+        "languageCode": "",
+        "languageID": "40"
+      }
+    },
+    "codecType": "h264",
+    "cover": "https://p16-pu-sign-no.tiktokcdn-eu.com/obj/tos-no1a-p-0037-no/oQIwfDMiIsAeTQCWC6FA9UEggMLeyfWGedL99B?lk3s=b59d6b55&x-expires=1733180400&x-signature=Yd9Gi9uKTpYHpiVUz5O4VAPYG4s%3D&shp=b59d6b55&shcp=-",
+    "definition": "540p",
+    "downloadAddr": "https://v16-webapp-prime.tiktok.com/video/tos/no1a/tos-no1a-ve-0068-no/o8EWgg9RMfkeeMekAQ8oAeAbBWJ7L6siPCoMKt/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1732&bt=866&cs=0&ds=3&ft=4fUEKMT88Zmo0dmNjb4jVUChrpWrKsd.&mime_type=video_mp4&qs=0&rc=O2Y3OWY1ZzdkZzc2MzgzNUBpM3N5bWo5cnFxdzMzbzczNUA2YC00NC4xXzQxYi00YTAtYSMyLW81MmRrazJgLS1kMTFzcw%3D%3D&btag=e00088000&expire=1733180964&l=202411302308559E8D56EC27C2F9D10317&ply_type=2&policy=2&signature=de3983ce9cab2224e3d49efa7305c002&tk=tt_chain_token",
+    "duration": 27,
+    "dynamicCover": "https://p16-pu-sign-no.tiktokcdn-eu.com/obj/tos-no1a-p-0037-no/oETisW9g3QAeybq9gHfeWeGwUAIBEMGy6QfMUL?lk3s=b59d6b55&x-expires=1733180400&x-signature=V%2Fh5v3rgVDLM%2BEcJDJPhH8VqT7Q%3D&shp=b59d6b55&shcp=-",
+    "encodeUserTag": "",
+    "encodedType": "normal",
+    "format": "mp4",
+    "height": 954,
+    "id": "7443180478900866326",
+    "originCover": "https://p16-pu-sign-no.tiktokcdn-eu.com/obj/tos-no1a-p-0037-no/ocBejMM6ZWte9sD9EREYnAOigJs4A7T9eAf3ge?lk3s=b59d6b55&x-expires=1733180400&x-signature=4rQhegI%2F5tj04I7qUax6KqQ%2F%2FA8%3D&shp=b59d6b55&shcp=-",
+    "playAddr": "https://v16-webapp-prime.tiktok.com/video/tos/no1a/tos-no1a-ve-0068-no/oc8f9e9gWMsWffogARBFCLAEkJeAQ6s7MiMtQU/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1680&bt=840&cs=0&ds=6&ft=4fUEKMT88Zmo0dmNjb4jVUChrpWrKsd.&mime_type=video_mp4&qs=0&rc=ZmhnNDlmNGRpZDo6M2Y0Z0BpM3N5bWo5cnFxdzMzbzczNUBgMDJgMjQ1XjYxLWIyYC8uYSMyLW81MmRrazJgLS1kMTFzcw%3D%3D&btag=e00088000&expire=1733180964&l=202411302308559E8D56EC27C2F9D10317&ply_type=2&policy=2&signature=956568671ea075019aae544358a044b2&tk=tt_chain_token",
+    "ratio": "540p",
+    "reflowCover": "https://p16-pu-sign-no.tiktokcdn-eu.com/tos-no1a-p-0037-no/oQIwfDMiIsAeTQCWC6FA9UEggMLeyfWGedL99B~tplv-photomode-video-cover:480:480.jpeg?lk3s=b59d6b55&x-expires=1733180400&x-signature=8vaLPBgAqJVOBtCWwmJC1JHwvdo%3D&shp=b59d6b55&shcp=-",
+    "shareCover": [
+      "",
+      "https://p16-pu-sign-no.tiktokcdn-eu.com/tos-no1a-p-0037-no/ocBejMM6ZWte9sD9EREYnAOigJs4A7T9eAf3ge~tplv-photomode-tiktok-play.jpeg?lk3s=b59d6b55&x-expires=1733612400&x-signature=zUYgxKogv9G1AJMp5Q2vsfQ4PN4%3D&shp=b59d6b55&shcp=-",
+      "https://p16-pu-sign-no.tiktokcdn-eu.com/tos-no1a-p-0037-no/ocBejMM6ZWte9sD9EREYnAOigJs4A7T9eAf3ge~tplv-photomode-share-play.jpeg?lk3s=b59d6b55&x-expires=1733612400&x-signature=AH1UI%2BnY5fB2x4hmJS9yLQgN274%3D&shp=b59d6b55&shcp=-"
+    ],
+    "size": 2905352,
+    "subtitleInfos": [
+      {
+        "Format": "webvtt",
+        "LanguageCodeName": "ron-RO",
+        "LanguageID": "40",
+        "Size": 536,
+        "Source": "ASR",
+        "Url": "https://v16-webapp.tiktok.com/d6517f233ca31402f3bcdcb185005bab/674e3e24/video/tos/no1a/tos-no1a-v-0037-no/358fbd940cb74f9bab3661cc6906b95d/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1510&bt=755&ds=3&ft=4b~OyMT88Zmo0dmNjb4jVUChrpWrKsd.&mime_type=video_mp4&qs=13&rc=M3N5bWo5cnFxdzMzbzczNUBpM3N5bWo5cnFxdzMzbzczNUAyLW81MmRrazJgLS1kMTFzYSMyLW81MmRrazJgLS1kMTFzcw%3D%3D&l=202411302308559E8D56EC27C2F9D10317&btag=e00048000",
+        "UrlExpire": 1733180964,
+        "Version": "1:whisper_lid",
+        "VideoSubtitleID": -914332443
+      }
+    ],
+    "videoQuality": "normal",
+    "volumeInfo": {
+      "Loudness": -18.6,
+      "Peak": 0.35892
+    },
+    "width": 576,
+    "zoomCover": {
+      "240": "https://p16-pu-sign-no.tiktokcdn-eu.com/tos-no1a-p-0037-no/oQIwfDMiIsAeTQCWC6FA9UEggMLeyfWGedL99B~tplv-photomode-zoomcover:240:240.jpeg?lk3s=b59d6b55&x-expires=1733180400&x-signature=HHJumxXkLdRzOjXePeU4p0UssV0%3D&shp=b59d6b55&shcp=-",
+      "480": "https://p16-pu-sign-no.tiktokcdn-eu.com/tos-no1a-p-0037-no/oQIwfDMiIsAeTQCWC6FA9UEggMLeyfWGedL99B~tplv-photomode-zoomcover:480:480.jpeg?lk3s=b59d6b55&x-expires=1733180400&x-signature=hfDrvkx8X1tvJJXBr%2FRgiX9jou0%3D&shp=b59d6b55&shcp=-",
+      "720": "https://p16-pu-sign-no.tiktokcdn-eu.com/tos-no1a-p-0037-no/oQIwfDMiIsAeTQCWC6FA9UEggMLeyfWGedL99B~tplv-photomode-zoomcover:720:720.jpeg?lk3s=b59d6b55&x-expires=1733180400&x-signature=HX3qbKPTcYm2mUMAq7Lwwc7neVI%3D&shp=b59d6b55&shcp=-",
+      "960": "https://p16-pu-sign-no.tiktokcdn-eu.com/tos-no1a-p-0037-no/oQIwfDMiIsAeTQCWC6FA9UEggMLeyfWGedL99B~tplv-photomode-zoomcover:960:960.jpeg?lk3s=b59d6b55&x-expires=1733180400&x-signature=69PvFoj2FXnAMq7Qh4rlTnFf8ZA%3D&shp=b59d6b55&shcp=-"
+    }
+  },
+  "vl1": false,
+  "warnInfo": [
+    {
+      "key": "searchReminder_search_romanianElections2024_banner",
+      "lang": "en-US",
+      "text": "Get info on the Romanian elections",
+      "type": 2,
+      "url": "https://activity-i18n.tiktok.com/magic/eco/runtime/release/66d850aca1e3b702f99d2dbd?isFromGCP=1&appType=muse&magic_page_no=1&magic_source=search_hub&lang=ro-RO&region=RO"
+    }
+  ],
+  "comments": [
+    {
+      "author_pin": false,
+      "aweme_id": "7443180478900866326",
+      "cid": "7443208784685613846",
+      "collect_stat": 0,
+      "comment_language": "en",
+      "comment_post_item_ids": null,
+      "create_time": 1733007120,
+      "digg_count": 1,
+      "forbid_reply_with_video": true,
+      "image_list": null,
+      "is_author_digged": true,
+      "is_comment_translatable": true,
+      "label_list": [
+        {
+          "text": "Liked by creator",
+          "type": 20
+        }
+      ],
+      "no_show": false,
+      "reply_comment": null,
+      "reply_comment_total": 0,
+      "reply_id": "0",
+      "reply_to_reply_id": "0",
+      "share_info": {
+        "acl": {
+          "code": 0,
+          "extra": "{}"
+        },
+        "desc": "corix7’s comment: SOS",
+        "title": "GEORGE SIMION NUMIT TRADATOR  PARTIDUL AUR A TRADAT DIN CAUZA TA 😤 Pe Calin Georgescu ,Diana Sosoaca ,Ciprian Ciubuc ,Marș#calingeorgescu2024 #calingeorgescupresedinte #dianasosoaca #partidulsosromania🇷🇴 #sosoaca #georgesimion #elenalasconi #tradatori #huaa #demisia #vot #romaniatradata #poporulroman #romaniamea #fyp #diasporatiktok #diaspora #romania🇷🇴 ",
+        "url": "https://m.tiktok.com/v/7443180478900866326.html?_d=5gljg3dbdf57k2&comment_author_id=6941688606609163269&preview_pb=0&share_comment_id=7443208784685613846&share_item_id=7443180478900866326&sharer_language=en-US&source=h5_m&u_code=e8hegggb201lba"
+      },
+      "sort_extra_score": {
+        "reply_score": 6e-05,
+        "show_more_score": 0.000187
+      },
+      "sort_tags": "{\"author_digg\":1,\"top_list\":1}",
+      "status": 1,
+      "stick_position": 0,
+      "text": "SOS",
+      "text_extra": [],
+      "trans_btn_style": 0,
+      "user": {
+        "account_labels": null,
+        "ad_cover_url": null,
+        "advance_feature_item_order": null,
+        "advanced_feature_info": null,
+        "avatar_thumb": {
+          "uri": "tos-maliva-avt-0068/7325383881633333254",
+          "url_list": [
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7325383881633333254~c5_100x100.jpg?lk3s=30310797&nonce=10599&refresh_token=292c5ee4a43b876124588ec1ba37c457&x-expires=1733094000&x-signature=nOPRTT%2FnJ9GRKq727iZn6iDWaes%3D&shp=30310797&shcp=-",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7325383881633333254~c5_100x100.jpeg?lk3s=30310797&nonce=80196&refresh_token=91fb336f9b31c267b15be6ac28e4fcdd&x-expires=1733094000&x-signature=gPjIYbUQOT59g%2FNfDUCRL8DEjW8%3D&shp=30310797&shcp=-"
+          ],
+          "url_prefix": null
+        },
+        "bold_fields": null,
+        "can_message_follow_status_list": null,
+        "can_set_geofencing": null,
+        "cha_list": null,
+        "cover_url": null,
+        "custom_verify": "",
+        "enterprise_verify_reason": "",
+        "events": null,
+        "followers_detail": null,
+        "geofencing": null,
+        "homepage_bottom_toast": null,
+        "item_list": null,
+        "mutual_relation_avatars": null,
+        "need_points": null,
+        "nickname": "corix7",
+        "platform_sync_info": null,
+        "predicted_age_group": "5",
+        "relative_users": null,
+        "search_highlight": null,
+        "sec_uid": "MS4wLjABAAAAZxxmUuQBG2hDQmKLV0gBd1XppxL-1WjIp58vvfQ5NFtzUN1_uaEih3u74TYDTs6t",
+        "shield_edit_field_info": null,
+        "type_label": null,
+        "uid": "6941688606609163269",
+        "unique_id": "corix6",
+        "user_profile_guide": null,
+        "user_tags": null,
+        "white_cover_url": null
+      },
+      "user_buried": false,
+      "user_digged": 0
+    },
+    {
+      "author_pin": false,
+      "aweme_id": "7443180478900866326",
+      "cid": "7443185316431627030",
+      "collect_stat": 0,
+      "comment_language": "en",
+      "comment_post_item_ids": null,
+      "create_time": 1733001656,
+      "digg_count": 1,
+      "forbid_reply_with_video": true,
+      "image_list": null,
+      "is_author_digged": true,
+      "is_comment_translatable": true,
+      "label_list": [
+        {
+          "text": "Liked by creator",
+          "type": 20
+        }
+      ],
+      "no_show": false,
+      "reply_comment": null,
+      "reply_comment_total": 0,
+      "reply_id": "0",
+      "reply_to_reply_id": "0",
+      "share_info": {
+        "acl": {
+          "code": 0,
+          "extra": "{}"
+        },
+        "desc": "Aurelia Ene441’s comment: SOS",
+        "title": "GEORGE SIMION NUMIT TRADATOR  PARTIDUL AUR A TRADAT DIN CAUZA TA 😤 Pe Calin Georgescu ,Diana Sosoaca ,Ciprian Ciubuc ,Marș#calingeorgescu2024 #calingeorgescupresedinte #dianasosoaca #partidulsosromania🇷🇴 #sosoaca #georgesimion #elenalasconi #tradatori #huaa #demisia #vot #romaniatradata #poporulroman #romaniamea #fyp #diasporatiktok #diaspora #romania🇷🇴 ",
+        "url": "https://m.tiktok.com/v/7443180478900866326.html?_d=5gljg3dbdf57k2&comment_author_id=7052696149907735557&preview_pb=0&share_comment_id=7443185316431627030&share_item_id=7443180478900866326&sharer_language=en-US&source=h5_m&u_code=e8hegggb201lba"
+      },
+      "sort_extra_score": {
+        "reply_score": 6.9e-05,
+        "show_more_score": 6.3e-05
+      },
+      "sort_tags": "{\"author_digg\":1,\"top_list\":1}",
+      "status": 1,
+      "stick_position": 0,
+      "text": "SOS",
+      "text_extra": [],
+      "trans_btn_style": 0,
+      "user": {
+        "account_labels": null,
+        "ad_cover_url": null,
+        "advance_feature_item_order": null,
+        "advanced_feature_info": null,
+        "avatar_thumb": {
+          "uri": "tos-maliva-avt-0068/7097993904686891013",
+          "url_list": [
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7097993904686891013~c5_100x100.jpg?lk3s=30310797&nonce=53324&refresh_token=2b6dde94c6a4b820fa5bbc9e76cb82dc&x-expires=1733094000&x-signature=FNx8KgW4foyVo%2BfzE54ihWEfMaw%3D&shp=30310797&shcp=-",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7097993904686891013~c5_100x100.jpeg?lk3s=30310797&nonce=14944&refresh_token=27732c251da829ba936d323bbed22274&x-expires=1733094000&x-signature=p2yjxI3QBPdhCmRHuZaXyHmggQk%3D&shp=30310797&shcp=-"
+          ],
+          "url_prefix": null
+        },
+        "bold_fields": null,
+        "can_message_follow_status_list": null,
+        "can_set_geofencing": null,
+        "cha_list": null,
+        "cover_url": null,
+        "custom_verify": "",
+        "enterprise_verify_reason": "",
+        "events": null,
+        "followers_detail": null,
+        "geofencing": null,
+        "homepage_bottom_toast": null,
+        "item_list": null,
+        "mutual_relation_avatars": null,
+        "need_points": null,
+        "nickname": "Aurelia Ene441",
+        "platform_sync_info": null,
+        "predicted_age_group": "-1",
+        "relative_users": null,
+        "search_highlight": null,
+        "sec_uid": "MS4wLjABAAAA1exRT7AMJPQyzYpXeVFTOkzaZ2e5cKpEOv_CIvl9_HFEgYmZGJ3qc_sxMbvzvrdv",
+        "shield_edit_field_info": null,
+        "type_label": null,
+        "uid": "7052696149907735557",
+        "unique_id": "aureliaenee",
+        "user_profile_guide": null,
+        "user_tags": null,
+        "white_cover_url": null
+      },
+      "user_buried": false,
+      "user_digged": 0
+    },
+    {
+      "author_pin": false,
+      "aweme_id": "7443180478900866326",
+      "cid": "7443181903081374496",
+      "collect_stat": 0,
+      "comment_language": "ro",
+      "comment_post_item_ids": null,
+      "create_time": 1733000848,
+      "digg_count": 2,
+      "forbid_reply_with_video": true,
+      "image_list": null,
+      "is_author_digged": true,
+      "is_comment_translatable": true,
+      "label_list": [
+        {
+          "text": "Liked by creator",
+          "type": 20
+        }
+      ],
+      "no_show": false,
+      "reply_comment": null,
+      "reply_comment_total": 0,
+      "reply_id": "0",
+      "reply_to_reply_id": "0",
+      "share_info": {
+        "acl": {
+          "code": 0,
+          "extra": "{}"
+        },
+        "desc": ".’s comment: SOS ROMÂNIA la guvernare și Călin Georgescu președinte Diana prim ministru salvarea României",
+        "title": "GEORGE SIMION NUMIT TRADATOR  PARTIDUL AUR A TRADAT DIN CAUZA TA 😤 Pe Calin Georgescu ,Diana Sosoaca ,Ciprian Ciubuc ,Marș#calingeorgescu2024 #calingeorgescupresedinte #dianasosoaca #partidulsosromania🇷🇴 #sosoaca #georgesimion #elenalasconi #tradatori #huaa #demisia #vot #romaniatradata #poporulroman #romaniamea #fyp #diasporatiktok #diaspora #romania🇷🇴 ",
+        "url": "https://m.tiktok.com/v/7443180478900866326.html?_d=5gljg3dbdf57k2&comment_author_id=7414078238295163936&preview_pb=0&share_comment_id=7443181903081374496&share_item_id=7443180478900866326&sharer_language=en-US&source=h5_m&u_code=e8hegggb201lba"
+      },
+      "sort_extra_score": {
+        "reply_score": 0,
+        "show_more_score": 0
+      },
+      "sort_tags": "{}",
+      "status": 1,
+      "stick_position": 0,
+      "text": "SOS ROMÂNIA la guvernare și Călin Georgescu președinte Diana prim ministru salvarea României",
+      "text_extra": [],
+      "trans_btn_style": 1,
+      "user": {
+        "account_labels": null,
+        "ad_cover_url": null,
+        "advance_feature_item_order": null,
+        "advanced_feature_info": null,
+        "avatar_thumb": {
+          "uri": "tos-useast2a-avt-0068-euttp/f48cd42787eb87041b48d73380180279",
+          "url_list": [
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/f48cd42787eb87041b48d73380180279~c5_100x100.jpg?lk3s=30310797&nonce=54807&refresh_token=4710c0c53c9c3c713724d621af7e85e0&x-expires=1733094000&x-signature=vFyA3juFRMhbrkXWqam2qqHP8Nk%3D&shp=30310797&shcp=-",
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/f48cd42787eb87041b48d73380180279~c5_100x100.jpeg?lk3s=30310797&nonce=13186&refresh_token=552fdfb2e2c2d2149032467ba72102e7&x-expires=1733094000&x-signature=ocmTbXSR7914VAsGW%2BFELD8UtlY%3D&shp=30310797&shcp=-"
+          ],
+          "url_prefix": null
+        },
+        "bold_fields": null,
+        "can_message_follow_status_list": null,
+        "can_set_geofencing": null,
+        "cha_list": null,
+        "cover_url": null,
+        "custom_verify": "",
+        "enterprise_verify_reason": "",
+        "events": null,
+        "followers_detail": null,
+        "geofencing": null,
+        "homepage_bottom_toast": null,
+        "item_list": null,
+        "mutual_relation_avatars": null,
+        "need_points": null,
+        "nickname": ".",
+        "platform_sync_info": null,
+        "predicted_age_group": "",
+        "relative_users": null,
+        "search_highlight": null,
+        "sec_uid": "MS4wLjABAAAAtdRwcBcja4YdgIKjalEyfO8HTh68d8yIphyZsSu0UH9mvr5tRY4h0TO43Fnjwvdd",
+        "shield_edit_field_info": null,
+        "type_label": null,
+        "uid": "7414078238295163936",
+        "unique_id": "lidia_ldy18",
+        "user_profile_guide": null,
+        "user_tags": null,
+        "white_cover_url": null
+      },
+      "user_buried": false,
+      "user_digged": 0
+    },
+    {
+      "author_pin": false,
+      "aweme_id": "7443180478900866326",
+      "cid": "7443206085660607265",
+      "collect_stat": 0,
+      "comment_language": "it",
+      "comment_post_item_ids": null,
+      "create_time": 1733006493,
+      "digg_count": 0,
+      "forbid_reply_with_video": true,
+      "image_list": null,
+      "is_author_digged": false,
+      "is_comment_translatable": true,
+      "label_list": null,
+      "no_show": false,
+      "reply_comment": null,
+      "reply_comment_total": 0,
+      "reply_id": "0",
+      "reply_to_reply_id": "0",
+      "share_info": {
+        "acl": {
+          "code": 0,
+          "extra": "{}"
+        },
+        "desc": "Giulia Maftei’s comment: Farà Aur niciodata, tu esti cu PSD,etc ..stiu tu ce combinatii ai facut",
+        "title": "GEORGE SIMION NUMIT TRADATOR  PARTIDUL AUR A TRADAT DIN CAUZA TA 😤 Pe Calin Georgescu ,Diana Sosoaca ,Ciprian Ciubuc ,Marș#calingeorgescu2024 #calingeorgescupresedinte #dianasosoaca #partidulsosromania🇷🇴 #sosoaca #georgesimion #elenalasconi #tradatori #huaa #demisia #vot #romaniatradata #poporulroman #romaniamea #fyp #diasporatiktok #diaspora #romania🇷🇴 ",
+        "url": "https://m.tiktok.com/v/7443180478900866326.html?_d=5gljg3dbdf57k2&comment_author_id=6908374637542671365&preview_pb=0&share_comment_id=7443206085660607265&share_item_id=7443180478900866326&sharer_language=en-US&source=h5_m&u_code=e8hegggb201lba"
+      },
+      "sort_extra_score": {
+        "reply_score": 0,
+        "show_more_score": 0
+      },
+      "sort_tags": "{}",
+      "status": 1,
+      "stick_position": 0,
+      "text": "Farà Aur niciodata, tu esti cu PSD,etc ..stiu tu ce combinatii ai facut",
+      "text_extra": [],
+      "trans_btn_style": 1,
+      "user": {
+        "account_labels": null,
+        "ad_cover_url": null,
+        "advance_feature_item_order": null,
+        "advanced_feature_info": null,
+        "avatar_thumb": {
+          "uri": "tos-useast2a-avt-0068-euttp/f18a87e139fdef559cd1f05184232ae7",
+          "url_list": [
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/f18a87e139fdef559cd1f05184232ae7~c5_100x100.jpg?lk3s=30310797&nonce=66920&refresh_token=092a07e0867ee928e0561c9f453163ef&x-expires=1733094000&x-signature=HM11gfWPQ5PT5D%2ByHw2YJ82YkEA%3D&shp=30310797&shcp=-",
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/f18a87e139fdef559cd1f05184232ae7~c5_100x100.jpeg?lk3s=30310797&nonce=38542&refresh_token=5a9da271e4820a21c14ec95440c8dcec&x-expires=1733094000&x-signature=6aSRv7SCYgGq7VV010%2FuvJZFnn0%3D&shp=30310797&shcp=-"
+          ],
+          "url_prefix": null
+        },
+        "bold_fields": null,
+        "can_message_follow_status_list": null,
+        "can_set_geofencing": null,
+        "cha_list": null,
+        "cover_url": null,
+        "custom_verify": "",
+        "enterprise_verify_reason": "",
+        "events": null,
+        "followers_detail": null,
+        "geofencing": null,
+        "homepage_bottom_toast": null,
+        "item_list": null,
+        "mutual_relation_avatars": null,
+        "need_points": null,
+        "nickname": "Giulia Maftei",
+        "platform_sync_info": null,
+        "relative_users": null,
+        "search_highlight": null,
+        "sec_uid": "MS4wLjABAAAAjYoDtzs76qx5YZAuXF5i-o4aQJRnhKqt6Est4gbWQdpyKzSydAtG8dB_T2FgmGpi",
+        "shield_edit_field_info": null,
+        "type_label": null,
+        "uid": "6908374637542671365",
+        "unique_id": "giuliaiulia01",
+        "user_profile_guide": null,
+        "user_tags": null,
+        "white_cover_url": null
+      },
+      "user_buried": false,
+      "user_digged": 0
+    }
+  ]
+}

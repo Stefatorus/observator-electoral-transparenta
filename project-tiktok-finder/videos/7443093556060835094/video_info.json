@@ -1,0 +1,2341 @@
+{
+  "AIGCDescription": "",
+  "BAInfo": "",
+  "CategoryType": 120,
+  "adAuthorization": false,
+  "adLabelVersion": 0,
+  "aigcLabelType": 0,
+  "author": {
+    "avatarLarger": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/a38c2d84eaa8c8e30a0614db0ada059a~c5_1080x1080.jpeg?lk3s=a5d48078&nonce=34789&refresh_token=1e2de1bfdb59717b734d3e54a2c5709d&x-expires=1733180400&x-signature=9cT2xgYIKgboDlb%2F8NfuFIfKOQg%3D&shp=a5d48078&shcp=b59d6b55",
+    "avatarMedium": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/a38c2d84eaa8c8e30a0614db0ada059a~c5_720x720.jpeg?lk3s=a5d48078&nonce=24791&refresh_token=4199eb79ff03756d8acf08cefc47bc6d&x-expires=1733180400&x-signature=MkLibg9NU76D9VA8LQfwaeABLQg%3D&shp=a5d48078&shcp=b59d6b55",
+    "avatarThumb": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/a38c2d84eaa8c8e30a0614db0ada059a~c5_100x100.jpeg?lk3s=a5d48078&nonce=4079&refresh_token=c2f56160429df5aaa77c11ac031d7980&x-expires=1733180400&x-signature=GH0PDRBFu2%2BN5wCu9hbEowOkKqk%3D&shp=a5d48078&shcp=b59d6b55",
+    "commentSetting": 0,
+    "downloadSetting": 0,
+    "duetSetting": 0,
+    "ftc": false,
+    "id": "7234919756624348166",
+    "isADVirtual": false,
+    "isEmbedBanned": false,
+    "nickname": "Virgil Miclău",
+    "openFavorite": false,
+    "privateAccount": false,
+    "relation": 0,
+    "roomId": "7443207604194593558",
+    "secUid": "MS4wLjABAAAAUDlgsvAdydlBHl4OQ2xij42UQgWwcgV9die--t6OtJkkvAXzqSTjF7OzHIWRpcFB",
+    "secret": false,
+    "signature": "",
+    "stitchSetting": 0,
+    "ttSeller": false,
+    "uniqueId": "virgilmiclau",
+    "verified": false
+  },
+  "authorStats": {
+    "diggCount": 1160,
+    "followerCount": 4450,
+    "followingCount": 520,
+    "friendCount": 0,
+    "heart": 65900,
+    "heartCount": 65900,
+    "videoCount": 141
+  },
+  "challenges": [
+    {
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": "",
+      "desc": "",
+      "id": "21090",
+      "isCommerce": false,
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "stats": {
+        "videoCount": 0,
+        "viewCount": 0
+      },
+      "title": "vot"
+    },
+    {
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": "",
+      "desc": "",
+      "id": "191428",
+      "isCommerce": false,
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "stats": {
+        "videoCount": 0,
+        "viewCount": 0
+      },
+      "title": "furt"
+    },
+    {
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": "",
+      "desc": "",
+      "id": "1630792917310470",
+      "isCommerce": false,
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "stats": {
+        "videoCount": 0,
+        "viewCount": 0
+      },
+      "title": "georgescu"
+    },
+    {
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": "",
+      "desc": "",
+      "id": "1616475276143781",
+      "isCommerce": false,
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "stats": {
+        "videoCount": 0,
+        "viewCount": 0
+      },
+      "title": "romaniatiktok"
+    },
+    {
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": "",
+      "desc": "",
+      "id": "30148596",
+      "isCommerce": false,
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "stats": {
+        "videoCount": 0,
+        "viewCount": 0
+      },
+      "title": "presedinte"
+    },
+    {
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": "",
+      "desc": "",
+      "id": "1592199128507398",
+      "isCommerce": false,
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "stats": {
+        "videoCount": 0,
+        "viewCount": 0
+      },
+      "title": "romania🇷🇴"
+    },
+    {
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": "",
+      "desc": "",
+      "id": "10197105",
+      "isCommerce": false,
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "stats": {
+        "videoCount": 0,
+        "viewCount": 0
+      },
+      "title": "vir"
+    },
+    {
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": "",
+      "desc": "",
+      "id": "7013656821118271494",
+      "isCommerce": false,
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "stats": {
+        "videoCount": 0,
+        "viewCount": 0
+      },
+      "title": "georgesimion🇹🇩"
+    },
+    {
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": "",
+      "desc": "",
+      "id": "1678959580242946",
+      "isCommerce": false,
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "stats": {
+        "videoCount": 0,
+        "viewCount": 0
+      },
+      "title": "ziuavotului"
+    }
+  ],
+  "collected": false,
+  "contents": [
+    {
+      "desc": "Au confiscat BULETINELE pacienților pentru a le FURA votul! #vot #furt #georgescu #romaniatiktok #presedinte #romania🇷🇴 #vir #georgesimion🇹🇩 #ziuavotului ",
+      "textExtra": [
+        {
+          "awemeId": "",
+          "end": 64,
+          "hashtagId": "21090",
+          "hashtagName": "vot",
+          "isCommerce": false,
+          "secUid": "",
+          "start": 60,
+          "subType": 0,
+          "type": 1,
+          "userId": "",
+          "userUniqueId": ""
+        },
+        {
+          "awemeId": "",
+          "end": 70,
+          "hashtagId": "191428",
+          "hashtagName": "furt",
+          "isCommerce": false,
+          "secUid": "",
+          "start": 65,
+          "subType": 0,
+          "type": 1,
+          "userId": "",
+          "userUniqueId": ""
+        },
+        {
+          "awemeId": "",
+          "end": 81,
+          "hashtagId": "1630792917310470",
+          "hashtagName": "georgescu",
+          "isCommerce": false,
+          "secUid": "",
+          "start": 71,
+          "subType": 0,
+          "type": 1,
+          "userId": "",
+          "userUniqueId": ""
+        },
+        {
+          "awemeId": "",
+          "end": 96,
+          "hashtagId": "1616475276143781",
+          "hashtagName": "romaniatiktok",
+          "isCommerce": false,
+          "secUid": "",
+          "start": 82,
+          "subType": 0,
+          "type": 1,
+          "userId": "",
+          "userUniqueId": ""
+        },
+        {
+          "awemeId": "",
+          "end": 108,
+          "hashtagId": "30148596",
+          "hashtagName": "presedinte",
+          "isCommerce": false,
+          "secUid": "",
+          "start": 97,
+          "subType": 0,
+          "type": 1,
+          "userId": "",
+          "userUniqueId": ""
+        },
+        {
+          "awemeId": "",
+          "end": 121,
+          "hashtagId": "1592199128507398",
+          "hashtagName": "romania🇷🇴",
+          "isCommerce": false,
+          "secUid": "",
+          "start": 109,
+          "subType": 0,
+          "type": 1,
+          "userId": "",
+          "userUniqueId": ""
+        },
+        {
+          "awemeId": "",
+          "end": 126,
+          "hashtagId": "10197105",
+          "hashtagName": "vir",
+          "isCommerce": false,
+          "secUid": "",
+          "start": 122,
+          "subType": 0,
+          "type": 1,
+          "userId": "",
+          "userUniqueId": ""
+        },
+        {
+          "awemeId": "",
+          "end": 144,
+          "hashtagId": "7013656821118271494",
+          "hashtagName": "georgesimion🇹🇩",
+          "isCommerce": false,
+          "secUid": "",
+          "start": 127,
+          "subType": 0,
+          "type": 1,
+          "userId": "",
+          "userUniqueId": ""
+        },
+        {
+          "awemeId": "",
+          "end": 157,
+          "hashtagId": "1678959580242946",
+          "hashtagName": "ziuavotului",
+          "isCommerce": false,
+          "secUid": "",
+          "start": 145,
+          "subType": 0,
+          "type": 1,
+          "userId": "",
+          "userUniqueId": ""
+        }
+      ]
+    }
+  ],
+  "createTime": 1732980268,
+  "desc": "Au confiscat BULETINELE pacienților pentru a le FURA votul! #vot #furt #georgescu #romaniatiktok #presedinte #romania🇷🇴 #vir #georgesimion🇹🇩 #ziuavotului ",
+  "digged": false,
+  "duetDisplay": 0,
+  "duetEnabled": true,
+  "duetInfo": {
+    "duetFromId": "0"
+  },
+  "forFriend": false,
+  "id": "7443093556060835094",
+  "isAd": false,
+  "itemCommentStatus": 0,
+  "itemMute": false,
+  "item_control": {
+    "can_repost": true
+  },
+  "music": {
+    "album": "",
+    "authorName": "Virgil Miclău",
+    "coverLarge": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/a38c2d84eaa8c8e30a0614db0ada059a~c5_1080x1080.jpeg?lk3s=a5d48078&nonce=34789&refresh_token=1e2de1bfdb59717b734d3e54a2c5709d&x-expires=1733180400&x-signature=9cT2xgYIKgboDlb%2F8NfuFIfKOQg%3D&shp=a5d48078&shcp=b59d6b55",
+    "coverMedium": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/a38c2d84eaa8c8e30a0614db0ada059a~c5_720x720.jpeg?lk3s=a5d48078&nonce=24791&refresh_token=4199eb79ff03756d8acf08cefc47bc6d&x-expires=1733180400&x-signature=MkLibg9NU76D9VA8LQfwaeABLQg%3D&shp=a5d48078&shcp=b59d6b55",
+    "coverThumb": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-giso/a38c2d84eaa8c8e30a0614db0ada059a~c5_100x100.jpeg?lk3s=a5d48078&nonce=4079&refresh_token=c2f56160429df5aaa77c11ac031d7980&x-expires=1733180400&x-signature=GH0PDRBFu2%2BN5wCu9hbEowOkKqk%3D&shp=a5d48078&shcp=b59d6b55",
+    "duration": 160,
+    "id": "7443093550532659991",
+    "original": true,
+    "playUrl": "https://v58.tiktokcdn-eu.com/video/tos/no1a/tos-no1a-v-2370-no/oYWUpFBJkDnCSJU4XgE4CDH6QfcxZfFEEXY5yg/?a=1233&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=0&dr=0&er=2&cd=0%7C0%7C0%7C0&br=250&bt=125&ft=.NpOcInz7ThnBMqOXq8Zmo&mime_type=audio_mpeg&qs=6&rc=NWU1ZWU4NDU6aDxlNTo0aEBpM2htaW45cmZsdzMzbzU8NUA2YDM2YGI2NjYxYmIzMDQtYSMybi1qMmRjcDJgLS1kMTFzcw%3D%3D&vvpl=1&l=202411302323248AA7866D2FE05BDE817C&VExpiration=1733012766&VSignature=NSHn4QTFI0rLgBmossMy-Q&btag=e00090000&download=true",
+    "title": "original sound"
+  },
+  "officalItem": false,
+  "originalItem": false,
+  "playlistId": "",
+  "privateItem": false,
+  "secret": false,
+  "shareEnabled": true,
+  "showNotPass": false,
+  "stats": {
+    "collectCount": 560,
+    "commentCount": 446,
+    "diggCount": 4997,
+    "playCount": 108800,
+    "shareCount": 1630
+  },
+  "statsV2": {
+    "collectCount": "560",
+    "commentCount": "446",
+    "diggCount": "4997",
+    "playCount": "108786",
+    "repostCount": "0",
+    "shareCount": "1630"
+  },
+  "stickersOnItem": [
+    {
+      "stickerText": [
+        "Au luat buletinele pacienților pentru a le fura VOTUL!"
+      ],
+      "stickerType": 4
+    }
+  ],
+  "stitchDisplay": 0,
+  "stitchEnabled": true,
+  "textExtra": [
+    {
+      "awemeId": "",
+      "end": 64,
+      "hashtagId": "21090",
+      "hashtagName": "vot",
+      "isCommerce": false,
+      "secUid": "",
+      "start": 60,
+      "subType": 0,
+      "type": 1,
+      "userId": "",
+      "userUniqueId": ""
+    },
+    {
+      "awemeId": "",
+      "end": 70,
+      "hashtagId": "191428",
+      "hashtagName": "furt",
+      "isCommerce": false,
+      "secUid": "",
+      "start": 65,
+      "subType": 0,
+      "type": 1,
+      "userId": "",
+      "userUniqueId": ""
+    },
+    {
+      "awemeId": "",
+      "end": 81,
+      "hashtagId": "1630792917310470",
+      "hashtagName": "georgescu",
+      "isCommerce": false,
+      "secUid": "",
+      "start": 71,
+      "subType": 0,
+      "type": 1,
+      "userId": "",
+      "userUniqueId": ""
+    },
+    {
+      "awemeId": "",
+      "end": 96,
+      "hashtagId": "1616475276143781",
+      "hashtagName": "romaniatiktok",
+      "isCommerce": false,
+      "secUid": "",
+      "start": 82,
+      "subType": 0,
+      "type": 1,
+      "userId": "",
+      "userUniqueId": ""
+    },
+    {
+      "awemeId": "",
+      "end": 108,
+      "hashtagId": "30148596",
+      "hashtagName": "presedinte",
+      "isCommerce": false,
+      "secUid": "",
+      "start": 97,
+      "subType": 0,
+      "type": 1,
+      "userId": "",
+      "userUniqueId": ""
+    },
+    {
+      "awemeId": "",
+      "end": 121,
+      "hashtagId": "1592199128507398",
+      "hashtagName": "romania🇷🇴",
+      "isCommerce": false,
+      "secUid": "",
+      "start": 109,
+      "subType": 0,
+      "type": 1,
+      "userId": "",
+      "userUniqueId": ""
+    },
+    {
+      "awemeId": "",
+      "end": 126,
+      "hashtagId": "10197105",
+      "hashtagName": "vir",
+      "isCommerce": false,
+      "secUid": "",
+      "start": 122,
+      "subType": 0,
+      "type": 1,
+      "userId": "",
+      "userUniqueId": ""
+    },
+    {
+      "awemeId": "",
+      "end": 144,
+      "hashtagId": "7013656821118271494",
+      "hashtagName": "georgesimion🇹🇩",
+      "isCommerce": false,
+      "secUid": "",
+      "start": 127,
+      "subType": 0,
+      "type": 1,
+      "userId": "",
+      "userUniqueId": ""
+    },
+    {
+      "awemeId": "",
+      "end": 157,
+      "hashtagId": "1678959580242946",
+      "hashtagName": "ziuavotului",
+      "isCommerce": false,
+      "secUid": "",
+      "start": 145,
+      "subType": 0,
+      "type": 1,
+      "userId": "",
+      "userUniqueId": ""
+    }
+  ],
+  "video": {
+    "VQScore": "68.11",
+    "bitrate": 619687,
+    "bitrateInfo": [
+      {
+        "Bitrate": 619687,
+        "CodecType": "h264",
+        "GearName": "normal_540_0",
+        "MVMAF": "\"\"",
+        "PlayAddr": {
+          "DataSize": 12416982,
+          "FileCs": "c:0-133273-442d",
+          "FileHash": "9d919b0001f83d45a022ed4ad97f7778",
+          "Height": 1024,
+          "Uri": "v24044gl0000ct5iolvog65rnvv08l00",
+          "UrlKey": "v24044gl0000ct5iolvog65rnvv08l00_h264_540p_619687",
+          "UrlList": [
+            "https://v16-webapp-prime.tiktok.com/video/tos/no1a/tos-no1a-ve-0068-no/okArLIIOIQvgXjhIiAW8DXXlqM60flQdqfIwfA/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1210&bt=605&cs=0&ds=6&ft=4fUEKMT88Zmo082Njb4jV3OcrpWrKsd.&mime_type=video_mp4&qs=0&rc=OTNlZDNmNGhmZmRmZjY8aEBpM28zeXU5cm9sdzMzbzczNUBfLzNhY2IwXjExMDBhMDZfYSMtNXNrMmRzbDJgLS1kMTFzcw%3D%3D&btag=e00090000&expire=1733181966&l=202411302323248AA7866D2FE05BDE817C&ply_type=2&policy=2&signature=4955e9449fe492f9987afd7d92ecc408&tk=tt_chain_token",
+            "https://v19-webapp-prime.tiktok.com/video/tos/no1a/tos-no1a-ve-0068-no/okArLIIOIQvgXjhIiAW8DXXlqM60flQdqfIwfA/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1210&bt=605&cs=0&ds=6&ft=4fUEKMT88Zmo082Njb4jV3OcrpWrKsd.&mime_type=video_mp4&qs=0&rc=OTNlZDNmNGhmZmRmZjY8aEBpM28zeXU5cm9sdzMzbzczNUBfLzNhY2IwXjExMDBhMDZfYSMtNXNrMmRzbDJgLS1kMTFzcw%3D%3D&btag=e00090000&expire=1733181966&l=202411302323248AA7866D2FE05BDE817C&ply_type=2&policy=2&signature=4955e9449fe492f9987afd7d92ecc408&tk=tt_chain_token",
+            "https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=be9933dc3c3a4c4cae31ecf0da6b20b6&is_play_url=1&item_id=7443093556060835094&line=0&ply_type=2&redirect=0&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLmFhMTc5YzIzOTQ0NWM5MDQzM2RlMWZhYjFmNDliZjNj&tk=tt_chain_token&vidc=no1a&video_id=v24044gl0000ct5iolvog65rnvv08l00"
+          ],
+          "Width": 576
+        },
+        "QualityType": 20
+      },
+      {
+        "Bitrate": 415755,
+        "CodecType": "h265_hvc1",
+        "GearName": "adapt_lowest_1080_1",
+        "MVMAF": "\"{\\\"v2.0\\\": {\\\"srv1\\\": {\\\"v1080\\\": -1, \\\"v960\\\": -1, \\\"v864\\\": -1, \\\"v720\\\": -1}, \\\"ori\\\": {\\\"v1080\\\": 93.677, \\\"v960\\\": 94.24, \\\"v864\\\": 94.797, \\\"v720\\\": 95.387}}}\"",
+        "PlayAddr": {
+          "DataSize": 8330698,
+          "FileCs": "c:0-133410-1a2c",
+          "FileHash": "95444e4379a99cf70995fddc52f0f335",
+          "Height": 1920,
+          "Uri": "v24044gl0000ct5iolvog65rnvv08l00",
+          "UrlKey": "v24044gl0000ct5iolvog65rnvv08l00_bytevc1_1080p_415755",
+          "UrlList": [
+            "https://v16-webapp-prime.tiktok.com/video/tos/no1a/tos-no1a-ve-0068-no/owIl4HjIILAezEdLQO8AfAfEIDLiVPlGlPNvuu/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=812&bt=406&cs=2&ds=4&ft=4fUEKMT88Zmo082Njb4jV3OcrpWrKsd.&mime_type=video_mp4&qs=15&rc=OWRoOjc2ZjxlZjU3ZDQ2PEBpM28zeXU5cm9sdzMzbzczNUAuXzEwMzQyNWExXzA2XzEyYSMtNXNrMmRzbDJgLS1kMTFzcw%3D%3D&btag=e00090000&expire=1733181966&l=202411302323248AA7866D2FE05BDE817C&ply_type=2&policy=2&signature=fad41938304914e8092e408ec9e153ba&tk=tt_chain_token",
+            "https://v19-webapp-prime.tiktok.com/video/tos/no1a/tos-no1a-ve-0068-no/owIl4HjIILAezEdLQO8AfAfEIDLiVPlGlPNvuu/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=812&bt=406&cs=2&ds=4&ft=4fUEKMT88Zmo082Njb4jV3OcrpWrKsd.&mime_type=video_mp4&qs=15&rc=OWRoOjc2ZjxlZjU3ZDQ2PEBpM28zeXU5cm9sdzMzbzczNUAuXzEwMzQyNWExXzA2XzEyYSMtNXNrMmRzbDJgLS1kMTFzcw%3D%3D&btag=e00090000&expire=1733181966&l=202411302323248AA7866D2FE05BDE817C&ply_type=2&policy=2&signature=fad41938304914e8092e408ec9e153ba&tk=tt_chain_token",
+            "https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=5943b19a34b24cdb895c7364374eba16&is_play_url=1&item_id=7443093556060835094&line=0&ply_type=2&redirect=0&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLmZmNTMzOTYwMTAzNDU1ZWE1MDliZTY4MjliMWMyMTJl&tk=tt_chain_token&vidc=no1a&video_id=v24044gl0000ct5iolvog65rnvv08l00"
+          ],
+          "Width": 1080
+        },
+        "QualityType": 2
+      },
+      {
+        "Bitrate": 289345,
+        "CodecType": "h265_hvc1",
+        "GearName": "adapt_lower_720_1",
+        "MVMAF": "\"{\\\"v2.0\\\": {\\\"srv1\\\": {\\\"v1080\\\": 98.663, \\\"v960\\\": 98.932, \\\"v864\\\": 99.353, \\\"v720\\\": 99.694}, \\\"ori\\\": {\\\"v1080\\\": 88.366, \\\"v960\\\": 90.884, \\\"v864\\\": 92.016, \\\"v720\\\": 94.79}}}\"",
+        "PlayAddr": {
+          "DataSize": 5797752,
+          "FileCs": "c:0-133425-63e0",
+          "FileHash": "feac779092fa6e15cb5fe9254f9ad075",
+          "Height": 1280,
+          "Uri": "v24044gl0000ct5iolvog65rnvv08l00",
+          "UrlKey": "v24044gl0000ct5iolvog65rnvv08l00_bytevc1_720p_289345",
+          "UrlList": [
+            "https://v16-webapp-prime.tiktok.com/video/tos/no1a/tos-no1a-ve-0068-no/o0fWfRA9ggHEfWf6AAAaRfgs4KiUKMsgUY7MWu/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=564&bt=282&cs=2&ds=3&ft=4fUEKMT88Zmo082Njb4jV3OcrpWrKsd.&mime_type=video_mp4&qs=14&rc=Njk6OWk0PDZpOTw8aWY1M0BpM28zeXU5cm9sdzMzbzczNUBiNS41LTM1X2MxMV4tXzA1YSMtNXNrMmRzbDJgLS1kMTFzcw%3D%3D&btag=e00090000&expire=1733181966&l=202411302323248AA7866D2FE05BDE817C&ply_type=2&policy=2&signature=c4e41f088757eaffb3f1cdcb89ac7a7e&tk=tt_chain_token",
+            "https://v19-webapp-prime.tiktok.com/video/tos/no1a/tos-no1a-ve-0068-no/o0fWfRA9ggHEfWf6AAAaRfgs4KiUKMsgUY7MWu/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=564&bt=282&cs=2&ds=3&ft=4fUEKMT88Zmo082Njb4jV3OcrpWrKsd.&mime_type=video_mp4&qs=14&rc=Njk6OWk0PDZpOTw8aWY1M0BpM28zeXU5cm9sdzMzbzczNUBiNS41LTM1X2MxMV4tXzA1YSMtNXNrMmRzbDJgLS1kMTFzcw%3D%3D&btag=e00090000&expire=1733181966&l=202411302323248AA7866D2FE05BDE817C&ply_type=2&policy=2&signature=c4e41f088757eaffb3f1cdcb89ac7a7e&tk=tt_chain_token",
+            "https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=8032bc0fa94946ffb389610f861786e3&is_play_url=1&item_id=7443093556060835094&line=0&ply_type=2&redirect=0&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjRiMWE3MWE2YTA0ZDYyYjFlYTdjZjA0ZjQzMzhiODgw&tk=tt_chain_token&vidc=no1a&video_id=v24044gl0000ct5iolvog65rnvv08l00"
+          ],
+          "Width": 720
+        },
+        "QualityType": 14
+      },
+      {
+        "Bitrate": 248549,
+        "CodecType": "h264",
+        "GearName": "lowest_540_0",
+        "MVMAF": "\"\"",
+        "PlayAddr": {
+          "DataSize": 4980302,
+          "FileCs": "c:0-133233-91fc",
+          "FileHash": "74e44ccb9eef7711129667256e7d8192",
+          "Height": 1024,
+          "Uri": "v24044gl0000ct5iolvog65rnvv08l00",
+          "UrlKey": "v24044gl0000ct5iolvog65rnvv08l00_h264_540p_248549",
+          "UrlList": [
+            "https://v16-webapp-prime.tiktok.com/video/tos/no1a/tos-no1a-ve-0068-no/owlfILGXjILThEvvaLIIfiDALQEAkuE4lOeAV9/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=484&bt=242&cs=0&ds=6&ft=4fUEKMT88Zmo082Njb4jV3OcrpWrKsd.&mime_type=video_mp4&qs=5&rc=ZTY6aWRmZTU7O2doNmkzN0BpM28zeXU5cm9sdzMzbzczNUA0LTI2Xl4wXzQxXzQxYS4vYSMtNXNrMmRzbDJgLS1kMTFzcw%3D%3D&btag=e00090000&expire=1733181966&l=202411302323248AA7866D2FE05BDE817C&ply_type=2&policy=2&signature=342df77a18dd39d12654db4cab4b0acf&tk=tt_chain_token",
+            "https://v19-webapp-prime.tiktok.com/video/tos/no1a/tos-no1a-ve-0068-no/owlfILGXjILThEvvaLIIfiDALQEAkuE4lOeAV9/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=484&bt=242&cs=0&ds=6&ft=4fUEKMT88Zmo082Njb4jV3OcrpWrKsd.&mime_type=video_mp4&qs=5&rc=ZTY6aWRmZTU7O2doNmkzN0BpM28zeXU5cm9sdzMzbzczNUA0LTI2Xl4wXzQxXzQxYS4vYSMtNXNrMmRzbDJgLS1kMTFzcw%3D%3D&btag=e00090000&expire=1733181966&l=202411302323248AA7866D2FE05BDE817C&ply_type=2&policy=2&signature=342df77a18dd39d12654db4cab4b0acf&tk=tt_chain_token",
+            "https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=2410df437ebd4878b23bacaa9f57037b&is_play_url=1&item_id=7443093556060835094&line=0&ply_type=2&redirect=0&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjEwMDYxMjMxYTFmYjUxZTBjMjUyZTE5YWFiMWMzYmM2&tk=tt_chain_token&vidc=no1a&video_id=v24044gl0000ct5iolvog65rnvv08l00"
+          ],
+          "Width": 576
+        },
+        "QualityType": 25
+      },
+      {
+        "Bitrate": 236340,
+        "CodecType": "h265_hvc1",
+        "GearName": "adapt_540_1",
+        "MVMAF": "\"{\\\"v2.0\\\": {\\\"srv1\\\": {\\\"v1080\\\": 96.734, \\\"v960\\\": 96.918, \\\"v864\\\": 97.611, \\\"v720\\\": 99.293}, \\\"ori\\\": {\\\"v1080\\\": 83.917, \\\"v960\\\": 87.401, \\\"v864\\\": 89.25, \\\"v720\\\": 92.167}}}\"",
+        "PlayAddr": {
+          "DataSize": 4735675,
+          "FileCs": "c:0-133425-eda6",
+          "FileHash": "c9d76a60ab37409d71ef79c2d6f45dfd",
+          "Height": 1024,
+          "Uri": "v24044gl0000ct5iolvog65rnvv08l00",
+          "UrlKey": "v24044gl0000ct5iolvog65rnvv08l00_bytevc1_540p_236340",
+          "UrlList": [
+            "https://v16-webapp-prime.tiktok.com/video/tos/no1a/tos-no1a-ve-0068c001-no/och4MlYfGEBLALuiAELQICjvVDeROELIIXAfIl/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=460&bt=230&cs=2&ds=6&ft=4fUEKMT88Zmo082Njb4jV3OcrpWrKsd.&mime_type=video_mp4&qs=11&rc=ZGk5ZTs5ZTQ1aDg0Zzs4OkBpM28zeXU5cm9sdzMzbzczNUBeLl81Xy1gX14xMmFjMWJhYSMtNXNrMmRzbDJgLS1kMTFzcw%3D%3D&btag=e00090000&expire=1733181966&l=202411302323248AA7866D2FE05BDE817C&ply_type=2&policy=2&signature=c0c5901e5c0208032303a25314501dbb&tk=tt_chain_token",
+            "https://v19-webapp-prime.tiktok.com/video/tos/no1a/tos-no1a-ve-0068c001-no/och4MlYfGEBLALuiAELQICjvVDeROELIIXAfIl/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=460&bt=230&cs=2&ds=6&ft=4fUEKMT88Zmo082Njb4jV3OcrpWrKsd.&mime_type=video_mp4&qs=11&rc=ZGk5ZTs5ZTQ1aDg0Zzs4OkBpM28zeXU5cm9sdzMzbzczNUBeLl81Xy1gX14xMmFjMWJhYSMtNXNrMmRzbDJgLS1kMTFzcw%3D%3D&btag=e00090000&expire=1733181966&l=202411302323248AA7866D2FE05BDE817C&ply_type=2&policy=2&signature=c0c5901e5c0208032303a25314501dbb&tk=tt_chain_token",
+            "https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=d7e548fdd1554ea2b1cb06b88bb61faa&is_play_url=1&item_id=7443093556060835094&line=0&ply_type=2&redirect=0&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjhmYTZjYzY1Yzg2YjUwYmUyYjYzZmI4NDBhNmZhNjdm&tk=tt_chain_token&vidc=no1a&video_id=v24044gl0000ct5iolvog65rnvv08l00"
+          ],
+          "Width": 576
+        },
+        "QualityType": 28
+      }
+    ],
+    "claInfo": {
+      "captionInfos": [
+        {
+          "captionFormat": "webvtt",
+          "claSubtitleID": "7443102577468574486",
+          "expire": "1733181966",
+          "isAutoGen": true,
+          "isOriginalCaption": true,
+          "language": "ron-RO",
+          "languageCode": "",
+          "languageID": "40",
+          "subID": "-293628503",
+          "subtitleType": "1",
+          "url": "https://v16-webapp.tiktok.com/e268809e0b9a0860653d7f25bf241f8b/674e420e/video/tos/no1a/tos-no1a-v-0037-no/14df1b158f164b07814277b92f311535/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=13526&bt=6763&ds=4&ft=4b~OyMT88Zmo082Njb4jV3OcrpWrKsd.&mime_type=video_mp4&qs=13&rc=M28zeXU5cm9sdzMzbzczNUBpM28zeXU5cm9sdzMzbzczNUAtNXNrMmRzbDJgLS1kMTFzYSMtNXNrMmRzbDJgLS1kMTFzcw%3D%3D&l=202411302323248AA7866D2FE05BDE817C&btag=e00050000",
+          "urlList": [
+            "https://v16-webapp.tiktok.com/e268809e0b9a0860653d7f25bf241f8b/674e420e/video/tos/no1a/tos-no1a-v-0037-no/14df1b158f164b07814277b92f311535/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=13526&bt=6763&ds=4&ft=4b~OyMT88Zmo082Njb4jV3OcrpWrKsd.&mime_type=video_mp4&qs=13&rc=M28zeXU5cm9sdzMzbzczNUBpM28zeXU5cm9sdzMzbzczNUAtNXNrMmRzbDJgLS1kMTFzYSMtNXNrMmRzbDJgLS1kMTFzcw%3D%3D&l=202411302323248AA7866D2FE05BDE817C&btag=e00050000",
+            "https://v16-webapp.tiktok.com/e268809e0b9a0860653d7f25bf241f8b/674e420e/video/tos/no1a/tos-no1a-v-0037-no/14df1b158f164b07814277b92f311535/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=13526&bt=6763&ds=4&ft=4b~OyMT88Zmo082Njb4jV3OcrpWrKsd.&mime_type=video_mp4&qs=13&rc=M28zeXU5cm9sdzMzbzczNUBpM28zeXU5cm9sdzMzbzczNUAtNXNrMmRzbDJgLS1kMTFzYSMtNXNrMmRzbDJgLS1kMTFzcw%3D%3D&l=202411302323248AA7866D2FE05BDE817C&btag=e00050000",
+            "https://vas-useast2a.tiktokv.com/tiktok/v1/subtitle/url?aid=1988&format=webvtt&language=ron-RO&sign=a9e1ab560bcca6e42bdf8d4a6dd6764c&version=1%3Awhisper_lid&vid=v24044gl0000ct5iolvog65rnvv08l00"
+          ],
+          "variant": "whisper_lid"
+        }
+      ],
+      "captionsType": 1,
+      "enableAutoCaption": true,
+      "hasOriginalAudio": true,
+      "originalLanguageInfo": {
+        "language": "ron-RO",
+        "languageCode": "",
+        "languageID": "40"
+      }
+    },
+    "codecType": "h264",
+    "cover": "https://p16-pu-sign-no.tiktokcdn-eu.com/obj/tos-no1a-p-0037-no/oUGfLieiC4VlOLYIq0uDAvIAIlILLIfAjEB99u?lk3s=b59d6b55&x-expires=1733180400&x-signature=gzRghgjP4kLdzk42awNKSoHXhHI%3D&shp=b59d6b55&shcp=-",
+    "definition": "540p",
+    "downloadAddr": "https://v16-webapp-prime.tiktok.com/video/tos/no1a/tos-no1a-ve-0068-no/ogAhLIkOIIvQMjQEiALeDLLllGJkflIuVKE4fA/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1280&bt=640&cs=0&ds=3&ft=4fUEKMT88Zmo082Njb4jV3OcrpWrKsd.&mime_type=video_mp4&qs=0&rc=NzlkOjRoNDVoZ2lmZGU5NEBpM28zeXU5cm9sdzMzbzczNUBhYjEyMTBfNTAxLmMvNTM1YSMtNXNrMmRzbDJgLS1kMTFzcw%3D%3D&btag=e00090000&expire=1733181966&l=202411302323248AA7866D2FE05BDE817C&ply_type=2&policy=2&signature=f321d25cf04b62e5bfa28bff0d3ac523&tk=tt_chain_token",
+    "duration": 160,
+    "dynamicCover": "https://p16-pu-sign-no.tiktokcdn-eu.com/obj/tos-no1a-p-0037-no/oQfXFC7AOCLaiqwWDdXQAiMvIlAj8eDQQf8IIl?lk3s=b59d6b55&x-expires=1733180400&x-signature=fgvtcaMljQcLEjuNb5el%2FM49m40%3D&shp=b59d6b55&shcp=-",
+    "encodeUserTag": "",
+    "encodedType": "normal",
+    "format": "mp4",
+    "height": 1024,
+    "id": "7443093556060835094",
+    "originCover": "https://p16-pu-sign-no.tiktokcdn-eu.com/obj/tos-no1a-p-0037-no/oYrBeAGlALVLiLj4OfVviAIIAIpLDf9IrKulIE?lk3s=b59d6b55&x-expires=1733180400&x-signature=P97YyRtR5HfO%2FsUBxjkMFRg2Uac%3D&shp=b59d6b55&shcp=-",
+    "playAddr": "https://v16-webapp-prime.tiktok.com/video/tos/no1a/tos-no1a-ve-0068-no/okArLIIOIQvgXjhIiAW8DXXlqM60flQdqfIwfA/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1210&bt=605&cs=0&ds=6&ft=4fUEKMT88Zmo082Njb4jV3OcrpWrKsd.&mime_type=video_mp4&qs=0&rc=OTNlZDNmNGhmZmRmZjY8aEBpM28zeXU5cm9sdzMzbzczNUBfLzNhY2IwXjExMDBhMDZfYSMtNXNrMmRzbDJgLS1kMTFzcw%3D%3D&btag=e00090000&expire=1733181966&l=202411302323248AA7866D2FE05BDE817C&ply_type=2&policy=2&signature=4955e9449fe492f9987afd7d92ecc408&tk=tt_chain_token",
+    "ratio": "540p",
+    "reflowCover": "https://p16-pu-sign-no.tiktokcdn-eu.com/tos-no1a-p-0037-no/oUGfLieiC4VlOLYIq0uDAvIAIlILLIfAjEB99u~tplv-photomode-video-cover:480:480.jpeg?lk3s=b59d6b55&x-expires=1733180400&x-signature=823oCJTYn4lq0Tc2TS9%2FtNKrg%2F8%3D&shp=b59d6b55&shcp=-",
+    "shareCover": [
+      "",
+      "https://p16-pu-sign-no.tiktokcdn-eu.com/tos-no1a-p-0037-no/oYrBeAGlALVLiLj4OfVviAIIAIpLDf9IrKulIE~tplv-photomode-tiktok-play.jpeg?lk3s=b59d6b55&x-expires=1733612400&x-signature=JBnE01oVuLyROYyFMlNTVnNYgeA%3D&shp=b59d6b55&shcp=-",
+      "https://p16-pu-sign-no.tiktokcdn-eu.com/tos-no1a-p-0037-no/oYrBeAGlALVLiLj4OfVviAIIAIpLDf9IrKulIE~tplv-photomode-share-play.jpeg?lk3s=b59d6b55&x-expires=1733612400&x-signature=SsogxBfZCn7%2BBhopgUDi4XBs2YU%3D&shp=b59d6b55&shcp=-"
+    ],
+    "size": 12416982,
+    "subtitleInfos": [
+      {
+        "Format": "webvtt",
+        "LanguageCodeName": "ron-RO",
+        "LanguageID": "40",
+        "Size": 4422,
+        "Source": "ASR",
+        "Url": "https://v16-webapp.tiktok.com/e268809e0b9a0860653d7f25bf241f8b/674e420e/video/tos/no1a/tos-no1a-v-0037-no/14df1b158f164b07814277b92f311535/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=13526&bt=6763&ds=4&ft=4b~OyMT88Zmo082Njb4jV3OcrpWrKsd.&mime_type=video_mp4&qs=13&rc=M28zeXU5cm9sdzMzbzczNUBpM28zeXU5cm9sdzMzbzczNUAtNXNrMmRzbDJgLS1kMTFzYSMtNXNrMmRzbDJgLS1kMTFzcw%3D%3D&l=202411302323248AA7866D2FE05BDE817C&btag=e00050000",
+        "UrlExpire": 1733181966,
+        "Version": "1:whisper_lid",
+        "VideoSubtitleID": -293628503
+      }
+    ],
+    "videoQuality": "normal",
+    "volumeInfo": {
+      "Loudness": -29.1,
+      "Peak": 0.33497
+    },
+    "width": 576,
+    "zoomCover": {
+      "240": "https://p16-pu-sign-no.tiktokcdn-eu.com/tos-no1a-p-0037-no/oUGfLieiC4VlOLYIq0uDAvIAIlILLIfAjEB99u~tplv-photomode-zoomcover:240:240.jpeg?lk3s=b59d6b55&x-expires=1733180400&x-signature=m%2Bo0du26g20byo6zeo7AxyfsfzA%3D&shp=b59d6b55&shcp=-",
+      "480": "https://p16-pu-sign-no.tiktokcdn-eu.com/tos-no1a-p-0037-no/oUGfLieiC4VlOLYIq0uDAvIAIlILLIfAjEB99u~tplv-photomode-zoomcover:480:480.jpeg?lk3s=b59d6b55&x-expires=1733180400&x-signature=lDMucQoSjnzx1TNl4ZRg2ys0dcM%3D&shp=b59d6b55&shcp=-",
+      "720": "https://p16-pu-sign-no.tiktokcdn-eu.com/tos-no1a-p-0037-no/oUGfLieiC4VlOLYIq0uDAvIAIlILLIfAjEB99u~tplv-photomode-zoomcover:720:720.jpeg?lk3s=b59d6b55&x-expires=1733180400&x-signature=lNiTVz7LDBR1fGAX0cIAo%2FSqxlY%3D&shp=b59d6b55&shcp=-",
+      "960": "https://p16-pu-sign-no.tiktokcdn-eu.com/tos-no1a-p-0037-no/oUGfLieiC4VlOLYIq0uDAvIAIlILLIfAjEB99u~tplv-photomode-zoomcover:960:960.jpeg?lk3s=b59d6b55&x-expires=1733180400&x-signature=%2F2nCd38UbTsYUCtFXoaT462lMrk%3D&shp=b59d6b55&shcp=-"
+    }
+  },
+  "vl1": false,
+  "warnInfo": [
+    {
+      "key": "searchReminder_search_romanianElections2024_banner",
+      "lang": "en-US",
+      "text": "Get info on the Romanian elections",
+      "type": 2,
+      "url": "https://activity-i18n.tiktok.com/magic/eco/runtime/release/66d850aca1e3b702f99d2dbd?isFromGCP=1&appType=muse&magic_page_no=1&magic_source=search_hub&lang=ro-RO&region=RO"
+    }
+  ],
+  "comments": [
+    {
+      "author_pin": false,
+      "aweme_id": "7443093556060835094",
+      "cid": "7443141178506085143",
+      "collect_stat": 0,
+      "comment_language": "ro",
+      "comment_post_item_ids": null,
+      "create_time": 1732991388,
+      "digg_count": 389,
+      "forbid_reply_with_video": true,
+      "image_list": null,
+      "is_author_digged": false,
+      "is_comment_translatable": true,
+      "label_list": null,
+      "no_show": false,
+      "reply_comment": null,
+      "reply_comment_total": 9,
+      "reply_id": "0",
+      "reply_to_reply_id": "0",
+      "share_info": {
+        "acl": {
+          "code": 0,
+          "extra": "{}"
+        },
+        "desc": "usero6mlky26p5’s comment: Trimiteți le la Realitatea plus la D -na Anca Alexandrescu",
+        "title": "Au confiscat BULETINELE pacienților pentru a le FURA votul! #vot #furt #georgescu #romaniatiktok #presedinte #romania🇷🇴 #vir #georgesimion🇹🇩 #ziuavotului ",
+        "url": "https://m.tiktok.com/v/7443093556060835094.html?_d=d28l8j2m71ia6h&comment_author_id=7134428174394770438&preview_pb=0&share_comment_id=7443141178506085143&share_item_id=7443093556060835094&sharer_language=en-US&source=h5_m&u_code=e8hegggb201lba"
+      },
+      "sort_extra_score": {
+        "reply_score": 0.000539,
+        "show_more_score": 0.137751
+      },
+      "sort_tags": "{\"top_list\":1}",
+      "status": 1,
+      "stick_position": 0,
+      "text": "Trimiteți le la Realitatea plus la D -na Anca Alexandrescu",
+      "text_extra": [],
+      "trans_btn_style": 1,
+      "user": {
+        "account_labels": null,
+        "ad_cover_url": null,
+        "advance_feature_item_order": null,
+        "advanced_feature_info": null,
+        "avatar_thumb": {
+          "uri": "tos-maliva-avt-0068/7134428765245374469",
+          "url_list": [
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7134428765245374469~c5_100x100.jpg?lk3s=30310797&nonce=79904&refresh_token=745a1c5915343bc91d1dcb15d4f6f5d1&x-expires=1733094000&x-signature=fmbgwCiKncF1uPoQezisMQzanyU%3D&shp=30310797&shcp=-",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7134428765245374469~c5_100x100.jpeg?lk3s=30310797&nonce=85432&refresh_token=4b23c8fc34bcdade77cdb8072c527cce&x-expires=1733094000&x-signature=yC1Y09TVq6V7ZxMAGj9bB44gFfE%3D&shp=30310797&shcp=-"
+          ],
+          "url_prefix": null
+        },
+        "bold_fields": null,
+        "can_message_follow_status_list": null,
+        "can_set_geofencing": null,
+        "cha_list": null,
+        "cover_url": null,
+        "custom_verify": "",
+        "enterprise_verify_reason": "",
+        "events": null,
+        "followers_detail": null,
+        "geofencing": null,
+        "homepage_bottom_toast": null,
+        "item_list": null,
+        "mutual_relation_avatars": null,
+        "need_points": null,
+        "nickname": "usero6mlky26p5",
+        "platform_sync_info": null,
+        "relative_users": null,
+        "search_highlight": null,
+        "sec_uid": "MS4wLjABAAAAl4kzgQ_t4-4GaH4e2bieTrtMibPvs2gm1YDUy_IzGanfj5q8LER2lJ6bBEZzRecZ",
+        "shield_edit_field_info": null,
+        "type_label": null,
+        "uid": "7134428174394770438",
+        "unique_id": "usero6mlky26p5",
+        "user_profile_guide": null,
+        "user_tags": null,
+        "white_cover_url": null
+      },
+      "user_buried": false,
+      "user_digged": 0
+    },
+    {
+      "author_pin": false,
+      "aweme_id": "7443093556060835094",
+      "cid": "7443133766917145366",
+      "collect_stat": 0,
+      "comment_language": "ro",
+      "comment_post_item_ids": null,
+      "create_time": 1732989657,
+      "digg_count": 354,
+      "forbid_reply_with_video": true,
+      "image_list": null,
+      "is_author_digged": true,
+      "is_comment_translatable": true,
+      "label_list": [
+        {
+          "text": "Liked by creator",
+          "type": 20
+        }
+      ],
+      "no_show": false,
+      "reply_comment": null,
+      "reply_comment_total": 8,
+      "reply_id": "0",
+      "reply_to_reply_id": "0",
+      "share_info": {
+        "acl": {
+          "code": 0,
+          "extra": "{}"
+        },
+        "desc": "zolly86’s comment: sa trimite-ti toate informațiile la Realitatea Plus",
+        "title": "Au confiscat BULETINELE pacienților pentru a le FURA votul! #vot #furt #georgescu #romaniatiktok #presedinte #romania🇷🇴 #vir #georgesimion🇹🇩 #ziuavotului ",
+        "url": "https://m.tiktok.com/v/7443093556060835094.html?_d=d28l8j2m71ia6h&comment_author_id=6917621467266450437&preview_pb=0&share_comment_id=7443133766917145366&share_item_id=7443093556060835094&sharer_language=en-US&source=h5_m&u_code=e8hegggb201lba"
+      },
+      "sort_extra_score": {
+        "reply_score": 0.000569,
+        "show_more_score": 0.102962
+      },
+      "sort_tags": "{\"author_digg\":1,\"top_list\":1}",
+      "status": 1,
+      "stick_position": 0,
+      "text": "sa trimite-ti toate informațiile la Realitatea Plus",
+      "text_extra": [],
+      "trans_btn_style": 1,
+      "user": {
+        "account_labels": null,
+        "ad_cover_url": null,
+        "advance_feature_item_order": null,
+        "advanced_feature_info": null,
+        "avatar_thumb": {
+          "uri": "tos-no1a-avt-0068c001-no/b8e6ee0a643a5dd7d7d89e1d8279b7a3",
+          "url_list": [
+            "https://p16-pu-sign-no.tiktokcdn-eu.com/obj/tos-no1a-avt-0068c001-no/b8e6ee0a643a5dd7d7d89e1d8279b7a3?lk3s=30310797&nonce=69682&refresh_token=9f454b83a41215a2fb78f15bab6e7f94&x-expires=1733094000&x-signature=7MCY0R67%2BT3%2Bm2an%2FPzdemoc5wA%3D&shp=30310797&shcp=-",
+            "https://p19-pu-sign-no.tiktokcdn-eu.com/obj/tos-no1a-avt-0068c001-no/b8e6ee0a643a5dd7d7d89e1d8279b7a3?lk3s=30310797&nonce=13602&refresh_token=61580d96fb1b5dd30722adb43df79d9f&x-expires=1733094000&x-signature=eM5jwua6QDFcKay7F0PXV%2BZhUiM%3D&shp=30310797&shcp=-"
+          ],
+          "url_prefix": null
+        },
+        "bold_fields": null,
+        "can_message_follow_status_list": null,
+        "can_set_geofencing": null,
+        "cha_list": null,
+        "cover_url": null,
+        "custom_verify": "",
+        "enterprise_verify_reason": "",
+        "events": null,
+        "followers_detail": null,
+        "geofencing": null,
+        "homepage_bottom_toast": null,
+        "item_list": null,
+        "mutual_relation_avatars": null,
+        "need_points": null,
+        "nickname": "zolly86",
+        "platform_sync_info": null,
+        "relative_users": null,
+        "search_highlight": null,
+        "sec_uid": "MS4wLjABAAAAzDe3irVIcfHolHSg-3EzNOIgPy-OTsukSidG616VqtkJpfQuu6CwzcPlY2YEP8Bm",
+        "shield_edit_field_info": null,
+        "type_label": null,
+        "uid": "6917621467266450437",
+        "unique_id": "zollypopa",
+        "user_profile_guide": null,
+        "user_tags": null,
+        "white_cover_url": null
+      },
+      "user_buried": false,
+      "user_digged": 0
+    },
+    {
+      "author_pin": false,
+      "aweme_id": "7443093556060835094",
+      "cid": "7443193808882336534",
+      "collect_stat": 0,
+      "comment_language": "ro",
+      "comment_post_item_ids": null,
+      "create_time": 1733003644,
+      "digg_count": 30,
+      "forbid_reply_with_video": true,
+      "image_list": null,
+      "is_author_digged": true,
+      "is_comment_translatable": true,
+      "label_list": [
+        {
+          "text": "Liked by creator",
+          "type": 20
+        }
+      ],
+      "no_show": false,
+      "reply_comment": null,
+      "reply_comment_total": 4,
+      "reply_id": "0",
+      "reply_to_reply_id": "0",
+      "share_info": {
+        "acl": {
+          "code": 0,
+          "extra": "{}"
+        },
+        "desc": "Marci’s comment: Am trăit s-o aud și pe asta până aici s-a ajuns.🥺",
+        "title": "Au confiscat BULETINELE pacienților pentru a le FURA votul! #vot #furt #georgescu #romaniatiktok #presedinte #romania🇷🇴 #vir #georgesimion🇹🇩 #ziuavotului ",
+        "url": "https://m.tiktok.com/v/7443093556060835094.html?_d=d28l8j2m71ia6h&comment_author_id=6840521770325705734&preview_pb=0&share_comment_id=7443193808882336534&share_item_id=7443093556060835094&sharer_language=en-US&source=h5_m&u_code=e8hegggb201lba"
+      },
+      "sort_extra_score": {
+        "reply_score": 0.001862,
+        "show_more_score": 0.096011
+      },
+      "sort_tags": "{\"author_digg\":1,\"top_list\":1}",
+      "status": 1,
+      "stick_position": 0,
+      "text": "Am trăit s-o aud și pe asta până aici s-a ajuns.🥺",
+      "text_extra": [],
+      "trans_btn_style": 1,
+      "user": {
+        "account_labels": null,
+        "ad_cover_url": null,
+        "advance_feature_item_order": null,
+        "advanced_feature_info": null,
+        "avatar_thumb": {
+          "uri": "tos-maliva-avt-0068/7bed4afdab3b3792548bcc44a59cee1e",
+          "url_list": [
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7bed4afdab3b3792548bcc44a59cee1e~c5_100x100.jpg?lk3s=30310797&nonce=42224&refresh_token=944b44eb0084f3e7cbd63d00a1681e39&x-expires=1733094000&x-signature=BC3eqVv1q3LqdEmCfeEH620peyk%3D&shp=30310797&shcp=-",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7bed4afdab3b3792548bcc44a59cee1e~c5_100x100.jpeg?lk3s=30310797&nonce=60535&refresh_token=93984efa2b6300aff17027d5242f08ae&x-expires=1733094000&x-signature=rLoJBoOeBORWfLYEpJL8H45xoFE%3D&shp=30310797&shcp=-"
+          ],
+          "url_prefix": null
+        },
+        "bold_fields": null,
+        "can_message_follow_status_list": null,
+        "can_set_geofencing": null,
+        "cha_list": null,
+        "cover_url": null,
+        "custom_verify": "",
+        "enterprise_verify_reason": "",
+        "events": null,
+        "followers_detail": null,
+        "geofencing": null,
+        "homepage_bottom_toast": null,
+        "item_list": null,
+        "mutual_relation_avatars": null,
+        "need_points": null,
+        "nickname": "Marci",
+        "platform_sync_info": null,
+        "relative_users": null,
+        "search_highlight": null,
+        "sec_uid": "MS4wLjABAAAAcWl-Kdj2khhbZ0IXb0MwvHV3DVYAmAB0i6nfb0dMaKBg0ghe8dIGW07EVX2nFb8w",
+        "shield_edit_field_info": null,
+        "type_label": null,
+        "uid": "6840521770325705734",
+        "unique_id": "marciradu.37",
+        "user_profile_guide": null,
+        "user_tags": null,
+        "white_cover_url": null
+      },
+      "user_buried": false,
+      "user_digged": 0
+    },
+    {
+      "author_pin": false,
+      "aweme_id": "7443093556060835094",
+      "cid": "7443152247472997142",
+      "collect_stat": 0,
+      "comment_language": "ro",
+      "comment_post_item_ids": null,
+      "create_time": 1732993955,
+      "digg_count": 171,
+      "forbid_reply_with_video": true,
+      "image_list": null,
+      "is_author_digged": false,
+      "is_comment_translatable": true,
+      "label_list": null,
+      "no_show": false,
+      "reply_comment": null,
+      "reply_comment_total": 17,
+      "reply_id": "0",
+      "reply_to_reply_id": "0",
+      "share_info": {
+        "acl": {
+          "code": 0,
+          "extra": "{}"
+        },
+        "desc": "Kukool’s comment: Și la spitalul Oltenița personalul a luat buletinele pacienților...Este și mama mea printre ei.",
+        "title": "Au confiscat BULETINELE pacienților pentru a le FURA votul! #vot #furt #georgescu #romaniatiktok #presedinte #romania🇷🇴 #vir #georgesimion🇹🇩 #ziuavotului ",
+        "url": "https://m.tiktok.com/v/7443093556060835094.html?_d=d28l8j2m71ia6h&comment_author_id=6892829214820140033&preview_pb=0&share_comment_id=7443152247472997142&share_item_id=7443093556060835094&sharer_language=en-US&source=h5_m&u_code=e8hegggb201lba"
+      },
+      "sort_extra_score": {
+        "reply_score": 0.001011,
+        "show_more_score": 0.130628
+      },
+      "sort_tags": "{\"top_list\":1}",
+      "status": 1,
+      "stick_position": 0,
+      "text": "Și la spitalul Oltenița personalul a luat buletinele pacienților...Este și mama mea printre ei.",
+      "text_extra": [],
+      "trans_btn_style": 1,
+      "user": {
+        "account_labels": null,
+        "ad_cover_url": null,
+        "advance_feature_item_order": null,
+        "advanced_feature_info": null,
+        "avatar_thumb": {
+          "uri": "tos-maliva-avt-0068/7324374756983635973",
+          "url_list": [
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7324374756983635973~c5_100x100.jpg?lk3s=30310797&nonce=17539&refresh_token=1613986a98e20c29680af3771eb214f9&x-expires=1733094000&x-signature=1CfmTFFBQas6fIsEQlJZnk7V0VU%3D&shp=30310797&shcp=-",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7324374756983635973~c5_100x100.jpeg?lk3s=30310797&nonce=51207&refresh_token=7cd5e6675ed4391656903a2cf929cb7e&x-expires=1733094000&x-signature=la%2F0W7I1wF%2FUjIjaMiFVK7nwz7I%3D&shp=30310797&shcp=-"
+          ],
+          "url_prefix": null
+        },
+        "bold_fields": null,
+        "can_message_follow_status_list": null,
+        "can_set_geofencing": null,
+        "cha_list": null,
+        "cover_url": null,
+        "custom_verify": "",
+        "enterprise_verify_reason": "",
+        "events": null,
+        "followers_detail": null,
+        "geofencing": null,
+        "homepage_bottom_toast": null,
+        "item_list": null,
+        "mutual_relation_avatars": null,
+        "need_points": null,
+        "nickname": "Kukool",
+        "platform_sync_info": null,
+        "relative_users": null,
+        "search_highlight": null,
+        "sec_uid": "MS4wLjABAAAArJrxGzGbEft7tUyMWWKv8Q0081C96W3d_jMhbGCfrJcbrDY-w_ffXXiCHBnCOYe-",
+        "shield_edit_field_info": null,
+        "type_label": null,
+        "uid": "6892829214820140033",
+        "unique_id": "kukoolcrivat",
+        "user_profile_guide": null,
+        "user_tags": null,
+        "white_cover_url": null
+      },
+      "user_buried": false,
+      "user_digged": 0
+    },
+    {
+      "author_pin": false,
+      "aweme_id": "7443093556060835094",
+      "cid": "7443142801581261590",
+      "collect_stat": 0,
+      "comment_language": "ro",
+      "comment_post_item_ids": null,
+      "create_time": 1732991750,
+      "digg_count": 132,
+      "forbid_reply_with_video": true,
+      "image_list": null,
+      "is_author_digged": false,
+      "is_comment_translatable": true,
+      "label_list": null,
+      "no_show": false,
+      "reply_comment": null,
+      "reply_comment_total": 0,
+      "reply_id": "0",
+      "reply_to_reply_id": "0",
+      "share_info": {
+        "acl": {
+          "code": 0,
+          "extra": "{}"
+        },
+        "desc": "Eu’s comment: intră la Realitatea la 21 cu Anca Alexandrescu și spune în direct la tv",
+        "title": "Au confiscat BULETINELE pacienților pentru a le FURA votul! #vot #furt #georgescu #romaniatiktok #presedinte #romania🇷🇴 #vir #georgesimion🇹🇩 #ziuavotului ",
+        "url": "https://m.tiktok.com/v/7443093556060835094.html?_d=d28l8j2m71ia6h&comment_author_id=7066720273080534021&preview_pb=0&share_comment_id=7443142801581261590&share_item_id=7443093556060835094&sharer_language=en-US&source=h5_m&u_code=e8hegggb201lba"
+      },
+      "sort_extra_score": {
+        "reply_score": 9.4e-05,
+        "show_more_score": 8e-05
+      },
+      "sort_tags": "{\"top_list\":1}",
+      "status": 1,
+      "stick_position": 0,
+      "text": "intră la Realitatea la 21 cu Anca Alexandrescu și spune în direct la tv",
+      "text_extra": [],
+      "trans_btn_style": 1,
+      "user": {
+        "account_labels": null,
+        "ad_cover_url": null,
+        "advance_feature_item_order": null,
+        "advanced_feature_info": null,
+        "avatar_thumb": {
+          "uri": "tos-no1a-avt-0068c001-no/b187311e85ac888ed127884aff939e07",
+          "url_list": [
+            "https://p16-pu-sign-no.tiktokcdn-eu.com/obj/tos-no1a-avt-0068c001-no/b187311e85ac888ed127884aff939e07?lk3s=30310797&nonce=70762&refresh_token=1a55261f5c9209142a8bb4eb9eb8a8a6&x-expires=1733094000&x-signature=Epu4cOhFZl9gEQC7AiGYtoWBAVA%3D&shp=30310797&shcp=-",
+            "https://p19-pu-sign-no.tiktokcdn-eu.com/obj/tos-no1a-avt-0068c001-no/b187311e85ac888ed127884aff939e07?lk3s=30310797&nonce=34497&refresh_token=291382e2f10d6c40e94e7d14af02a90d&x-expires=1733094000&x-signature=LfO7Ga7bSjjgGJ2z0p08b3V0qP4%3D&shp=30310797&shcp=-"
+          ],
+          "url_prefix": null
+        },
+        "bold_fields": null,
+        "can_message_follow_status_list": null,
+        "can_set_geofencing": null,
+        "cha_list": null,
+        "cover_url": null,
+        "custom_verify": "",
+        "enterprise_verify_reason": "",
+        "events": null,
+        "followers_detail": null,
+        "geofencing": null,
+        "homepage_bottom_toast": null,
+        "item_list": null,
+        "mutual_relation_avatars": null,
+        "need_points": null,
+        "nickname": "Eu",
+        "platform_sync_info": null,
+        "relative_users": null,
+        "search_highlight": null,
+        "sec_uid": "MS4wLjABAAAAJnY8sdbmyQ02cLwIVJ7md8tPWn4NvM0pnfOATyjdwGM7otBpxhhvbf73rb4Gliux",
+        "shield_edit_field_info": null,
+        "type_label": null,
+        "uid": "7066720273080534021",
+        "unique_id": "omsimplu.i",
+        "user_profile_guide": null,
+        "user_tags": null,
+        "white_cover_url": null
+      },
+      "user_buried": false,
+      "user_digged": 0
+    },
+    {
+      "author_pin": false,
+      "aweme_id": "7443093556060835094",
+      "cid": "7443145882466124566",
+      "collect_stat": 0,
+      "comment_language": "ro",
+      "comment_post_item_ids": null,
+      "create_time": 1732992477,
+      "digg_count": 51,
+      "forbid_reply_with_video": true,
+      "image_list": null,
+      "is_author_digged": false,
+      "is_comment_translatable": true,
+      "label_list": null,
+      "no_show": false,
+      "reply_comment": null,
+      "reply_comment_total": 0,
+      "reply_id": "0",
+      "reply_to_reply_id": "0",
+      "share_info": {
+        "acl": {
+          "code": 0,
+          "extra": "{}"
+        },
+        "desc": "Claudia’s comment: Sa trimită la Anca Alexandrescu",
+        "title": "Au confiscat BULETINELE pacienților pentru a le FURA votul! #vot #furt #georgescu #romaniatiktok #presedinte #romania🇷🇴 #vir #georgesimion🇹🇩 #ziuavotului ",
+        "url": "https://m.tiktok.com/v/7443093556060835094.html?_d=d28l8j2m71ia6h&comment_author_id=7395244071607993377&preview_pb=0&share_comment_id=7443145882466124566&share_item_id=7443093556060835094&sharer_language=en-US&source=h5_m&u_code=e8hegggb201lba"
+      },
+      "sort_extra_score": {
+        "reply_score": 0.000109,
+        "show_more_score": 9.2e-05
+      },
+      "sort_tags": "{\"top_list\":1}",
+      "status": 1,
+      "stick_position": 0,
+      "text": "Sa trimită la Anca Alexandrescu",
+      "text_extra": [],
+      "trans_btn_style": 1,
+      "user": {
+        "account_labels": null,
+        "ad_cover_url": null,
+        "advance_feature_item_order": null,
+        "advanced_feature_info": null,
+        "avatar_thumb": {
+          "uri": "tos-no1a-avt-0068c001-no/dd73f6b8e2be6dab760c051f5ada1e8f",
+          "url_list": [
+            "https://p16-pu-sign-no.tiktokcdn-eu.com/obj/tos-no1a-avt-0068c001-no/dd73f6b8e2be6dab760c051f5ada1e8f?lk3s=30310797&nonce=56570&refresh_token=9c3d5a7561d2ddc41f16e289647198e4&x-expires=1733094000&x-signature=BeWInndMoziMmU4LXMeNj%2BkHSqM%3D&shp=30310797&shcp=-",
+            "https://p19-pu-sign-no.tiktokcdn-eu.com/obj/tos-no1a-avt-0068c001-no/dd73f6b8e2be6dab760c051f5ada1e8f?lk3s=30310797&nonce=15714&refresh_token=d443a3f158fdd646f9f7dce5bbd2bd62&x-expires=1733094000&x-signature=UXB8TwWPQe6%2F536ZESxDlOqYrYM%3D&shp=30310797&shcp=-"
+          ],
+          "url_prefix": null
+        },
+        "bold_fields": null,
+        "can_message_follow_status_list": null,
+        "can_set_geofencing": null,
+        "cha_list": null,
+        "cover_url": null,
+        "custom_verify": "",
+        "enterprise_verify_reason": "",
+        "events": null,
+        "followers_detail": null,
+        "geofencing": null,
+        "homepage_bottom_toast": null,
+        "item_list": null,
+        "mutual_relation_avatars": null,
+        "need_points": null,
+        "nickname": "Claudia",
+        "platform_sync_info": null,
+        "relative_users": null,
+        "search_highlight": null,
+        "sec_uid": "MS4wLjABAAAA2MJV4s8CvmTiFdvZz_EgfO85vT6fArxW_C0LNdPMNKIuQRe6Z94Ip_WufTEhya9I",
+        "shield_edit_field_info": null,
+        "type_label": null,
+        "uid": "7395244071607993377",
+        "unique_id": "user974226295",
+        "user_profile_guide": null,
+        "user_tags": null,
+        "white_cover_url": null
+      },
+      "user_buried": false,
+      "user_digged": 0
+    },
+    {
+      "author_pin": false,
+      "aweme_id": "7443093556060835094",
+      "cid": "7443145764291166998",
+      "collect_stat": 0,
+      "comment_language": "ro",
+      "comment_post_item_ids": null,
+      "create_time": 1732992444,
+      "digg_count": 50,
+      "forbid_reply_with_video": true,
+      "image_list": null,
+      "is_author_digged": false,
+      "is_comment_translatable": true,
+      "label_list": null,
+      "no_show": false,
+      "reply_comment": null,
+      "reply_comment_total": 0,
+      "reply_id": "0",
+      "reply_to_reply_id": "0",
+      "share_info": {
+        "acl": {
+          "code": 0,
+          "extra": "{}"
+        },
+        "desc": ".’s comment: Trimite-ti la Realitatea Plus la doamna Anca Alexandrescu dovezile..Va rezolva ea👍👍👍",
+        "title": "Au confiscat BULETINELE pacienților pentru a le FURA votul! #vot #furt #georgescu #romaniatiktok #presedinte #romania🇷🇴 #vir #georgesimion🇹🇩 #ziuavotului ",
+        "url": "https://m.tiktok.com/v/7443093556060835094.html?_d=d28l8j2m71ia6h&comment_author_id=7395840471144530977&preview_pb=0&share_comment_id=7443145764291166998&share_item_id=7443093556060835094&sharer_language=en-US&source=h5_m&u_code=e8hegggb201lba"
+      },
+      "sort_extra_score": {
+        "reply_score": 0.000107,
+        "show_more_score": 6.6e-05
+      },
+      "sort_tags": "{\"top_list\":1}",
+      "status": 1,
+      "stick_position": 0,
+      "text": "Trimite-ti la Realitatea Plus la doamna Anca Alexandrescu dovezile..Va rezolva ea👍👍👍",
+      "text_extra": [],
+      "trans_btn_style": 1,
+      "user": {
+        "account_labels": null,
+        "ad_cover_url": null,
+        "advance_feature_item_order": null,
+        "advanced_feature_info": null,
+        "avatar_thumb": {
+          "uri": "tos-no1a-avt-0068c001-no/9a42f1c089e771ab3c576277424714ad",
+          "url_list": [
+            "https://p16-pu-sign-no.tiktokcdn-eu.com/obj/tos-no1a-avt-0068c001-no/9a42f1c089e771ab3c576277424714ad?lk3s=30310797&nonce=17305&refresh_token=4508c336ecd8de2064bba80fd585f668&x-expires=1733094000&x-signature=Kn%2BnawoSuTaQpIRZEOv6tfuHISw%3D&shp=30310797&shcp=-",
+            "https://p19-pu-sign-no.tiktokcdn-eu.com/obj/tos-no1a-avt-0068c001-no/9a42f1c089e771ab3c576277424714ad?lk3s=30310797&nonce=40366&refresh_token=646534e450ade94affdba4baa9e52df5&x-expires=1733094000&x-signature=kPVwoDQv6%2F%2BCZCBAtCPAshH1wUE%3D&shp=30310797&shcp=-"
+          ],
+          "url_prefix": null
+        },
+        "bold_fields": null,
+        "can_message_follow_status_list": null,
+        "can_set_geofencing": null,
+        "cha_list": null,
+        "cover_url": null,
+        "custom_verify": "",
+        "enterprise_verify_reason": "",
+        "events": null,
+        "followers_detail": null,
+        "geofencing": null,
+        "homepage_bottom_toast": null,
+        "item_list": null,
+        "mutual_relation_avatars": null,
+        "need_points": null,
+        "nickname": ".",
+        "platform_sync_info": null,
+        "relative_users": null,
+        "search_highlight": null,
+        "sec_uid": "MS4wLjABAAAAU4KuXCa_20tcZBbUD0dF618OpG5cFKRAhxIJyo1li0Sf2u-lCXJzNKfPa5ZmD2AX",
+        "shield_edit_field_info": null,
+        "type_label": null,
+        "uid": "7395840471144530977",
+        "unique_id": "rena.690",
+        "user_profile_guide": null,
+        "user_tags": null,
+        "white_cover_url": null
+      },
+      "user_buried": false,
+      "user_digged": 0
+    },
+    {
+      "author_pin": false,
+      "aweme_id": "7443093556060835094",
+      "cid": "7443096506078954262",
+      "collect_stat": 0,
+      "comment_language": "es",
+      "comment_post_item_ids": null,
+      "create_time": 1732980983,
+      "digg_count": 85,
+      "forbid_reply_with_video": true,
+      "image_list": null,
+      "is_author_digged": false,
+      "is_comment_translatable": true,
+      "label_list": null,
+      "no_show": false,
+      "reply_comment": null,
+      "reply_comment_total": 3,
+      "reply_id": "0",
+      "reply_to_reply_id": "0",
+      "share_info": {
+        "acl": {
+          "code": 0,
+          "extra": "{}"
+        },
+        "desc": "Log beni’s comment: UAU, este caz penal",
+        "title": "Au confiscat BULETINELE pacienților pentru a le FURA votul! #vot #furt #georgescu #romaniatiktok #presedinte #romania🇷🇴 #vir #georgesimion🇹🇩 #ziuavotului ",
+        "url": "https://m.tiktok.com/v/7443093556060835094.html?_d=d28l8j2m71ia6h&comment_author_id=7413400080646030368&preview_pb=0&share_comment_id=7443096506078954262&share_item_id=7443093556060835094&sharer_language=en-US&source=h5_m&u_code=e8hegggb201lba"
+      },
+      "sort_extra_score": {
+        "reply_score": 0.000344,
+        "show_more_score": 0.067023
+      },
+      "sort_tags": "{\"top_list\":1}",
+      "status": 1,
+      "stick_position": 0,
+      "text": "UAU, este caz penal",
+      "text_extra": [],
+      "trans_btn_style": 1,
+      "user": {
+        "account_labels": null,
+        "ad_cover_url": null,
+        "advance_feature_item_order": null,
+        "advanced_feature_info": null,
+        "avatar_thumb": {
+          "uri": "tos-no1a-avt-0068c001-no/99dcec0b6bf21ffc57702a0a7a03b082",
+          "url_list": [
+            "https://p16-pu-sign-no.tiktokcdn-eu.com/obj/tos-no1a-avt-0068c001-no/99dcec0b6bf21ffc57702a0a7a03b082?lk3s=30310797&nonce=94949&refresh_token=86612d7a26c792c2c9cb3feaf46aa3fd&x-expires=1733094000&x-signature=yWdK8PZFuTyl3ryt3Em8bLcLXvc%3D&shp=30310797&shcp=-",
+            "https://p19-pu-sign-no.tiktokcdn-eu.com/obj/tos-no1a-avt-0068c001-no/99dcec0b6bf21ffc57702a0a7a03b082?lk3s=30310797&nonce=32241&refresh_token=4069775cf505b42c570e6a5d426e1309&x-expires=1733094000&x-signature=A%2B5ClWNKfgjTz9emBDKaSl6rsfs%3D&shp=30310797&shcp=-"
+          ],
+          "url_prefix": null
+        },
+        "bold_fields": null,
+        "can_message_follow_status_list": null,
+        "can_set_geofencing": null,
+        "cha_list": null,
+        "cover_url": null,
+        "custom_verify": "",
+        "enterprise_verify_reason": "",
+        "events": null,
+        "followers_detail": null,
+        "geofencing": null,
+        "homepage_bottom_toast": null,
+        "item_list": null,
+        "mutual_relation_avatars": null,
+        "need_points": null,
+        "nickname": "Log beni",
+        "platform_sync_info": null,
+        "relative_users": null,
+        "search_highlight": null,
+        "sec_uid": "MS4wLjABAAAAxy75OGo0nZemQnqQtrz0h6wB-PlCJw9r5AafWsLUXr8o19BsOlg-3tD5l2B1ljLY",
+        "shield_edit_field_info": null,
+        "type_label": null,
+        "uid": "7413400080646030368",
+        "unique_id": "log.beni",
+        "user_profile_guide": null,
+        "user_tags": null,
+        "white_cover_url": null
+      },
+      "user_buried": false,
+      "user_digged": 0
+    },
+    {
+      "author_pin": false,
+      "aweme_id": "7443093556060835094",
+      "cid": "7443193580619776800",
+      "collect_stat": 0,
+      "comment_language": "ro",
+      "comment_post_item_ids": null,
+      "create_time": 1733003582,
+      "digg_count": 10,
+      "forbid_reply_with_video": true,
+      "image_list": null,
+      "is_author_digged": true,
+      "is_comment_translatable": true,
+      "label_list": [
+        {
+          "text": "Liked by creator",
+          "type": 20
+        }
+      ],
+      "no_show": false,
+      "reply_comment": null,
+      "reply_comment_total": 1,
+      "reply_id": "0",
+      "reply_to_reply_id": "0",
+      "share_info": {
+        "acl": {
+          "code": 0,
+          "extra": "{}"
+        },
+        "desc": "karina’s comment: Au furat buletinele ca sa voteze in locul lor",
+        "title": "Au confiscat BULETINELE pacienților pentru a le FURA votul! #vot #furt #georgescu #romaniatiktok #presedinte #romania🇷🇴 #vir #georgesimion🇹🇩 #ziuavotului ",
+        "url": "https://m.tiktok.com/v/7443093556060835094.html?_d=d28l8j2m71ia6h&comment_author_id=7421042114681046048&preview_pb=0&share_comment_id=7443193580619776800&share_item_id=7443093556060835094&sharer_language=en-US&source=h5_m&u_code=e8hegggb201lba"
+      },
+      "sort_extra_score": {
+        "reply_score": 0.000502,
+        "show_more_score": 0.070943
+      },
+      "sort_tags": "{\"author_digg\":1,\"top_list\":1}",
+      "status": 1,
+      "stick_position": 0,
+      "text": "Au furat buletinele ca sa voteze in locul lor",
+      "text_extra": [],
+      "trans_btn_style": 1,
+      "user": {
+        "account_labels": null,
+        "ad_cover_url": null,
+        "advance_feature_item_order": null,
+        "advanced_feature_info": null,
+        "avatar_thumb": {
+          "uri": "tos-useast2a-avt-0068-euttp/9a43819e0b511f7af6966c528bc3249c",
+          "url_list": [
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/9a43819e0b511f7af6966c528bc3249c~c5_100x100.jpg?lk3s=30310797&nonce=79481&refresh_token=2d396a02347176c0bb748f7a252b2736&x-expires=1733094000&x-signature=563tjbCykFfCngU0wu2sbLv06%2BQ%3D&shp=30310797&shcp=-",
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/9a43819e0b511f7af6966c528bc3249c~c5_100x100.jpeg?lk3s=30310797&nonce=88901&refresh_token=5c3aed0cf2b5a2000282d54891dc6b93&x-expires=1733094000&x-signature=C%2FaYvYA2MIJE%2B7ckM1XXR0G2bRQ%3D&shp=30310797&shcp=-"
+          ],
+          "url_prefix": null
+        },
+        "bold_fields": null,
+        "can_message_follow_status_list": null,
+        "can_set_geofencing": null,
+        "cha_list": null,
+        "cover_url": null,
+        "custom_verify": "",
+        "enterprise_verify_reason": "",
+        "events": null,
+        "followers_detail": null,
+        "geofencing": null,
+        "homepage_bottom_toast": null,
+        "item_list": null,
+        "mutual_relation_avatars": null,
+        "need_points": null,
+        "nickname": "karina",
+        "platform_sync_info": null,
+        "relative_users": null,
+        "search_highlight": null,
+        "sec_uid": "MS4wLjABAAAA4biWdAjlQfeDQ1iKGbpCg6cYut7TRYuiefbbDK-p2Ne4hmTSPrt9rSkDaeiJBcwA",
+        "shield_edit_field_info": null,
+        "type_label": null,
+        "uid": "7421042114681046048",
+        "unique_id": "carmenstanciu34",
+        "user_profile_guide": null,
+        "user_tags": null,
+        "white_cover_url": null
+      },
+      "user_buried": false,
+      "user_digged": 0
+    },
+    {
+      "author_pin": false,
+      "aweme_id": "7443093556060835094",
+      "cid": "7443193791022990113",
+      "collect_stat": 0,
+      "comment_language": "ro",
+      "comment_post_item_ids": null,
+      "create_time": 1733003625,
+      "digg_count": 1,
+      "forbid_reply_with_video": true,
+      "image_list": null,
+      "is_author_digged": false,
+      "is_comment_translatable": true,
+      "label_list": null,
+      "no_show": false,
+      "reply_comment": null,
+      "reply_comment_total": 0,
+      "reply_id": "0",
+      "reply_to_reply_id": "0",
+      "share_info": {
+        "acl": {
+          "code": 0,
+          "extra": "{}"
+        },
+        "desc": "Nicoleta Lucaci86’s comment: Trimiteți la Anca Alexandrescu!",
+        "title": "Au confiscat BULETINELE pacienților pentru a le FURA votul! #vot #furt #georgescu #romaniatiktok #presedinte #romania🇷🇴 #vir #georgesimion🇹🇩 #ziuavotului ",
+        "url": "https://m.tiktok.com/v/7443093556060835094.html?_d=d28l8j2m71ia6h&comment_author_id=7012270927242265605&preview_pb=0&share_comment_id=7443193791022990113&share_item_id=7443093556060835094&sharer_language=en-US&source=h5_m&u_code=e8hegggb201lba"
+      },
+      "sort_extra_score": {
+        "reply_score": 6.5e-05,
+        "show_more_score": 0.000115
+      },
+      "sort_tags": "{\"top_list\":1}",
+      "status": 1,
+      "stick_position": 0,
+      "text": "Trimiteți la Anca Alexandrescu!",
+      "text_extra": [],
+      "trans_btn_style": 1,
+      "user": {
+        "account_labels": null,
+        "ad_cover_url": null,
+        "advance_feature_item_order": null,
+        "advanced_feature_info": null,
+        "avatar_thumb": {
+          "uri": "tos-useast2a-avt-0068-euttp/bac90c1c77fa1ad1d69af6b7d6103360",
+          "url_list": [
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/bac90c1c77fa1ad1d69af6b7d6103360~c5_100x100.jpg?lk3s=30310797&nonce=80784&refresh_token=15f82addc94bac494fd956499d0dc11a&x-expires=1733094000&x-signature=Qj%2B%2B9ZTPT%2B8cFeIeE%2F3iRnvDSpE%3D&shp=30310797&shcp=-",
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/bac90c1c77fa1ad1d69af6b7d6103360~c5_100x100.jpeg?lk3s=30310797&nonce=14826&refresh_token=54d7de4ed34b58552825bca2dbb345f4&x-expires=1733094000&x-signature=ARBjU2RT%2FrgZDPhorSKc2eqX2Ww%3D&shp=30310797&shcp=-"
+          ],
+          "url_prefix": null
+        },
+        "bold_fields": null,
+        "can_message_follow_status_list": null,
+        "can_set_geofencing": null,
+        "cha_list": null,
+        "cover_url": null,
+        "custom_verify": "",
+        "enterprise_verify_reason": "",
+        "events": null,
+        "followers_detail": null,
+        "geofencing": null,
+        "homepage_bottom_toast": null,
+        "item_list": null,
+        "mutual_relation_avatars": null,
+        "need_points": null,
+        "nickname": "Nicoleta Lucaci86",
+        "platform_sync_info": null,
+        "relative_users": null,
+        "search_highlight": null,
+        "sec_uid": "MS4wLjABAAAAwufpi3CouVr5HN1ldNJCU9uJ5TZUs8OmxLihHQ_j0gw8uEBtSIgIhqmKyoDmTflB",
+        "shield_edit_field_info": null,
+        "type_label": null,
+        "uid": "7012270927242265605",
+        "unique_id": "nicoletal86",
+        "user_profile_guide": null,
+        "user_tags": null,
+        "white_cover_url": null
+      },
+      "user_buried": false,
+      "user_digged": 0
+    },
+    {
+      "author_pin": false,
+      "aweme_id": "7443093556060835094",
+      "cid": "7443201734351192854",
+      "collect_stat": 0,
+      "comment_language": "ro",
+      "comment_post_item_ids": null,
+      "create_time": 1733005494,
+      "digg_count": 2,
+      "forbid_reply_with_video": true,
+      "image_list": null,
+      "is_author_digged": true,
+      "is_comment_translatable": true,
+      "label_list": [
+        {
+          "text": "Liked by creator",
+          "type": 20
+        }
+      ],
+      "no_show": false,
+      "reply_comment": null,
+      "reply_comment_total": 2,
+      "reply_id": "0",
+      "reply_to_reply_id": "0",
+      "share_info": {
+        "acl": {
+          "code": 0,
+          "extra": "{}"
+        },
+        "desc": "viata e frumoasa ❤❤❤’s comment: e adevărat ca dacă esti inafara țări și nai acte pe țara aia nu poți vota?",
+        "title": "Au confiscat BULETINELE pacienților pentru a le FURA votul! #vot #furt #georgescu #romaniatiktok #presedinte #romania🇷🇴 #vir #georgesimion🇹🇩 #ziuavotului ",
+        "url": "https://m.tiktok.com/v/7443093556060835094.html?_d=d28l8j2m71ia6h&comment_author_id=7122776026649232390&preview_pb=0&share_comment_id=7443201734351192854&share_item_id=7443093556060835094&sharer_language=en-US&source=h5_m&u_code=e8hegggb201lba"
+      },
+      "sort_extra_score": {
+        "reply_score": 0.001066,
+        "show_more_score": 0.099568
+      },
+      "sort_tags": "{\"author_digg\":1,\"top_list\":1}",
+      "status": 1,
+      "stick_position": 0,
+      "text": "e adevărat ca dacă esti inafara țări și nai acte pe țara aia nu poți vota?",
+      "text_extra": [],
+      "trans_btn_style": 1,
+      "user": {
+        "account_labels": null,
+        "ad_cover_url": null,
+        "advance_feature_item_order": null,
+        "advanced_feature_info": null,
+        "avatar_thumb": {
+          "uri": "tos-useast2a-avt-0068-euttp/576b9ae0b22a0bfeeae6eb3cd5b46ef6",
+          "url_list": [
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/576b9ae0b22a0bfeeae6eb3cd5b46ef6~c5_100x100.jpg?lk3s=30310797&nonce=87188&refresh_token=213ce731b3043f8181d388e8adda7f18&x-expires=1733094000&x-signature=aUf4fHtkYdRdoZwmrE1DcP19UyU%3D&shp=30310797&shcp=-",
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/576b9ae0b22a0bfeeae6eb3cd5b46ef6~c5_100x100.jpeg?lk3s=30310797&nonce=57507&refresh_token=9d448e123bd81cf37d5a7a608b7005c0&x-expires=1733094000&x-signature=5eRcRfPWGUykyV4CHmqIVt5TvY4%3D&shp=30310797&shcp=-"
+          ],
+          "url_prefix": null
+        },
+        "bold_fields": null,
+        "can_message_follow_status_list": null,
+        "can_set_geofencing": null,
+        "cha_list": null,
+        "cover_url": null,
+        "custom_verify": "",
+        "enterprise_verify_reason": "",
+        "events": null,
+        "followers_detail": null,
+        "geofencing": null,
+        "homepage_bottom_toast": null,
+        "item_list": null,
+        "mutual_relation_avatars": null,
+        "need_points": null,
+        "nickname": "viata e frumoasa ❤❤❤",
+        "platform_sync_info": null,
+        "relative_users": null,
+        "search_highlight": null,
+        "sec_uid": "MS4wLjABAAAAlWb7K8sJIDcOvaGORHtemlvc8xHiH7y6IcxxKCU0OaNXn8pCTL6lQ6sLTWetKDiD",
+        "shield_edit_field_info": null,
+        "type_label": null,
+        "uid": "7122776026649232390",
+        "unique_id": "aurameafrumoasa",
+        "user_profile_guide": null,
+        "user_tags": null,
+        "white_cover_url": null
+      },
+      "user_buried": false,
+      "user_digged": 0
+    },
+    {
+      "author_pin": false,
+      "aweme_id": "7443093556060835094",
+      "cid": "7443148181359952662",
+      "collect_stat": 0,
+      "comment_language": "ro",
+      "comment_post_item_ids": null,
+      "create_time": 1732993010,
+      "digg_count": 33,
+      "forbid_reply_with_video": true,
+      "image_list": null,
+      "is_author_digged": true,
+      "is_comment_translatable": true,
+      "label_list": [
+        {
+          "text": "Liked by creator",
+          "type": 20
+        }
+      ],
+      "no_show": false,
+      "reply_comment": null,
+      "reply_comment_total": 1,
+      "reply_id": "0",
+      "reply_to_reply_id": "0",
+      "share_info": {
+        "acl": {
+          "code": 0,
+          "extra": "{}"
+        },
+        "desc": "Daniel  Jian’s comment: șeful poliției Oravița este omul lor !",
+        "title": "Au confiscat BULETINELE pacienților pentru a le FURA votul! #vot #furt #georgescu #romaniatiktok #presedinte #romania🇷🇴 #vir #georgesimion🇹🇩 #ziuavotului ",
+        "url": "https://m.tiktok.com/v/7443093556060835094.html?_d=d28l8j2m71ia6h&comment_author_id=7340691107016000544&preview_pb=0&share_comment_id=7443148181359952662&share_item_id=7443093556060835094&sharer_language=en-US&source=h5_m&u_code=e8hegggb201lba"
+      },
+      "sort_extra_score": {
+        "reply_score": 0.000536,
+        "show_more_score": 0.049138
+      },
+      "sort_tags": "{\"author_digg\":1,\"top_list\":1}",
+      "status": 1,
+      "stick_position": 0,
+      "text": "șeful poliției Oravița este omul lor !",
+      "text_extra": [],
+      "trans_btn_style": 1,
+      "user": {
+        "account_labels": null,
+        "ad_cover_url": null,
+        "advance_feature_item_order": null,
+        "advanced_feature_info": null,
+        "avatar_thumb": {
+          "uri": "tos-useast2a-avt-0068-euttp/9acc50f5bd2cea1f25d8bd23fd2b53e1",
+          "url_list": [
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/9acc50f5bd2cea1f25d8bd23fd2b53e1~c5_100x100.jpg?lk3s=30310797&nonce=79603&refresh_token=7ffd41a6e25b1b230d816763588255d7&x-expires=1733094000&x-signature=hNihjnfVl0e%2BoSxw6nZkgg7Fz8Y%3D&shp=30310797&shcp=-",
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/9acc50f5bd2cea1f25d8bd23fd2b53e1~c5_100x100.jpeg?lk3s=30310797&nonce=20213&refresh_token=08ed7a20c24d81320332b0f0302d8da7&x-expires=1733094000&x-signature=l%2F%2BLu%2FgLtVhybWgZ6s6ZiPlIBTY%3D&shp=30310797&shcp=-"
+          ],
+          "url_prefix": null
+        },
+        "bold_fields": null,
+        "can_message_follow_status_list": null,
+        "can_set_geofencing": null,
+        "cha_list": null,
+        "cover_url": null,
+        "custom_verify": "",
+        "enterprise_verify_reason": "",
+        "events": null,
+        "followers_detail": null,
+        "geofencing": null,
+        "homepage_bottom_toast": null,
+        "item_list": null,
+        "mutual_relation_avatars": null,
+        "need_points": null,
+        "nickname": "Daniel  Jian",
+        "platform_sync_info": null,
+        "relative_users": null,
+        "search_highlight": null,
+        "sec_uid": "MS4wLjABAAAAzTVN9TxFjmECObrMVTXj2qoIOHG35Gz-ggUgB69pLQrNViYns96bWU74PqOrBISX",
+        "shield_edit_field_info": null,
+        "type_label": null,
+        "uid": "7340691107016000544",
+        "unique_id": "daniel.jian68",
+        "user_profile_guide": null,
+        "user_tags": null,
+        "white_cover_url": null
+      },
+      "user_buried": false,
+      "user_digged": 0
+    },
+    {
+      "author_pin": false,
+      "aweme_id": "7443093556060835094",
+      "cid": "7443138747422130966",
+      "collect_stat": 0,
+      "comment_language": "ro",
+      "comment_post_item_ids": null,
+      "create_time": 1732990814,
+      "digg_count": 21,
+      "forbid_reply_with_video": true,
+      "image_list": null,
+      "is_author_digged": false,
+      "is_comment_translatable": true,
+      "label_list": null,
+      "no_show": false,
+      "reply_comment": null,
+      "reply_comment_total": 3,
+      "reply_id": "0",
+      "reply_to_reply_id": "0",
+      "share_info": {
+        "acl": {
+          "code": 0,
+          "extra": "{}"
+        },
+        "desc": "LD. Ludmila’s comment: auzi la poliție...ce răspuns",
+        "title": "Au confiscat BULETINELE pacienților pentru a le FURA votul! #vot #furt #georgescu #romaniatiktok #presedinte #romania🇷🇴 #vir #georgesimion🇹🇩 #ziuavotului ",
+        "url": "https://m.tiktok.com/v/7443093556060835094.html?_d=d28l8j2m71ia6h&comment_author_id=7077441384240120837&preview_pb=0&share_comment_id=7443138747422130966&share_item_id=7443093556060835094&sharer_language=en-US&source=h5_m&u_code=e8hegggb201lba"
+      },
+      "sort_extra_score": {
+        "reply_score": 0.000299,
+        "show_more_score": 0.133418
+      },
+      "sort_tags": "{\"top_list\":1}",
+      "status": 1,
+      "stick_position": 0,
+      "text": "auzi la poliție...ce răspuns",
+      "text_extra": [],
+      "trans_btn_style": 1,
+      "user": {
+        "account_labels": null,
+        "ad_cover_url": null,
+        "advance_feature_item_order": null,
+        "advanced_feature_info": null,
+        "avatar_thumb": {
+          "uri": "tos-useast2a-avt-0068-euttp/944c506237517b57ebdadedbf3220b40",
+          "url_list": [
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/944c506237517b57ebdadedbf3220b40~c5_100x100.jpg?lk3s=30310797&nonce=45487&refresh_token=26adbeac95ada8ad9764cb81cfd49fad&x-expires=1733094000&x-signature=pCeEZCCL9aY5WLAj6zI7%2B%2BmR6y4%3D&shp=30310797&shcp=-",
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/944c506237517b57ebdadedbf3220b40~c5_100x100.jpeg?lk3s=30310797&nonce=59757&refresh_token=c79c696cbb27206aead081960e2f23f9&x-expires=1733094000&x-signature=KdLh8mPh1IuKsgej0uSCCE3Etic%3D&shp=30310797&shcp=-"
+          ],
+          "url_prefix": null
+        },
+        "bold_fields": null,
+        "can_message_follow_status_list": null,
+        "can_set_geofencing": null,
+        "cha_list": null,
+        "cover_url": null,
+        "custom_verify": "",
+        "enterprise_verify_reason": "",
+        "events": null,
+        "followers_detail": null,
+        "geofencing": null,
+        "homepage_bottom_toast": null,
+        "item_list": null,
+        "mutual_relation_avatars": null,
+        "need_points": null,
+        "nickname": "LD. Ludmila",
+        "platform_sync_info": null,
+        "relative_users": null,
+        "search_highlight": null,
+        "sec_uid": "MS4wLjABAAAA9GEQPFpE3J0YIpVrppiH59FlmlP4ysZgxP2ciUFnjZPoQXafRN9NDKx6EAs32kLp",
+        "shield_edit_field_info": null,
+        "type_label": null,
+        "uid": "7077441384240120837",
+        "unique_id": "lud.ludmila8",
+        "user_profile_guide": null,
+        "user_tags": null,
+        "white_cover_url": null
+      },
+      "user_buried": false,
+      "user_digged": 0
+    },
+    {
+      "author_pin": false,
+      "aweme_id": "7443093556060835094",
+      "cid": "7443148748949914390",
+      "collect_stat": 0,
+      "comment_language": "ro",
+      "comment_post_item_ids": null,
+      "create_time": 1732993146,
+      "digg_count": 114,
+      "forbid_reply_with_video": true,
+      "image_list": null,
+      "is_author_digged": false,
+      "is_comment_translatable": true,
+      "label_list": null,
+      "no_show": false,
+      "reply_comment": null,
+      "reply_comment_total": 2,
+      "reply_id": "0",
+      "reply_to_reply_id": "0",
+      "share_info": {
+        "acl": {
+          "code": 0,
+          "extra": "{}"
+        },
+        "desc": "gina gina’s comment: PSD ISTI au furat😂și milițianul nu vrea sa se bage de frica ca își pierde pâinea 🙈🙈😂😂😂😂",
+        "title": "Au confiscat BULETINELE pacienților pentru a le FURA votul! #vot #furt #georgescu #romaniatiktok #presedinte #romania🇷🇴 #vir #georgesimion🇹🇩 #ziuavotului ",
+        "url": "https://m.tiktok.com/v/7443093556060835094.html?_d=d28l8j2m71ia6h&comment_author_id=7149573951747523590&preview_pb=0&share_comment_id=7443148748949914390&share_item_id=7443093556060835094&sharer_language=en-US&source=h5_m&u_code=e8hegggb201lba"
+      },
+      "sort_extra_score": {
+        "reply_score": 0.000185,
+        "show_more_score": 0.027728
+      },
+      "sort_tags": "{\"top_list\":1}",
+      "status": 1,
+      "stick_position": 0,
+      "text": "PSD ISTI au furat😂și milițianul nu vrea sa se bage de frica ca își pierde pâinea 🙈🙈😂😂😂😂",
+      "text_extra": [],
+      "trans_btn_style": 1,
+      "user": {
+        "account_labels": null,
+        "ad_cover_url": null,
+        "advance_feature_item_order": null,
+        "advanced_feature_info": null,
+        "avatar_thumb": {
+          "uri": "tos-no1a-avt-0068c001-no/345a3cfe322e92372f1a4723f5a6b44b",
+          "url_list": [
+            "https://p16-pu-sign-no.tiktokcdn-eu.com/obj/tos-no1a-avt-0068c001-no/345a3cfe322e92372f1a4723f5a6b44b?lk3s=30310797&nonce=55271&refresh_token=fe05a1a6adcf81e4fae0aefa265301ab&x-expires=1733094000&x-signature=P3Hqal2rnUTQtP1KEo02vbAxmFs%3D&shp=30310797&shcp=-",
+            "https://p19-pu-sign-no.tiktokcdn-eu.com/obj/tos-no1a-avt-0068c001-no/345a3cfe322e92372f1a4723f5a6b44b?lk3s=30310797&nonce=43985&refresh_token=e4ed81f67ee91a94b6ef845db1d3bdf0&x-expires=1733094000&x-signature=keV6nawH8TFd6Mk5%2BVw6wcL%2FZUY%3D&shp=30310797&shcp=-"
+          ],
+          "url_prefix": null
+        },
+        "bold_fields": null,
+        "can_message_follow_status_list": null,
+        "can_set_geofencing": null,
+        "cha_list": null,
+        "cover_url": null,
+        "custom_verify": "",
+        "enterprise_verify_reason": "",
+        "events": null,
+        "followers_detail": null,
+        "geofencing": null,
+        "homepage_bottom_toast": null,
+        "item_list": null,
+        "mutual_relation_avatars": null,
+        "need_points": null,
+        "nickname": "gina gina",
+        "platform_sync_info": null,
+        "relative_users": null,
+        "search_highlight": null,
+        "sec_uid": "MS4wLjABAAAADPheTwxueYAMCmRmNxZvYPx6KxWGzIDzmv6E2cS2Gi6qRl0HTglEnvfMc5CkUx8R",
+        "shield_edit_field_info": null,
+        "type_label": null,
+        "uid": "7149573951747523590",
+        "unique_id": "ginamugur",
+        "user_profile_guide": null,
+        "user_tags": null,
+        "white_cover_url": null
+      },
+      "user_buried": false,
+      "user_digged": 0
+    },
+    {
+      "author_pin": false,
+      "aweme_id": "7443093556060835094",
+      "cid": "7443164677250679574",
+      "collect_stat": 0,
+      "comment_language": "ro",
+      "comment_post_item_ids": null,
+      "create_time": 1732996841,
+      "digg_count": 29,
+      "forbid_reply_with_video": true,
+      "image_list": null,
+      "is_author_digged": true,
+      "is_comment_translatable": true,
+      "label_list": [
+        {
+          "text": "Liked by creator",
+          "type": 20
+        }
+      ],
+      "no_show": false,
+      "reply_comment": null,
+      "reply_comment_total": 4,
+      "reply_id": "0",
+      "reply_to_reply_id": "0",
+      "share_info": {
+        "acl": {
+          "code": 0,
+          "extra": "{}"
+        },
+        "desc": "Mariana’s comment: La fel și primarul dă 200 de lei să voteze el pe cine vrea tot an Oravița și nu-i minciună",
+        "title": "Au confiscat BULETINELE pacienților pentru a le FURA votul! #vot #furt #georgescu #romaniatiktok #presedinte #romania🇷🇴 #vir #georgesimion🇹🇩 #ziuavotului ",
+        "url": "https://m.tiktok.com/v/7443093556060835094.html?_d=d28l8j2m71ia6h&comment_author_id=6903586857717072902&preview_pb=0&share_comment_id=7443164677250679574&share_item_id=7443093556060835094&sharer_language=en-US&source=h5_m&u_code=e8hegggb201lba"
+      },
+      "sort_extra_score": {
+        "reply_score": 0.000353,
+        "show_more_score": 0.052068
+      },
+      "sort_tags": "{\"author_digg\":1,\"top_list\":1}",
+      "status": 1,
+      "stick_position": 0,
+      "text": "La fel și primarul dă 200 de lei să voteze el pe cine vrea tot an Oravița și nu-i minciună",
+      "text_extra": [],
+      "trans_btn_style": 1,
+      "user": {
+        "account_labels": null,
+        "ad_cover_url": null,
+        "advance_feature_item_order": null,
+        "advanced_feature_info": null,
+        "avatar_thumb": {
+          "uri": "tos-maliva-avt-0068/0efc4bc9141e567191388b82ee658bb5",
+          "url_list": [
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/0efc4bc9141e567191388b82ee658bb5~c5_100x100.jpg?lk3s=30310797&nonce=26696&refresh_token=1f8f748fff8d1318008c1f85dc9189b2&x-expires=1733094000&x-signature=SUQAgn4uDl5OyX7mgWK4ZxI%2FxKY%3D&shp=30310797&shcp=-",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/0efc4bc9141e567191388b82ee658bb5~c5_100x100.jpeg?lk3s=30310797&nonce=53856&refresh_token=91c4a21d502617e21664f01abb4dd77f&x-expires=1733094000&x-signature=35pRAYw3JsiwlyuqmXF2SbLIaks%3D&shp=30310797&shcp=-"
+          ],
+          "url_prefix": null
+        },
+        "bold_fields": null,
+        "can_message_follow_status_list": null,
+        "can_set_geofencing": null,
+        "cha_list": null,
+        "cover_url": null,
+        "custom_verify": "",
+        "enterprise_verify_reason": "",
+        "events": null,
+        "followers_detail": null,
+        "geofencing": null,
+        "homepage_bottom_toast": null,
+        "item_list": null,
+        "mutual_relation_avatars": null,
+        "need_points": null,
+        "nickname": "Mariana",
+        "platform_sync_info": null,
+        "relative_users": null,
+        "search_highlight": null,
+        "sec_uid": "MS4wLjABAAAA2--aQXgUhpo3R-IsRGW7MvTZFKCVR2hKb8mgWdgIC-H0p5rHORRK4TVrUtdnrp97",
+        "shield_edit_field_info": null,
+        "type_label": null,
+        "uid": "6903586857717072902",
+        "unique_id": "marianalesan123",
+        "user_profile_guide": null,
+        "user_tags": null,
+        "white_cover_url": null
+      },
+      "user_buried": false,
+      "user_digged": 0
+    },
+    {
+      "author_pin": false,
+      "aweme_id": "7443093556060835094",
+      "cid": "7443140230175425302",
+      "collect_stat": 0,
+      "comment_language": "ro",
+      "comment_post_item_ids": null,
+      "create_time": 1732991157,
+      "digg_count": 147,
+      "forbid_reply_with_video": true,
+      "image_list": null,
+      "is_author_digged": false,
+      "is_comment_translatable": true,
+      "label_list": null,
+      "no_show": false,
+      "reply_comment": null,
+      "reply_comment_total": 0,
+      "reply_id": "0",
+      "reply_to_reply_id": "0",
+      "share_info": {
+        "acl": {
+          "code": 0,
+          "extra": "{}"
+        },
+        "desc": "cristina108506’s comment: caz penal ! nimeni nici mǎcar politia nu are dreptul sa retina actul de identitate",
+        "title": "Au confiscat BULETINELE pacienților pentru a le FURA votul! #vot #furt #georgescu #romaniatiktok #presedinte #romania🇷🇴 #vir #georgesimion🇹🇩 #ziuavotului ",
+        "url": "https://m.tiktok.com/v/7443093556060835094.html?_d=d28l8j2m71ia6h&comment_author_id=7350286431413863456&preview_pb=0&share_comment_id=7443140230175425302&share_item_id=7443093556060835094&sharer_language=en-US&source=h5_m&u_code=e8hegggb201lba"
+      },
+      "sort_extra_score": {
+        "reply_score": 0.000161,
+        "show_more_score": 0.00013
+      },
+      "sort_tags": "{\"top_list\":1}",
+      "status": 1,
+      "stick_position": 0,
+      "text": "caz penal ! nimeni nici mǎcar politia nu are dreptul sa retina actul de identitate",
+      "text_extra": [],
+      "trans_btn_style": 1,
+      "user": {
+        "account_labels": null,
+        "ad_cover_url": null,
+        "advance_feature_item_order": null,
+        "advanced_feature_info": null,
+        "avatar_thumb": {
+          "uri": "tos-no1a-avt-0068c001-no/eb62f717a83576ca561561d4eda03a7c",
+          "url_list": [
+            "https://p16-pu-sign-no.tiktokcdn-eu.com/obj/tos-no1a-avt-0068c001-no/eb62f717a83576ca561561d4eda03a7c?lk3s=30310797&nonce=93842&refresh_token=368cc57599771f5bd627639302e3df7c&x-expires=1733094000&x-signature=QlBFZyLeG3hGhSGJEPiNvsDpLs8%3D&shp=30310797&shcp=-",
+            "https://p19-pu-sign-no.tiktokcdn-eu.com/obj/tos-no1a-avt-0068c001-no/eb62f717a83576ca561561d4eda03a7c?lk3s=30310797&nonce=38919&refresh_token=c3f5383f757ebe270b0fcd9fa5cfb1f3&x-expires=1733094000&x-signature=w1uKgul7tfB10UFZVhfgsaAJRbA%3D&shp=30310797&shcp=-"
+          ],
+          "url_prefix": null
+        },
+        "bold_fields": null,
+        "can_message_follow_status_list": null,
+        "can_set_geofencing": null,
+        "cha_list": null,
+        "cover_url": null,
+        "custom_verify": "",
+        "enterprise_verify_reason": "",
+        "events": null,
+        "followers_detail": null,
+        "geofencing": null,
+        "homepage_bottom_toast": null,
+        "item_list": null,
+        "mutual_relation_avatars": null,
+        "need_points": null,
+        "nickname": "cristina108506",
+        "platform_sync_info": null,
+        "relative_users": null,
+        "search_highlight": null,
+        "sec_uid": "MS4wLjABAAAA9C5lepYL4Od3h3wUzS0-JCtYz3v9dp9NOxb3O4e6E4p6WhrF9ItnJ3fwQNWFd3FA",
+        "shield_edit_field_info": null,
+        "type_label": null,
+        "uid": "7350286431413863456",
+        "unique_id": "cristina108506",
+        "user_profile_guide": null,
+        "user_tags": null,
+        "white_cover_url": null
+      },
+      "user_buried": false,
+      "user_digged": 0
+    },
+    {
+      "author_pin": false,
+      "aweme_id": "7443093556060835094",
+      "cid": "7443142631054869270",
+      "collect_stat": 0,
+      "comment_language": "es",
+      "comment_post_item_ids": null,
+      "create_time": 1732991726,
+      "digg_count": 31,
+      "forbid_reply_with_video": true,
+      "image_list": null,
+      "is_author_digged": false,
+      "is_comment_translatable": true,
+      "label_list": null,
+      "no_show": false,
+      "reply_comment": null,
+      "reply_comment_total": 1,
+      "reply_id": "0",
+      "reply_to_reply_id": "0",
+      "share_info": {
+        "acl": {
+          "code": 0,
+          "extra": "{}"
+        },
+        "desc": "Votez Călin Georgescu’s comment: asta este PSD",
+        "title": "Au confiscat BULETINELE pacienților pentru a le FURA votul! #vot #furt #georgescu #romaniatiktok #presedinte #romania🇷🇴 #vir #georgesimion🇹🇩 #ziuavotului ",
+        "url": "https://m.tiktok.com/v/7443093556060835094.html?_d=d28l8j2m71ia6h&comment_author_id=7141022705093084166&preview_pb=0&share_comment_id=7443142631054869270&share_item_id=7443093556060835094&sharer_language=en-US&source=h5_m&u_code=e8hegggb201lba"
+      },
+      "sort_extra_score": {
+        "reply_score": 0.000178,
+        "show_more_score": 0.038002
+      },
+      "sort_tags": "{\"top_list\":1}",
+      "status": 1,
+      "stick_position": 0,
+      "text": "asta este PSD",
+      "text_extra": [],
+      "trans_btn_style": 1,
+      "user": {
+        "account_labels": null,
+        "ad_cover_url": null,
+        "advance_feature_item_order": null,
+        "advanced_feature_info": null,
+        "avatar_thumb": {
+          "uri": "tos-no1a-avt-0068c001-no/e6331659252bf1575aadab8ca0dfa9be",
+          "url_list": [
+            "https://p16-pu-sign-no.tiktokcdn-eu.com/obj/tos-no1a-avt-0068c001-no/e6331659252bf1575aadab8ca0dfa9be?lk3s=30310797&nonce=72458&refresh_token=57228d968d5fcc871d206d93b38ca3c6&x-expires=1733094000&x-signature=f%2FnTdOozcBHXUfTpgFuKRmP0GP4%3D&shp=30310797&shcp=-",
+            "https://p19-pu-sign-no.tiktokcdn-eu.com/obj/tos-no1a-avt-0068c001-no/e6331659252bf1575aadab8ca0dfa9be?lk3s=30310797&nonce=1503&refresh_token=64b59295f9f3a1228e8c2f66a5fc74c5&x-expires=1733094000&x-signature=1jcApaNcQ1lMJ4vZYluKNj4ACLs%3D&shp=30310797&shcp=-"
+          ],
+          "url_prefix": null
+        },
+        "bold_fields": null,
+        "can_message_follow_status_list": null,
+        "can_set_geofencing": null,
+        "cha_list": null,
+        "cover_url": null,
+        "custom_verify": "",
+        "enterprise_verify_reason": "",
+        "events": null,
+        "followers_detail": null,
+        "geofencing": null,
+        "homepage_bottom_toast": null,
+        "item_list": null,
+        "mutual_relation_avatars": null,
+        "need_points": null,
+        "nickname": "Votez Călin Georgescu",
+        "platform_sync_info": null,
+        "relative_users": null,
+        "search_highlight": null,
+        "sec_uid": "MS4wLjABAAAAyCPFeWdZLb0zga2kQsFIyht4I4xifZv8lGlwQ9RhdQ3zlPwGHETsG1n0FgOir_M6",
+        "shield_edit_field_info": null,
+        "type_label": null,
+        "uid": "7141022705093084166",
+        "unique_id": "votez.clin.georges",
+        "user_profile_guide": null,
+        "user_tags": null,
+        "white_cover_url": null
+      },
+      "user_buried": false,
+      "user_digged": 0
+    },
+    {
+      "author_pin": false,
+      "aweme_id": "7443093556060835094",
+      "cid": "7443129642032841494",
+      "collect_stat": 0,
+      "comment_language": "ro",
+      "comment_post_item_ids": null,
+      "create_time": 1732988694,
+      "digg_count": 88,
+      "forbid_reply_with_video": true,
+      "image_list": null,
+      "is_author_digged": false,
+      "is_comment_translatable": true,
+      "label_list": null,
+      "no_show": false,
+      "reply_comment": null,
+      "reply_comment_total": 0,
+      "reply_id": "0",
+      "reply_to_reply_id": "0",
+      "share_info": {
+        "acl": {
+          "code": 0,
+          "extra": "{}"
+        },
+        "desc": "Claudiu.pop’s comment: Sau luat buletinele de la batrani si persoane de la centre de ingrijire batrani si sa votat va spun din experienta",
+        "title": "Au confiscat BULETINELE pacienților pentru a le FURA votul! #vot #furt #georgescu #romaniatiktok #presedinte #romania🇷🇴 #vir #georgesimion🇹🇩 #ziuavotului ",
+        "url": "https://m.tiktok.com/v/7443093556060835094.html?_d=d28l8j2m71ia6h&comment_author_id=6829300009194177541&preview_pb=0&share_comment_id=7443129642032841494&share_item_id=7443093556060835094&sharer_language=en-US&source=h5_m&u_code=e8hegggb201lba"
+      },
+      "sort_extra_score": {
+        "reply_score": 0.00014,
+        "show_more_score": 8e-05
+      },
+      "sort_tags": "{\"top_list\":1}",
+      "status": 1,
+      "stick_position": 0,
+      "text": "Sau luat buletinele de la batrani si persoane de la centre de ingrijire batrani si sa votat va spun din experienta",
+      "text_extra": [],
+      "trans_btn_style": 1,
+      "user": {
+        "account_labels": null,
+        "ad_cover_url": null,
+        "advance_feature_item_order": null,
+        "advanced_feature_info": null,
+        "avatar_thumb": {
+          "uri": "tos-maliva-avt-0068/1e3d7a2535313ab98335113e98b07334",
+          "url_list": [
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/1e3d7a2535313ab98335113e98b07334~c5_100x100.jpg?lk3s=30310797&nonce=33432&refresh_token=4afbf10846e30a464faa34f57cfab42d&x-expires=1733094000&x-signature=3nqZ1PJIt%2FfzSVeiViT36HAo2T0%3D&shp=30310797&shcp=-",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/1e3d7a2535313ab98335113e98b07334~c5_100x100.jpeg?lk3s=30310797&nonce=72115&refresh_token=fedc7f166405947ce05073b7656c4790&x-expires=1733094000&x-signature=IOOVnVLmcHOw%2FdyEbEQX6h2dI0g%3D&shp=30310797&shcp=-"
+          ],
+          "url_prefix": null
+        },
+        "bold_fields": null,
+        "can_message_follow_status_list": null,
+        "can_set_geofencing": null,
+        "cha_list": null,
+        "cover_url": null,
+        "custom_verify": "",
+        "enterprise_verify_reason": "",
+        "events": null,
+        "followers_detail": null,
+        "geofencing": null,
+        "homepage_bottom_toast": null,
+        "item_list": null,
+        "mutual_relation_avatars": null,
+        "need_points": null,
+        "nickname": "Claudiu.pop",
+        "platform_sync_info": null,
+        "relative_users": null,
+        "search_highlight": null,
+        "sec_uid": "MS4wLjABAAAAW0l0epg9NbDJLlsgAym24fBgraTvkmyAWqvADrBgymZOjBpJsrRatXsdfOzmmACD",
+        "shield_edit_field_info": null,
+        "type_label": null,
+        "uid": "6829300009194177541",
+        "unique_id": "claudiupop901",
+        "user_profile_guide": null,
+        "user_tags": null,
+        "white_cover_url": null
+      },
+      "user_buried": false,
+      "user_digged": 0
+    },
+    {
+      "author_pin": false,
+      "aweme_id": "7443093556060835094",
+      "cid": "7443125574727910166",
+      "collect_stat": 0,
+      "comment_language": "ro",
+      "comment_post_item_ids": null,
+      "create_time": 1732987745,
+      "digg_count": 31,
+      "forbid_reply_with_video": true,
+      "image_list": null,
+      "is_author_digged": false,
+      "is_comment_translatable": true,
+      "label_list": null,
+      "no_show": false,
+      "reply_comment": null,
+      "reply_comment_total": 1,
+      "reply_id": "0",
+      "reply_to_reply_id": "0",
+      "share_info": {
+        "acl": {
+          "code": 0,
+          "extra": "{}"
+        },
+        "desc": "DoItYourself7’s comment: Ala Se face ca nu intelege…",
+        "title": "Au confiscat BULETINELE pacienților pentru a le FURA votul! #vot #furt #georgescu #romaniatiktok #presedinte #romania🇷🇴 #vir #georgesimion🇹🇩 #ziuavotului ",
+        "url": "https://m.tiktok.com/v/7443093556060835094.html?_d=d28l8j2m71ia6h&comment_author_id=7381024196828693537&preview_pb=0&share_comment_id=7443125574727910166&share_item_id=7443093556060835094&sharer_language=en-US&source=h5_m&u_code=e8hegggb201lba"
+      },
+      "sort_extra_score": {
+        "reply_score": 0.000198,
+        "show_more_score": 0.057538
+      },
+      "sort_tags": "{\"top_list\":1}",
+      "status": 1,
+      "stick_position": 0,
+      "text": "Ala Se face ca nu intelege…",
+      "text_extra": [],
+      "trans_btn_style": 1,
+      "user": {
+        "account_labels": null,
+        "ad_cover_url": null,
+        "advance_feature_item_order": null,
+        "advanced_feature_info": null,
+        "avatar_thumb": {
+          "uri": "tos-useast2a-avt-0068-euttp/6a0c1ef96450c52871097369feb28381",
+          "url_list": [
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/6a0c1ef96450c52871097369feb28381~c5_100x100.jpg?lk3s=30310797&nonce=9171&refresh_token=beba9f9890d46e5d07c09144b677a801&x-expires=1733094000&x-signature=2PvZUQDlkmQhOXdWOu45F9QzjbM%3D&shp=30310797&shcp=-",
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/6a0c1ef96450c52871097369feb28381~c5_100x100.jpeg?lk3s=30310797&nonce=11672&refresh_token=293f8f1fff81bd461e78fea88420418d&x-expires=1733094000&x-signature=WqNVKW9MLRaC3T61YBoR%2BOF0fdI%3D&shp=30310797&shcp=-"
+          ],
+          "url_prefix": null
+        },
+        "bold_fields": null,
+        "can_message_follow_status_list": null,
+        "can_set_geofencing": null,
+        "cha_list": null,
+        "cover_url": null,
+        "custom_verify": "",
+        "enterprise_verify_reason": "",
+        "events": null,
+        "followers_detail": null,
+        "geofencing": null,
+        "homepage_bottom_toast": null,
+        "item_list": null,
+        "mutual_relation_avatars": null,
+        "need_points": null,
+        "nickname": "DoItYourself7",
+        "platform_sync_info": null,
+        "relative_users": null,
+        "search_highlight": null,
+        "sec_uid": "MS4wLjABAAAAa56SJwKoE7k68OoF632DUEs9kXx6hthZgfPCu2GRxtG1CkBjo_Mj1gtuFZiZkE_Q",
+        "shield_edit_field_info": null,
+        "type_label": null,
+        "uid": "7381024196828693537",
+        "unique_id": "doityourself446",
+        "user_profile_guide": null,
+        "user_tags": null,
+        "white_cover_url": null
+      },
+      "user_buried": false,
+      "user_digged": 0
+    },
+    {
+      "author_pin": false,
+      "aweme_id": "7443093556060835094",
+      "cid": "7443099288470553366",
+      "collect_stat": 0,
+      "comment_language": "ro",
+      "comment_post_item_ids": null,
+      "create_time": 1732981621,
+      "digg_count": 0,
+      "forbid_reply_with_video": true,
+      "image_list": null,
+      "is_author_digged": false,
+      "is_comment_translatable": true,
+      "label_list": null,
+      "no_show": false,
+      "reply_comment": null,
+      "reply_comment_total": 5,
+      "reply_id": "0",
+      "reply_to_reply_id": "0",
+      "share_info": {
+        "acl": {
+          "code": 0,
+          "extra": "{}"
+        },
+        "desc": "Sergiu Vlad’s comment: cine a făcut asta ?",
+        "title": "Au confiscat BULETINELE pacienților pentru a le FURA votul! #vot #furt #georgescu #romaniatiktok #presedinte #romania🇷🇴 #vir #georgesimion🇹🇩 #ziuavotului ",
+        "url": "https://m.tiktok.com/v/7443093556060835094.html?_d=d28l8j2m71ia6h&comment_author_id=7384889367187162144&preview_pb=0&share_comment_id=7443099288470553366&share_item_id=7443093556060835094&sharer_language=en-US&source=h5_m&u_code=e8hegggb201lba"
+      },
+      "sort_extra_score": {
+        "reply_score": 0.000251,
+        "show_more_score": 0.28474
+      },
+      "sort_tags": "{\"top_list\":1}",
+      "status": 1,
+      "stick_position": 0,
+      "text": "cine a făcut asta ?",
+      "text_extra": [],
+      "trans_btn_style": 1,
+      "user": {
+        "account_labels": null,
+        "ad_cover_url": null,
+        "advance_feature_item_order": null,
+        "advanced_feature_info": null,
+        "avatar_thumb": {
+          "uri": "tos-useast2a-avt-0068-euttp/7385036392693170209",
+          "url_list": [
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/7385036392693170209~c5_100x100.jpg?lk3s=30310797&nonce=92377&refresh_token=7facdcb314a3df973b2e3751b3f42de5&x-expires=1733094000&x-signature=%2Bp2CuL8EAWBCsK9nTiYAIGAcwus%3D&shp=30310797&shcp=-",
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/7385036392693170209~c5_100x100.jpeg?lk3s=30310797&nonce=86159&refresh_token=21540b526fa4890c604d55370edaa535&x-expires=1733094000&x-signature=rW1Z2RKYUKCCUaBr50xqh5JR80s%3D&shp=30310797&shcp=-"
+          ],
+          "url_prefix": null
+        },
+        "bold_fields": null,
+        "can_message_follow_status_list": null,
+        "can_set_geofencing": null,
+        "cha_list": null,
+        "cover_url": null,
+        "custom_verify": "",
+        "enterprise_verify_reason": "",
+        "events": null,
+        "followers_detail": null,
+        "geofencing": null,
+        "homepage_bottom_toast": null,
+        "item_list": null,
+        "mutual_relation_avatars": null,
+        "need_points": null,
+        "nickname": "Sergiu Vlad",
+        "platform_sync_info": null,
+        "relative_users": null,
+        "search_highlight": null,
+        "sec_uid": "MS4wLjABAAAA6RLUb-8JAv_0l9uMigR2ud4bH2x3mOTEjGbgQOlxRqY9vzrbcPJvzICnjJQcV3gu",
+        "shield_edit_field_info": null,
+        "type_label": null,
+        "uid": "7384889367187162144",
+        "unique_id": "sergiu.vlad0",
+        "user_profile_guide": null,
+        "user_tags": null,
+        "white_cover_url": null
+      },
+      "user_buried": false,
+      "user_digged": 0
+    }
+  ]
+}

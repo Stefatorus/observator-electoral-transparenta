@@ -1,0 +1,765 @@
+{
+  "AIGCDescription": "",
+  "BAInfo": "",
+  "CategoryType": 120,
+  "adAuthorization": false,
+  "adLabelVersion": 0,
+  "aigcLabelType": 0,
+  "author": {
+    "avatarLarger": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/7ad4acd91894fe4d5392842697bcc20b~c5_1080x1080.jpeg?lk3s=a5d48078&nonce=84303&refresh_token=4aeb20dd3ee757a5003118f1253f3d36&x-expires=1733180400&x-signature=HkHRU0RQyl7ENEPQYzzE1NRwxP0%3D&shp=a5d48078&shcp=b59d6b55",
+    "avatarMedium": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/7ad4acd91894fe4d5392842697bcc20b~c5_720x720.jpeg?lk3s=a5d48078&nonce=84691&refresh_token=0bcd79f32220673ee14bfab3182d4066&x-expires=1733180400&x-signature=3dIqc28u6I5RfZfOfAw6O9wsAUw%3D&shp=a5d48078&shcp=b59d6b55",
+    "avatarThumb": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/7ad4acd91894fe4d5392842697bcc20b~c5_100x100.jpeg?lk3s=a5d48078&nonce=91103&refresh_token=5b418a4f3dc86313a1f0534c3c3c1949&x-expires=1733180400&x-signature=ACjm0T2bMDNNmsQtl8HJuwVrRv4%3D&shp=a5d48078&shcp=b59d6b55",
+    "commentSetting": 3,
+    "downloadSetting": 3,
+    "duetSetting": 3,
+    "ftc": false,
+    "id": "7226599810235892762",
+    "isADVirtual": false,
+    "isEmbedBanned": false,
+    "nickname": "raku",
+    "openFavorite": false,
+    "privateAccount": false,
+    "relation": 0,
+    "secUid": "MS4wLjABAAAAywdWkIg5_yL2X3H0DrjiFPY0IlekqBkm9VFP7QdBET28aX2p1itcwptX1qxz9R-6",
+    "secret": false,
+    "signature": "raku cu litere mici din acelaș motiv pentru care-ți plac sau nu cartofii prăjiți",
+    "stitchSetting": 3,
+    "ttSeller": false,
+    "uniqueId": "raku_bro",
+    "verified": false
+  },
+  "authorStats": {
+    "diggCount": 538,
+    "followerCount": 4467,
+    "followingCount": 0,
+    "friendCount": 0,
+    "heart": 21700,
+    "heartCount": 21700,
+    "videoCount": 103
+  },
+  "challenges": [
+    {
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": "",
+      "desc": "",
+      "id": "5150778",
+      "isCommerce": false,
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "stats": {
+        "videoCount": 0,
+        "viewCount": 0
+      },
+      "title": "raku"
+    },
+    {
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": "",
+      "desc": "From your daily routine to traveling, show us your #Vlog.💎✨💕💁🎵👏🎉📝",
+      "id": "292874",
+      "isCommerce": false,
+      "profileLarger": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/fc9e1f4c26eaa984f91743c7a8a0a1e4.png?shp=b59d6b55&shcp=-",
+      "profileMedium": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/fc9e1f4c26eaa984f91743c7a8a0a1e4.png?shp=b59d6b55&shcp=-",
+      "profileThumb": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/fc9e1f4c26eaa984f91743c7a8a0a1e4.png?shp=b59d6b55&shcp=-",
+      "stats": {
+        "videoCount": 0,
+        "viewCount": 0
+      },
+      "title": "vlog"
+    },
+    {
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": "",
+      "desc": "",
+      "id": "1662063450335237",
+      "isCommerce": false,
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "stats": {
+        "videoCount": 0,
+        "viewCount": 0
+      },
+      "title": "dictatura"
+    },
+    {
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": "",
+      "desc": "",
+      "id": "1694553375765510",
+      "isCommerce": false,
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "stats": {
+        "videoCount": 0,
+        "viewCount": 0
+      },
+      "title": "constitutie"
+    },
+    {
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": "",
+      "desc": "",
+      "id": "1640786344885253",
+      "isCommerce": false,
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "stats": {
+        "videoCount": 0,
+        "viewCount": 0
+      },
+      "title": "drepturi"
+    },
+    {
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": "",
+      "desc": "",
+      "id": "1649572298429446",
+      "isCommerce": false,
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "stats": {
+        "videoCount": 0,
+        "viewCount": 0
+      },
+      "title": "abuzuri"
+    },
+    {
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": "",
+      "desc": "",
+      "id": "1412428",
+      "isCommerce": false,
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "stats": {
+        "videoCount": 0,
+        "viewCount": 0
+      },
+      "title": "padawan"
+    },
+    {
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": "",
+      "desc": "",
+      "id": "25323665",
+      "isCommerce": false,
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "stats": {
+        "videoCount": 0,
+        "viewCount": 0
+      },
+      "title": "revolutie"
+    },
+    {
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": "",
+      "desc": "",
+      "id": "1661225646519301",
+      "isCommerce": false,
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "stats": {
+        "videoCount": 0,
+        "viewCount": 0
+      },
+      "title": "spirituala"
+    },
+    {
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": "",
+      "desc": "",
+      "id": "2250418",
+      "isCommerce": false,
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "stats": {
+        "videoCount": 0,
+        "viewCount": 0
+      },
+      "title": "pentrutine"
+    },
+    {
+      "coverLarger": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/8e4d8102460a60717c89acc2d6367a16.png?shp=b59d6b55&shcp=-",
+      "coverMedium": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/8e4d8102460a60717c89acc2d6367a16.png?shp=b59d6b55&shcp=-",
+      "coverThumb": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/8e4d8102460a60717c89acc2d6367a16.png?shp=b59d6b55&shcp=-",
+      "desc": "¡descubre las canciones en tendencia! 🔥➡️ https://bit.ly/TendenciasTikTok_LATAM",
+      "id": "20884",
+      "isCommerce": false,
+      "profileLarger": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/4321dd2ed3acc737461c4254f0c55add.png?shp=b59d6b55&shcp=-",
+      "profileMedium": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/4321dd2ed3acc737461c4254f0c55add.png?shp=b59d6b55&shcp=-",
+      "profileThumb": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/4321dd2ed3acc737461c4254f0c55add.png?shp=b59d6b55&shcp=-",
+      "stats": {
+        "videoCount": 0,
+        "viewCount": 0
+      },
+      "title": "viral"
+    },
+    {
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": "",
+      "desc": "",
+      "id": "229207",
+      "isCommerce": false,
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "stats": {
+        "videoCount": 0,
+        "viewCount": 0
+      },
+      "title": "fyp"
+    }
+  ],
+  "collected": false,
+  "contents": [
+    {
+      "desc": "Specia dictatori (fragment). Urmariti episodul integral pe canalul 'padawan' pe YouTube! Share & subscribe pentru sustinere! #raku #vlog #dictatura #constitutie #drepturi #abuzuri #padawan #revolutie #spirituala #pentrutine #viral #fyp ",
+      "textExtra": [
+        {
+          "awemeId": "",
+          "end": 130,
+          "hashtagId": "5150778",
+          "hashtagName": "raku",
+          "isCommerce": false,
+          "secUid": "",
+          "start": 125,
+          "subType": 0,
+          "type": 1,
+          "userId": "",
+          "userUniqueId": ""
+        },
+        {
+          "awemeId": "",
+          "end": 136,
+          "hashtagId": "292874",
+          "hashtagName": "vlog",
+          "isCommerce": false,
+          "secUid": "",
+          "start": 131,
+          "subType": 0,
+          "type": 1,
+          "userId": "",
+          "userUniqueId": ""
+        },
+        {
+          "awemeId": "",
+          "end": 147,
+          "hashtagId": "1662063450335237",
+          "hashtagName": "dictatura",
+          "isCommerce": false,
+          "secUid": "",
+          "start": 137,
+          "subType": 0,
+          "type": 1,
+          "userId": "",
+          "userUniqueId": ""
+        },
+        {
+          "awemeId": "",
+          "end": 160,
+          "hashtagId": "1694553375765510",
+          "hashtagName": "constitutie",
+          "isCommerce": false,
+          "secUid": "",
+          "start": 148,
+          "subType": 0,
+          "type": 1,
+          "userId": "",
+          "userUniqueId": ""
+        },
+        {
+          "awemeId": "",
+          "end": 170,
+          "hashtagId": "1640786344885253",
+          "hashtagName": "drepturi",
+          "isCommerce": false,
+          "secUid": "",
+          "start": 161,
+          "subType": 0,
+          "type": 1,
+          "userId": "",
+          "userUniqueId": ""
+        },
+        {
+          "awemeId": "",
+          "end": 179,
+          "hashtagId": "1649572298429446",
+          "hashtagName": "abuzuri",
+          "isCommerce": false,
+          "secUid": "",
+          "start": 171,
+          "subType": 0,
+          "type": 1,
+          "userId": "",
+          "userUniqueId": ""
+        },
+        {
+          "awemeId": "",
+          "end": 188,
+          "hashtagId": "1412428",
+          "hashtagName": "padawan",
+          "isCommerce": false,
+          "secUid": "",
+          "start": 180,
+          "subType": 0,
+          "type": 1,
+          "userId": "",
+          "userUniqueId": ""
+        },
+        {
+          "awemeId": "",
+          "end": 199,
+          "hashtagId": "25323665",
+          "hashtagName": "revolutie",
+          "isCommerce": false,
+          "secUid": "",
+          "start": 189,
+          "subType": 0,
+          "type": 1,
+          "userId": "",
+          "userUniqueId": ""
+        },
+        {
+          "awemeId": "",
+          "end": 211,
+          "hashtagId": "1661225646519301",
+          "hashtagName": "spirituala",
+          "isCommerce": false,
+          "secUid": "",
+          "start": 200,
+          "subType": 0,
+          "type": 1,
+          "userId": "",
+          "userUniqueId": ""
+        },
+        {
+          "awemeId": "",
+          "end": 223,
+          "hashtagId": "2250418",
+          "hashtagName": "pentrutine",
+          "isCommerce": false,
+          "secUid": "",
+          "start": 212,
+          "subType": 0,
+          "type": 1,
+          "userId": "",
+          "userUniqueId": ""
+        },
+        {
+          "awemeId": "",
+          "end": 230,
+          "hashtagId": "20884",
+          "hashtagName": "viral",
+          "isCommerce": false,
+          "secUid": "",
+          "start": 224,
+          "subType": 0,
+          "type": 1,
+          "userId": "",
+          "userUniqueId": ""
+        },
+        {
+          "awemeId": "",
+          "end": 235,
+          "hashtagId": "229207",
+          "hashtagName": "fyp",
+          "isCommerce": false,
+          "secUid": "",
+          "start": 231,
+          "subType": 0,
+          "type": 1,
+          "userId": "",
+          "userUniqueId": ""
+        }
+      ]
+    }
+  ],
+  "createTime": 1732986752,
+  "desc": "Specia dictatori (fragment). Urmariti episodul integral pe canalul 'padawan' pe YouTube! Share & subscribe pentru sustinere! #raku #vlog #dictatura #constitutie #drepturi #abuzuri #padawan #revolutie #spirituala #pentrutine #viral #fyp ",
+  "digged": false,
+  "diversificationId": 10083,
+  "duetDisplay": 0,
+  "duetEnabled": false,
+  "duetInfo": {
+    "duetFromId": "0"
+  },
+  "forFriend": false,
+  "id": "7443121404502887702",
+  "isAd": false,
+  "itemCommentStatus": 3,
+  "itemMute": false,
+  "item_control": {
+    "can_repost": true
+  },
+  "music": {
+    "album": "",
+    "authorName": "raku",
+    "coverLarge": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/7ad4acd91894fe4d5392842697bcc20b~c5_1080x1080.jpeg?lk3s=a5d48078&nonce=84303&refresh_token=4aeb20dd3ee757a5003118f1253f3d36&x-expires=1733180400&x-signature=HkHRU0RQyl7ENEPQYzzE1NRwxP0%3D&shp=a5d48078&shcp=b59d6b55",
+    "coverMedium": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/7ad4acd91894fe4d5392842697bcc20b~c5_720x720.jpeg?lk3s=a5d48078&nonce=84691&refresh_token=0bcd79f32220673ee14bfab3182d4066&x-expires=1733180400&x-signature=3dIqc28u6I5RfZfOfAw6O9wsAUw%3D&shp=a5d48078&shcp=b59d6b55",
+    "coverThumb": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/7ad4acd91894fe4d5392842697bcc20b~c5_100x100.jpeg?lk3s=a5d48078&nonce=91103&refresh_token=5b418a4f3dc86313a1f0534c3c3c1949&x-expires=1733180400&x-signature=ACjm0T2bMDNNmsQtl8HJuwVrRv4%3D&shp=a5d48078&shcp=b59d6b55",
+    "duration": 134,
+    "id": "7443121587505253142",
+    "original": true,
+    "playUrl": "https://v77.tiktokcdn-eu.com/6ad6642b9ecfd265f5e54521b7c04e9e/674ba931/video/tos/no1a/tos-no1a-v-2370-no/owWXQ1BmZLYGBC9C1MPl6zoHd0tRIAriCiZth/?a=1233&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=0&dr=0&er=2&cd=0%7C0%7C0%7C0&br=250&bt=125&ft=.NpOcInz7ThqiMqOXq8Zmo&mime_type=audio_mpeg&qs=6&rc=ZDc3M2g7ODpnNmk6NzNnaUBpajl0cXc5cjtudzMzbzU8NUAtNWA1LmFiNmAxLjIvX2BeYSNta15fMmQ0YzJgLS1kMTFzcw%3D%3D&vvpl=1&l=20241130230706E6CF558DB65E96D61624&btag=e00090000&download=true",
+    "title": "sunet original"
+  },
+  "officalItem": false,
+  "originalItem": false,
+  "playlistId": "",
+  "privateItem": false,
+  "secret": false,
+  "shareEnabled": true,
+  "showNotPass": false,
+  "stats": {
+    "collectCount": 4,
+    "commentCount": 0,
+    "diggCount": 40,
+    "playCount": 647,
+    "shareCount": 1
+  },
+  "statsV2": {
+    "collectCount": "4",
+    "commentCount": "0",
+    "diggCount": "40",
+    "playCount": "647",
+    "repostCount": "0",
+    "shareCount": "1"
+  },
+  "stitchDisplay": 0,
+  "stitchEnabled": false,
+  "textExtra": [
+    {
+      "awemeId": "",
+      "end": 130,
+      "hashtagId": "5150778",
+      "hashtagName": "raku",
+      "isCommerce": false,
+      "secUid": "",
+      "start": 125,
+      "subType": 0,
+      "type": 1,
+      "userId": "",
+      "userUniqueId": ""
+    },
+    {
+      "awemeId": "",
+      "end": 136,
+      "hashtagId": "292874",
+      "hashtagName": "vlog",
+      "isCommerce": false,
+      "secUid": "",
+      "start": 131,
+      "subType": 0,
+      "type": 1,
+      "userId": "",
+      "userUniqueId": ""
+    },
+    {
+      "awemeId": "",
+      "end": 147,
+      "hashtagId": "1662063450335237",
+      "hashtagName": "dictatura",
+      "isCommerce": false,
+      "secUid": "",
+      "start": 137,
+      "subType": 0,
+      "type": 1,
+      "userId": "",
+      "userUniqueId": ""
+    },
+    {
+      "awemeId": "",
+      "end": 160,
+      "hashtagId": "1694553375765510",
+      "hashtagName": "constitutie",
+      "isCommerce": false,
+      "secUid": "",
+      "start": 148,
+      "subType": 0,
+      "type": 1,
+      "userId": "",
+      "userUniqueId": ""
+    },
+    {
+      "awemeId": "",
+      "end": 170,
+      "hashtagId": "1640786344885253",
+      "hashtagName": "drepturi",
+      "isCommerce": false,
+      "secUid": "",
+      "start": 161,
+      "subType": 0,
+      "type": 1,
+      "userId": "",
+      "userUniqueId": ""
+    },
+    {
+      "awemeId": "",
+      "end": 179,
+      "hashtagId": "1649572298429446",
+      "hashtagName": "abuzuri",
+      "isCommerce": false,
+      "secUid": "",
+      "start": 171,
+      "subType": 0,
+      "type": 1,
+      "userId": "",
+      "userUniqueId": ""
+    },
+    {
+      "awemeId": "",
+      "end": 188,
+      "hashtagId": "1412428",
+      "hashtagName": "padawan",
+      "isCommerce": false,
+      "secUid": "",
+      "start": 180,
+      "subType": 0,
+      "type": 1,
+      "userId": "",
+      "userUniqueId": ""
+    },
+    {
+      "awemeId": "",
+      "end": 199,
+      "hashtagId": "25323665",
+      "hashtagName": "revolutie",
+      "isCommerce": false,
+      "secUid": "",
+      "start": 189,
+      "subType": 0,
+      "type": 1,
+      "userId": "",
+      "userUniqueId": ""
+    },
+    {
+      "awemeId": "",
+      "end": 211,
+      "hashtagId": "1661225646519301",
+      "hashtagName": "spirituala",
+      "isCommerce": false,
+      "secUid": "",
+      "start": 200,
+      "subType": 0,
+      "type": 1,
+      "userId": "",
+      "userUniqueId": ""
+    },
+    {
+      "awemeId": "",
+      "end": 223,
+      "hashtagId": "2250418",
+      "hashtagName": "pentrutine",
+      "isCommerce": false,
+      "secUid": "",
+      "start": 212,
+      "subType": 0,
+      "type": 1,
+      "userId": "",
+      "userUniqueId": ""
+    },
+    {
+      "awemeId": "",
+      "end": 230,
+      "hashtagId": "20884",
+      "hashtagName": "viral",
+      "isCommerce": false,
+      "secUid": "",
+      "start": 224,
+      "subType": 0,
+      "type": 1,
+      "userId": "",
+      "userUniqueId": ""
+    },
+    {
+      "awemeId": "",
+      "end": 235,
+      "hashtagId": "229207",
+      "hashtagName": "fyp",
+      "isCommerce": false,
+      "secUid": "",
+      "start": 231,
+      "subType": 0,
+      "type": 1,
+      "userId": "",
+      "userUniqueId": ""
+    }
+  ],
+  "video": {
+    "VQScore": "64.28",
+    "bitrate": 497848,
+    "bitrateInfo": [
+      {
+        "Bitrate": 497848,
+        "CodecType": "h264",
+        "GearName": "normal_540_0",
+        "MVMAF": "\"\"",
+        "PlayAddr": {
+          "DataSize": 8334663,
+          "FileCs": "c:0-87508-23be",
+          "FileHash": "c12bc8e7772330e8eba7166e35941919",
+          "Height": 576,
+          "Uri": "v24044gl0000ct5kd6nog65kmf0mg88g",
+          "UrlKey": "v24044gl0000ct5kd6nog65kmf0mg88g_h264_540p_497848",
+          "UrlList": [
+            "https://v16-webapp-prime.tiktok.com/video/tos/no1a/tos-no1a-ve-0068c001-no/oEFLGiuu808ZtBIBE6ZiEqYmIQ0HhsRtRAvBo/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=972&bt=486&cs=0&ds=6&ft=4fUEKMT88Zmo0j_Njb4jVTXurpWrKsd.&mime_type=video_mp4&qs=0&rc=MzRoZjk3aTZpZ2Y4aTUzN0BpajtwaW45cjludzMzbzczNUAxYzEyLzM2NTAxYDQvMy0xYSM1ZC1qMmRrYTJgLS1kMTFzcw%3D%3D&btag=e00090000&expire=1733180961&l=20241130230706E6CF558DB65E96D61624&ply_type=2&policy=2&signature=ae30acf9649ffff6f6ecbde53d180c6c&tk=tt_chain_token",
+            "https://v19-webapp-prime.tiktok.com/video/tos/no1a/tos-no1a-ve-0068c001-no/oEFLGiuu808ZtBIBE6ZiEqYmIQ0HhsRtRAvBo/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=972&bt=486&cs=0&ds=6&ft=4fUEKMT88Zmo0j_Njb4jVTXurpWrKsd.&mime_type=video_mp4&qs=0&rc=MzRoZjk3aTZpZ2Y4aTUzN0BpajtwaW45cjludzMzbzczNUAxYzEyLzM2NTAxYDQvMy0xYSM1ZC1qMmRrYTJgLS1kMTFzcw%3D%3D&btag=e00090000&expire=1733180961&l=20241130230706E6CF558DB65E96D61624&ply_type=2&policy=2&signature=ae30acf9649ffff6f6ecbde53d180c6c&tk=tt_chain_token",
+            "https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=4400622f75cc4d3f839f64265c4ef140&is_play_url=1&item_id=7443121404502887702&line=0&ply_type=2&redirect=0&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLmE5ZDU1ODE4OGE0ZDQyZDI3MTU0OTMwZTVhYmNjZDYy&tk=tt_chain_token&vidc=no1a&video_id=v24044gl0000ct5kd6nog65kmf0mg88g"
+          ],
+          "Width": 1024
+        },
+        "QualityType": 20
+      },
+      {
+        "Bitrate": 214833,
+        "CodecType": "h264",
+        "GearName": "lowest_540_0",
+        "MVMAF": "\"\"",
+        "PlayAddr": {
+          "DataSize": 3596608,
+          "FileCs": "c:0-87508-5f1f",
+          "FileHash": "1a497c31e1163ad44de4e62fa64b4ef2",
+          "Height": 576,
+          "Uri": "v24044gl0000ct5kd6nog65kmf0mg88g",
+          "UrlKey": "v24044gl0000ct5kd6nog65kmf0mg88g_h264_540p_214833",
+          "UrlList": [
+            "https://v16-webapp-prime.tiktok.com/video/tos/no1a/tos-no1a-ve-0068c001-no/owY6hBsIL08FoG6ZrDEZqAiRtvBEIbm0RiQqB/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=418&bt=209&cs=0&ds=6&ft=4fUEKMT88Zmo0j_Njb4jVTXurpWrKsd.&mime_type=video_mp4&qs=5&rc=Nzo2NWQ8ODg2O2hmOjs4OUBpajtwaW45cjludzMzbzczNUAvLS1iXzI0XjMxLzJiLjY1YSM1ZC1qMmRrYTJgLS1kMTFzcw%3D%3D&btag=e00090000&expire=1733180961&l=20241130230706E6CF558DB65E96D61624&ply_type=2&policy=2&signature=d8eb12fa26f42f43417554f7d45beac7&tk=tt_chain_token",
+            "https://v19-webapp-prime.tiktok.com/video/tos/no1a/tos-no1a-ve-0068c001-no/owY6hBsIL08FoG6ZrDEZqAiRtvBEIbm0RiQqB/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=418&bt=209&cs=0&ds=6&ft=4fUEKMT88Zmo0j_Njb4jVTXurpWrKsd.&mime_type=video_mp4&qs=5&rc=Nzo2NWQ8ODg2O2hmOjs4OUBpajtwaW45cjludzMzbzczNUAvLS1iXzI0XjMxLzJiLjY1YSM1ZC1qMmRrYTJgLS1kMTFzcw%3D%3D&btag=e00090000&expire=1733180961&l=20241130230706E6CF558DB65E96D61624&ply_type=2&policy=2&signature=d8eb12fa26f42f43417554f7d45beac7&tk=tt_chain_token",
+            "https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=869518e75c2e4863a57559bae2030724&is_play_url=1&item_id=7443121404502887702&line=0&ply_type=2&redirect=0&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjIzODIxNDVjOGE2ZGNhZmExZGIyMWIyNTNmYTVkMGEz&tk=tt_chain_token&vidc=no1a&video_id=v24044gl0000ct5kd6nog65kmf0mg88g"
+          ],
+          "Width": 1024
+        },
+        "QualityType": 25
+      },
+      {
+        "Bitrate": 209470,
+        "CodecType": "h265_hvc1",
+        "GearName": "adapt_540_1",
+        "MVMAF": "\"{\\\"v2.0\\\": {\\\"srv1\\\": {\\\"v1080\\\": 99.148, \\\"v960\\\": 98.878, \\\"v864\\\": 99.999, \\\"v720\\\": 99.952}, \\\"ori\\\": {\\\"v1080\\\": 87.348, \\\"v960\\\": 90.096, \\\"v864\\\": 89.926, \\\"v720\\\": 93.272}}}\"",
+        "PlayAddr": {
+          "DataSize": 3506823,
+          "FileCs": "c:0-87783-b6b2",
+          "FileHash": "465306966af089257d3ab63bbd491e2e",
+          "Height": 576,
+          "Uri": "v24044gl0000ct5kd6nog65kmf0mg88g",
+          "UrlKey": "v24044gl0000ct5kd6nog65kmf0mg88g_bytevc1_540p_209470",
+          "UrlList": [
+            "https://v16-webapp-prime.tiktok.com/video/tos/no1a/tos-no1a-ve-0068c001-no/ooAgWFQaaSZsDkqGRf4B0fEpgkEOFCsIQnwLQi/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=408&bt=204&cs=2&ds=6&ft=4fUEKMT88Zmo0j_Njb4jVTXurpWrKsd.&mime_type=video_mp4&qs=11&rc=O2ZnZDMzNmY1NGZkPDs2ZUBpajtwaW45cjludzMzbzczNUA2My8xYDA1XmExX2JjY18tYSM1ZC1qMmRrYTJgLS1kMTFzcw%3D%3D&btag=e00090000&expire=1733180961&l=20241130230706E6CF558DB65E96D61624&ply_type=2&policy=2&signature=1eddd419091c6b6c6d8140ed24ce99d2&tk=tt_chain_token",
+            "https://v19-webapp-prime.tiktok.com/video/tos/no1a/tos-no1a-ve-0068c001-no/ooAgWFQaaSZsDkqGRf4B0fEpgkEOFCsIQnwLQi/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=408&bt=204&cs=2&ds=6&ft=4fUEKMT88Zmo0j_Njb4jVTXurpWrKsd.&mime_type=video_mp4&qs=11&rc=O2ZnZDMzNmY1NGZkPDs2ZUBpajtwaW45cjludzMzbzczNUA2My8xYDA1XmExX2JjY18tYSM1ZC1qMmRrYTJgLS1kMTFzcw%3D%3D&btag=e00090000&expire=1733180961&l=20241130230706E6CF558DB65E96D61624&ply_type=2&policy=2&signature=1eddd419091c6b6c6d8140ed24ce99d2&tk=tt_chain_token",
+            "https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=0bb3f8f9eabc41d2ac8330c04a2d6c98&is_play_url=1&item_id=7443121404502887702&line=0&ply_type=2&redirect=0&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLmFmZWQzYWQ2ODI5ZjMxMjdhNzAxYWFhYjBjMjNiZjk4&tk=tt_chain_token&vidc=no1a&video_id=v24044gl0000ct5kd6nog65kmf0mg88g"
+          ],
+          "Width": 1024
+        },
+        "QualityType": 28
+      }
+    ],
+    "claInfo": {
+      "captionInfos": [
+        {
+          "captionFormat": "webvtt",
+          "claSubtitleID": "7443151403616455446",
+          "expire": "1733180961",
+          "isAutoGen": true,
+          "isOriginalCaption": true,
+          "language": "ron-RO",
+          "languageCode": "",
+          "languageID": "40",
+          "subID": "-1032394831",
+          "subtitleType": "1",
+          "url": "https://v16-webapp.tiktok.com/b051d3ff1d1242b54321cff6f4f6a5dd/674e3e21/video/tos/no1a/tos-no1a-v-0037-no/b8c0e62c65024b1dba645b2e95e9edca/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=33120&bt=16560&cs=0&ds=4&ft=4b~OyMT88Zmo0j_Njb4jVTXurpWrKsd.&mime_type=video_mp4&qs=13&rc=ajtwaW45cjludzMzbzczNUBpajtwaW45cjludzMzbzczNUA1ZC1qMmRrYTJgLS1kMTFzYSM1ZC1qMmRrYTJgLS1kMTFzcw%3D%3D&l=20241130230706E6CF558DB65E96D61624&btag=e00050000",
+          "urlList": [
+            "https://v16-webapp.tiktok.com/b051d3ff1d1242b54321cff6f4f6a5dd/674e3e21/video/tos/no1a/tos-no1a-v-0037-no/b8c0e62c65024b1dba645b2e95e9edca/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=33120&bt=16560&cs=0&ds=4&ft=4b~OyMT88Zmo0j_Njb4jVTXurpWrKsd.&mime_type=video_mp4&qs=13&rc=ajtwaW45cjludzMzbzczNUBpajtwaW45cjludzMzbzczNUA1ZC1qMmRrYTJgLS1kMTFzYSM1ZC1qMmRrYTJgLS1kMTFzcw%3D%3D&l=20241130230706E6CF558DB65E96D61624&btag=e00050000",
+            "https://v16-webapp.tiktok.com/b051d3ff1d1242b54321cff6f4f6a5dd/674e3e21/video/tos/no1a/tos-no1a-v-0037-no/b8c0e62c65024b1dba645b2e95e9edca/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=33120&bt=16560&cs=0&ds=4&ft=4b~OyMT88Zmo0j_Njb4jVTXurpWrKsd.&mime_type=video_mp4&qs=13&rc=ajtwaW45cjludzMzbzczNUBpajtwaW45cjludzMzbzczNUA1ZC1qMmRrYTJgLS1kMTFzYSM1ZC1qMmRrYTJgLS1kMTFzcw%3D%3D&l=20241130230706E6CF558DB65E96D61624&btag=e00050000",
+            "https://vas-useast2a.tiktokv.com/tiktok/v1/subtitle/url?aid=1988&format=webvtt&language=ron-RO&sign=42317e758ba35858b46a706e34eda5c5&version=1%3Awhisper_lid&vid=v24044gl0000ct5kd6nog65kmf0mg88g"
+          ],
+          "variant": "whisper_lid"
+        }
+      ],
+      "captionsType": 1,
+      "enableAutoCaption": true,
+      "hasOriginalAudio": true,
+      "originalLanguageInfo": {
+        "language": "ron-RO",
+        "languageCode": "",
+        "languageID": "40"
+      }
+    },
+    "codecType": "h264",
+    "cover": "https://p16-pu-sign-no.tiktokcdn-eu.com/obj/tos-no1a-p-0037-no/o8oRuSEBYAAKKLk2EfdiRpgEDfAGFFAKdCAn0I?lk3s=b59d6b55&x-expires=1733180400&x-signature=xS6yqgR6i7%2FEuh73GOW%2BMzQ8k2w%3D&shp=b59d6b55&shcp=-",
+    "definition": "540p",
+    "duration": 133,
+    "dynamicCover": "https://p16-pu-sign-no.tiktokcdn-eu.com/obj/tos-no1a-p-0037-no/o8oRuSEBYAAKKLk2EfdiRpgEDfAGFFAKdCAn0I?lk3s=b59d6b55&x-expires=1733180400&x-signature=xS6yqgR6i7%2FEuh73GOW%2BMzQ8k2w%3D&shp=b59d6b55&shcp=-",
+    "encodeUserTag": "",
+    "encodedType": "normal",
+    "format": "mp4",
+    "height": 576,
+    "id": "7443121404502887702",
+    "originCover": "https://p16-pu-sign-no.tiktokcdn-eu.com/obj/tos-no1a-p-0037-no/o0Y5FBsIL08FoG6Z32IZQAiRtvBEICm0RiA1B?lk3s=b59d6b55&x-expires=1733180400&x-signature=RfvR9fWQpSYWZxbghvpS%2F7KUiz8%3D&shp=b59d6b55&shcp=-",
+    "playAddr": "https://v16-webapp-prime.tiktok.com/video/tos/no1a/tos-no1a-ve-0068c001-no/oEFLGiuu808ZtBIBE6ZiEqYmIQ0HhsRtRAvBo/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=972&bt=486&cs=0&ds=6&ft=4fUEKMT88Zmo0j_Njb4jVTXurpWrKsd.&mime_type=video_mp4&qs=0&rc=MzRoZjk3aTZpZ2Y4aTUzN0BpajtwaW45cjludzMzbzczNUAxYzEyLzM2NTAxYDQvMy0xYSM1ZC1qMmRrYTJgLS1kMTFzcw%3D%3D&btag=e00090000&expire=1733180961&l=20241130230706E6CF558DB65E96D61624&ply_type=2&policy=2&signature=ae30acf9649ffff6f6ecbde53d180c6c&tk=tt_chain_token",
+    "ratio": "540p",
+    "reflowCover": "https://p16-pu-sign-no.tiktokcdn-eu.com/tos-no1a-p-0037-no/o8oRuSEBYAAKKLk2EfdiRpgEDfAGFFAKdCAn0I~tplv-photomode-video-cover:480:480.jpeg?lk3s=b59d6b55&x-expires=1733180400&x-signature=l48D%2F3JbOjMVFy2qimd8MMKuD0Q%3D&shp=b59d6b55&shcp=-",
+    "shareCover": [
+      "",
+      "https://p16-pu-sign-no.tiktokcdn-eu.com/tos-no1a-p-0037-no/o0Y5FBsIL08FoG6Z32IZQAiRtvBEICm0RiA1B~tplv-photomode-tiktok-play.jpeg?lk3s=b59d6b55&x-expires=1733612400&x-signature=8T2eV3igrx6kxyHHDLj2bF3v%2FuU%3D&shp=b59d6b55&shcp=-",
+      "https://p16-pu-sign-no.tiktokcdn-eu.com/tos-no1a-p-0037-no/o0Y5FBsIL08FoG6Z32IZQAiRtvBEICm0RiA1B~tplv-photomode-share-play.jpeg?lk3s=b59d6b55&x-expires=1733612400&x-signature=s0OeiHQ8mX8aAHeZQJEmJLqqTFQ%3D&shp=b59d6b55&shcp=-"
+    ],
+    "size": 8334663,
+    "subtitleInfos": [
+      {
+        "Format": "webvtt",
+        "LanguageCodeName": "ron-RO",
+        "LanguageID": "40",
+        "Size": 4040,
+        "Source": "ASR",
+        "Url": "https://v16-webapp.tiktok.com/b051d3ff1d1242b54321cff6f4f6a5dd/674e3e21/video/tos/no1a/tos-no1a-v-0037-no/b8c0e62c65024b1dba645b2e95e9edca/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=33120&bt=16560&cs=0&ds=4&ft=4b~OyMT88Zmo0j_Njb4jVTXurpWrKsd.&mime_type=video_mp4&qs=13&rc=ajtwaW45cjludzMzbzczNUBpajtwaW45cjludzMzbzczNUA1ZC1qMmRrYTJgLS1kMTFzYSM1ZC1qMmRrYTJgLS1kMTFzcw%3D%3D&l=20241130230706E6CF558DB65E96D61624&btag=e00050000",
+        "UrlExpire": 1733180961,
+        "Version": "1:whisper_lid",
+        "VideoSubtitleID": -1032394831
+      }
+    ],
+    "videoQuality": "normal",
+    "volumeInfo": {
+      "Loudness": -15.9,
+      "Peak": 0.83176
+    },
+    "width": 1024,
+    "zoomCover": {
+      "240": "https://p16-pu-sign-no.tiktokcdn-eu.com/tos-no1a-p-0037-no/o8oRuSEBYAAKKLk2EfdiRpgEDfAGFFAKdCAn0I~tplv-photomode-zoomcover:240:240.jpeg?lk3s=b59d6b55&x-expires=1733180400&x-signature=4dmPZatDhi4wqSZZRXxuYi%2F214Q%3D&shp=b59d6b55&shcp=-",
+      "480": "https://p16-pu-sign-no.tiktokcdn-eu.com/tos-no1a-p-0037-no/o8oRuSEBYAAKKLk2EfdiRpgEDfAGFFAKdCAn0I~tplv-photomode-zoomcover:480:480.jpeg?lk3s=b59d6b55&x-expires=1733180400&x-signature=OJ9BkSTAXJWc%2BNzW37HcZImsYfI%3D&shp=b59d6b55&shcp=-",
+      "720": "https://p16-pu-sign-no.tiktokcdn-eu.com/tos-no1a-p-0037-no/o8oRuSEBYAAKKLk2EfdiRpgEDfAGFFAKdCAn0I~tplv-photomode-zoomcover:720:720.jpeg?lk3s=b59d6b55&x-expires=1733180400&x-signature=%2BrZI7udNY19yZ7t2QnaSeIKXkJ4%3D&shp=b59d6b55&shcp=-",
+      "960": "https://p16-pu-sign-no.tiktokcdn-eu.com/tos-no1a-p-0037-no/o8oRuSEBYAAKKLk2EfdiRpgEDfAGFFAKdCAn0I~tplv-photomode-zoomcover:960:960.jpeg?lk3s=b59d6b55&x-expires=1733180400&x-signature=BXqtQfYgXk0zVs5Buvn8YpcNY%2F0%3D&shp=b59d6b55&shcp=-"
+    }
+  },
+  "vl1": false,
+  "warnInfo": [
+    {
+      "key": "searchReminder_search_romanianElections2024_banner",
+      "lang": "en-US",
+      "text": "Get info on the Romanian elections",
+      "type": 2,
+      "url": "https://activity-i18n.tiktok.com/magic/eco/runtime/release/66d850aca1e3b702f99d2dbd?isFromGCP=1&appType=muse&magic_page_no=1&magic_source=search_hub&lang=ro-RO&region=RO"
+    }
+  ],
+  "comments": []
+}

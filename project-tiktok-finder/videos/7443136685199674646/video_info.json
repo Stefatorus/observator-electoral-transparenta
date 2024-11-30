@@ -1,0 +1,2937 @@
+{
+  "AIGCDescription": "",
+  "BAInfo": "",
+  "CategoryType": 120,
+  "adAuthorization": false,
+  "adLabelVersion": 0,
+  "aigcLabelType": 0,
+  "author": {
+    "avatarLarger": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/ab6c1c16784d5ef17fc8dbc3c6884436~c5_1080x1080.jpeg?lk3s=a5d48078&nonce=9108&refresh_token=ba04c72263c1d4e41369d3cba14a18c6&x-expires=1733180400&x-signature=Q22LJwZxjw7Lp0M%2F8LPgThCoiNI%3D&shp=a5d48078&shcp=b59d6b55",
+    "avatarMedium": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/ab6c1c16784d5ef17fc8dbc3c6884436~c5_720x720.jpeg?lk3s=a5d48078&nonce=59461&refresh_token=d3fbc351018d2148f920927ca9a770ba&x-expires=1733180400&x-signature=MIsu84O3OkOuR30rtcswAipCjm0%3D&shp=a5d48078&shcp=b59d6b55",
+    "avatarThumb": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/ab6c1c16784d5ef17fc8dbc3c6884436~c5_100x100.jpeg?lk3s=a5d48078&nonce=23150&refresh_token=534377af2fe37f09fe3cc2ae74f88c9b&x-expires=1733180400&x-signature=oag4%2BiFzAZi75mGJ%2BBfPG4%2F68Dk%3D&shp=a5d48078&shcp=b59d6b55",
+    "commentSetting": 0,
+    "downloadSetting": 0,
+    "duetSetting": 0,
+    "ftc": false,
+    "id": "7393966194904876065",
+    "isADVirtual": false,
+    "isEmbedBanned": false,
+    "nickname": "Demnitate & Umanitate",
+    "openFavorite": false,
+    "privateAccount": false,
+    "relation": 0,
+    "secUid": "MS4wLjABAAAAcmw72FTtGoRHCv7CiOsn8ttzprYjQprG8vwZ4nzJBfdSVRFwj4asAt6StLLH5Vqn",
+    "secret": false,
+    "signature": "",
+    "stitchSetting": 0,
+    "ttSeller": false,
+    "uniqueId": "demnitateumanitate",
+    "verified": false
+  },
+  "authorStats": {
+    "diggCount": 14400,
+    "followerCount": 5255,
+    "followingCount": 9150,
+    "friendCount": 0,
+    "heart": 30700,
+    "heartCount": 30700,
+    "videoCount": 52
+  },
+  "challenges": [
+    {
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": "",
+      "desc": "",
+      "id": "45566",
+      "isCommerce": false,
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "stats": {
+        "videoCount": 0,
+        "viewCount": 0
+      },
+      "title": "romania"
+    },
+    {
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": "",
+      "desc": "",
+      "id": "11910767",
+      "isCommerce": false,
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "stats": {
+        "videoCount": 0,
+        "viewCount": 0
+      },
+      "title": "parlament"
+    },
+    {
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": "",
+      "desc": "",
+      "id": "1629201996869638",
+      "isCommerce": false,
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "stats": {
+        "videoCount": 0,
+        "viewCount": 0
+      },
+      "title": "guvern"
+    },
+    {
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": "",
+      "desc": "",
+      "id": "1685263315984385",
+      "isCommerce": false,
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "stats": {
+        "videoCount": 0,
+        "viewCount": 0
+      },
+      "title": "partidepolitice"
+    },
+    {
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": "",
+      "desc": "O TikTok valoriza a criatividade e a expressão tanto quanto a autenticidade e a integridade. Manter nossos usuários seguros é nossa maior prioridade. Ao criar, visualizar ou interagir com conteúdo relacionado às eleições, lembre-se: 1. Sempre siga nossas Diretrizes da Comunidade. Elas proíbem desinformação que possa causar dano ou enganar nossos usuários e o público em geral, incluindo conteúdo sobre eleições ou outros processos cívicos. 2. Relate qualquer conteúdo que possa violar nossas Diretrizes da Comunidade. 3. Verifique a veracidade da informação utilizando recursos confiáveis como https://www.tse.jus.br/ , principalmente se você questiona a veracidade.",
+      "id": "83040567",
+      "isCommerce": false,
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "stats": {
+        "videoCount": 0,
+        "viewCount": 0
+      },
+      "title": "politica"
+    },
+    {
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": "",
+      "desc": "",
+      "id": "38914573",
+      "isCommerce": false,
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "stats": {
+        "videoCount": 0,
+        "viewCount": 0
+      },
+      "title": "alegeri"
+    },
+    {
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": "",
+      "desc": "",
+      "id": "7031537938395561989",
+      "isCommerce": false,
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "stats": {
+        "videoCount": 0,
+        "viewCount": 0
+      },
+      "title": "alegeri2024"
+    },
+    {
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": "",
+      "desc": "",
+      "id": "34566",
+      "isCommerce": false,
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "stats": {
+        "videoCount": 0,
+        "viewCount": 0
+      },
+      "title": "protest"
+    },
+    {
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": "",
+      "desc": "",
+      "id": "38773609",
+      "isCommerce": false,
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "stats": {
+        "videoCount": 0,
+        "viewCount": 0
+      },
+      "title": "miting"
+    },
+    {
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": "",
+      "desc": "",
+      "id": "76414",
+      "isCommerce": false,
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "stats": {
+        "videoCount": 0,
+        "viewCount": 0
+      },
+      "title": "news"
+    },
+    {
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": "",
+      "desc": "",
+      "id": "31872191",
+      "isCommerce": false,
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "stats": {
+        "videoCount": 0,
+        "viewCount": 0
+      },
+      "title": "stiri"
+    },
+    {
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": "",
+      "desc": "",
+      "id": "1678986560473089",
+      "isCommerce": false,
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "stats": {
+        "videoCount": 0,
+        "viewCount": 0
+      },
+      "title": "romaniavoteaza"
+    },
+    {
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": "",
+      "desc": "",
+      "id": "38554",
+      "isCommerce": false,
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "stats": {
+        "videoCount": 0,
+        "viewCount": 0
+      },
+      "title": "sos"
+    },
+    {
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": "",
+      "desc": "",
+      "id": "1695584782387206",
+      "isCommerce": false,
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "stats": {
+        "videoCount": 0,
+        "viewCount": 0
+      },
+      "title": "sosromania"
+    },
+    {
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": "",
+      "desc": "",
+      "id": "448694",
+      "isCommerce": false,
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "stats": {
+        "videoCount": 0,
+        "viewCount": 0
+      },
+      "title": "diaspora"
+    },
+    {
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": "",
+      "desc": "",
+      "id": "19241",
+      "isCommerce": false,
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "stats": {
+        "videoCount": 0,
+        "viewCount": 0
+      },
+      "title": "italia"
+    },
+    {
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": "",
+      "desc": "",
+      "id": "2014567",
+      "isCommerce": false,
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "stats": {
+        "videoCount": 0,
+        "viewCount": 0
+      },
+      "title": "spania"
+    },
+    {
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": "",
+      "desc": "",
+      "id": "9764537",
+      "isCommerce": false,
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "stats": {
+        "videoCount": 0,
+        "viewCount": 0
+      },
+      "title": "germania"
+    },
+    {
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": "",
+      "desc": "",
+      "id": "21090",
+      "isCommerce": false,
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "stats": {
+        "videoCount": 0,
+        "viewCount": 0
+      },
+      "title": "vot"
+    },
+    {
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": "",
+      "desc": "",
+      "id": "30148596",
+      "isCommerce": false,
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "stats": {
+        "videoCount": 0,
+        "viewCount": 0
+      },
+      "title": "presedinte"
+    },
+    {
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": "",
+      "desc": "",
+      "id": "1649807798132741",
+      "isCommerce": false,
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "stats": {
+        "videoCount": 0,
+        "viewCount": 0
+      },
+      "title": "prezidentiale"
+    },
+    {
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": "",
+      "desc": "",
+      "id": "7064537393595940869",
+      "isCommerce": false,
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "stats": {
+        "videoCount": 0,
+        "viewCount": 0
+      },
+      "title": "prezidentiale2024"
+    }
+  ],
+  "collected": false,
+  "contents": [
+    {
+      "desc": "#romania #parlament #guvern #partidepolitice #politica #alegeri #alegeri2024 #protest #miting #news #stiri #romaniavoteaza #sos #sosromania #diaspora #italia #spania #germania #vot #presedinte #prezidentiale #prezidentiale2024 #@Realitatea Plus ",
+      "textExtra": [
+        {
+          "awemeId": "",
+          "end": 8,
+          "hashtagId": "45566",
+          "hashtagName": "romania",
+          "isCommerce": false,
+          "secUid": "",
+          "start": 0,
+          "subType": 0,
+          "type": 1,
+          "userId": "",
+          "userUniqueId": ""
+        },
+        {
+          "awemeId": "",
+          "end": 19,
+          "hashtagId": "11910767",
+          "hashtagName": "parlament",
+          "isCommerce": false,
+          "secUid": "",
+          "start": 9,
+          "subType": 0,
+          "type": 1,
+          "userId": "",
+          "userUniqueId": ""
+        },
+        {
+          "awemeId": "",
+          "end": 27,
+          "hashtagId": "1629201996869638",
+          "hashtagName": "guvern",
+          "isCommerce": false,
+          "secUid": "",
+          "start": 20,
+          "subType": 0,
+          "type": 1,
+          "userId": "",
+          "userUniqueId": ""
+        },
+        {
+          "awemeId": "",
+          "end": 44,
+          "hashtagId": "1685263315984385",
+          "hashtagName": "partidepolitice",
+          "isCommerce": false,
+          "secUid": "",
+          "start": 28,
+          "subType": 0,
+          "type": 1,
+          "userId": "",
+          "userUniqueId": ""
+        },
+        {
+          "awemeId": "",
+          "end": 54,
+          "hashtagId": "83040567",
+          "hashtagName": "politica",
+          "isCommerce": false,
+          "secUid": "",
+          "start": 45,
+          "subType": 0,
+          "type": 1,
+          "userId": "",
+          "userUniqueId": ""
+        },
+        {
+          "awemeId": "",
+          "end": 63,
+          "hashtagId": "38914573",
+          "hashtagName": "alegeri",
+          "isCommerce": false,
+          "secUid": "",
+          "start": 55,
+          "subType": 0,
+          "type": 1,
+          "userId": "",
+          "userUniqueId": ""
+        },
+        {
+          "awemeId": "",
+          "end": 76,
+          "hashtagId": "7031537938395561989",
+          "hashtagName": "alegeri2024",
+          "isCommerce": false,
+          "secUid": "",
+          "start": 64,
+          "subType": 0,
+          "type": 1,
+          "userId": "",
+          "userUniqueId": ""
+        },
+        {
+          "awemeId": "",
+          "end": 85,
+          "hashtagId": "34566",
+          "hashtagName": "protest",
+          "isCommerce": false,
+          "secUid": "",
+          "start": 77,
+          "subType": 0,
+          "type": 1,
+          "userId": "",
+          "userUniqueId": ""
+        },
+        {
+          "awemeId": "",
+          "end": 93,
+          "hashtagId": "38773609",
+          "hashtagName": "miting",
+          "isCommerce": false,
+          "secUid": "",
+          "start": 86,
+          "subType": 0,
+          "type": 1,
+          "userId": "",
+          "userUniqueId": ""
+        },
+        {
+          "awemeId": "",
+          "end": 99,
+          "hashtagId": "76414",
+          "hashtagName": "news",
+          "isCommerce": false,
+          "secUid": "",
+          "start": 94,
+          "subType": 0,
+          "type": 1,
+          "userId": "",
+          "userUniqueId": ""
+        },
+        {
+          "awemeId": "",
+          "end": 106,
+          "hashtagId": "31872191",
+          "hashtagName": "stiri",
+          "isCommerce": false,
+          "secUid": "",
+          "start": 100,
+          "subType": 0,
+          "type": 1,
+          "userId": "",
+          "userUniqueId": ""
+        },
+        {
+          "awemeId": "",
+          "end": 122,
+          "hashtagId": "1678986560473089",
+          "hashtagName": "romaniavoteaza",
+          "isCommerce": false,
+          "secUid": "",
+          "start": 107,
+          "subType": 0,
+          "type": 1,
+          "userId": "",
+          "userUniqueId": ""
+        },
+        {
+          "awemeId": "",
+          "end": 127,
+          "hashtagId": "38554",
+          "hashtagName": "sos",
+          "isCommerce": false,
+          "secUid": "",
+          "start": 123,
+          "subType": 0,
+          "type": 1,
+          "userId": "",
+          "userUniqueId": ""
+        },
+        {
+          "awemeId": "",
+          "end": 139,
+          "hashtagId": "1695584782387206",
+          "hashtagName": "sosromania",
+          "isCommerce": false,
+          "secUid": "",
+          "start": 128,
+          "subType": 0,
+          "type": 1,
+          "userId": "",
+          "userUniqueId": ""
+        },
+        {
+          "awemeId": "",
+          "end": 149,
+          "hashtagId": "448694",
+          "hashtagName": "diaspora",
+          "isCommerce": false,
+          "secUid": "",
+          "start": 140,
+          "subType": 0,
+          "type": 1,
+          "userId": "",
+          "userUniqueId": ""
+        },
+        {
+          "awemeId": "",
+          "end": 157,
+          "hashtagId": "19241",
+          "hashtagName": "italia",
+          "isCommerce": false,
+          "secUid": "",
+          "start": 150,
+          "subType": 0,
+          "type": 1,
+          "userId": "",
+          "userUniqueId": ""
+        },
+        {
+          "awemeId": "",
+          "end": 165,
+          "hashtagId": "2014567",
+          "hashtagName": "spania",
+          "isCommerce": false,
+          "secUid": "",
+          "start": 158,
+          "subType": 0,
+          "type": 1,
+          "userId": "",
+          "userUniqueId": ""
+        },
+        {
+          "awemeId": "",
+          "end": 175,
+          "hashtagId": "9764537",
+          "hashtagName": "germania",
+          "isCommerce": false,
+          "secUid": "",
+          "start": 166,
+          "subType": 0,
+          "type": 1,
+          "userId": "",
+          "userUniqueId": ""
+        },
+        {
+          "awemeId": "",
+          "end": 180,
+          "hashtagId": "21090",
+          "hashtagName": "vot",
+          "isCommerce": false,
+          "secUid": "",
+          "start": 176,
+          "subType": 0,
+          "type": 1,
+          "userId": "",
+          "userUniqueId": ""
+        },
+        {
+          "awemeId": "",
+          "end": 192,
+          "hashtagId": "30148596",
+          "hashtagName": "presedinte",
+          "isCommerce": false,
+          "secUid": "",
+          "start": 181,
+          "subType": 0,
+          "type": 1,
+          "userId": "",
+          "userUniqueId": ""
+        },
+        {
+          "awemeId": "",
+          "end": 207,
+          "hashtagId": "1649807798132741",
+          "hashtagName": "prezidentiale",
+          "isCommerce": false,
+          "secUid": "",
+          "start": 193,
+          "subType": 0,
+          "type": 1,
+          "userId": "",
+          "userUniqueId": ""
+        },
+        {
+          "awemeId": "",
+          "end": 226,
+          "hashtagId": "7064537393595940869",
+          "hashtagName": "prezidentiale2024",
+          "isCommerce": false,
+          "secUid": "",
+          "start": 208,
+          "subType": 0,
+          "type": 1,
+          "userId": "",
+          "userUniqueId": ""
+        },
+        {
+          "awemeId": "",
+          "end": 244,
+          "hashtagId": "",
+          "hashtagName": "",
+          "isCommerce": false,
+          "secUid": "MS4wLjABAAAAWQFxeSkdmyn0ue6NhneLVS_YSqRCKcXA7xITKyf8EJ6qcmJZbFGUMLkWxqLzFMmY",
+          "start": 228,
+          "subType": 0,
+          "type": 0,
+          "userId": "6676408469523121157",
+          "userUniqueId": "realitatea.plus"
+        }
+      ]
+    }
+  ],
+  "createTime": 1732990309,
+  "desc": "#romania #parlament #guvern #partidepolitice #politica #alegeri #alegeri2024 #protest #miting #news #stiri #romaniavoteaza #sos #sosromania #diaspora #italia #spania #germania #vot #presedinte #prezidentiale #prezidentiale2024 #@Realitatea Plus ",
+  "digged": false,
+  "diversificationId": 10087,
+  "duetDisplay": 0,
+  "duetEnabled": true,
+  "duetInfo": {
+    "duetFromId": "0"
+  },
+  "forFriend": false,
+  "id": "7443136685199674646",
+  "isAd": false,
+  "itemCommentStatus": 0,
+  "itemMute": false,
+  "item_control": {
+    "can_repost": true
+  },
+  "music": {
+    "album": "",
+    "authorName": "marian.gorocila",
+    "coverLarge": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/b0564f3138d08824039ea460014ae734~c5_1080x1080.jpeg?lk3s=a5d48078&nonce=8254&refresh_token=b4d09fae7e08c350573840920f3607a3&x-expires=1733180400&x-signature=NJ4adksslEHoQb5Ca8y%2B%2FvHVpLY%3D&shp=a5d48078&shcp=b59d6b55",
+    "coverMedium": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/b0564f3138d08824039ea460014ae734~c5_720x720.jpeg?lk3s=a5d48078&nonce=91433&refresh_token=152f2f13c11cabda30d06eb866f7444d&x-expires=1733180400&x-signature=FEu%2Be%2BrQ2f%2Fszuib7u8RGv64O1E%3D&shp=a5d48078&shcp=b59d6b55",
+    "coverThumb": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/b0564f3138d08824039ea460014ae734~c5_100x100.jpeg?lk3s=a5d48078&nonce=46682&refresh_token=913f718d961cf14f70d4f8fd22e7899c&x-expires=1733180400&x-signature=zWvCYlaukcq%2FQUU6QucMYqXuWg4%3D&shp=a5d48078&shcp=b59d6b55",
+    "duration": 30,
+    "id": "7431957529313184534",
+    "original": true,
+    "playUrl": "https://v16m.tiktokcdn-eu.com/ef3251bd222521691133ab5832b37bf1/674bacf2/video/tos/no1a/tos-no1a-v-2370-no/o8kiUKAjI9EyEedEXv4GjMc0zhmnrBoLkHiwBC/?a=1233&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=0&dr=0&er=2&cd=0%7C0%7C0%7C0&br=250&bt=125&ft=.NpOcInz7Thj~MqOXq8Zmo&mime_type=audio_mpeg&qs=6&rc=ZTRkNDxnaGc1Nmg7ZjxkNEBpMzdsZHI5cjdzdjMzbzU8NUBjLmAwMDUtNWIxXy00LzIxYSNeNHIwMmRrcGVgLS1kMTFzcw%3D%3D&vvpl=1&l=202411302324509DF515169513EED35899&btag=e00088000&download=true",
+    "title": "original sound"
+  },
+  "officalItem": false,
+  "originalItem": false,
+  "playlistId": "",
+  "privateItem": false,
+  "secret": false,
+  "shareEnabled": true,
+  "showNotPass": false,
+  "stats": {
+    "collectCount": 18,
+    "commentCount": 66,
+    "diggCount": 363,
+    "playCount": 1674,
+    "shareCount": 16
+  },
+  "statsV2": {
+    "collectCount": "18",
+    "commentCount": "66",
+    "diggCount": "363",
+    "playCount": "1674",
+    "repostCount": "0",
+    "shareCount": "16"
+  },
+  "stickersOnItem": [
+    {
+      "stickerText": [
+        "1 Decembrie votăm S.O.S.\n",
+        "Scăpăm Țara de trădătorii din \nParlament \nși \nGuvern"
+      ],
+      "stickerType": 4
+    }
+  ],
+  "stitchDisplay": 0,
+  "stitchEnabled": true,
+  "textExtra": [
+    {
+      "awemeId": "",
+      "end": 8,
+      "hashtagId": "45566",
+      "hashtagName": "romania",
+      "isCommerce": false,
+      "secUid": "",
+      "start": 0,
+      "subType": 0,
+      "type": 1,
+      "userId": "",
+      "userUniqueId": ""
+    },
+    {
+      "awemeId": "",
+      "end": 19,
+      "hashtagId": "11910767",
+      "hashtagName": "parlament",
+      "isCommerce": false,
+      "secUid": "",
+      "start": 9,
+      "subType": 0,
+      "type": 1,
+      "userId": "",
+      "userUniqueId": ""
+    },
+    {
+      "awemeId": "",
+      "end": 27,
+      "hashtagId": "1629201996869638",
+      "hashtagName": "guvern",
+      "isCommerce": false,
+      "secUid": "",
+      "start": 20,
+      "subType": 0,
+      "type": 1,
+      "userId": "",
+      "userUniqueId": ""
+    },
+    {
+      "awemeId": "",
+      "end": 44,
+      "hashtagId": "1685263315984385",
+      "hashtagName": "partidepolitice",
+      "isCommerce": false,
+      "secUid": "",
+      "start": 28,
+      "subType": 0,
+      "type": 1,
+      "userId": "",
+      "userUniqueId": ""
+    },
+    {
+      "awemeId": "",
+      "end": 54,
+      "hashtagId": "83040567",
+      "hashtagName": "politica",
+      "isCommerce": false,
+      "secUid": "",
+      "start": 45,
+      "subType": 0,
+      "type": 1,
+      "userId": "",
+      "userUniqueId": ""
+    },
+    {
+      "awemeId": "",
+      "end": 63,
+      "hashtagId": "38914573",
+      "hashtagName": "alegeri",
+      "isCommerce": false,
+      "secUid": "",
+      "start": 55,
+      "subType": 0,
+      "type": 1,
+      "userId": "",
+      "userUniqueId": ""
+    },
+    {
+      "awemeId": "",
+      "end": 76,
+      "hashtagId": "7031537938395561989",
+      "hashtagName": "alegeri2024",
+      "isCommerce": false,
+      "secUid": "",
+      "start": 64,
+      "subType": 0,
+      "type": 1,
+      "userId": "",
+      "userUniqueId": ""
+    },
+    {
+      "awemeId": "",
+      "end": 85,
+      "hashtagId": "34566",
+      "hashtagName": "protest",
+      "isCommerce": false,
+      "secUid": "",
+      "start": 77,
+      "subType": 0,
+      "type": 1,
+      "userId": "",
+      "userUniqueId": ""
+    },
+    {
+      "awemeId": "",
+      "end": 93,
+      "hashtagId": "38773609",
+      "hashtagName": "miting",
+      "isCommerce": false,
+      "secUid": "",
+      "start": 86,
+      "subType": 0,
+      "type": 1,
+      "userId": "",
+      "userUniqueId": ""
+    },
+    {
+      "awemeId": "",
+      "end": 99,
+      "hashtagId": "76414",
+      "hashtagName": "news",
+      "isCommerce": false,
+      "secUid": "",
+      "start": 94,
+      "subType": 0,
+      "type": 1,
+      "userId": "",
+      "userUniqueId": ""
+    },
+    {
+      "awemeId": "",
+      "end": 106,
+      "hashtagId": "31872191",
+      "hashtagName": "stiri",
+      "isCommerce": false,
+      "secUid": "",
+      "start": 100,
+      "subType": 0,
+      "type": 1,
+      "userId": "",
+      "userUniqueId": ""
+    },
+    {
+      "awemeId": "",
+      "end": 122,
+      "hashtagId": "1678986560473089",
+      "hashtagName": "romaniavoteaza",
+      "isCommerce": false,
+      "secUid": "",
+      "start": 107,
+      "subType": 0,
+      "type": 1,
+      "userId": "",
+      "userUniqueId": ""
+    },
+    {
+      "awemeId": "",
+      "end": 127,
+      "hashtagId": "38554",
+      "hashtagName": "sos",
+      "isCommerce": false,
+      "secUid": "",
+      "start": 123,
+      "subType": 0,
+      "type": 1,
+      "userId": "",
+      "userUniqueId": ""
+    },
+    {
+      "awemeId": "",
+      "end": 139,
+      "hashtagId": "1695584782387206",
+      "hashtagName": "sosromania",
+      "isCommerce": false,
+      "secUid": "",
+      "start": 128,
+      "subType": 0,
+      "type": 1,
+      "userId": "",
+      "userUniqueId": ""
+    },
+    {
+      "awemeId": "",
+      "end": 149,
+      "hashtagId": "448694",
+      "hashtagName": "diaspora",
+      "isCommerce": false,
+      "secUid": "",
+      "start": 140,
+      "subType": 0,
+      "type": 1,
+      "userId": "",
+      "userUniqueId": ""
+    },
+    {
+      "awemeId": "",
+      "end": 157,
+      "hashtagId": "19241",
+      "hashtagName": "italia",
+      "isCommerce": false,
+      "secUid": "",
+      "start": 150,
+      "subType": 0,
+      "type": 1,
+      "userId": "",
+      "userUniqueId": ""
+    },
+    {
+      "awemeId": "",
+      "end": 165,
+      "hashtagId": "2014567",
+      "hashtagName": "spania",
+      "isCommerce": false,
+      "secUid": "",
+      "start": 158,
+      "subType": 0,
+      "type": 1,
+      "userId": "",
+      "userUniqueId": ""
+    },
+    {
+      "awemeId": "",
+      "end": 175,
+      "hashtagId": "9764537",
+      "hashtagName": "germania",
+      "isCommerce": false,
+      "secUid": "",
+      "start": 166,
+      "subType": 0,
+      "type": 1,
+      "userId": "",
+      "userUniqueId": ""
+    },
+    {
+      "awemeId": "",
+      "end": 180,
+      "hashtagId": "21090",
+      "hashtagName": "vot",
+      "isCommerce": false,
+      "secUid": "",
+      "start": 176,
+      "subType": 0,
+      "type": 1,
+      "userId": "",
+      "userUniqueId": ""
+    },
+    {
+      "awemeId": "",
+      "end": 192,
+      "hashtagId": "30148596",
+      "hashtagName": "presedinte",
+      "isCommerce": false,
+      "secUid": "",
+      "start": 181,
+      "subType": 0,
+      "type": 1,
+      "userId": "",
+      "userUniqueId": ""
+    },
+    {
+      "awemeId": "",
+      "end": 207,
+      "hashtagId": "1649807798132741",
+      "hashtagName": "prezidentiale",
+      "isCommerce": false,
+      "secUid": "",
+      "start": 193,
+      "subType": 0,
+      "type": 1,
+      "userId": "",
+      "userUniqueId": ""
+    },
+    {
+      "awemeId": "",
+      "end": 226,
+      "hashtagId": "7064537393595940869",
+      "hashtagName": "prezidentiale2024",
+      "isCommerce": false,
+      "secUid": "",
+      "start": 208,
+      "subType": 0,
+      "type": 1,
+      "userId": "",
+      "userUniqueId": ""
+    },
+    {
+      "awemeId": "",
+      "end": 244,
+      "hashtagId": "",
+      "hashtagName": "",
+      "isCommerce": false,
+      "secUid": "MS4wLjABAAAAWQFxeSkdmyn0ue6NhneLVS_YSqRCKcXA7xITKyf8EJ6qcmJZbFGUMLkWxqLzFMmY",
+      "start": 228,
+      "subType": 0,
+      "type": 0,
+      "userId": "6676408469523121157",
+      "userUniqueId": "realitatea.plus"
+    }
+  ],
+  "video": {
+    "VQScore": "71.55",
+    "bitrate": 1340828,
+    "bitrateInfo": [
+      {
+        "Bitrate": 1340828,
+        "CodecType": "h264",
+        "GearName": "normal_540_0",
+        "MVMAF": "\"\"",
+        "PlayAddr": {
+          "DataSize": 4748880,
+          "FileCs": "c:0-24693-b1f7",
+          "FileHash": "0ed6e88eb13592faab1f12e277d74209",
+          "Height": 1024,
+          "Uri": "v24044gl0000ct5l8qnog65ookq7gk50",
+          "UrlKey": "v24044gl0000ct5l8qnog65ookq7gk50_h264_540p_1340828",
+          "UrlList": [
+            "https://v16-webapp-prime.tiktok.com/video/tos/no1a/tos-no1a-ve-0068c001-no/ogIiUxE4EiWaBKZWAVQtRYq41bBlTUhZL0BvE/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=2618&bt=1309&cs=0&ds=6&ft=4fUEKMT88Zmo0.GNjb4jVnGCrpWrKsd.&mime_type=video_mp4&qs=0&rc=NztnN2k0NWc2ZGVmNWg0OkBpM246bnI5cnRvdzMzbzczNUBeXl8uNS0xNS4xM2ExNS0tYSMyZG5sMmRrNTJgLS1kMTFzcw%3D%3D&btag=e00088000&expire=1733181920&l=202411302324509DF515169513EED35899&ply_type=2&policy=2&signature=4164441c33bdaf2cfe892d15d84faec1&tk=tt_chain_token",
+            "https://v19-webapp-prime.tiktok.com/video/tos/no1a/tos-no1a-ve-0068c001-no/ogIiUxE4EiWaBKZWAVQtRYq41bBlTUhZL0BvE/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=2618&bt=1309&cs=0&ds=6&ft=4fUEKMT88Zmo0.GNjb4jVnGCrpWrKsd.&mime_type=video_mp4&qs=0&rc=NztnN2k0NWc2ZGVmNWg0OkBpM246bnI5cnRvdzMzbzczNUBeXl8uNS0xNS4xM2ExNS0tYSMyZG5sMmRrNTJgLS1kMTFzcw%3D%3D&btag=e00088000&expire=1733181920&l=202411302324509DF515169513EED35899&ply_type=2&policy=2&signature=4164441c33bdaf2cfe892d15d84faec1&tk=tt_chain_token",
+            "https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=07018e42dc6b4a138d42018f14bda8a4&is_play_url=1&item_id=7443136685199674646&line=0&ply_type=2&redirect=0&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjgyZTgxZTI2NTRhODk0MTQ2NmVhODllOWEzZGJjYjVi&tk=tt_chain_token&vidc=no1a&video_id=v24044gl0000ct5l8qnog65ookq7gk50"
+          ],
+          "Width": 576
+        },
+        "QualityType": 20
+      },
+      {
+        "Bitrate": 484038,
+        "CodecType": "h264",
+        "GearName": "lowest_540_0",
+        "MVMAF": "\"\"",
+        "PlayAddr": {
+          "DataSize": 1714343,
+          "FileCs": "c:0-24661-4a86",
+          "FileHash": "ec885c01d1c5047ad354738a67ce0272",
+          "Height": 1024,
+          "Uri": "v24044gl0000ct5l8qnog65ookq7gk50",
+          "UrlKey": "v24044gl0000ct5l8qnog65ookq7gk50_h264_540p_484038",
+          "UrlList": [
+            "https://v16-webapp-prime.tiktok.com/video/tos/no1a/tos-no1a-ve-0068-no/o0SYtIpBvBVBKU4TAZBoaExZRQLUii0uE4BWv/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=944&bt=472&cs=0&ds=6&ft=4fUEKMT88Zmo0.GNjb4jVnGCrpWrKsd.&mime_type=video_mp4&qs=5&rc=NWRpaGg7ODk5aDU2ODU8OEBpM246bnI5cnRvdzMzbzczNUBjM2ItXjJiXzIxL19iMmBfYSMyZG5sMmRrNTJgLS1kMTFzcw%3D%3D&btag=e00088000&expire=1733181920&l=202411302324509DF515169513EED35899&ply_type=2&policy=2&signature=6800a43c4a76eb0ee509ff67c848379d&tk=tt_chain_token",
+            "https://v19-webapp-prime.tiktok.com/video/tos/no1a/tos-no1a-ve-0068-no/o0SYtIpBvBVBKU4TAZBoaExZRQLUii0uE4BWv/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=944&bt=472&cs=0&ds=6&ft=4fUEKMT88Zmo0.GNjb4jVnGCrpWrKsd.&mime_type=video_mp4&qs=5&rc=NWRpaGg7ODk5aDU2ODU8OEBpM246bnI5cnRvdzMzbzczNUBjM2ItXjJiXzIxL19iMmBfYSMyZG5sMmRrNTJgLS1kMTFzcw%3D%3D&btag=e00088000&expire=1733181920&l=202411302324509DF515169513EED35899&ply_type=2&policy=2&signature=6800a43c4a76eb0ee509ff67c848379d&tk=tt_chain_token",
+            "https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=b5c952e5b3224e56b6e558ae0eef6af2&is_play_url=1&item_id=7443136685199674646&line=0&ply_type=2&redirect=0&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjdkMmFjMTIxZTAyYzNlYjE4OGI0MzI4ZDhkNjE2NTI0&tk=tt_chain_token&vidc=no1a&video_id=v24044gl0000ct5l8qnog65ookq7gk50"
+          ],
+          "Width": 576
+        },
+        "QualityType": 25
+      },
+      {
+        "Bitrate": 427096,
+        "CodecType": "h265_hvc1",
+        "GearName": "adapt_540_1",
+        "MVMAF": "\"{\\\"v2.0\\\": {\\\"srv1\\\": {\\\"v1080\\\": 97.685, \\\"v960\\\": 99.182, \\\"v864\\\": 99.473, \\\"v720\\\": 99.913}, \\\"ori\\\": {\\\"v1080\\\": 83.52, \\\"v960\\\": 88.898, \\\"v864\\\": 91.043, \\\"v720\\\": 94.915}}}\"",
+        "PlayAddr": {
+          "DataSize": 1512670,
+          "FileCs": "c:0-25069-38a1",
+          "FileHash": "a403cabfd49ed252e586ff8f5a948129",
+          "Height": 1024,
+          "Uri": "v24044gl0000ct5l8qnog65ookq7gk50",
+          "UrlKey": "v24044gl0000ct5l8qnog65ookq7gk50_bytevc1_540p_427096",
+          "UrlList": [
+            "https://v16-webapp-prime.tiktok.com/video/tos/no1a/tos-no1a-ve-0068c001-no/osxRiZVViBcq2BLQYEAB4TZ4tBEzvnKUaIsU0/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=834&bt=417&cs=2&ds=6&ft=4fUEKMT88Zmo0.GNjb4jVnGCrpWrKsd.&mime_type=video_mp4&qs=11&rc=ZDQ7aTM2Ojg7Mzs3MzY8M0BpM246bnI5cnRvdzMzbzczNUAtYF40L2EzNTQxNDQvYWBeYSMyZG5sMmRrNTJgLS1kMTFzcw%3D%3D&btag=e00088000&expire=1733181920&l=202411302324509DF515169513EED35899&ply_type=2&policy=2&signature=1dc1cc460f1f1a281c4943e0cae3f8b1&tk=tt_chain_token",
+            "https://v19-webapp-prime.tiktok.com/video/tos/no1a/tos-no1a-ve-0068c001-no/osxRiZVViBcq2BLQYEAB4TZ4tBEzvnKUaIsU0/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=834&bt=417&cs=2&ds=6&ft=4fUEKMT88Zmo0.GNjb4jVnGCrpWrKsd.&mime_type=video_mp4&qs=11&rc=ZDQ7aTM2Ojg7Mzs3MzY8M0BpM246bnI5cnRvdzMzbzczNUAtYF40L2EzNTQxNDQvYWBeYSMyZG5sMmRrNTJgLS1kMTFzcw%3D%3D&btag=e00088000&expire=1733181920&l=202411302324509DF515169513EED35899&ply_type=2&policy=2&signature=1dc1cc460f1f1a281c4943e0cae3f8b1&tk=tt_chain_token",
+            "https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=a0c9d320747840788567d3207fa8c10a&is_play_url=1&item_id=7443136685199674646&line=0&ply_type=2&redirect=0&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLmZhMjJhNjQ5M2Y2ZDY4OGVmYjQzMWE5ODkxZmY1MWM3&tk=tt_chain_token&vidc=no1a&video_id=v24044gl0000ct5l8qnog65ookq7gk50"
+          ],
+          "Width": 576
+        },
+        "QualityType": 28
+      }
+    ],
+    "claInfo": {
+      "captionInfos": [
+        {
+          "captionFormat": "webvtt",
+          "claSubtitleID": "7443151449132927766",
+          "expire": "1733181920",
+          "isAutoGen": true,
+          "isOriginalCaption": true,
+          "language": "ron-RO",
+          "languageCode": "",
+          "languageID": "40",
+          "subID": "927018335",
+          "subtitleType": "1",
+          "url": "https://v16-webapp.tiktok.com/6789b70a79d85fc4c66fcab74f87fd88/674e41e0/video/tos/no1a/tos-no1a-v-0037-no/49e90702633c410da135b0fc6646ab9e/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=10092&bt=5046&ds=4&ft=4b~OyMT88Zmo0.GNjb4jVnGCrpWrKsd.&mime_type=video_mp4&qs=13&rc=M246bnI5cnRvdzMzbzczNUBpM246bnI5cnRvdzMzbzczNUAyZG5sMmRrNTJgLS1kMTFzYSMyZG5sMmRrNTJgLS1kMTFzcw%3D%3D&l=202411302324509DF515169513EED35899&btag=e00048000",
+          "urlList": [
+            "https://v16-webapp.tiktok.com/6789b70a79d85fc4c66fcab74f87fd88/674e41e0/video/tos/no1a/tos-no1a-v-0037-no/49e90702633c410da135b0fc6646ab9e/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=10092&bt=5046&ds=4&ft=4b~OyMT88Zmo0.GNjb4jVnGCrpWrKsd.&mime_type=video_mp4&qs=13&rc=M246bnI5cnRvdzMzbzczNUBpM246bnI5cnRvdzMzbzczNUAyZG5sMmRrNTJgLS1kMTFzYSMyZG5sMmRrNTJgLS1kMTFzcw%3D%3D&l=202411302324509DF515169513EED35899&btag=e00048000",
+            "https://v16-webapp.tiktok.com/6789b70a79d85fc4c66fcab74f87fd88/674e41e0/video/tos/no1a/tos-no1a-v-0037-no/49e90702633c410da135b0fc6646ab9e/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=10092&bt=5046&ds=4&ft=4b~OyMT88Zmo0.GNjb4jVnGCrpWrKsd.&mime_type=video_mp4&qs=13&rc=M246bnI5cnRvdzMzbzczNUBpM246bnI5cnRvdzMzbzczNUAyZG5sMmRrNTJgLS1kMTFzYSMyZG5sMmRrNTJgLS1kMTFzcw%3D%3D&l=202411302324509DF515169513EED35899&btag=e00048000",
+            "https://vas-useast2a.tiktokv.com/tiktok/v1/subtitle/url?aid=1988&format=webvtt&language=ron-RO&sign=1ffb76ef948f237a48da7d6cc495bca2&version=1%3Awhisper_lid&vid=v24044gl0000ct5l8qnog65ookq7gk50"
+          ],
+          "variant": "whisper_lid"
+        }
+      ],
+      "captionsType": 1,
+      "enableAutoCaption": true,
+      "hasOriginalAudio": false,
+      "originalLanguageInfo": {
+        "language": "ron-RO",
+        "languageCode": "",
+        "languageID": "40"
+      }
+    },
+    "codecType": "h264",
+    "cover": "https://p16-pu-sign-no.tiktokcdn-eu.com/obj/tos-no1a-p-0037-no/o4UR9CkDnBqxoSwFE991eAIiEFjWfSsgmRQsCq?lk3s=b59d6b55&x-expires=1733180400&x-signature=bWjAkqT61OOZ2e3ChbNJQIluKHc%3D&shp=b59d6b55&shcp=-",
+    "definition": "540p",
+    "downloadAddr": "https://v16-webapp-prime.tiktok.com/video/tos/no1a/tos-no1a-ve-0068-no/oEVRETE7iYh0BKUqv45UiQxCZLWtAEaIBZBE4/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=2700&bt=1350&cs=0&ds=3&ft=4fUEKMT88Zmo0.GNjb4jVnGCrpWrKsd.&mime_type=video_mp4&qs=0&rc=OWc1ODY5PDdpZzdkOmZlZ0BpM246bnI5cnRvdzMzbzczNUBgNDAwLzZiXjUxMTM1MDVjYSMyZG5sMmRrNTJgLS1kMTFzcw%3D%3D&btag=e00088000&expire=1733181920&l=202411302324509DF515169513EED35899&ply_type=2&policy=2&signature=1ba18c5dbfa030f967896f066a82f849&tk=tt_chain_token",
+    "duration": 28,
+    "dynamicCover": "https://p16-pu-sign-no.tiktokcdn-eu.com/obj/tos-no1a-p-0037-no/ocUEoFfETgSsnqUkiQBRRwAWbmQeFjE0DxS1qW?lk3s=b59d6b55&x-expires=1733180400&x-signature=My7eTlHT64%2BXfYJVFe%2FRGAAS%2FSQ%3D&shp=b59d6b55&shcp=-",
+    "encodeUserTag": "",
+    "encodedType": "normal",
+    "format": "mp4",
+    "height": 1024,
+    "id": "7443136685199674646",
+    "originCover": "https://p16-pu-sign-no.tiktokcdn-eu.com/obj/tos-no1a-p-0037-no/oE1YtIVBvdVBKU4TAZMGaExZRBLUii0bI4BWN?lk3s=b59d6b55&x-expires=1733180400&x-signature=wsYYuzodXc33UZozohIvM1YL5Rc%3D&shp=b59d6b55&shcp=-",
+    "playAddr": "https://v16-webapp-prime.tiktok.com/video/tos/no1a/tos-no1a-ve-0068c001-no/ogIiUxE4EiWaBKZWAVQtRYq41bBlTUhZL0BvE/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=2618&bt=1309&cs=0&ds=6&ft=4fUEKMT88Zmo0.GNjb4jVnGCrpWrKsd.&mime_type=video_mp4&qs=0&rc=NztnN2k0NWc2ZGVmNWg0OkBpM246bnI5cnRvdzMzbzczNUBeXl8uNS0xNS4xM2ExNS0tYSMyZG5sMmRrNTJgLS1kMTFzcw%3D%3D&btag=e00088000&expire=1733181920&l=202411302324509DF515169513EED35899&ply_type=2&policy=2&signature=4164441c33bdaf2cfe892d15d84faec1&tk=tt_chain_token",
+    "ratio": "540p",
+    "reflowCover": "https://p16-pu-sign-no.tiktokcdn-eu.com/tos-no1a-p-0037-no/o4UR9CkDnBqxoSwFE991eAIiEFjWfSsgmRQsCq~tplv-photomode-video-cover:480:480.jpeg?lk3s=b59d6b55&x-expires=1733180400&x-signature=tsslEbPLKs1gDQytBJRN5OVDDCE%3D&shp=b59d6b55&shcp=-",
+    "shareCover": [
+      "",
+      "https://p16-pu-sign-no.tiktokcdn-eu.com/tos-no1a-p-0037-no/oE1YtIVBvdVBKU4TAZMGaExZRBLUii0bI4BWN~tplv-photomode-tiktok-play.jpeg?lk3s=b59d6b55&x-expires=1733612400&x-signature=FluLbDfXoSskhLoBiLarAGQS2rU%3D&shp=b59d6b55&shcp=-",
+      "https://p16-pu-sign-no.tiktokcdn-eu.com/tos-no1a-p-0037-no/oE1YtIVBvdVBKU4TAZMGaExZRBLUii0bI4BWN~tplv-photomode-share-play.jpeg?lk3s=b59d6b55&x-expires=1733612400&x-signature=JMzMkcFUZjcY3INlE63SBwrZyHU%3D&shp=b59d6b55&shcp=-"
+    ],
+    "size": 4748880,
+    "subtitleInfos": [
+      {
+        "Format": "webvtt",
+        "LanguageCodeName": "ron-RO",
+        "LanguageID": "40",
+        "Size": 714,
+        "Source": "ASR",
+        "Url": "https://v16-webapp.tiktok.com/6789b70a79d85fc4c66fcab74f87fd88/674e41e0/video/tos/no1a/tos-no1a-v-0037-no/49e90702633c410da135b0fc6646ab9e/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=10092&bt=5046&ds=4&ft=4b~OyMT88Zmo0.GNjb4jVnGCrpWrKsd.&mime_type=video_mp4&qs=13&rc=M246bnI5cnRvdzMzbzczNUBpM246bnI5cnRvdzMzbzczNUAyZG5sMmRrNTJgLS1kMTFzYSMyZG5sMmRrNTJgLS1kMTFzcw%3D%3D&l=202411302324509DF515169513EED35899&btag=e00048000",
+        "UrlExpire": 1733181920,
+        "Version": "1:whisper_lid",
+        "VideoSubtitleID": 927018335
+      }
+    ],
+    "videoQuality": "normal",
+    "volumeInfo": {
+      "Loudness": -13.2,
+      "Peak": 1
+    },
+    "width": 576,
+    "zoomCover": {
+      "240": "https://p16-pu-sign-no.tiktokcdn-eu.com/tos-no1a-p-0037-no/o4UR9CkDnBqxoSwFE991eAIiEFjWfSsgmRQsCq~tplv-photomode-zoomcover:240:240.jpeg?lk3s=b59d6b55&x-expires=1733180400&x-signature=chfPQR0pxSGEVcJrdQNpQ9rGhkk%3D&shp=b59d6b55&shcp=-",
+      "480": "https://p16-pu-sign-no.tiktokcdn-eu.com/tos-no1a-p-0037-no/o4UR9CkDnBqxoSwFE991eAIiEFjWfSsgmRQsCq~tplv-photomode-zoomcover:480:480.jpeg?lk3s=b59d6b55&x-expires=1733180400&x-signature=pLyDL433Sl04Y%2BejxEx79n7VGJ4%3D&shp=b59d6b55&shcp=-",
+      "720": "https://p16-pu-sign-no.tiktokcdn-eu.com/tos-no1a-p-0037-no/o4UR9CkDnBqxoSwFE991eAIiEFjWfSsgmRQsCq~tplv-photomode-zoomcover:720:720.jpeg?lk3s=b59d6b55&x-expires=1733180400&x-signature=39yO9a7uSz8OG7QZSaiupj7E%2BDw%3D&shp=b59d6b55&shcp=-",
+      "960": "https://p16-pu-sign-no.tiktokcdn-eu.com/tos-no1a-p-0037-no/o4UR9CkDnBqxoSwFE991eAIiEFjWfSsgmRQsCq~tplv-photomode-zoomcover:960:960.jpeg?lk3s=b59d6b55&x-expires=1733180400&x-signature=v1YxU7P0md%2BvI0IyxcY2wAVlP54%3D&shp=b59d6b55&shcp=-"
+    }
+  },
+  "vl1": false,
+  "warnInfo": [
+    {
+      "key": "searchReminder_search_romanianElections2024_banner",
+      "lang": "en-US",
+      "text": "Get info on the Romanian elections",
+      "type": 2,
+      "url": "https://activity-i18n.tiktok.com/magic/eco/runtime/release/66d850aca1e3b702f99d2dbd?isFromGCP=1&appType=muse&magic_page_no=1&magic_source=search_hub&lang=ro-RO&region=RO"
+    }
+  ],
+  "comments": [
+    {
+      "author_pin": false,
+      "aweme_id": "7443136685199674646",
+      "cid": "7443180369065476886",
+      "collect_stat": 0,
+      "comment_language": "ro",
+      "comment_post_item_ids": null,
+      "create_time": 1733000507,
+      "digg_count": 6,
+      "forbid_reply_with_video": true,
+      "image_list": null,
+      "is_author_digged": true,
+      "is_comment_translatable": true,
+      "label_list": [
+        {
+          "text": "Liked by creator",
+          "type": 20
+        }
+      ],
+      "no_show": false,
+      "reply_comment": null,
+      "reply_comment_total": 0,
+      "reply_id": "0",
+      "reply_to_reply_id": "0",
+      "share_info": {
+        "acl": {
+          "code": 0,
+          "extra": "{}"
+        },
+        "desc": "Geta 1952’s comment: votez SOS la parlamentare și Călin Georgescu președinte doamne ajuta",
+        "title": "#romania #parlament #guvern #partidepolitice #politica #alegeri #alegeri2024 #protest #miting #news #stiri #romaniavoteaza #sos #sosromania #diaspora #italia #spania #germania #vot #presedinte #prezidentiale #prezidentiale2024 #@Realitatea Plus ",
+        "url": "https://m.tiktok.com/v/7443136685199674646.html?_d=49jjef66j4ca6g&comment_author_id=6879024359857325062&preview_pb=0&share_comment_id=7443180369065476886&share_item_id=7443136685199674646&sharer_language=en-US&source=h5_m&u_code=e8hegggb201lba"
+      },
+      "sort_extra_score": {
+        "reply_score": 0.000801,
+        "show_more_score": 0.000327
+      },
+      "sort_tags": "{\"author_digg\":1,\"top_list\":1}",
+      "status": 1,
+      "stick_position": 0,
+      "text": "votez SOS la parlamentare și Călin Georgescu președinte doamne ajuta",
+      "text_extra": [],
+      "trans_btn_style": 1,
+      "user": {
+        "account_labels": null,
+        "ad_cover_url": null,
+        "advance_feature_item_order": null,
+        "advanced_feature_info": null,
+        "avatar_thumb": {
+          "uri": "tos-alisg-avt-0068/7328203858257215496",
+          "url_list": [
+            "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/7328203858257215496.jpg?lk3s=30310797&nonce=79194&refresh_token=7d0ae93eb03e9cc437301a2f5db98aa1&x-expires=1733094000&x-signature=zgFZn1AZ%2FYRVRfi8qzL%2B9XOPoC8%3D&shp=30310797&shcp=-",
+            "https://p16-sign-sg.tiktokcdn.com/aweme/100x100/tos-alisg-avt-0068/7328203858257215496.jpeg?lk3s=30310797&nonce=20042&refresh_token=beb32751d5ee326d2054cd1bb37b6535&x-expires=1733094000&x-signature=7iBgtMP9%2BiwfNOFMH1QASkme9eI%3D&shp=30310797&shcp=-"
+          ],
+          "url_prefix": null
+        },
+        "bold_fields": null,
+        "can_message_follow_status_list": null,
+        "can_set_geofencing": null,
+        "cha_list": null,
+        "cover_url": null,
+        "custom_verify": "",
+        "enterprise_verify_reason": "",
+        "events": null,
+        "followers_detail": null,
+        "geofencing": null,
+        "homepage_bottom_toast": null,
+        "item_list": null,
+        "mutual_relation_avatars": null,
+        "need_points": null,
+        "nickname": "Geta 1952",
+        "platform_sync_info": null,
+        "relative_users": null,
+        "search_highlight": null,
+        "sec_uid": "MS4wLjABAAAAvez4QqvhAZAj7xGTQOFYA-l8y7lgP2fHKkB9fctI8qTs_O-zl4AhUSzccvx5NsQU",
+        "shield_edit_field_info": null,
+        "type_label": null,
+        "uid": "6879024359857325062",
+        "unique_id": "geta191",
+        "user_profile_guide": null,
+        "user_tags": null,
+        "white_cover_url": null
+      },
+      "user_buried": false,
+      "user_digged": 0
+    },
+    {
+      "author_pin": false,
+      "aweme_id": "7443136685199674646",
+      "cid": "7443140922990314272",
+      "collect_stat": 0,
+      "comment_language": "ro",
+      "comment_post_item_ids": null,
+      "create_time": 1732991316,
+      "digg_count": 17,
+      "forbid_reply_with_video": true,
+      "image_list": null,
+      "is_author_digged": true,
+      "is_comment_translatable": true,
+      "label_list": [
+        {
+          "text": "Liked by creator",
+          "type": 20
+        }
+      ],
+      "no_show": false,
+      "reply_comment": null,
+      "reply_comment_total": 1,
+      "reply_id": "0",
+      "reply_to_reply_id": "0",
+      "share_info": {
+        "acl": {
+          "code": 0,
+          "extra": "{}"
+        },
+        "desc": "Cristina Eugenia275’s comment: SOS LA GUVERNARE ȘI CALIN GEORGESCU PREȘEDINTE 🙏🙏🙏",
+        "title": "#romania #parlament #guvern #partidepolitice #politica #alegeri #alegeri2024 #protest #miting #news #stiri #romaniavoteaza #sos #sosromania #diaspora #italia #spania #germania #vot #presedinte #prezidentiale #prezidentiale2024 #@Realitatea Plus ",
+        "url": "https://m.tiktok.com/v/7443136685199674646.html?_d=49jjef66j4ca6g&comment_author_id=7066730380942181382&preview_pb=0&share_comment_id=7443140922990314272&share_item_id=7443136685199674646&sharer_language=en-US&source=h5_m&u_code=e8hegggb201lba"
+      },
+      "sort_extra_score": {
+        "reply_score": 0.000916,
+        "show_more_score": 0.026764
+      },
+      "sort_tags": "{\"author_digg\":1,\"top_list\":1}",
+      "status": 1,
+      "stick_position": 0,
+      "text": "SOS LA GUVERNARE ȘI CALIN GEORGESCU PREȘEDINTE 🙏🙏🙏",
+      "text_extra": [],
+      "trans_btn_style": 1,
+      "user": {
+        "account_labels": null,
+        "ad_cover_url": null,
+        "advance_feature_item_order": null,
+        "advanced_feature_info": null,
+        "avatar_thumb": {
+          "uri": "tos-maliva-avt-0068/7070468648762081286",
+          "url_list": [
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7070468648762081286~c5_100x100.jpg?lk3s=30310797&nonce=79547&refresh_token=4ed75b6fbf2f335f816de522ae64b602&x-expires=1733094000&x-signature=AmtIWM%2Ft5jexwzwHrWjy2rppxXs%3D&shp=30310797&shcp=-",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7070468648762081286~c5_100x100.jpeg?lk3s=30310797&nonce=18614&refresh_token=940112d999768ab17a7ea6f965d6a7e1&x-expires=1733094000&x-signature=h1ZGH0XZmsE5mto5oCwkybfo9NM%3D&shp=30310797&shcp=-"
+          ],
+          "url_prefix": null
+        },
+        "bold_fields": null,
+        "can_message_follow_status_list": null,
+        "can_set_geofencing": null,
+        "cha_list": null,
+        "cover_url": null,
+        "custom_verify": "",
+        "enterprise_verify_reason": "",
+        "events": null,
+        "followers_detail": null,
+        "geofencing": null,
+        "homepage_bottom_toast": null,
+        "item_list": null,
+        "mutual_relation_avatars": null,
+        "need_points": null,
+        "nickname": "Cristina Eugenia275",
+        "platform_sync_info": null,
+        "relative_users": null,
+        "search_highlight": null,
+        "sec_uid": "MS4wLjABAAAApiuBx4jw8Bat4hQeDFCOOhCqj1Ob3UKCtbWXFaaUQoPEMC-0mVhKzlrUeDAqMzFy",
+        "shield_edit_field_info": null,
+        "type_label": null,
+        "uid": "7066730380942181382",
+        "unique_id": "cristinaeugenia27",
+        "user_profile_guide": null,
+        "user_tags": null,
+        "white_cover_url": null
+      },
+      "user_buried": false,
+      "user_digged": 0
+    },
+    {
+      "author_pin": false,
+      "aweme_id": "7443136685199674646",
+      "cid": "7443141348678910752",
+      "collect_stat": 0,
+      "comment_language": "it",
+      "comment_post_item_ids": null,
+      "create_time": 1732991408,
+      "digg_count": 7,
+      "forbid_reply_with_video": true,
+      "image_list": null,
+      "is_author_digged": true,
+      "is_comment_translatable": true,
+      "label_list": [
+        {
+          "text": "Liked by creator",
+          "type": 20
+        }
+      ],
+      "no_show": false,
+      "reply_comment": null,
+      "reply_comment_total": 1,
+      "reply_id": "0",
+      "reply_to_reply_id": "0",
+      "share_info": {
+        "acl": {
+          "code": 0,
+          "extra": "{}"
+        },
+        "desc": "VoiajoriCuloriRare’s comment: Votat in Italia SOS 🇹🇩🇹🇩🇹🇩",
+        "title": "#romania #parlament #guvern #partidepolitice #politica #alegeri #alegeri2024 #protest #miting #news #stiri #romaniavoteaza #sos #sosromania #diaspora #italia #spania #germania #vot #presedinte #prezidentiale #prezidentiale2024 #@Realitatea Plus ",
+        "url": "https://m.tiktok.com/v/7443136685199674646.html?_d=49jjef66j4ca6g&comment_author_id=6990886057920136198&preview_pb=0&share_comment_id=7443141348678910752&share_item_id=7443136685199674646&sharer_language=en-US&source=h5_m&u_code=e8hegggb201lba"
+      },
+      "sort_extra_score": {
+        "reply_score": 0.001038,
+        "show_more_score": 0.061686
+      },
+      "sort_tags": "{\"author_digg\":1,\"top_list\":1}",
+      "status": 1,
+      "stick_position": 0,
+      "text": "Votat in Italia SOS 🇹🇩🇹🇩🇹🇩",
+      "text_extra": [],
+      "trans_btn_style": 1,
+      "user": {
+        "account_labels": null,
+        "ad_cover_url": null,
+        "advance_feature_item_order": null,
+        "advanced_feature_info": null,
+        "avatar_thumb": {
+          "uri": "tos-useast2a-avt-0068-euttp/174d81bed58065e0c4939c1bcea615be",
+          "url_list": [
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/174d81bed58065e0c4939c1bcea615be~c5_100x100.jpg?lk3s=30310797&nonce=9267&refresh_token=869f3f640a9f8311ff50634abc32f410&x-expires=1733094000&x-signature=ZbOMyZLtsKwkzDwBUPg5BY1kaNs%3D&shp=30310797&shcp=-",
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/174d81bed58065e0c4939c1bcea615be~c5_100x100.jpeg?lk3s=30310797&nonce=65579&refresh_token=3882726532ac2b3d5e5bf4e0cb85c9ce&x-expires=1733094000&x-signature=u96mi0oOiGnl%2Fe4ol17zkoNiGgs%3D&shp=30310797&shcp=-"
+          ],
+          "url_prefix": null
+        },
+        "bold_fields": null,
+        "can_message_follow_status_list": null,
+        "can_set_geofencing": null,
+        "cha_list": null,
+        "cover_url": null,
+        "custom_verify": "",
+        "enterprise_verify_reason": "",
+        "events": null,
+        "followers_detail": null,
+        "geofencing": null,
+        "homepage_bottom_toast": null,
+        "item_list": null,
+        "mutual_relation_avatars": null,
+        "need_points": null,
+        "nickname": "VoiajoriCuloriRare",
+        "platform_sync_info": null,
+        "relative_users": null,
+        "search_highlight": null,
+        "sec_uid": "MS4wLjABAAAATIx3OWwkWR7n4JOn1uEIRWd6BmASG15vsbwqojQWPfQO7W3f-vddvka9KJUMxdrm",
+        "shield_edit_field_info": null,
+        "type_label": null,
+        "uid": "6990886057920136198",
+        "unique_id": "voiajoriculorirare",
+        "user_profile_guide": null,
+        "user_tags": null,
+        "white_cover_url": null
+      },
+      "user_buried": false,
+      "user_digged": 0
+    },
+    {
+      "author_pin": false,
+      "aweme_id": "7443136685199674646",
+      "cid": "7443177700116955906",
+      "collect_stat": 0,
+      "comment_language": "ro",
+      "comment_post_item_ids": null,
+      "create_time": 1732999883,
+      "digg_count": 5,
+      "forbid_reply_with_video": true,
+      "image_list": null,
+      "is_author_digged": true,
+      "is_comment_translatable": true,
+      "label_list": [
+        {
+          "text": "Liked by creator",
+          "type": 20
+        }
+      ],
+      "no_show": false,
+      "reply_comment": null,
+      "reply_comment_total": 0,
+      "reply_id": "0",
+      "reply_to_reply_id": "0",
+      "share_info": {
+        "acl": {
+          "code": 0,
+          "extra": "{}"
+        },
+        "desc": "Ion Barhan’s comment: Votam SOS .Dumnezeu este cu noi.",
+        "title": "#romania #parlament #guvern #partidepolitice #politica #alegeri #alegeri2024 #protest #miting #news #stiri #romaniavoteaza #sos #sosromania #diaspora #italia #spania #germania #vot #presedinte #prezidentiale #prezidentiale2024 #@Realitatea Plus ",
+        "url": "https://m.tiktok.com/v/7443136685199674646.html?_d=49jjef66j4ca6g&comment_author_id=6936852885876048902&preview_pb=0&share_comment_id=7443177700116955906&share_item_id=7443136685199674646&sharer_language=en-US&source=h5_m&u_code=e8hegggb201lba"
+      },
+      "sort_extra_score": {
+        "reply_score": 0.000459,
+        "show_more_score": 0.000173
+      },
+      "sort_tags": "{\"author_digg\":1,\"top_list\":1}",
+      "status": 1,
+      "stick_position": 0,
+      "text": "Votam SOS .Dumnezeu este cu noi.",
+      "text_extra": [],
+      "trans_btn_style": 1,
+      "user": {
+        "account_labels": null,
+        "ad_cover_url": null,
+        "advance_feature_item_order": null,
+        "advanced_feature_info": null,
+        "avatar_thumb": {
+          "uri": "tos-maliva-avt-0068/83f1bbb0afa375853200727cf37b1ee9",
+          "url_list": [
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/83f1bbb0afa375853200727cf37b1ee9~c5_100x100.jpg?lk3s=30310797&nonce=23791&refresh_token=59b7cf3b32a47d472347ec27c4936fc1&x-expires=1733094000&x-signature=u5k4ytK6fRU7KgLArVsb8PcTzHA%3D&shp=30310797&shcp=-",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/83f1bbb0afa375853200727cf37b1ee9~c5_100x100.jpeg?lk3s=30310797&nonce=48467&refresh_token=d40886d1175e476bf644e3ada86b62df&x-expires=1733094000&x-signature=zg%2B2REZvOEoCexenaOyr8hk%2Bkh4%3D&shp=30310797&shcp=-"
+          ],
+          "url_prefix": null
+        },
+        "bold_fields": null,
+        "can_message_follow_status_list": null,
+        "can_set_geofencing": null,
+        "cha_list": null,
+        "cover_url": null,
+        "custom_verify": "",
+        "enterprise_verify_reason": "",
+        "events": null,
+        "followers_detail": null,
+        "geofencing": null,
+        "homepage_bottom_toast": null,
+        "item_list": null,
+        "mutual_relation_avatars": null,
+        "need_points": null,
+        "nickname": "Ion Barhan",
+        "platform_sync_info": null,
+        "relative_users": null,
+        "search_highlight": null,
+        "sec_uid": "MS4wLjABAAAAdvzL2vzkfvH5v_bA04GrVDTWy9VaYW7ICQLajsGF5GtERzKAmArM1iDzqzWRNJw0",
+        "shield_edit_field_info": null,
+        "type_label": null,
+        "uid": "6936852885876048902",
+        "unique_id": "ionbarhan",
+        "user_profile_guide": null,
+        "user_tags": null,
+        "white_cover_url": null
+      },
+      "user_buried": false,
+      "user_digged": 0
+    },
+    {
+      "author_pin": false,
+      "aweme_id": "7443136685199674646",
+      "cid": "7443141479680721686",
+      "collect_stat": 0,
+      "comment_language": "ro",
+      "comment_post_item_ids": null,
+      "create_time": 1732991463,
+      "digg_count": 6,
+      "forbid_reply_with_video": true,
+      "image_list": null,
+      "is_author_digged": false,
+      "is_comment_translatable": true,
+      "label_list": null,
+      "no_show": false,
+      "reply_comment": null,
+      "reply_comment_total": 1,
+      "reply_id": "0",
+      "reply_to_reply_id": "0",
+      "share_info": {
+        "acl": {
+          "code": 1,
+          "extra": "{\"reason\":\"11\"}"
+        },
+        "desc": "Calatoru Costel’s comment: votăm Diana iovanovici Șoșoacă partidul SOS și Călin Georgescu Președinte România",
+        "title": "#romania #parlament #guvern #partidepolitice #politica #alegeri #alegeri2024 #protest #miting #news #stiri #romaniavoteaza #sos #sosromania #diaspora #italia #spania #germania #vot #presedinte #prezidentiale #prezidentiale2024 #@Realitatea Plus ",
+        "url": "https://m.tiktok.com/v/7443136685199674646.html?_d=49jjef66j4ca6g&comment_author_id=7028981933183091718&preview_pb=0&share_comment_id=7443141479680721686&share_item_id=7443136685199674646&sharer_language=en-US&source=h5_m&u_code=e8hegggb201lba"
+      },
+      "sort_extra_score": {
+        "reply_score": 0.000587,
+        "show_more_score": 0.028841
+      },
+      "sort_tags": "{\"top_list\":1}",
+      "status": 11,
+      "stick_position": 0,
+      "text": "votăm Diana iovanovici Șoșoacă partidul SOS și Călin Georgescu Președinte România",
+      "text_extra": [],
+      "trans_btn_style": 1,
+      "user": {
+        "account_labels": null,
+        "ad_cover_url": null,
+        "advance_feature_item_order": null,
+        "advanced_feature_info": null,
+        "avatar_thumb": {
+          "uri": "tos-useast2a-avt-0068-euttp/3afe9a41ccae3d8150411400377d2b07",
+          "url_list": [
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/3afe9a41ccae3d8150411400377d2b07~c5_100x100.jpg?lk3s=30310797&nonce=77247&refresh_token=65b0500150dd6ece9a6a6cb77207032e&x-expires=1733094000&x-signature=ATd%2BIYh5cszoJYqe8jRHTM0MBPA%3D&shp=30310797&shcp=-",
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/3afe9a41ccae3d8150411400377d2b07~c5_100x100.jpeg?lk3s=30310797&nonce=62973&refresh_token=57a195acab61a62159b9dda775cffcd3&x-expires=1733094000&x-signature=H5DZz89himtxzKtg0u8%2F6mnS02w%3D&shp=30310797&shcp=-"
+          ],
+          "url_prefix": null
+        },
+        "bold_fields": null,
+        "can_message_follow_status_list": null,
+        "can_set_geofencing": null,
+        "cha_list": null,
+        "cover_url": null,
+        "custom_verify": "",
+        "enterprise_verify_reason": "",
+        "events": null,
+        "followers_detail": null,
+        "geofencing": null,
+        "homepage_bottom_toast": null,
+        "item_list": null,
+        "mutual_relation_avatars": null,
+        "need_points": null,
+        "nickname": "Calatoru Costel",
+        "platform_sync_info": null,
+        "relative_users": null,
+        "search_highlight": null,
+        "sec_uid": "MS4wLjABAAAAdmKlef7_mIAuagQUKXWUF8XAMzdWiqvv-83odS1_G7GiuY4nEpaypRjkbxcVSSCL",
+        "shield_edit_field_info": null,
+        "type_label": null,
+        "uid": "7028981933183091718",
+        "unique_id": "calatorucostel",
+        "user_profile_guide": null,
+        "user_tags": null,
+        "white_cover_url": null
+      },
+      "user_buried": false,
+      "user_digged": 0
+    },
+    {
+      "author_pin": false,
+      "aweme_id": "7443136685199674646",
+      "cid": "7443149236981695264",
+      "collect_stat": 0,
+      "comment_language": "ro",
+      "comment_post_item_ids": null,
+      "create_time": 1732993246,
+      "digg_count": 1,
+      "forbid_reply_with_video": true,
+      "image_list": null,
+      "is_author_digged": true,
+      "is_comment_translatable": true,
+      "label_list": [
+        {
+          "text": "Liked by creator",
+          "type": 20
+        }
+      ],
+      "no_show": false,
+      "reply_comment": null,
+      "reply_comment_total": 0,
+      "reply_id": "0",
+      "reply_to_reply_id": "0",
+      "share_info": {
+        "acl": {
+          "code": 0,
+          "extra": "{}"
+        },
+        "desc": "Lucian Daniel Cojocaru’s comment: Mulți dintre generatia de aur știu acest jurământ! Mi-aș dori să știu câți dintre tinerii din ziua de azi cunosc acest jurământ!🥰🥰🥰",
+        "title": "#romania #parlament #guvern #partidepolitice #politica #alegeri #alegeri2024 #protest #miting #news #stiri #romaniavoteaza #sos #sosromania #diaspora #italia #spania #germania #vot #presedinte #prezidentiale #prezidentiale2024 #@Realitatea Plus ",
+        "url": "https://m.tiktok.com/v/7443136685199674646.html?_d=49jjef66j4ca6g&comment_author_id=7082022687955502085&preview_pb=0&share_comment_id=7443149236981695264&share_item_id=7443136685199674646&sharer_language=en-US&source=h5_m&u_code=e8hegggb201lba"
+      },
+      "sort_extra_score": {
+        "reply_score": 0.000354,
+        "show_more_score": 0.000186
+      },
+      "sort_tags": "{\"author_digg\":1,\"top_list\":1}",
+      "status": 1,
+      "stick_position": 0,
+      "text": "Mulți dintre generatia de aur știu acest jurământ! Mi-aș dori să știu câți dintre tinerii din ziua de azi cunosc acest jurământ!🥰🥰🥰",
+      "text_extra": [],
+      "trans_btn_style": 1,
+      "user": {
+        "account_labels": null,
+        "ad_cover_url": null,
+        "advance_feature_item_order": null,
+        "advanced_feature_info": null,
+        "avatar_thumb": {
+          "uri": "tos-useast2a-avt-0068-euttp/aad9c787c200a650cb37d9935ec9f2a1",
+          "url_list": [
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/aad9c787c200a650cb37d9935ec9f2a1~c5_100x100.jpg?lk3s=30310797&nonce=86776&refresh_token=e31ba1de251d9055c9c1af417533703a&x-expires=1733094000&x-signature=wrAxwQdOikn8IoNubjwWAmGMp%2FM%3D&shp=30310797&shcp=-",
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/aad9c787c200a650cb37d9935ec9f2a1~c5_100x100.jpeg?lk3s=30310797&nonce=46117&refresh_token=f6880cafb0c9bc7ca85aabcb5c1bfe0c&x-expires=1733094000&x-signature=4ivGFeE77DIzsIHq2H4JJ6RR9Xs%3D&shp=30310797&shcp=-"
+          ],
+          "url_prefix": null
+        },
+        "bold_fields": null,
+        "can_message_follow_status_list": null,
+        "can_set_geofencing": null,
+        "cha_list": null,
+        "cover_url": null,
+        "custom_verify": "",
+        "enterprise_verify_reason": "",
+        "events": null,
+        "followers_detail": null,
+        "geofencing": null,
+        "homepage_bottom_toast": null,
+        "item_list": null,
+        "mutual_relation_avatars": null,
+        "need_points": null,
+        "nickname": "Lucian Daniel Cojocaru",
+        "platform_sync_info": null,
+        "relative_users": null,
+        "search_highlight": null,
+        "sec_uid": "MS4wLjABAAAAEBAbsHcntibm_x4pMqUX_bXaR2_3f7ivnhO6IjtNAwOfSw7x8pR5b_GK5VCfVAlt",
+        "shield_edit_field_info": null,
+        "type_label": null,
+        "uid": "7082022687955502085",
+        "unique_id": "luciandanielcojoc",
+        "user_profile_guide": null,
+        "user_tags": null,
+        "white_cover_url": null
+      },
+      "user_buried": false,
+      "user_digged": 0
+    },
+    {
+      "author_pin": false,
+      "aweme_id": "7443136685199674646",
+      "cid": "7443145191164691222",
+      "collect_stat": 0,
+      "comment_language": "ro",
+      "comment_post_item_ids": null,
+      "create_time": 1732992310,
+      "digg_count": 7,
+      "forbid_reply_with_video": true,
+      "image_list": null,
+      "is_author_digged": true,
+      "is_comment_translatable": true,
+      "label_list": [
+        {
+          "text": "Liked by creator",
+          "type": 20
+        }
+      ],
+      "no_show": false,
+      "reply_comment": null,
+      "reply_comment_total": 0,
+      "reply_id": "0",
+      "reply_to_reply_id": "0",
+      "share_info": {
+        "acl": {
+          "code": 0,
+          "extra": "{}"
+        },
+        "desc": "distefano78887’s comment: Trăiască Națiunea Română Unită și Puternică ❤️💛💙",
+        "title": "#romania #parlament #guvern #partidepolitice #politica #alegeri #alegeri2024 #protest #miting #news #stiri #romaniavoteaza #sos #sosromania #diaspora #italia #spania #germania #vot #presedinte #prezidentiale #prezidentiale2024 #@Realitatea Plus ",
+        "url": "https://m.tiktok.com/v/7443136685199674646.html?_d=49jjef66j4ca6g&comment_author_id=7121785255220446214&preview_pb=0&share_comment_id=7443145191164691222&share_item_id=7443136685199674646&sharer_language=en-US&source=h5_m&u_code=e8hegggb201lba"
+      },
+      "sort_extra_score": {
+        "reply_score": 0.000372,
+        "show_more_score": 9.9e-05
+      },
+      "sort_tags": "{\"author_digg\":1,\"top_list\":1}",
+      "status": 1,
+      "stick_position": 0,
+      "text": "Trăiască Națiunea Română Unită și Puternică ❤️💛💙",
+      "text_extra": [],
+      "trans_btn_style": 1,
+      "user": {
+        "account_labels": null,
+        "ad_cover_url": null,
+        "advance_feature_item_order": null,
+        "advanced_feature_info": null,
+        "avatar_thumb": {
+          "uri": "tos-useast2a-avt-0068-euttp/afe1622968372bf2ca8388e193788d31",
+          "url_list": [
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/afe1622968372bf2ca8388e193788d31~c5_100x100.jpg?lk3s=30310797&nonce=45497&refresh_token=faf2eb4d0b18afb37555a3e69fd360c8&x-expires=1733094000&x-signature=p49xu0C2XfzxFvssjJQam9qAXmc%3D&shp=30310797&shcp=-",
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/afe1622968372bf2ca8388e193788d31~c5_100x100.jpeg?lk3s=30310797&nonce=64357&refresh_token=997a337fd2637f58c0840dd055d1ee50&x-expires=1733094000&x-signature=S%2B5bG3u3H%2Fvm0iO7e3qb6hIHMek%3D&shp=30310797&shcp=-"
+          ],
+          "url_prefix": null
+        },
+        "bold_fields": null,
+        "can_message_follow_status_list": null,
+        "can_set_geofencing": null,
+        "cha_list": null,
+        "cover_url": null,
+        "custom_verify": "",
+        "enterprise_verify_reason": "",
+        "events": null,
+        "followers_detail": null,
+        "geofencing": null,
+        "homepage_bottom_toast": null,
+        "item_list": null,
+        "mutual_relation_avatars": null,
+        "need_points": null,
+        "nickname": "distefano78887",
+        "platform_sync_info": null,
+        "relative_users": null,
+        "search_highlight": null,
+        "sec_uid": "MS4wLjABAAAAqYCpAeLn3JqaI1cqDDr8QozXlie3occcMp2gRoBR4AIdNtOUxw6zFp-skzH3m_LI",
+        "shield_edit_field_info": null,
+        "type_label": null,
+        "uid": "7121785255220446214",
+        "unique_id": "distefanoperme",
+        "user_profile_guide": null,
+        "user_tags": null,
+        "white_cover_url": null
+      },
+      "user_buried": false,
+      "user_digged": 0
+    },
+    {
+      "author_pin": false,
+      "aweme_id": "7443136685199674646",
+      "cid": "7443155097033245462",
+      "collect_stat": 0,
+      "comment_language": "en",
+      "comment_post_item_ids": null,
+      "create_time": 1732994619,
+      "digg_count": 4,
+      "forbid_reply_with_video": true,
+      "image_list": null,
+      "is_author_digged": true,
+      "is_comment_translatable": true,
+      "label_list": [
+        {
+          "text": "Liked by creator",
+          "type": 20
+        }
+      ],
+      "no_show": false,
+      "reply_comment": null,
+      "reply_comment_total": 0,
+      "reply_id": "0",
+      "reply_to_reply_id": "0",
+      "share_info": {
+        "acl": {
+          "code": 0,
+          "extra": "{}"
+        },
+        "desc": "Nicu Parfenie’s comment: victorie sos trezirea sos",
+        "title": "#romania #parlament #guvern #partidepolitice #politica #alegeri #alegeri2024 #protest #miting #news #stiri #romaniavoteaza #sos #sosromania #diaspora #italia #spania #germania #vot #presedinte #prezidentiale #prezidentiale2024 #@Realitatea Plus ",
+        "url": "https://m.tiktok.com/v/7443136685199674646.html?_d=49jjef66j4ca6g&comment_author_id=7337315735716463648&preview_pb=0&share_comment_id=7443155097033245462&share_item_id=7443136685199674646&sharer_language=en-US&source=h5_m&u_code=e8hegggb201lba"
+      },
+      "sort_extra_score": {
+        "reply_score": 0.000126,
+        "show_more_score": 6e-05
+      },
+      "sort_tags": "{\"author_digg\":1,\"top_list\":1}",
+      "status": 1,
+      "stick_position": 0,
+      "text": "victorie sos trezirea sos",
+      "text_extra": [],
+      "trans_btn_style": 0,
+      "user": {
+        "account_labels": null,
+        "ad_cover_url": null,
+        "advance_feature_item_order": null,
+        "advanced_feature_info": null,
+        "avatar_thumb": {
+          "uri": "tos-useast2a-avt-0068-euttp/7361556038774390816",
+          "url_list": [
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/7361556038774390816~c5_100x100.jpg?lk3s=30310797&nonce=35103&refresh_token=14e256f5aa880e8ee1f42da867e1d48f&x-expires=1733094000&x-signature=X5PAMRD9eaGuuU0j0b6BcNrYTa0%3D&shp=30310797&shcp=-",
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/7361556038774390816~c5_100x100.jpeg?lk3s=30310797&nonce=56950&refresh_token=800c34d59e16424ccd941bade4ade6cb&x-expires=1733094000&x-signature=MR3Qf%2FS2drJmtvmJCZyRyEZGm3g%3D&shp=30310797&shcp=-"
+          ],
+          "url_prefix": null
+        },
+        "bold_fields": null,
+        "can_message_follow_status_list": null,
+        "can_set_geofencing": null,
+        "cha_list": null,
+        "cover_url": null,
+        "custom_verify": "",
+        "enterprise_verify_reason": "",
+        "events": null,
+        "followers_detail": null,
+        "geofencing": null,
+        "homepage_bottom_toast": null,
+        "item_list": null,
+        "mutual_relation_avatars": null,
+        "need_points": null,
+        "nickname": "Nicu Parfenie",
+        "platform_sync_info": null,
+        "relative_users": null,
+        "search_highlight": null,
+        "sec_uid": "MS4wLjABAAAA7htrjCjGOP7dZjeUJAhz7Sx36S56mafpPe8X-vPw8LU6OhGZhnm5d33gMXuCAFGb",
+        "shield_edit_field_info": null,
+        "type_label": null,
+        "uid": "7337315735716463648",
+        "unique_id": "nicu.parfenie",
+        "user_profile_guide": null,
+        "user_tags": null,
+        "white_cover_url": null
+      },
+      "user_buried": false,
+      "user_digged": 0
+    },
+    {
+      "author_pin": false,
+      "aweme_id": "7443136685199674646",
+      "cid": "7443183676839772960",
+      "collect_stat": 0,
+      "comment_language": "mt",
+      "comment_post_item_ids": null,
+      "create_time": 1733001267,
+      "digg_count": 4,
+      "forbid_reply_with_video": true,
+      "image_list": null,
+      "is_author_digged": true,
+      "is_comment_translatable": true,
+      "label_list": [
+        {
+          "text": "Liked by creator",
+          "type": 20
+        }
+      ],
+      "no_show": false,
+      "reply_comment": null,
+      "reply_comment_total": 0,
+      "reply_id": "0",
+      "reply_to_reply_id": "0",
+      "share_info": {
+        "acl": {
+          "code": 0,
+          "extra": "{}"
+        },
+        "desc": "Mardau Iulica’s comment: vot 100%",
+        "title": "#romania #parlament #guvern #partidepolitice #politica #alegeri #alegeri2024 #protest #miting #news #stiri #romaniavoteaza #sos #sosromania #diaspora #italia #spania #germania #vot #presedinte #prezidentiale #prezidentiale2024 #@Realitatea Plus ",
+        "url": "https://m.tiktok.com/v/7443136685199674646.html?_d=49jjef66j4ca6g&comment_author_id=7254840702020879386&preview_pb=0&share_comment_id=7443183676839772960&share_item_id=7443136685199674646&sharer_language=en-US&source=h5_m&u_code=e8hegggb201lba"
+      },
+      "sort_extra_score": {
+        "reply_score": 0.000151,
+        "show_more_score": 5.8e-05
+      },
+      "sort_tags": "{\"author_digg\":1,\"top_list\":1}",
+      "status": 1,
+      "stick_position": 0,
+      "text": "vot 100%",
+      "text_extra": [],
+      "trans_btn_style": 1,
+      "user": {
+        "account_labels": null,
+        "ad_cover_url": null,
+        "advance_feature_item_order": null,
+        "advanced_feature_info": null,
+        "avatar_thumb": {
+          "uri": "tos-useast2a-avt-0068-euttp/5955f30416d3a9f690b30f0743487443",
+          "url_list": [
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/5955f30416d3a9f690b30f0743487443~c5_100x100.jpg?lk3s=30310797&nonce=74138&refresh_token=b925a06a84a13a97c62d04c02e912599&x-expires=1733094000&x-signature=yybk6RcabaQMqZy6ubccByZbWiA%3D&shp=30310797&shcp=-",
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/5955f30416d3a9f690b30f0743487443~c5_100x100.jpeg?lk3s=30310797&nonce=17775&refresh_token=36a715556262ed881ba2a93b5b24bc30&x-expires=1733094000&x-signature=xTLfFSlDsZom06VN00yKbMAC%2BnQ%3D&shp=30310797&shcp=-"
+          ],
+          "url_prefix": null
+        },
+        "bold_fields": null,
+        "can_message_follow_status_list": null,
+        "can_set_geofencing": null,
+        "cha_list": null,
+        "cover_url": null,
+        "custom_verify": "",
+        "enterprise_verify_reason": "",
+        "events": null,
+        "followers_detail": null,
+        "geofencing": null,
+        "homepage_bottom_toast": null,
+        "item_list": null,
+        "mutual_relation_avatars": null,
+        "need_points": null,
+        "nickname": "Mardau Iulica",
+        "platform_sync_info": null,
+        "relative_users": null,
+        "search_highlight": null,
+        "sec_uid": "MS4wLjABAAAAfYUPREKP4W3fcDsyNJ7MFl_98zzYbzwlqCjjMw0ftu_Tah9dv2FacvS3MVYL0zEd",
+        "shield_edit_field_info": null,
+        "type_label": null,
+        "uid": "7254840702020879386",
+        "unique_id": "mardau.iulica",
+        "user_profile_guide": null,
+        "user_tags": null,
+        "white_cover_url": null
+      },
+      "user_buried": false,
+      "user_digged": 0
+    },
+    {
+      "author_pin": false,
+      "aweme_id": "7443136685199674646",
+      "cid": "7443203136552715040",
+      "collect_stat": 0,
+      "comment_language": "ro",
+      "comment_post_item_ids": null,
+      "create_time": 1733005796,
+      "digg_count": 2,
+      "forbid_reply_with_video": true,
+      "image_list": null,
+      "is_author_digged": true,
+      "is_comment_translatable": true,
+      "label_list": [
+        {
+          "text": "Liked by creator",
+          "type": 20
+        }
+      ],
+      "no_show": false,
+      "reply_comment": null,
+      "reply_comment_total": 0,
+      "reply_id": "0",
+      "reply_to_reply_id": "0",
+      "share_info": {
+        "acl": {
+          "code": 0,
+          "extra": "{}"
+        },
+        "desc": "Costas barbarosa’s comment: Doamne ajuta!!♥️♥️♥️♥️♥️♥️",
+        "title": "#romania #parlament #guvern #partidepolitice #politica #alegeri #alegeri2024 #protest #miting #news #stiri #romaniavoteaza #sos #sosromania #diaspora #italia #spania #germania #vot #presedinte #prezidentiale #prezidentiale2024 #@Realitatea Plus ",
+        "url": "https://m.tiktok.com/v/7443136685199674646.html?_d=49jjef66j4ca6g&comment_author_id=7349959716607247393&preview_pb=0&share_comment_id=7443203136552715040&share_item_id=7443136685199674646&sharer_language=en-US&source=h5_m&u_code=e8hegggb201lba"
+      },
+      "sort_extra_score": {
+        "reply_score": 7.7e-05,
+        "show_more_score": 8.4e-05
+      },
+      "sort_tags": "{\"author_digg\":1,\"top_list\":1}",
+      "status": 1,
+      "stick_position": 0,
+      "text": "Doamne ajuta!!♥️♥️♥️♥️♥️♥️",
+      "text_extra": [],
+      "trans_btn_style": 1,
+      "user": {
+        "account_labels": null,
+        "ad_cover_url": null,
+        "advance_feature_item_order": null,
+        "advanced_feature_info": null,
+        "avatar_thumb": {
+          "uri": "tos-useast2a-avt-0068-euttp/6c0d83f6ff6b6f6e0d9be46baf8b95f3",
+          "url_list": [
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/6c0d83f6ff6b6f6e0d9be46baf8b95f3~c5_100x100.jpg?lk3s=30310797&nonce=85750&refresh_token=022eda14f68bd30c5a8c051df03b0dbd&x-expires=1733094000&x-signature=U9JHrBbvC8Th2xDDA%2BFrFwuIp0o%3D&shp=30310797&shcp=-",
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/6c0d83f6ff6b6f6e0d9be46baf8b95f3~c5_100x100.jpeg?lk3s=30310797&nonce=91250&refresh_token=f83d364da250f47a204b52f512c57ebe&x-expires=1733094000&x-signature=OzzGJVeBGn%2B6CIXrCw8iXsRIE9g%3D&shp=30310797&shcp=-"
+          ],
+          "url_prefix": null
+        },
+        "bold_fields": null,
+        "can_message_follow_status_list": null,
+        "can_set_geofencing": null,
+        "cha_list": null,
+        "cover_url": null,
+        "custom_verify": "",
+        "enterprise_verify_reason": "",
+        "events": null,
+        "followers_detail": null,
+        "geofencing": null,
+        "homepage_bottom_toast": null,
+        "item_list": null,
+        "mutual_relation_avatars": null,
+        "need_points": null,
+        "nickname": "Costas barbarosa",
+        "platform_sync_info": null,
+        "relative_users": null,
+        "search_highlight": null,
+        "sec_uid": "MS4wLjABAAAAoN1XDrQlwX3G2tOEHClGEWcGDxoTu3QJ3uoS-p2lV6e6BrgvKmqdUlO8aZPMb2NR",
+        "shield_edit_field_info": null,
+        "type_label": null,
+        "uid": "7349959716607247393",
+        "unique_id": "costas.barbarosa",
+        "user_profile_guide": null,
+        "user_tags": null,
+        "white_cover_url": null
+      },
+      "user_buried": false,
+      "user_digged": 0
+    },
+    {
+      "author_pin": false,
+      "aweme_id": "7443136685199674646",
+      "cid": "7443197309808313110",
+      "collect_stat": 0,
+      "comment_language": "en",
+      "comment_post_item_ids": null,
+      "create_time": 1733004447,
+      "digg_count": 1,
+      "forbid_reply_with_video": true,
+      "image_list": null,
+      "is_author_digged": true,
+      "is_comment_translatable": true,
+      "label_list": [
+        {
+          "text": "Liked by creator",
+          "type": 20
+        }
+      ],
+      "no_show": false,
+      "reply_comment": null,
+      "reply_comment_total": 0,
+      "reply_id": "0",
+      "reply_to_reply_id": "0",
+      "share_info": {
+        "acl": {
+          "code": 0,
+          "extra": "{}"
+        },
+        "desc": "Ezekiel256’s comment: THE END. 👍💪💪💪💪💪",
+        "title": "#romania #parlament #guvern #partidepolitice #politica #alegeri #alegeri2024 #protest #miting #news #stiri #romaniavoteaza #sos #sosromania #diaspora #italia #spania #germania #vot #presedinte #prezidentiale #prezidentiale2024 #@Realitatea Plus ",
+        "url": "https://m.tiktok.com/v/7443136685199674646.html?_d=49jjef66j4ca6g&comment_author_id=7382884478866523169&preview_pb=0&share_comment_id=7443197309808313110&share_item_id=7443136685199674646&sharer_language=en-US&source=h5_m&u_code=e8hegggb201lba"
+      },
+      "sort_extra_score": {
+        "reply_score": 0.000166,
+        "show_more_score": 0.00022
+      },
+      "sort_tags": "{\"author_digg\":1,\"top_list\":1}",
+      "status": 1,
+      "stick_position": 0,
+      "text": "THE END. 👍💪💪💪💪💪",
+      "text_extra": [],
+      "trans_btn_style": 0,
+      "user": {
+        "account_labels": null,
+        "ad_cover_url": null,
+        "advance_feature_item_order": null,
+        "advanced_feature_info": null,
+        "avatar_thumb": {
+          "uri": "tos-no1a-avt-0068c001-no/ffbf1c23e27b197dd7e8a58d2ffda1db",
+          "url_list": [
+            "https://p16-pu-sign-no.tiktokcdn-eu.com/obj/tos-no1a-avt-0068c001-no/ffbf1c23e27b197dd7e8a58d2ffda1db?lk3s=30310797&nonce=82783&refresh_token=e8a281dc83df8703792d320f04e3a0e6&x-expires=1733094000&x-signature=%2BcgyVw7H1L%2F2ZCeaw63HNEGUkLE%3D&shp=30310797&shcp=-",
+            "https://p19-pu-sign-no.tiktokcdn-eu.com/obj/tos-no1a-avt-0068c001-no/ffbf1c23e27b197dd7e8a58d2ffda1db?lk3s=30310797&nonce=6382&refresh_token=7252f1709c62857f78beeed0c566d1fa&x-expires=1733094000&x-signature=9JlkopBBqjK4WVvhfVa6EnwJx7Y%3D&shp=30310797&shcp=-"
+          ],
+          "url_prefix": null
+        },
+        "bold_fields": null,
+        "can_message_follow_status_list": null,
+        "can_set_geofencing": null,
+        "cha_list": null,
+        "cover_url": null,
+        "custom_verify": "",
+        "enterprise_verify_reason": "",
+        "events": null,
+        "followers_detail": null,
+        "geofencing": null,
+        "homepage_bottom_toast": null,
+        "item_list": null,
+        "mutual_relation_avatars": null,
+        "need_points": null,
+        "nickname": "Ezekiel256",
+        "platform_sync_info": null,
+        "relative_users": null,
+        "search_highlight": null,
+        "sec_uid": "MS4wLjABAAAAMLXWEO52wpl0DdqulszkPx7ddn-2uo5RsMBGh6PRW3YYoa2IDYMm2tFQGheE224q",
+        "shield_edit_field_info": null,
+        "type_label": null,
+        "uid": "7382884478866523169",
+        "unique_id": "ezekiel2566",
+        "user_profile_guide": null,
+        "user_tags": null,
+        "white_cover_url": null
+      },
+      "user_buried": false,
+      "user_digged": 0
+    },
+    {
+      "author_pin": false,
+      "aweme_id": "7443136685199674646",
+      "cid": "7443155650849571606",
+      "collect_stat": 0,
+      "comment_language": "fr",
+      "comment_post_item_ids": null,
+      "create_time": 1732994756,
+      "digg_count": 3,
+      "forbid_reply_with_video": true,
+      "image_list": null,
+      "is_author_digged": true,
+      "is_comment_translatable": true,
+      "label_list": [
+        {
+          "text": "Liked by creator",
+          "type": 20
+        }
+      ],
+      "no_show": false,
+      "reply_comment": null,
+      "reply_comment_total": 0,
+      "reply_id": "0",
+      "reply_to_reply_id": "0",
+      "share_info": {
+        "acl": {
+          "code": 0,
+          "extra": "{}"
+        },
+        "desc": "kaya’s comment: votez SOS!",
+        "title": "#romania #parlament #guvern #partidepolitice #politica #alegeri #alegeri2024 #protest #miting #news #stiri #romaniavoteaza #sos #sosromania #diaspora #italia #spania #germania #vot #presedinte #prezidentiale #prezidentiale2024 #@Realitatea Plus ",
+        "url": "https://m.tiktok.com/v/7443136685199674646.html?_d=49jjef66j4ca6g&comment_author_id=7287913949378429985&preview_pb=0&share_comment_id=7443155650849571606&share_item_id=7443136685199674646&sharer_language=en-US&source=h5_m&u_code=e8hegggb201lba"
+      },
+      "sort_extra_score": {
+        "reply_score": 0.000103,
+        "show_more_score": 3e-05
+      },
+      "sort_tags": "{\"author_digg\":1,\"top_list\":1}",
+      "status": 1,
+      "stick_position": 0,
+      "text": "votez SOS!",
+      "text_extra": [],
+      "trans_btn_style": 1,
+      "user": {
+        "account_labels": null,
+        "ad_cover_url": null,
+        "advance_feature_item_order": null,
+        "advanced_feature_info": null,
+        "avatar_thumb": {
+          "uri": "tos-no1a-avt-0068c001-no/0ffad571bd52f79d3dd4f2b5504b2b51",
+          "url_list": [
+            "https://p16-pu-sign-no.tiktokcdn-eu.com/obj/tos-no1a-avt-0068c001-no/0ffad571bd52f79d3dd4f2b5504b2b51?lk3s=30310797&nonce=95833&refresh_token=2d8fc803ecf497cf88707cd1646f0c22&x-expires=1733094000&x-signature=tCgRGf0cxWxIKF5Ax8HnhJzoMlU%3D&shp=30310797&shcp=-",
+            "https://p19-pu-sign-no.tiktokcdn-eu.com/obj/tos-no1a-avt-0068c001-no/0ffad571bd52f79d3dd4f2b5504b2b51?lk3s=30310797&nonce=87751&refresh_token=49069ef5d0bffdceb494d7a7a9a9fccf&x-expires=1733094000&x-signature=msk%2F2JvWP8O%2B71sjNjkJ1u44xXk%3D&shp=30310797&shcp=-"
+          ],
+          "url_prefix": null
+        },
+        "bold_fields": null,
+        "can_message_follow_status_list": null,
+        "can_set_geofencing": null,
+        "cha_list": null,
+        "cover_url": null,
+        "custom_verify": "",
+        "enterprise_verify_reason": "",
+        "events": null,
+        "followers_detail": null,
+        "geofencing": null,
+        "homepage_bottom_toast": null,
+        "item_list": null,
+        "mutual_relation_avatars": null,
+        "need_points": null,
+        "nickname": "kaya",
+        "platform_sync_info": null,
+        "relative_users": null,
+        "search_highlight": null,
+        "sec_uid": "MS4wLjABAAAAXB6g9yH7UQ4kx2_ZJRlil1mRcDygwkkE8k778AJ7Ss3k2O-O1PnfZgLhMara4V9i",
+        "shield_edit_field_info": null,
+        "type_label": null,
+        "uid": "7287913949378429985",
+        "unique_id": "kaya5732",
+        "user_profile_guide": null,
+        "user_tags": null,
+        "white_cover_url": null
+      },
+      "user_buried": false,
+      "user_digged": 0
+    },
+    {
+      "author_pin": false,
+      "aweme_id": "7443136685199674646",
+      "cid": "7443156624745317142",
+      "collect_stat": 0,
+      "comment_language": "fr",
+      "comment_post_item_ids": null,
+      "create_time": 1732994973,
+      "digg_count": 3,
+      "forbid_reply_with_video": true,
+      "image_list": null,
+      "is_author_digged": true,
+      "is_comment_translatable": true,
+      "label_list": [
+        {
+          "text": "Liked by creator",
+          "type": 20
+        }
+      ],
+      "no_show": false,
+      "reply_comment": null,
+      "reply_comment_total": 0,
+      "reply_id": "0",
+      "reply_to_reply_id": "0",
+      "share_info": {
+        "acl": {
+          "code": 0,
+          "extra": "{}"
+        },
+        "desc": "Gina241969’s comment: votez SOS",
+        "title": "#romania #parlament #guvern #partidepolitice #politica #alegeri #alegeri2024 #protest #miting #news #stiri #romaniavoteaza #sos #sosromania #diaspora #italia #spania #germania #vot #presedinte #prezidentiale #prezidentiale2024 #@Realitatea Plus ",
+        "url": "https://m.tiktok.com/v/7443136685199674646.html?_d=49jjef66j4ca6g&comment_author_id=6970635683971941382&preview_pb=0&share_comment_id=7443156624745317142&share_item_id=7443136685199674646&sharer_language=en-US&source=h5_m&u_code=e8hegggb201lba"
+      },
+      "sort_extra_score": {
+        "reply_score": 7.2e-05,
+        "show_more_score": 2.3e-05
+      },
+      "sort_tags": "{\"author_digg\":1,\"top_list\":1}",
+      "status": 1,
+      "stick_position": 0,
+      "text": "votez SOS",
+      "text_extra": [],
+      "trans_btn_style": 1,
+      "user": {
+        "account_labels": null,
+        "ad_cover_url": null,
+        "advance_feature_item_order": null,
+        "advanced_feature_info": null,
+        "avatar_thumb": {
+          "uri": "tos-maliva-avt-0068/7331472752019849221",
+          "url_list": [
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7331472752019849221~c5_100x100.jpg?lk3s=30310797&nonce=19068&refresh_token=91bb068528865896817f6948f24bba33&x-expires=1733094000&x-signature=xFbrhj7dkTx%2FeTkpeq9Ft4EFVwM%3D&shp=30310797&shcp=-",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7331472752019849221~c5_100x100.jpeg?lk3s=30310797&nonce=58758&refresh_token=aa0225c84514c63acc3e60bede1849e9&x-expires=1733094000&x-signature=G9bBaSnbE7SxynebqhLD9PlDAb4%3D&shp=30310797&shcp=-"
+          ],
+          "url_prefix": null
+        },
+        "bold_fields": null,
+        "can_message_follow_status_list": null,
+        "can_set_geofencing": null,
+        "cha_list": null,
+        "cover_url": null,
+        "custom_verify": "",
+        "enterprise_verify_reason": "",
+        "events": null,
+        "followers_detail": null,
+        "geofencing": null,
+        "homepage_bottom_toast": null,
+        "item_list": null,
+        "mutual_relation_avatars": null,
+        "need_points": null,
+        "nickname": "Gina241969",
+        "platform_sync_info": null,
+        "relative_users": null,
+        "search_highlight": null,
+        "sec_uid": "MS4wLjABAAAAJtM3V5dnhC24fy1CcLSNrMBKIBuTzAj0Lxk1f5PWhHmQ0tsZQI3-t75hBP7VyTH2",
+        "shield_edit_field_info": null,
+        "type_label": null,
+        "uid": "6970635683971941382",
+        "unique_id": "gina241969",
+        "user_profile_guide": null,
+        "user_tags": null,
+        "white_cover_url": null
+      },
+      "user_buried": false,
+      "user_digged": 0
+    },
+    {
+      "author_pin": false,
+      "aweme_id": "7443136685199674646",
+      "cid": "7443149567757304608",
+      "collect_stat": 0,
+      "comment_language": "it",
+      "comment_post_item_ids": null,
+      "create_time": 1732993323,
+      "digg_count": 4,
+      "forbid_reply_with_video": true,
+      "image_list": null,
+      "is_author_digged": true,
+      "is_comment_translatable": true,
+      "label_list": [
+        {
+          "text": "Liked by creator",
+          "type": 20
+        }
+      ],
+      "no_show": false,
+      "reply_comment": null,
+      "reply_comment_total": 1,
+      "reply_id": "0",
+      "reply_to_reply_id": "0",
+      "share_info": {
+        "acl": {
+          "code": 0,
+          "extra": "{}"
+        },
+        "desc": "Ilona Gabriela’s comment: Am votat SOS🥰🥰🥰🥰",
+        "title": "#romania #parlament #guvern #partidepolitice #politica #alegeri #alegeri2024 #protest #miting #news #stiri #romaniavoteaza #sos #sosromania #diaspora #italia #spania #germania #vot #presedinte #prezidentiale #prezidentiale2024 #@Realitatea Plus ",
+        "url": "https://m.tiktok.com/v/7443136685199674646.html?_d=49jjef66j4ca6g&comment_author_id=7408569098337109025&preview_pb=0&share_comment_id=7443149567757304608&share_item_id=7443136685199674646&sharer_language=en-US&source=h5_m&u_code=e8hegggb201lba"
+      },
+      "sort_extra_score": {
+        "reply_score": 0,
+        "show_more_score": 0
+      },
+      "sort_tags": "{\"author_digg\":1}",
+      "status": 1,
+      "stick_position": 0,
+      "text": "Am votat SOS🥰🥰🥰🥰",
+      "text_extra": [],
+      "trans_btn_style": 1,
+      "user": {
+        "account_labels": null,
+        "ad_cover_url": null,
+        "advance_feature_item_order": null,
+        "advanced_feature_info": null,
+        "avatar_thumb": {
+          "uri": "tos-useast2a-avt-0068-euttp/f7b099231e24c9a4e0cbf2719b4d5a4e",
+          "url_list": [
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/f7b099231e24c9a4e0cbf2719b4d5a4e~c5_100x100.jpg?lk3s=30310797&nonce=76940&refresh_token=509ff8aea086c6ba19f9fb5c3b6d020b&x-expires=1733094000&x-signature=sggIclAId%2FHfzlnjhtxdgLACm%2BM%3D&shp=30310797&shcp=-",
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/f7b099231e24c9a4e0cbf2719b4d5a4e~c5_100x100.jpeg?lk3s=30310797&nonce=33590&refresh_token=be349dcea303fabac2352d045b015ae8&x-expires=1733094000&x-signature=uSAOtavUlvfk20D42nqDob2Ji88%3D&shp=30310797&shcp=-"
+          ],
+          "url_prefix": null
+        },
+        "bold_fields": null,
+        "can_message_follow_status_list": null,
+        "can_set_geofencing": null,
+        "cha_list": null,
+        "cover_url": null,
+        "custom_verify": "",
+        "enterprise_verify_reason": "",
+        "events": null,
+        "followers_detail": null,
+        "geofencing": null,
+        "homepage_bottom_toast": null,
+        "item_list": null,
+        "mutual_relation_avatars": null,
+        "need_points": null,
+        "nickname": "Ilona Gabriela",
+        "platform_sync_info": null,
+        "relative_users": null,
+        "search_highlight": null,
+        "sec_uid": "MS4wLjABAAAAmSX6bOMiyUdVmP1PSTIs1SmHwLzMfcyy6ukGWpQjA_2QDHIo5aiR_Mjd5pXY1rzT",
+        "shield_edit_field_info": null,
+        "type_label": null,
+        "uid": "7408569098337109025",
+        "unique_id": "ilona.gabriela45",
+        "user_profile_guide": null,
+        "user_tags": null,
+        "white_cover_url": null
+      },
+      "user_buried": false,
+      "user_digged": 0
+    },
+    {
+      "author_pin": false,
+      "aweme_id": "7443136685199674646",
+      "cid": "7443170371147137794",
+      "collect_stat": 0,
+      "comment_language": "en",
+      "comment_post_item_ids": null,
+      "create_time": 1732998187,
+      "digg_count": 2,
+      "forbid_reply_with_video": true,
+      "image_list": null,
+      "is_author_digged": true,
+      "is_comment_translatable": true,
+      "label_list": [
+        {
+          "text": "Liked by creator",
+          "type": 20
+        }
+      ],
+      "no_show": false,
+      "reply_comment": null,
+      "reply_comment_total": 0,
+      "reply_id": "0",
+      "reply_to_reply_id": "0",
+      "share_info": {
+        "acl": {
+          "code": 0,
+          "extra": "{}"
+        },
+        "desc": "JAN’s comment: CORECT.🥰🥰🥰SOS",
+        "title": "#romania #parlament #guvern #partidepolitice #politica #alegeri #alegeri2024 #protest #miting #news #stiri #romaniavoteaza #sos #sosromania #diaspora #italia #spania #germania #vot #presedinte #prezidentiale #prezidentiale2024 #@Realitatea Plus ",
+        "url": "https://m.tiktok.com/v/7443136685199674646.html?_d=49jjef66j4ca6g&comment_author_id=6916765482050634758&preview_pb=0&share_comment_id=7443170371147137794&share_item_id=7443136685199674646&sharer_language=en-US&source=h5_m&u_code=e8hegggb201lba"
+      },
+      "sort_extra_score": {
+        "reply_score": 0,
+        "show_more_score": 0
+      },
+      "sort_tags": "{\"author_digg\":1}",
+      "status": 1,
+      "stick_position": 0,
+      "text": "CORECT.🥰🥰🥰SOS",
+      "text_extra": [],
+      "trans_btn_style": 0,
+      "user": {
+        "account_labels": null,
+        "ad_cover_url": null,
+        "advance_feature_item_order": null,
+        "advanced_feature_info": null,
+        "avatar_thumb": {
+          "uri": "tos-maliva-avt-0068/986d8955d18eed1b6a367479a1600633",
+          "url_list": [
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/986d8955d18eed1b6a367479a1600633~c5_100x100.jpg?lk3s=30310797&nonce=64208&refresh_token=73bf92ce0c75c92ae3a61a60ae873e86&x-expires=1733094000&x-signature=3JFGoPUlp6l6BonPz5WkS3VM5x4%3D&shp=30310797&shcp=-",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/986d8955d18eed1b6a367479a1600633~c5_100x100.jpeg?lk3s=30310797&nonce=86067&refresh_token=87b200b1efe09a7679fac089dae6a0f4&x-expires=1733094000&x-signature=yV4xfN9o3EYmna1wzpR%2BAEs53mg%3D&shp=30310797&shcp=-"
+          ],
+          "url_prefix": null
+        },
+        "bold_fields": null,
+        "can_message_follow_status_list": null,
+        "can_set_geofencing": null,
+        "cha_list": null,
+        "cover_url": null,
+        "custom_verify": "",
+        "enterprise_verify_reason": "",
+        "events": null,
+        "followers_detail": null,
+        "geofencing": null,
+        "homepage_bottom_toast": null,
+        "item_list": null,
+        "mutual_relation_avatars": null,
+        "need_points": null,
+        "nickname": "JAN",
+        "platform_sync_info": null,
+        "relative_users": null,
+        "search_highlight": null,
+        "sec_uid": "MS4wLjABAAAA8FJ8wB5IrAxiXsO565RSEoebFOqb9oOTDaYSvZZ_wbyeV3ODaXRjiJbvu0SJkMcJ",
+        "shield_edit_field_info": null,
+        "type_label": null,
+        "uid": "6916765482050634758",
+        "unique_id": "user116654145250",
+        "user_profile_guide": null,
+        "user_tags": null,
+        "white_cover_url": null
+      },
+      "user_buried": false,
+      "user_digged": 0
+    },
+    {
+      "author_pin": false,
+      "aweme_id": "7443136685199674646",
+      "cid": "7443139531162338070",
+      "collect_stat": 0,
+      "comment_language": "un",
+      "comment_post_item_ids": null,
+      "create_time": 1732991000,
+      "digg_count": 2,
+      "forbid_reply_with_video": true,
+      "image_list": null,
+      "is_author_digged": true,
+      "is_comment_translatable": false,
+      "label_list": [
+        {
+          "text": "Liked by creator",
+          "type": 20
+        }
+      ],
+      "no_show": false,
+      "reply_comment": null,
+      "reply_comment_total": 1,
+      "reply_id": "0",
+      "reply_to_reply_id": "0",
+      "share_info": {
+        "acl": {
+          "code": 0,
+          "extra": "{}"
+        },
+        "desc": "carolinao6’s comment: 🥰🥰🥰",
+        "title": "#romania #parlament #guvern #partidepolitice #politica #alegeri #alegeri2024 #protest #miting #news #stiri #romaniavoteaza #sos #sosromania #diaspora #italia #spania #germania #vot #presedinte #prezidentiale #prezidentiale2024 #@Realitatea Plus ",
+        "url": "https://m.tiktok.com/v/7443136685199674646.html?_d=49jjef66j4ca6g&comment_author_id=7352050361644221472&preview_pb=0&share_comment_id=7443139531162338070&share_item_id=7443136685199674646&sharer_language=en-US&source=h5_m&u_code=e8hegggb201lba"
+      },
+      "sort_extra_score": {
+        "reply_score": 0,
+        "show_more_score": 0
+      },
+      "sort_tags": "{\"author_digg\":1}",
+      "status": 1,
+      "stick_position": 0,
+      "text": "🥰🥰🥰",
+      "text_extra": [],
+      "trans_btn_style": 0,
+      "user": {
+        "account_labels": null,
+        "ad_cover_url": null,
+        "advance_feature_item_order": null,
+        "advanced_feature_info": null,
+        "avatar_thumb": {
+          "uri": "tos-no1a-avt-0068c001-no/1b6a8521ffe50231cd8da6b318fd4106",
+          "url_list": [
+            "https://p16-pu-sign-no.tiktokcdn-eu.com/obj/tos-no1a-avt-0068c001-no/1b6a8521ffe50231cd8da6b318fd4106?lk3s=30310797&nonce=17388&refresh_token=d65a71544acc79bdaa3e2760e2155283&x-expires=1733094000&x-signature=rAIwYr1WoDtgh%2F2JoMPdOoENsx4%3D&shp=30310797&shcp=-",
+            "https://p19-pu-sign-no.tiktokcdn-eu.com/obj/tos-no1a-avt-0068c001-no/1b6a8521ffe50231cd8da6b318fd4106?lk3s=30310797&nonce=32080&refresh_token=9326550137c58975dfdd9c9e20ab06a0&x-expires=1733094000&x-signature=GG1f2pbH88EmgA5%2BgRPmq5t%2FwyM%3D&shp=30310797&shcp=-"
+          ],
+          "url_prefix": null
+        },
+        "bold_fields": null,
+        "can_message_follow_status_list": null,
+        "can_set_geofencing": null,
+        "cha_list": null,
+        "cover_url": null,
+        "custom_verify": "",
+        "enterprise_verify_reason": "",
+        "events": null,
+        "followers_detail": null,
+        "geofencing": null,
+        "homepage_bottom_toast": null,
+        "item_list": null,
+        "mutual_relation_avatars": null,
+        "need_points": null,
+        "nickname": "carolinao6",
+        "platform_sync_info": null,
+        "relative_users": null,
+        "search_highlight": null,
+        "sec_uid": "MS4wLjABAAAAtb5EfLasJzq26T2vYs4xEh3-l0EOxw43FMhNEKSRtsoXixMJ5CEhpDauYkQyGeVQ",
+        "shield_edit_field_info": null,
+        "type_label": null,
+        "uid": "7352050361644221472",
+        "unique_id": "calorinacalorinao6",
+        "user_profile_guide": null,
+        "user_tags": null,
+        "white_cover_url": null
+      },
+      "user_buried": false,
+      "user_digged": 0
+    },
+    {
+      "author_pin": false,
+      "aweme_id": "7443136685199674646",
+      "cid": "7443138218905977622",
+      "collect_stat": 0,
+      "comment_language": "un",
+      "comment_post_item_ids": null,
+      "create_time": 1732990685,
+      "digg_count": 2,
+      "forbid_reply_with_video": true,
+      "image_list": null,
+      "is_author_digged": true,
+      "is_comment_translatable": false,
+      "label_list": [
+        {
+          "text": "Liked by creator",
+          "type": 20
+        }
+      ],
+      "no_show": false,
+      "reply_comment": null,
+      "reply_comment_total": 1,
+      "reply_id": "0",
+      "reply_to_reply_id": "0",
+      "share_info": {
+        "acl": {
+          "code": 0,
+          "extra": "{}"
+        },
+        "desc": "Miky C Miky’s comment: ❤️❤️❤️",
+        "title": "#romania #parlament #guvern #partidepolitice #politica #alegeri #alegeri2024 #protest #miting #news #stiri #romaniavoteaza #sos #sosromania #diaspora #italia #spania #germania #vot #presedinte #prezidentiale #prezidentiale2024 #@Realitatea Plus ",
+        "url": "https://m.tiktok.com/v/7443136685199674646.html?_d=49jjef66j4ca6g&comment_author_id=6788202650942784518&preview_pb=0&share_comment_id=7443138218905977622&share_item_id=7443136685199674646&sharer_language=en-US&source=h5_m&u_code=e8hegggb201lba"
+      },
+      "sort_extra_score": {
+        "reply_score": 0,
+        "show_more_score": 0
+      },
+      "sort_tags": "{\"author_digg\":1}",
+      "status": 1,
+      "stick_position": 0,
+      "text": "❤️❤️❤️",
+      "text_extra": [],
+      "trans_btn_style": 0,
+      "user": {
+        "account_labels": null,
+        "ad_cover_url": null,
+        "advance_feature_item_order": null,
+        "advanced_feature_info": null,
+        "avatar_thumb": {
+          "uri": "tos-maliva-avt-0068/a756ada85cca9f93dc7fa9db81b1faf4",
+          "url_list": [
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a756ada85cca9f93dc7fa9db81b1faf4~c5_100x100.jpg?lk3s=30310797&nonce=31617&refresh_token=5dadd9b72619fff7b42bff8a6f14ea65&x-expires=1733094000&x-signature=7gL6OIBwfeouGJnAC1%2Bl8gmCFKU%3D&shp=30310797&shcp=-",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/a756ada85cca9f93dc7fa9db81b1faf4~c5_100x100.jpeg?lk3s=30310797&nonce=52736&refresh_token=09ae6ef775d45418e6da0fb39f125b66&x-expires=1733094000&x-signature=Dn68qKlK8ZkJTFRkeE6kezp%2FYH0%3D&shp=30310797&shcp=-"
+          ],
+          "url_prefix": null
+        },
+        "bold_fields": null,
+        "can_message_follow_status_list": null,
+        "can_set_geofencing": null,
+        "cha_list": null,
+        "cover_url": null,
+        "custom_verify": "",
+        "enterprise_verify_reason": "",
+        "events": null,
+        "followers_detail": null,
+        "geofencing": null,
+        "homepage_bottom_toast": null,
+        "item_list": null,
+        "mutual_relation_avatars": null,
+        "need_points": null,
+        "nickname": "Miky C Miky",
+        "platform_sync_info": null,
+        "relative_users": null,
+        "search_highlight": null,
+        "sec_uid": "MS4wLjABAAAAiINBVb4dvG0k23kncWui7U96jwXu1LuEIfozeosSNYKK8qFHjUpcfvk7VrOMiGck",
+        "shield_edit_field_info": null,
+        "type_label": null,
+        "uid": "6788202650942784518",
+        "unique_id": "mikycmiky",
+        "user_profile_guide": null,
+        "user_tags": null,
+        "white_cover_url": null
+      },
+      "user_buried": false,
+      "user_digged": 0
+    },
+    {
+      "author_pin": false,
+      "aweme_id": "7443136685199674646",
+      "cid": "7443137644464866050",
+      "collect_stat": 0,
+      "comment_language": "un",
+      "comment_post_item_ids": null,
+      "create_time": 1732990569,
+      "digg_count": 2,
+      "forbid_reply_with_video": true,
+      "image_list": null,
+      "is_author_digged": true,
+      "is_comment_translatable": false,
+      "label_list": [
+        {
+          "text": "Liked by creator",
+          "type": 20
+        }
+      ],
+      "no_show": false,
+      "reply_comment": null,
+      "reply_comment_total": 1,
+      "reply_id": "0",
+      "reply_to_reply_id": "0",
+      "share_info": {
+        "acl": {
+          "code": 0,
+          "extra": "{}"
+        },
+        "desc": "simonamoscu’s comment: ❤️💛💙🙏🏼🙏🏼🙏🏼🙏🏼💪💪💪💪💪👍👍👍👍🥰🥰🥰🥰",
+        "title": "#romania #parlament #guvern #partidepolitice #politica #alegeri #alegeri2024 #protest #miting #news #stiri #romaniavoteaza #sos #sosromania #diaspora #italia #spania #germania #vot #presedinte #prezidentiale #prezidentiale2024 #@Realitatea Plus ",
+        "url": "https://m.tiktok.com/v/7443136685199674646.html?_d=49jjef66j4ca6g&comment_author_id=7051630618728449030&preview_pb=0&share_comment_id=7443137644464866050&share_item_id=7443136685199674646&sharer_language=en-US&source=h5_m&u_code=e8hegggb201lba"
+      },
+      "sort_extra_score": {
+        "reply_score": 0,
+        "show_more_score": 0
+      },
+      "sort_tags": "{\"author_digg\":1}",
+      "status": 1,
+      "stick_position": 0,
+      "text": "❤️💛💙🙏🏼🙏🏼🙏🏼🙏🏼💪💪💪💪💪👍👍👍👍🥰🥰🥰🥰",
+      "text_extra": [],
+      "trans_btn_style": 0,
+      "user": {
+        "account_labels": null,
+        "ad_cover_url": null,
+        "advance_feature_item_order": null,
+        "advanced_feature_info": null,
+        "avatar_thumb": {
+          "uri": "tos-useast2a-avt-0068-euttp/ede1d764127caae158648342427fe657",
+          "url_list": [
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/ede1d764127caae158648342427fe657~c5_100x100.jpg?lk3s=30310797&nonce=87624&refresh_token=0561a14fb94fe6aeda204e63cd115116&x-expires=1733094000&x-signature=YkYv9T45dnLweufShO92Zx7xWRc%3D&shp=30310797&shcp=-",
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/ede1d764127caae158648342427fe657~c5_100x100.jpeg?lk3s=30310797&nonce=16054&refresh_token=921652dbf4257815411a184b5add5b54&x-expires=1733094000&x-signature=P8cDwd1ilyPqucacR%2BgS2wUeKZo%3D&shp=30310797&shcp=-"
+          ],
+          "url_prefix": null
+        },
+        "bold_fields": null,
+        "can_message_follow_status_list": null,
+        "can_set_geofencing": null,
+        "cha_list": null,
+        "cover_url": null,
+        "custom_verify": "",
+        "enterprise_verify_reason": "",
+        "events": null,
+        "followers_detail": null,
+        "geofencing": null,
+        "homepage_bottom_toast": null,
+        "item_list": null,
+        "mutual_relation_avatars": null,
+        "need_points": null,
+        "nickname": "simonamoscu",
+        "platform_sync_info": null,
+        "relative_users": null,
+        "search_highlight": null,
+        "sec_uid": "MS4wLjABAAAAP72tnuHNhchWydpDOhkg2dgfN3kwHTmEBGOS1juHLlpboQGo_cV_ugpcPQeZIb2n",
+        "shield_edit_field_info": null,
+        "type_label": null,
+        "uid": "7051630618728449030",
+        "unique_id": "simonamoscu",
+        "user_profile_guide": null,
+        "user_tags": null,
+        "white_cover_url": null
+      },
+      "user_buried": false,
+      "user_digged": 0
+    },
+    {
+      "author_pin": false,
+      "aweme_id": "7443136685199674646",
+      "cid": "7443139481866126102",
+      "collect_stat": 0,
+      "comment_language": "un",
+      "comment_post_item_ids": null,
+      "create_time": 1732990988,
+      "digg_count": 2,
+      "forbid_reply_with_video": true,
+      "image_list": null,
+      "is_author_digged": true,
+      "is_comment_translatable": false,
+      "label_list": [
+        {
+          "text": "Liked by creator",
+          "type": 20
+        }
+      ],
+      "no_show": false,
+      "reply_comment": null,
+      "reply_comment_total": 0,
+      "reply_id": "0",
+      "reply_to_reply_id": "0",
+      "share_info": {
+        "acl": {
+          "code": 0,
+          "extra": "{}"
+        },
+        "desc": "teoalexandru617’s comment: 🥰🥰🥰🥰🥰🥰🥰🥰",
+        "title": "#romania #parlament #guvern #partidepolitice #politica #alegeri #alegeri2024 #protest #miting #news #stiri #romaniavoteaza #sos #sosromania #diaspora #italia #spania #germania #vot #presedinte #prezidentiale #prezidentiale2024 #@Realitatea Plus ",
+        "url": "https://m.tiktok.com/v/7443136685199674646.html?_d=49jjef66j4ca6g&comment_author_id=7131996297603810310&preview_pb=0&share_comment_id=7443139481866126102&share_item_id=7443136685199674646&sharer_language=en-US&source=h5_m&u_code=e8hegggb201lba"
+      },
+      "sort_extra_score": {
+        "reply_score": 0,
+        "show_more_score": 0
+      },
+      "sort_tags": "{\"author_digg\":1}",
+      "status": 1,
+      "stick_position": 0,
+      "text": "🥰🥰🥰🥰🥰🥰🥰🥰",
+      "text_extra": [],
+      "trans_btn_style": 0,
+      "user": {
+        "account_labels": null,
+        "ad_cover_url": null,
+        "advance_feature_item_order": null,
+        "advanced_feature_info": null,
+        "avatar_thumb": {
+          "uri": "tos-maliva-avt-0068/7131996960638599173",
+          "url_list": [
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7131996960638599173~c5_100x100.jpg?lk3s=30310797&nonce=95935&refresh_token=48031429e3189a57de153d5838717e81&x-expires=1733094000&x-signature=M97FLoS1BvAElWbq5%2FKJWyBVtlc%3D&shp=30310797&shcp=-",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7131996960638599173~c5_100x100.jpeg?lk3s=30310797&nonce=94023&refresh_token=8d5c2e23bdd372f6e5247e2473393f44&x-expires=1733094000&x-signature=pcmSRZROVg4FT7D%2B9PwLk%2F525Q4%3D&shp=30310797&shcp=-"
+          ],
+          "url_prefix": null
+        },
+        "bold_fields": null,
+        "can_message_follow_status_list": null,
+        "can_set_geofencing": null,
+        "cha_list": null,
+        "cover_url": null,
+        "custom_verify": "",
+        "enterprise_verify_reason": "",
+        "events": null,
+        "followers_detail": null,
+        "geofencing": null,
+        "homepage_bottom_toast": null,
+        "item_list": null,
+        "mutual_relation_avatars": null,
+        "need_points": null,
+        "nickname": "teoalexandru617",
+        "platform_sync_info": null,
+        "relative_users": null,
+        "search_highlight": null,
+        "sec_uid": "MS4wLjABAAAAJ4TwDPPOKqiUOsYH9QLEacx6cb2QtWTai_cSO9E44-pBxnhaeKFztrhlTEgDpRMo",
+        "shield_edit_field_info": null,
+        "type_label": null,
+        "uid": "7131996297603810310",
+        "unique_id": "teoalexandru617",
+        "user_profile_guide": null,
+        "user_tags": null,
+        "white_cover_url": null
+      },
+      "user_buried": false,
+      "user_digged": 0
+    },
+    {
+      "author_pin": false,
+      "aweme_id": "7443136685199674646",
+      "cid": "7443138862103429910",
+      "collect_stat": 0,
+      "comment_language": "un",
+      "comment_post_item_ids": null,
+      "create_time": 1732990851,
+      "digg_count": 2,
+      "forbid_reply_with_video": true,
+      "image_list": null,
+      "is_author_digged": true,
+      "is_comment_translatable": false,
+      "label_list": [
+        {
+          "text": "Liked by creator",
+          "type": 20
+        }
+      ],
+      "no_show": false,
+      "reply_comment": null,
+      "reply_comment_total": 0,
+      "reply_id": "0",
+      "reply_to_reply_id": "0",
+      "share_info": {
+        "acl": {
+          "code": 0,
+          "extra": "{}"
+        },
+        "desc": "Simplu Io’s comment: 🥰🥰🥰🥰",
+        "title": "#romania #parlament #guvern #partidepolitice #politica #alegeri #alegeri2024 #protest #miting #news #stiri #romaniavoteaza #sos #sosromania #diaspora #italia #spania #germania #vot #presedinte #prezidentiale #prezidentiale2024 #@Realitatea Plus ",
+        "url": "https://m.tiktok.com/v/7443136685199674646.html?_d=49jjef66j4ca6g&comment_author_id=6665283061074788358&preview_pb=0&share_comment_id=7443138862103429910&share_item_id=7443136685199674646&sharer_language=en-US&source=h5_m&u_code=e8hegggb201lba"
+      },
+      "sort_extra_score": {
+        "reply_score": 0,
+        "show_more_score": 0
+      },
+      "sort_tags": "{\"author_digg\":1}",
+      "status": 1,
+      "stick_position": 0,
+      "text": "🥰🥰🥰🥰",
+      "text_extra": [],
+      "trans_btn_style": 0,
+      "user": {
+        "account_labels": null,
+        "ad_cover_url": null,
+        "advance_feature_item_order": null,
+        "advanced_feature_info": null,
+        "avatar_thumb": {
+          "uri": "tos-no1a-avt-0068c001-no/a105a7f88447f0fb7170b28639fe8ccd",
+          "url_list": [
+            "https://p16-pu-sign-no.tiktokcdn-eu.com/obj/tos-no1a-avt-0068c001-no/a105a7f88447f0fb7170b28639fe8ccd?lk3s=30310797&nonce=97323&refresh_token=5b40d71fa28f5c7412768e5e269a6573&x-expires=1733094000&x-signature=WWntCXBEO%2F7iJhEJEwdqmlTkV7Y%3D&shp=30310797&shcp=-",
+            "https://p19-pu-sign-no.tiktokcdn-eu.com/obj/tos-no1a-avt-0068c001-no/a105a7f88447f0fb7170b28639fe8ccd?lk3s=30310797&nonce=1887&refresh_token=f7e74011206444380243d4641ed46682&x-expires=1733094000&x-signature=2Utl499VcJg4%2BaVkVyp0pBhPn4Y%3D&shp=30310797&shcp=-"
+          ],
+          "url_prefix": null
+        },
+        "bold_fields": null,
+        "can_message_follow_status_list": null,
+        "can_set_geofencing": null,
+        "cha_list": null,
+        "cover_url": null,
+        "custom_verify": "",
+        "enterprise_verify_reason": "",
+        "events": null,
+        "followers_detail": null,
+        "geofencing": null,
+        "homepage_bottom_toast": null,
+        "item_list": null,
+        "mutual_relation_avatars": null,
+        "need_points": null,
+        "nickname": "Simplu Io",
+        "platform_sync_info": null,
+        "relative_users": null,
+        "search_highlight": null,
+        "sec_uid": "MS4wLjABAAAAcvT2GA7ZvkH4lY7geoVw0-Ay2YMvk4AbEw5yjEex_J2bXpJ6Q1JIG1MI2sCvFszl",
+        "shield_edit_field_info": null,
+        "type_label": null,
+        "uid": "6665283061074788358",
+        "unique_id": "falxul",
+        "user_profile_guide": null,
+        "user_tags": null,
+        "white_cover_url": null
+      },
+      "user_buried": false,
+      "user_digged": 0
+    }
+  ]
+}

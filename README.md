@@ -1,9 +1,12 @@
-# Proiect observare situatie propaganda electorala in intervalul 23 noiembrie 2024 18:00 - 24 noiembrie 2024.
+# Proiect observare situatie propaganda electorala in intervalul 23 noiembrie 2024 18:00 - 24 noiembrie 2024, precum si 30.11.2024- 18:00 pana la 31.11.2024.
 
 ## Introducere
-Ca observator acreditat de Asociația Funky Citizens, am participat la monitorizarea alegerilor prezidențiale din România din anul 2024, care se desfasoara în perioada 24 noiembrie - 8 decembrie 2024. 
+Ca observator acreditat de Asociația Funky Citizens, am participat la monitorizarea alegerilor prezidențiale din România din anul 2024, care se desfasoara în perioada 24 noiembrie - 8 decembrie 2024.
+
+Mai mult, am actualizat studiul sa includa si alegerile parlamentare din 30.11.2024.
 
 Aici puteti regasi materialele mele cu privire la activitățile desfășurate în data de 23 noiembrie 2024, ziua premergătoare primului tur al scrutinului.
+
 
 ## Disclaimers
 
@@ -30,3 +33,17 @@ In momentul realizarii unui videoclip despre procedura, mecanismele luate pentru
 Aplicand principiul in dubio pro reo, am rectificat prompt-ul pentru a promova o analiza mai exhaustiva a starilor de fapt si dispus re-analizarea setului de postari susceptibile a fi ilicite. Modificarile nu nominalizeaza PSD, ci introduc detalii despre principiul in dubio pro reo, precum si detalii despre distinctia dintre cele 2 scrutinuri concomitente.
 
 Organele de constatare a contraventiilor, si partidele care au dreptul de a sesiza la randul lor organele de constatare a contraventiilor, pot accesa datele vechi in analysis_old, si reface analiza pentru a identifica modificarile.
+
+## Actualizare 00:03, 01 Decembrie 2024:
+
+Am finalizat si notificarea pentru platformele META + GOOGLE ADS cu privire la situatiile de propaganda electorala identificate dupa 18:00, 30 noiembrie 2024.
+
+Toate informatiile si procedura de analiza a fost publicata si ea.
+
+# Project TikTok Finder
+
+Tranzitia spre utilizarea propagandei pe TikTok a fost rapida, foloseste tehnici netraditionale (distribuirea de catre simpatizanti, utilizarea de modele AI pentru a selecta bucati viralizabile de continut, etc), si este greu de monitorizat.
+
+Prin acest proiect, urmeaza sa identificam si sa analizam postarile de pe TikTok care contin propaganda electorala, pentru a putea ulterior solicita sanctionarea lor de catre autoritati.
+
+
