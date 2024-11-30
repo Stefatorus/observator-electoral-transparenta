@@ -1,0 +1,10 @@
+<post>
+%document-data%
+</post>
+
+Below, is the image attached to the post (if any), which you must also consider:
+<image>
+%image-data%
+</image>
+
+Below, please analyse and output in the mandatory XML type format, in <output>.
