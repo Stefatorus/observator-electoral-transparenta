@@ -1,0 +1,1661 @@
+{
+  "AIGCDescription": "",
+  "BAInfo": "",
+  "CategoryType": 120,
+  "adAuthorization": false,
+  "adLabelVersion": 0,
+  "aigcLabelType": 0,
+  "author": {
+    "avatarLarger": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/48331221481a7370033a7e70e503f465~c5_1080x1080.jpeg?lk3s=a5d48078&nonce=66253&refresh_token=8818f4e3d9562ec9c0f5286960d09f42&x-expires=1733180400&x-signature=hkRohj%2BPxfWnZ9DaWtWHTmEliy0%3D&shp=a5d48078&shcp=b59d6b55",
+    "avatarMedium": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/48331221481a7370033a7e70e503f465~c5_720x720.jpeg?lk3s=a5d48078&nonce=5873&refresh_token=ecf4697329979dc680557bb3ef3e8f1a&x-expires=1733180400&x-signature=pu6TxXwwkXtLyVM2kGmJU9Ytu8I%3D&shp=a5d48078&shcp=b59d6b55",
+    "avatarThumb": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/48331221481a7370033a7e70e503f465~c5_100x100.jpeg?lk3s=a5d48078&nonce=76779&refresh_token=231944870f48f8f56c769a40849ca674&x-expires=1733180400&x-signature=QleyFF%2BsjAe2UKZ4KNkqzghyK0M%3D&shp=a5d48078&shcp=b59d6b55",
+    "commentSetting": 0,
+    "downloadSetting": 0,
+    "duetSetting": 0,
+    "ftc": false,
+    "id": "7044488172223792133",
+    "isADVirtual": false,
+    "isEmbedBanned": false,
+    "nickname": "Ventuză-iumor",
+    "openFavorite": false,
+    "privateAccount": false,
+    "relation": 0,
+    "secUid": "MS4wLjABAAAAMW8q0zoVUtk6ipKKRmJTkvLWMpepNbHVDUnfc-_jDWa0PTxd7dgZrLZtsCo8q0-q",
+    "secret": false,
+    "signature": "Cumpără acum plătește mai târziu 👈",
+    "stitchSetting": 0,
+    "ttSeller": false,
+    "uniqueId": "ventuzaiumor",
+    "verified": false
+  },
+  "authorStats": {
+    "diggCount": 33900,
+    "followerCount": 343300,
+    "followingCount": 115,
+    "friendCount": 0,
+    "heart": 943700,
+    "heartCount": 943700,
+    "videoCount": 270
+  },
+  "challenges": [
+    {
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": "",
+      "desc": "",
+      "id": "7180063910745178118",
+      "isCommerce": false,
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "stats": {
+        "videoCount": 0,
+        "viewCount": 0
+      },
+      "title": "ventuzaiumor"
+    },
+    {
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": "",
+      "desc": "",
+      "id": "88764338",
+      "isCommerce": false,
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "stats": {
+        "videoCount": 0,
+        "viewCount": 0
+      },
+      "title": "foryoupage"
+    },
+    {
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": "",
+      "desc": "",
+      "id": "85133",
+      "isCommerce": false,
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "stats": {
+        "videoCount": 0,
+        "viewCount": 0
+      },
+      "title": "viralvideo"
+    },
+    {
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": "",
+      "desc": "",
+      "id": "1678471084931074",
+      "isCommerce": false,
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "stats": {
+        "videoCount": 0,
+        "viewCount": 0
+      },
+      "title": "mamalucica"
+    },
+    {
+      "coverLarger": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/8e4d8102460a60717c89acc2d6367a16.png?shp=b59d6b55&shcp=-",
+      "coverMedium": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/8e4d8102460a60717c89acc2d6367a16.png?shp=b59d6b55&shcp=-",
+      "coverThumb": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/8e4d8102460a60717c89acc2d6367a16.png?shp=b59d6b55&shcp=-",
+      "desc": "¡descubre las canciones en tendencia! 🔥➡️ https://bit.ly/TendenciasTikTok_LATAM",
+      "id": "20884",
+      "isCommerce": false,
+      "profileLarger": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/4321dd2ed3acc737461c4254f0c55add.png?shp=b59d6b55&shcp=-",
+      "profileMedium": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/4321dd2ed3acc737461c4254f0c55add.png?shp=b59d6b55&shcp=-",
+      "profileThumb": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/4321dd2ed3acc737461c4254f0c55add.png?shp=b59d6b55&shcp=-",
+      "stats": {
+        "videoCount": 0,
+        "viewCount": 0
+      },
+      "title": "viral"
+    },
+    {
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": "",
+      "desc": "",
+      "id": "45566",
+      "isCommerce": false,
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "stats": {
+        "videoCount": 0,
+        "viewCount": 0
+      },
+      "title": "romania"
+    },
+    {
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": "",
+      "desc": "",
+      "id": "23428",
+      "isCommerce": false,
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "stats": {
+        "videoCount": 0,
+        "viewCount": 0
+      },
+      "title": "tiktok"
+    },
+    {
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": "",
+      "desc": "",
+      "id": "1645458491675653",
+      "isCommerce": false,
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "stats": {
+        "videoCount": 0,
+        "viewCount": 0
+      },
+      "title": "lasavrajeala"
+    },
+    {
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": "",
+      "desc": "",
+      "id": "7281730612308738080",
+      "isCommerce": false,
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "stats": {
+        "videoCount": 0,
+        "viewCount": 0
+      },
+      "title": "ventuzaiumor2"
+    },
+    {
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": "",
+      "desc": "",
+      "id": "1679621423335425",
+      "isCommerce": false,
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "stats": {
+        "videoCount": 0,
+        "viewCount": 0
+      },
+      "title": "mogosu"
+    },
+    {
+      "coverLarger": "",
+      "coverMedium": "",
+      "coverThumb": "",
+      "desc": "",
+      "id": "229207",
+      "isCommerce": false,
+      "profileLarger": "",
+      "profileMedium": "",
+      "profileThumb": "",
+      "stats": {
+        "videoCount": 0,
+        "viewCount": 0
+      },
+      "title": "fyp"
+    }
+  ],
+  "collected": false,
+  "contents": [
+    {
+      "desc": "#ventuzaiumor #foryoupage #viralvideo #mamalucica #viral #romania #tiktok #lasavrajeala #ventuzaiumor2 #mogosu #fyp ",
+      "textExtra": [
+        {
+          "awemeId": "",
+          "end": 13,
+          "hashtagId": "7180063910745178118",
+          "hashtagName": "ventuzaiumor",
+          "isCommerce": false,
+          "secUid": "",
+          "start": 0,
+          "subType": 0,
+          "type": 1,
+          "userId": "",
+          "userUniqueId": ""
+        },
+        {
+          "awemeId": "",
+          "end": 25,
+          "hashtagId": "88764338",
+          "hashtagName": "foryoupage",
+          "isCommerce": false,
+          "secUid": "",
+          "start": 14,
+          "subType": 0,
+          "type": 1,
+          "userId": "",
+          "userUniqueId": ""
+        },
+        {
+          "awemeId": "",
+          "end": 37,
+          "hashtagId": "85133",
+          "hashtagName": "viralvideo",
+          "isCommerce": false,
+          "secUid": "",
+          "start": 26,
+          "subType": 0,
+          "type": 1,
+          "userId": "",
+          "userUniqueId": ""
+        },
+        {
+          "awemeId": "",
+          "end": 49,
+          "hashtagId": "1678471084931074",
+          "hashtagName": "mamalucica",
+          "isCommerce": false,
+          "secUid": "",
+          "start": 38,
+          "subType": 0,
+          "type": 1,
+          "userId": "",
+          "userUniqueId": ""
+        },
+        {
+          "awemeId": "",
+          "end": 56,
+          "hashtagId": "20884",
+          "hashtagName": "viral",
+          "isCommerce": false,
+          "secUid": "",
+          "start": 50,
+          "subType": 0,
+          "type": 1,
+          "userId": "",
+          "userUniqueId": ""
+        },
+        {
+          "awemeId": "",
+          "end": 65,
+          "hashtagId": "45566",
+          "hashtagName": "romania",
+          "isCommerce": false,
+          "secUid": "",
+          "start": 57,
+          "subType": 0,
+          "type": 1,
+          "userId": "",
+          "userUniqueId": ""
+        },
+        {
+          "awemeId": "",
+          "end": 73,
+          "hashtagId": "23428",
+          "hashtagName": "tiktok",
+          "isCommerce": false,
+          "secUid": "",
+          "start": 66,
+          "subType": 0,
+          "type": 1,
+          "userId": "",
+          "userUniqueId": ""
+        },
+        {
+          "awemeId": "",
+          "end": 87,
+          "hashtagId": "1645458491675653",
+          "hashtagName": "lasavrajeala",
+          "isCommerce": false,
+          "secUid": "",
+          "start": 74,
+          "subType": 0,
+          "type": 1,
+          "userId": "",
+          "userUniqueId": ""
+        },
+        {
+          "awemeId": "",
+          "end": 102,
+          "hashtagId": "7281730612308738080",
+          "hashtagName": "ventuzaiumor2",
+          "isCommerce": false,
+          "secUid": "",
+          "start": 88,
+          "subType": 0,
+          "type": 1,
+          "userId": "",
+          "userUniqueId": ""
+        },
+        {
+          "awemeId": "",
+          "end": 110,
+          "hashtagId": "1679621423335425",
+          "hashtagName": "mogosu",
+          "isCommerce": false,
+          "secUid": "",
+          "start": 103,
+          "subType": 0,
+          "type": 1,
+          "userId": "",
+          "userUniqueId": ""
+        },
+        {
+          "awemeId": "",
+          "end": 115,
+          "hashtagId": "229207",
+          "hashtagName": "fyp",
+          "isCommerce": false,
+          "secUid": "",
+          "start": 111,
+          "subType": 0,
+          "type": 1,
+          "userId": "",
+          "userUniqueId": ""
+        }
+      ]
+    }
+  ],
+  "createTime": 1733006302,
+  "desc": "#ventuzaiumor #foryoupage #viralvideo #mamalucica #viral #romania #tiktok #lasavrajeala #ventuzaiumor2 #mogosu #fyp ",
+  "digged": false,
+  "diversificationId": 10071,
+  "duetDisplay": 0,
+  "duetEnabled": true,
+  "duetInfo": {
+    "duetFromId": "0"
+  },
+  "forFriend": false,
+  "id": "7443205372464123158",
+  "isAd": false,
+  "itemCommentStatus": 0,
+  "itemMute": false,
+  "item_control": {
+    "can_comment": true,
+    "can_creator_redirect": true,
+    "can_music_redirect": true,
+    "can_repost": true,
+    "can_share": true
+  },
+  "music": {
+    "album": "",
+    "authorName": "🃏Melly🃏",
+    "coverLarge": "https://p16-pu-sign-no.tiktokcdn-eu.com/obj/tos-no1a-avt-0068c001-no/8103b15f5f03073f78e2bfc125a5094a?lk3s=a5d48078&nonce=17005&refresh_token=955a98b1f1121f2b6b878bfd1d995cb9&x-expires=1733180400&x-signature=DBnMqUy0QLxPHxL7GDOhXzAwM7E%3D&shp=a5d48078&shcp=b59d6b55",
+    "coverMedium": "https://p16-pu-sign-no.tiktokcdn-eu.com/obj/tos-no1a-avt-0068c001-no/8103b15f5f03073f78e2bfc125a5094a?lk3s=a5d48078&nonce=56396&refresh_token=d7075d3524cb278257349636bf5fb440&x-expires=1733180400&x-signature=DBnMqUy0QLxPHxL7GDOhXzAwM7E%3D&shp=a5d48078&shcp=b59d6b55",
+    "coverThumb": "https://p16-pu-sign-no.tiktokcdn-eu.com/obj/tos-no1a-avt-0068c001-no/8103b15f5f03073f78e2bfc125a5094a?lk3s=a5d48078&nonce=47547&refresh_token=7b8678d99e21b9cda47fb7cf05fdad45&x-expires=1733180400&x-signature=DBnMqUy0QLxPHxL7GDOhXzAwM7E%3D&shp=a5d48078&shcp=b59d6b55",
+    "duration": 23,
+    "id": "7443110183624100630",
+    "original": true,
+    "playUrl": "https://v77.tiktokcdn-eu.com/951a584aa475607fe576141b133c499b/674bae0b/video/tos/no1a/tos-no1a-v-2370-no/ogGNsWeqWDjnOL6oYfyDElIIIlwL9gJAT7ET1f/?a=1233&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=0&dr=0&er=2&cd=0%7C0%7C0%7C0&br=250&bt=125&ft=.NpOcInz7ThUwMqOXq8Zmo&mime_type=audio_mpeg&qs=6&rc=OWVpaDM7ZGg6ZjU2aGhoPEBpM3I2bnY5cm5tdzMzbzU8NUA1NV8uXzA2X2IxNWNjLTViYSNtcWZlMmRrbjJgLS1kMTFzcw%3D%3D&vvpl=1&l=202411302329392CEF32D57366CDCDF735&btag=e00088000&download=true",
+    "title": "sunet original"
+  },
+  "officalItem": false,
+  "originalItem": false,
+  "playlistId": "",
+  "privateItem": false,
+  "secret": false,
+  "shareEnabled": true,
+  "showNotPass": false,
+  "stats": {
+    "collectCount": 3,
+    "commentCount": 20,
+    "diggCount": 138,
+    "playCount": 5505,
+    "shareCount": 8
+  },
+  "statsV2": {
+    "collectCount": "3",
+    "commentCount": "20",
+    "diggCount": "138",
+    "playCount": "5505",
+    "repostCount": "0",
+    "shareCount": "8"
+  },
+  "stickersOnItem": [
+    {
+      "stickerText": [
+        "Lasconi sau Calin?"
+      ],
+      "stickerType": 4
+    }
+  ],
+  "stitchDisplay": 0,
+  "stitchEnabled": true,
+  "textExtra": [
+    {
+      "awemeId": "",
+      "end": 13,
+      "hashtagId": "7180063910745178118",
+      "hashtagName": "ventuzaiumor",
+      "isCommerce": false,
+      "secUid": "",
+      "start": 0,
+      "subType": 0,
+      "type": 1,
+      "userId": "",
+      "userUniqueId": ""
+    },
+    {
+      "awemeId": "",
+      "end": 25,
+      "hashtagId": "88764338",
+      "hashtagName": "foryoupage",
+      "isCommerce": false,
+      "secUid": "",
+      "start": 14,
+      "subType": 0,
+      "type": 1,
+      "userId": "",
+      "userUniqueId": ""
+    },
+    {
+      "awemeId": "",
+      "end": 37,
+      "hashtagId": "85133",
+      "hashtagName": "viralvideo",
+      "isCommerce": false,
+      "secUid": "",
+      "start": 26,
+      "subType": 0,
+      "type": 1,
+      "userId": "",
+      "userUniqueId": ""
+    },
+    {
+      "awemeId": "",
+      "end": 49,
+      "hashtagId": "1678471084931074",
+      "hashtagName": "mamalucica",
+      "isCommerce": false,
+      "secUid": "",
+      "start": 38,
+      "subType": 0,
+      "type": 1,
+      "userId": "",
+      "userUniqueId": ""
+    },
+    {
+      "awemeId": "",
+      "end": 56,
+      "hashtagId": "20884",
+      "hashtagName": "viral",
+      "isCommerce": false,
+      "secUid": "",
+      "start": 50,
+      "subType": 0,
+      "type": 1,
+      "userId": "",
+      "userUniqueId": ""
+    },
+    {
+      "awemeId": "",
+      "end": 65,
+      "hashtagId": "45566",
+      "hashtagName": "romania",
+      "isCommerce": false,
+      "secUid": "",
+      "start": 57,
+      "subType": 0,
+      "type": 1,
+      "userId": "",
+      "userUniqueId": ""
+    },
+    {
+      "awemeId": "",
+      "end": 73,
+      "hashtagId": "23428",
+      "hashtagName": "tiktok",
+      "isCommerce": false,
+      "secUid": "",
+      "start": 66,
+      "subType": 0,
+      "type": 1,
+      "userId": "",
+      "userUniqueId": ""
+    },
+    {
+      "awemeId": "",
+      "end": 87,
+      "hashtagId": "1645458491675653",
+      "hashtagName": "lasavrajeala",
+      "isCommerce": false,
+      "secUid": "",
+      "start": 74,
+      "subType": 0,
+      "type": 1,
+      "userId": "",
+      "userUniqueId": ""
+    },
+    {
+      "awemeId": "",
+      "end": 102,
+      "hashtagId": "7281730612308738080",
+      "hashtagName": "ventuzaiumor2",
+      "isCommerce": false,
+      "secUid": "",
+      "start": 88,
+      "subType": 0,
+      "type": 1,
+      "userId": "",
+      "userUniqueId": ""
+    },
+    {
+      "awemeId": "",
+      "end": 110,
+      "hashtagId": "1679621423335425",
+      "hashtagName": "mogosu",
+      "isCommerce": false,
+      "secUid": "",
+      "start": 103,
+      "subType": 0,
+      "type": 1,
+      "userId": "",
+      "userUniqueId": ""
+    },
+    {
+      "awemeId": "",
+      "end": 115,
+      "hashtagId": "229207",
+      "hashtagName": "fyp",
+      "isCommerce": false,
+      "secUid": "",
+      "start": 111,
+      "subType": 0,
+      "type": 1,
+      "userId": "",
+      "userUniqueId": ""
+    }
+  ],
+  "video": {
+    "VQScore": "67.66",
+    "bitrate": 1119809,
+    "bitrateInfo": [
+      {
+        "Bitrate": 1119809,
+        "CodecType": "h264",
+        "GearName": "normal_540_0",
+        "MVMAF": "\"\"",
+        "PlayAddr": {
+          "DataSize": 1553736,
+          "FileCs": "c:0-10757-981a",
+          "FileHash": "c53be41602b0ec2129d6c4d4059a7834",
+          "Height": 1024,
+          "Uri": "v24044gl0000ct5p607og65gp5tqs100",
+          "UrlKey": "v24044gl0000ct5p607og65gp5tqs100_h264_540p_1119809",
+          "UrlList": [
+            "https://v16-webapp-prime.tiktok.com/video/tos/no1a/tos-no1a-ve-0068c001-no/o8DX9kqAIBcSdQEX8fRJEUhFeMAA5gCvgkACFn/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=2186&bt=1093&cs=0&ds=6&ft=4fUEKMT88Zmo0S5Njb4jV5fCrpWrKsd.&mime_type=video_mp4&qs=0&rc=ZzdnOmlnZWg3ZWU1ZzRlPEBpMzR0OGo5cjNzdzMzbzczNUBgMWBgNF41XjUxNDYzYDFgYSMtcHFtMmQ0MzJgLS1kMTFzcw%3D%3D&btag=e00088000&expire=1733182191&l=202411302329392CEF32D57366CDCDF735&ply_type=2&policy=2&signature=6742d72ed794cbf40e4137e5b454ad97&tk=tt_chain_token",
+            "https://v19-webapp-prime.tiktok.com/video/tos/no1a/tos-no1a-ve-0068c001-no/o8DX9kqAIBcSdQEX8fRJEUhFeMAA5gCvgkACFn/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=2186&bt=1093&cs=0&ds=6&ft=4fUEKMT88Zmo0S5Njb4jV5fCrpWrKsd.&mime_type=video_mp4&qs=0&rc=ZzdnOmlnZWg3ZWU1ZzRlPEBpMzR0OGo5cjNzdzMzbzczNUBgMWBgNF41XjUxNDYzYDFgYSMtcHFtMmQ0MzJgLS1kMTFzcw%3D%3D&btag=e00088000&expire=1733182191&l=202411302329392CEF32D57366CDCDF735&ply_type=2&policy=2&signature=6742d72ed794cbf40e4137e5b454ad97&tk=tt_chain_token",
+            "https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=c94bc16d927b4b84ae8bad7fc7cd44cd&is_play_url=1&item_id=7443205372464123158&line=0&ply_type=2&redirect=0&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLmQ5ZDdhMjlhZTMwNTY5NDgyNjUwMWQ0MTJiNjI2NmM0&tk=tt_chain_token&vidc=no1a&video_id=v24044gl0000ct5p607og65gp5tqs100"
+          ],
+          "Width": 576
+        },
+        "QualityType": 20
+      },
+      {
+        "Bitrate": 1032203,
+        "CodecType": "h265_hvc1",
+        "GearName": "adapt_lowest_1080_1",
+        "MVMAF": "\"{\\\"v2.0\\\": {\\\"srv1\\\": {\\\"v1080\\\": -1, \\\"v960\\\": -1, \\\"v864\\\": -1, \\\"v720\\\": -1}, \\\"ori\\\": {\\\"v1080\\\": 91.54, \\\"v960\\\": 92.407, \\\"v864\\\": 93.653, \\\"v720\\\": 95.664}}}\"",
+        "PlayAddr": {
+          "DataSize": 1432182,
+          "FileCs": "c:0-10930-59d7",
+          "FileHash": "bc160ec76596fcf33267d7d97bcfe54f",
+          "Height": 1920,
+          "Uri": "v24044gl0000ct5p607og65gp5tqs100",
+          "UrlKey": "v24044gl0000ct5p607og65gp5tqs100_bytevc1_1080p_1032203",
+          "UrlList": [
+            "https://v16-webapp-prime.tiktok.com/video/tos/no1a/tos-no1a-ve-0068-no/oYEBBASPTAQiwuXEZAuQ0ByLlZiIubBYBZCXm/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=2016&bt=1008&cs=2&ds=4&ft=4fUEKMT88Zmo0S5Njb4jV5fCrpWrKsd.&mime_type=video_mp4&qs=15&rc=Z2doM2U5NWRkNWY2N2U5OUBpMzR0OGo5cjNzdzMzbzczNUAvMDU0X2I1Xi4xLmNgMzIvYSMtcHFtMmQ0MzJgLS1kMTFzcw%3D%3D&btag=e00088000&expire=1733182191&l=202411302329392CEF32D57366CDCDF735&ply_type=2&policy=2&signature=e04fc09c071bf9cb9d572686e3a5e8c8&tk=tt_chain_token",
+            "https://v19-webapp-prime.tiktok.com/video/tos/no1a/tos-no1a-ve-0068-no/oYEBBASPTAQiwuXEZAuQ0ByLlZiIubBYBZCXm/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=2016&bt=1008&cs=2&ds=4&ft=4fUEKMT88Zmo0S5Njb4jV5fCrpWrKsd.&mime_type=video_mp4&qs=15&rc=Z2doM2U5NWRkNWY2N2U5OUBpMzR0OGo5cjNzdzMzbzczNUAvMDU0X2I1Xi4xLmNgMzIvYSMtcHFtMmQ0MzJgLS1kMTFzcw%3D%3D&btag=e00088000&expire=1733182191&l=202411302329392CEF32D57366CDCDF735&ply_type=2&policy=2&signature=e04fc09c071bf9cb9d572686e3a5e8c8&tk=tt_chain_token",
+            "https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=26566bc4f31c421aaa82e6bb708e3d2d&is_play_url=1&item_id=7443205372464123158&line=0&ply_type=2&redirect=0&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjg4YTY1Y2I2NTNiYTQwMDgxMjM2MTgyYjU4ODM2MjMy&tk=tt_chain_token&vidc=no1a&video_id=v24044gl0000ct5p607og65gp5tqs100"
+          ],
+          "Width": 1080
+        },
+        "QualityType": 2
+      },
+      {
+        "Bitrate": 609944,
+        "CodecType": "h265_hvc1",
+        "GearName": "adapt_lower_720_1",
+        "MVMAF": "\"{\\\"v2.0\\\": {\\\"srv1\\\": {\\\"v1080\\\": 95.168, \\\"v960\\\": 96.554, \\\"v864\\\": 97.022, \\\"v720\\\": 98.303}, \\\"ori\\\": {\\\"v1080\\\": 84.319, \\\"v960\\\": 87.425, \\\"v864\\\": 89.481, \\\"v720\\\": 92.141}}}\"",
+        "PlayAddr": {
+          "DataSize": 846298,
+          "FileCs": "c:0-10921-7969",
+          "FileHash": "fc48ea950771f04a26ff313af1e117a7",
+          "Height": 1280,
+          "Uri": "v24044gl0000ct5p607og65gp5tqs100",
+          "UrlKey": "v24044gl0000ct5p607og65gp5tqs100_bytevc1_720p_609944",
+          "UrlList": [
+            "https://v16-webapp-prime.tiktok.com/video/tos/no1a/tos-no1a-ve-0068c001-no/oInSShCLI75ABckEQA0XmFADZRFAlkfvfgdDME/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1190&bt=595&cs=2&ds=3&ft=4fUEKMT88Zmo0S5Njb4jV5fCrpWrKsd.&mime_type=video_mp4&qs=14&rc=ZjNkMzZmaDo3NjdpOzZmZUBpMzR0OGo5cjNzdzMzbzczNUAzY2AtYDIwXy4xX14xNDMzYSMtcHFtMmQ0MzJgLS1kMTFzcw%3D%3D&btag=e00088000&expire=1733182191&l=202411302329392CEF32D57366CDCDF735&ply_type=2&policy=2&signature=a0371614f7104bcfc101fa5d7d0cc44e&tk=tt_chain_token",
+            "https://v19-webapp-prime.tiktok.com/video/tos/no1a/tos-no1a-ve-0068c001-no/oInSShCLI75ABckEQA0XmFADZRFAlkfvfgdDME/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1190&bt=595&cs=2&ds=3&ft=4fUEKMT88Zmo0S5Njb4jV5fCrpWrKsd.&mime_type=video_mp4&qs=14&rc=ZjNkMzZmaDo3NjdpOzZmZUBpMzR0OGo5cjNzdzMzbzczNUAzY2AtYDIwXy4xX14xNDMzYSMtcHFtMmQ0MzJgLS1kMTFzcw%3D%3D&btag=e00088000&expire=1733182191&l=202411302329392CEF32D57366CDCDF735&ply_type=2&policy=2&signature=a0371614f7104bcfc101fa5d7d0cc44e&tk=tt_chain_token",
+            "https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=6b6c7348afb44314b73e5cc300caf06c&is_play_url=1&item_id=7443205372464123158&line=0&ply_type=2&redirect=0&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLmQwMjExZWNmZmEyOTliMDYxOWUxYjJhMTlhODA0Yjc4&tk=tt_chain_token&vidc=no1a&video_id=v24044gl0000ct5p607og65gp5tqs100"
+          ],
+          "Width": 720
+        },
+        "QualityType": 14
+      },
+      {
+        "Bitrate": 484330,
+        "CodecType": "h265_hvc1",
+        "GearName": "adapt_540_1",
+        "MVMAF": "\"{\\\"v2.0\\\": {\\\"srv1\\\": {\\\"v1080\\\": 92.492, \\\"v960\\\": 94.45, \\\"v864\\\": 95.408, \\\"v720\\\": 98.124}, \\\"ori\\\": {\\\"v1080\\\": 80.198, \\\"v960\\\": 83.652, \\\"v864\\\": 85.843, \\\"v720\\\": 89.601}}}\"",
+        "PlayAddr": {
+          "DataSize": 672008,
+          "FileCs": "c:0-10921-53d7",
+          "FileHash": "365e79ff51b3dbd2cd9368eb7530d455",
+          "Height": 1024,
+          "Uri": "v24044gl0000ct5p607og65gp5tqs100",
+          "UrlKey": "v24044gl0000ct5p607og65gp5tqs100_bytevc1_540p_484330",
+          "UrlList": [
+            "https://v16-webapp-prime.tiktok.com/video/tos/no1a/tos-no1a-ve-0068-no/o0yuYhZiZPLEQBXuQATR5AEBLw0KIBuBBliAq/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=944&bt=472&cs=2&ds=6&ft=4fUEKMT88Zmo0S5Njb4jV5fCrpWrKsd.&mime_type=video_mp4&qs=11&rc=OzppaWUzZTQ3aTNkOGk2NkBpMzR0OGo5cjNzdzMzbzczNUAxMTYwYF9hNTUxL2AxLzFiYSMtcHFtMmQ0MzJgLS1kMTFzcw%3D%3D&btag=e00088000&expire=1733182191&l=202411302329392CEF32D57366CDCDF735&ply_type=2&policy=2&signature=84ccd1fd1511d04308e9b6336f9d7f27&tk=tt_chain_token",
+            "https://v19-webapp-prime.tiktok.com/video/tos/no1a/tos-no1a-ve-0068-no/o0yuYhZiZPLEQBXuQATR5AEBLw0KIBuBBliAq/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=944&bt=472&cs=2&ds=6&ft=4fUEKMT88Zmo0S5Njb4jV5fCrpWrKsd.&mime_type=video_mp4&qs=11&rc=OzppaWUzZTQ3aTNkOGk2NkBpMzR0OGo5cjNzdzMzbzczNUAxMTYwYF9hNTUxL2AxLzFiYSMtcHFtMmQ0MzJgLS1kMTFzcw%3D%3D&btag=e00088000&expire=1733182191&l=202411302329392CEF32D57366CDCDF735&ply_type=2&policy=2&signature=84ccd1fd1511d04308e9b6336f9d7f27&tk=tt_chain_token",
+            "https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=e3432f45ca204f8481dbb0cb3f9f4748&is_play_url=1&item_id=7443205372464123158&line=0&ply_type=2&redirect=0&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjJmNWVlM2NmZDY3ZjYyOWFlMjhhMzEyMGJlZjkwYjZm&tk=tt_chain_token&vidc=no1a&video_id=v24044gl0000ct5p607og65gp5tqs100"
+          ],
+          "Width": 576
+        },
+        "QualityType": 28
+      },
+      {
+        "Bitrate": 396437,
+        "CodecType": "h264",
+        "GearName": "lowest_540_0",
+        "MVMAF": "\"\"",
+        "PlayAddr": {
+          "DataSize": 550057,
+          "FileCs": "c:0-10773-cfb2",
+          "FileHash": "1590483bf00e4ed2218a87404814c1a6",
+          "Height": 1024,
+          "Uri": "v24044gl0000ct5p607og65gp5tqs100",
+          "UrlKey": "v24044gl0000ct5p607og65gp5tqs100_h264_540p_396437",
+          "UrlList": [
+            "https://v16-webapp-prime.tiktok.com/video/tos/no1a/tos-no1a-ve-0068c001-no/oMFMey5nSAzcFCAQEhv5KRJBkIXfIpdVEkAgQD/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=774&bt=387&cs=0&ds=6&ft=4fUEKMT88Zmo0S5Njb4jV5fCrpWrKsd.&mime_type=video_mp4&qs=5&rc=ZjtpNDs0aGg4ZGQ2NjRlZUBpMzR0OGo5cjNzdzMzbzczNUA2LTRjLzE0NTYxNDRgYS82YSMtcHFtMmQ0MzJgLS1kMTFzcw%3D%3D&btag=e00088000&expire=1733182191&l=202411302329392CEF32D57366CDCDF735&ply_type=2&policy=2&signature=5b99def194b5c3569f75cd71276134e8&tk=tt_chain_token",
+            "https://v19-webapp-prime.tiktok.com/video/tos/no1a/tos-no1a-ve-0068c001-no/oMFMey5nSAzcFCAQEhv5KRJBkIXfIpdVEkAgQD/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=774&bt=387&cs=0&ds=6&ft=4fUEKMT88Zmo0S5Njb4jV5fCrpWrKsd.&mime_type=video_mp4&qs=5&rc=ZjtpNDs0aGg4ZGQ2NjRlZUBpMzR0OGo5cjNzdzMzbzczNUA2LTRjLzE0NTYxNDRgYS82YSMtcHFtMmQ0MzJgLS1kMTFzcw%3D%3D&btag=e00088000&expire=1733182191&l=202411302329392CEF32D57366CDCDF735&ply_type=2&policy=2&signature=5b99def194b5c3569f75cd71276134e8&tk=tt_chain_token",
+            "https://www.tiktok.com/aweme/v1/play/?faid=1988&file_id=9b2bd1c3737a4a958e7e4128f17f089c&is_play_url=1&item_id=7443205372464123158&line=0&ply_type=2&redirect=0&signaturev3=dmlkZW9faWQ7ZmlsZV9pZDtpdGVtX2lkLjJlYjhmODg0YTA3N2Y2MjZhNmIxNjA5OWMyMWZlYmMx&tk=tt_chain_token&vidc=no1a&video_id=v24044gl0000ct5p607og65gp5tqs100"
+          ],
+          "Width": 576
+        },
+        "QualityType": 25
+      }
+    ],
+    "claInfo": {
+      "captionInfos": [
+        {
+          "captionFormat": "webvtt",
+          "claSubtitleID": "7443207425240845078",
+          "expire": "1733182191",
+          "isAutoGen": true,
+          "isOriginalCaption": true,
+          "language": "ron-RO",
+          "languageCode": "",
+          "languageID": "40",
+          "subID": "987815588",
+          "subtitleType": "1",
+          "url": "https://v16-webapp.tiktok.com/9064fc4e17c70bccd3ee8cb43526da81/674e42ef/video/tos/no1a/tos-no1a-v-0037-no/054ff020c47d4698acb3293e2e39e004/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=14936&bt=7468&ds=4&ft=4b~OyMT88Zmo0S5Njb4jV5fCrpWrKsd.&mime_type=video_mp4&qs=13&rc=MzR0OGo5cjNzdzMzbzczNUBpMzR0OGo5cjNzdzMzbzczNUAtcHFtMmQ0MzJgLS1kMTFzYSMtcHFtMmQ0MzJgLS1kMTFzcw%3D%3D&l=202411302329392CEF32D57366CDCDF735&btag=e00048000",
+          "urlList": [
+            "https://v16-webapp.tiktok.com/9064fc4e17c70bccd3ee8cb43526da81/674e42ef/video/tos/no1a/tos-no1a-v-0037-no/054ff020c47d4698acb3293e2e39e004/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=14936&bt=7468&ds=4&ft=4b~OyMT88Zmo0S5Njb4jV5fCrpWrKsd.&mime_type=video_mp4&qs=13&rc=MzR0OGo5cjNzdzMzbzczNUBpMzR0OGo5cjNzdzMzbzczNUAtcHFtMmQ0MzJgLS1kMTFzYSMtcHFtMmQ0MzJgLS1kMTFzcw%3D%3D&l=202411302329392CEF32D57366CDCDF735&btag=e00048000",
+            "https://v16-webapp.tiktok.com/9064fc4e17c70bccd3ee8cb43526da81/674e42ef/video/tos/no1a/tos-no1a-v-0037-no/054ff020c47d4698acb3293e2e39e004/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=14936&bt=7468&ds=4&ft=4b~OyMT88Zmo0S5Njb4jV5fCrpWrKsd.&mime_type=video_mp4&qs=13&rc=MzR0OGo5cjNzdzMzbzczNUBpMzR0OGo5cjNzdzMzbzczNUAtcHFtMmQ0MzJgLS1kMTFzYSMtcHFtMmQ0MzJgLS1kMTFzcw%3D%3D&l=202411302329392CEF32D57366CDCDF735&btag=e00048000",
+            "https://vas-useast2a.tiktokv.com/tiktok/v1/subtitle/url?aid=1988&format=webvtt&language=ron-RO&sign=29e6f354568a5873bef3579607518ad5&version=1%3Awhisper_lid&vid=v24044gl0000ct5p607og65gp5tqs100"
+          ],
+          "variant": "whisper_lid"
+        }
+      ],
+      "captionsType": 1,
+      "enableAutoCaption": true,
+      "hasOriginalAudio": true,
+      "originalLanguageInfo": {
+        "language": "ron-RO",
+        "languageCode": "",
+        "languageID": "40"
+      }
+    },
+    "codecType": "h264",
+    "cover": "https://p16-pu-sign-no.tiktokcdn-eu.com/obj/tos-no1a-p-0037-no/okPOOiTIBBALi1AyABE9JZYkXwB0E7SZuBuuj?lk3s=b59d6b55&x-expires=1733180400&x-signature=9LGe2qo9RNcH61VpK3YEyN3qyLs%3D&shp=b59d6b55&shcp=-",
+    "definition": "540p",
+    "downloadAddr": "https://v16-webapp-prime.tiktok.com/video/tos/no1a/tos-no1a-ve-0068-no/oU6QkIJtgAMnFkhCRFfv5nDBUDS2AEEceGdAgX/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=2294&bt=1147&cs=0&ds=3&ft=4fUEKMT88Zmo0S5Njb4jV5fCrpWrKsd.&mime_type=video_mp4&qs=0&rc=OmVmaTczZjs8Ozs1NGQ0Z0BpMzR0OGo5cjNzdzMzbzczNUA0LzEyXzYzXjUxYS8zYjNeYSMtcHFtMmQ0MzJgLS1kMTFzcw%3D%3D&btag=e00088000&expire=1733182191&l=202411302329392CEF32D57366CDCDF735&ply_type=2&policy=2&signature=fb530e1339fd774a7561e8cb2d6e176f&tk=tt_chain_token",
+    "duration": 11,
+    "dynamicCover": "https://p16-pu-sign-no.tiktokcdn-eu.com/obj/tos-no1a-p-0037-no/owkuPXE9iYP0BABOPuJTiByMZL9uAIAIBZBdw?lk3s=b59d6b55&x-expires=1733180400&x-signature=Ra3JKbJph36kxvogBM2HYPzXAWY%3D&shp=b59d6b55&shcp=-",
+    "encodeUserTag": "",
+    "encodedType": "normal",
+    "format": "mp4",
+    "height": 1024,
+    "id": "7443205372464123158",
+    "originCover": "https://p16-pu-sign-no.tiktokcdn-eu.com/obj/tos-no1a-p-0037-no/ogP9EIBaAwBGiLuBtYBIkiZyu8LBuZXEAT0Ai?lk3s=b59d6b55&x-expires=1733180400&x-signature=ZQZO7tgX2IYO3WBkGm9rEGkQ0nQ%3D&shp=b59d6b55&shcp=-",
+    "playAddr": "https://v16-webapp-prime.tiktok.com/video/tos/no1a/tos-no1a-ve-0068c001-no/o8DX9kqAIBcSdQEX8fRJEUhFeMAA5gCvgkACFn/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=2186&bt=1093&cs=0&ds=6&ft=4fUEKMT88Zmo0S5Njb4jV5fCrpWrKsd.&mime_type=video_mp4&qs=0&rc=ZzdnOmlnZWg3ZWU1ZzRlPEBpMzR0OGo5cjNzdzMzbzczNUBgMWBgNF41XjUxNDYzYDFgYSMtcHFtMmQ0MzJgLS1kMTFzcw%3D%3D&btag=e00088000&expire=1733182191&l=202411302329392CEF32D57366CDCDF735&ply_type=2&policy=2&signature=6742d72ed794cbf40e4137e5b454ad97&tk=tt_chain_token",
+    "ratio": "540p",
+    "reflowCover": "https://p16-pu-sign-no.tiktokcdn-eu.com/tos-no1a-p-0037-no/okPOOiTIBBALi1AyABE9JZYkXwB0E7SZuBuuj~tplv-photomode-video-cover:480:480.jpeg?lk3s=b59d6b55&x-expires=1733180400&x-signature=QAog0CgKaP0144vDWvEGkUVOYWo%3D&shp=b59d6b55&shcp=-",
+    "shareCover": [
+      "",
+      "https://p16-pu-sign-no.tiktokcdn-eu.com/tos-no1a-p-0037-no/ogP9EIBaAwBGiLuBtYBIkiZyu8LBuZXEAT0Ai~tplv-photomode-tiktok-play.jpeg?lk3s=b59d6b55&x-expires=1733612400&x-signature=0RLrlrU9Jm%2F5JFevfkqdeTNMNbY%3D&shp=b59d6b55&shcp=-",
+      "https://p16-pu-sign-no.tiktokcdn-eu.com/tos-no1a-p-0037-no/ogP9EIBaAwBGiLuBtYBIkiZyu8LBuZXEAT0Ai~tplv-photomode-share-play.jpeg?lk3s=b59d6b55&x-expires=1733612400&x-signature=zfSE5Lw%2FqlHyf9JBz8hQ%2FUTtPu8%3D&shp=b59d6b55&shcp=-"
+    ],
+    "size": 1553736,
+    "subtitleInfos": [
+      {
+        "Format": "webvtt",
+        "LanguageCodeName": "ron-RO",
+        "LanguageID": "40",
+        "Size": 350,
+        "Source": "ASR",
+        "Url": "https://v16-webapp.tiktok.com/9064fc4e17c70bccd3ee8cb43526da81/674e42ef/video/tos/no1a/tos-no1a-v-0037-no/054ff020c47d4698acb3293e2e39e004/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=14936&bt=7468&ds=4&ft=4b~OyMT88Zmo0S5Njb4jV5fCrpWrKsd.&mime_type=video_mp4&qs=13&rc=MzR0OGo5cjNzdzMzbzczNUBpMzR0OGo5cjNzdzMzbzczNUAtcHFtMmQ0MzJgLS1kMTFzYSMtcHFtMmQ0MzJgLS1kMTFzcw%3D%3D&l=202411302329392CEF32D57366CDCDF735&btag=e00048000",
+        "UrlExpire": 1733182191,
+        "Version": "1:whisper_lid",
+        "VideoSubtitleID": 987815588
+      }
+    ],
+    "videoQuality": "normal",
+    "volumeInfo": {
+      "Loudness": -19.2,
+      "Peak": 1
+    },
+    "width": 576,
+    "zoomCover": {
+      "240": "https://p16-pu-sign-no.tiktokcdn-eu.com/tos-no1a-p-0037-no/okPOOiTIBBALi1AyABE9JZYkXwB0E7SZuBuuj~tplv-photomode-zoomcover:240:240.jpeg?lk3s=b59d6b55&x-expires=1733180400&x-signature=KKh1aFhDG2mEhpchASLCOK%2FV6wU%3D&shp=b59d6b55&shcp=-",
+      "480": "https://p16-pu-sign-no.tiktokcdn-eu.com/tos-no1a-p-0037-no/okPOOiTIBBALi1AyABE9JZYkXwB0E7SZuBuuj~tplv-photomode-zoomcover:480:480.jpeg?lk3s=b59d6b55&x-expires=1733180400&x-signature=OsvfQXecUSJcsrvT%2BRNAZFlAlb4%3D&shp=b59d6b55&shcp=-",
+      "720": "https://p16-pu-sign-no.tiktokcdn-eu.com/tos-no1a-p-0037-no/okPOOiTIBBALi1AyABE9JZYkXwB0E7SZuBuuj~tplv-photomode-zoomcover:720:720.jpeg?lk3s=b59d6b55&x-expires=1733180400&x-signature=mnvGiEXDMzHoBZ9tdVlmHfYbFwE%3D&shp=b59d6b55&shcp=-",
+      "960": "https://p16-pu-sign-no.tiktokcdn-eu.com/tos-no1a-p-0037-no/okPOOiTIBBALi1AyABE9JZYkXwB0E7SZuBuuj~tplv-photomode-zoomcover:960:960.jpeg?lk3s=b59d6b55&x-expires=1733180400&x-signature=LmI1eTYabtCqK9mCx026Nk7ij8M%3D&shp=b59d6b55&shcp=-"
+    }
+  },
+  "vl1": false,
+  "comments": [
+    {
+      "author_pin": false,
+      "aweme_id": "7443205372464123158",
+      "cid": "7443206803573228321",
+      "collect_stat": 0,
+      "comment_language": "ro",
+      "comment_post_item_ids": null,
+      "create_time": 1733006655,
+      "digg_count": 2,
+      "forbid_reply_with_video": false,
+      "image_list": null,
+      "is_author_digged": false,
+      "is_comment_translatable": true,
+      "label_list": null,
+      "no_show": false,
+      "reply_comment": null,
+      "reply_comment_total": 1,
+      "reply_id": "0",
+      "reply_to_reply_id": "0",
+      "share_info": {
+        "acl": {
+          "code": 0,
+          "extra": "{}"
+        },
+        "desc": "Andrei’s comment: O dedic lui Calin",
+        "title": "#ventuzaiumor #foryoupage #viralvideo #mamalucica #viral #romania #tiktok #lasavrajeala #ventuzaiumor2 #mogosu #fyp ",
+        "url": "https://m.tiktok.com/v/7443205372464123158.html?_d=4c72mlkc83557j&comment_author_id=6617724173122945029&preview_pb=0&share_comment_id=7443206803573228321&share_item_id=7443205372464123158&sharer_language=en-US&source=h5_m&u_code=e8hegggb201lba"
+      },
+      "sort_extra_score": {
+        "reply_score": 0.000204,
+        "show_more_score": 0.09602
+      },
+      "sort_tags": "{\"top_list\":1}",
+      "status": 1,
+      "stick_position": 0,
+      "text": "O dedic lui Calin",
+      "text_extra": [],
+      "trans_btn_style": 1,
+      "user": {
+        "account_labels": null,
+        "ad_cover_url": null,
+        "advance_feature_item_order": null,
+        "advanced_feature_info": null,
+        "avatar_thumb": {
+          "uri": "tos-useast2a-avt-0068-euttp/3070e2a7f0be370c05909a7211334e32",
+          "url_list": [
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/3070e2a7f0be370c05909a7211334e32~c5_100x100.jpg?lk3s=30310797&nonce=15032&refresh_token=4a20e978ac531343fc711f4486f08602&x-expires=1733094000&x-signature=vFLbtGb%2FS%2BrZbxbOxAMQOE%2F9qsw%3D&shp=30310797&shcp=-",
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/3070e2a7f0be370c05909a7211334e32~c5_100x100.jpeg?lk3s=30310797&nonce=89818&refresh_token=2db3f9f774bdff68d4f3f419d9f001db&x-expires=1733094000&x-signature=WBnneWpc9BvFNC9e4Ch4ySzgS%2BM%3D&shp=30310797&shcp=-"
+          ],
+          "url_prefix": null
+        },
+        "bold_fields": null,
+        "can_message_follow_status_list": null,
+        "can_set_geofencing": null,
+        "cha_list": null,
+        "cover_url": null,
+        "custom_verify": "",
+        "enterprise_verify_reason": "",
+        "events": null,
+        "followers_detail": null,
+        "geofencing": null,
+        "homepage_bottom_toast": null,
+        "item_list": null,
+        "mutual_relation_avatars": null,
+        "need_points": null,
+        "nickname": "Andrei",
+        "platform_sync_info": null,
+        "relative_users": null,
+        "search_highlight": null,
+        "sec_uid": "MS4wLjABAAAAqPblPLIP06erJAnumpvkikcjeTAJBFsDrg_CV3A2Mdl4f3RF0ZApwUSnu3r7oOG9",
+        "shield_edit_field_info": null,
+        "type_label": null,
+        "uid": "6617724173122945029",
+        "unique_id": "andrei._.fx",
+        "user_profile_guide": null,
+        "user_tags": null,
+        "white_cover_url": null
+      },
+      "user_buried": false,
+      "user_digged": 0
+    },
+    {
+      "author_pin": false,
+      "aweme_id": "7443205372464123158",
+      "cid": "7443207936779158294",
+      "collect_stat": 0,
+      "comment_language": "ro",
+      "comment_post_item_ids": null,
+      "create_time": 1733006942,
+      "digg_count": 1,
+      "forbid_reply_with_video": false,
+      "image_list": null,
+      "is_author_digged": false,
+      "is_comment_translatable": true,
+      "label_list": null,
+      "no_show": false,
+      "reply_comment": null,
+      "reply_comment_total": 1,
+      "reply_id": "0",
+      "reply_to_reply_id": "0",
+      "share_info": {
+        "acl": {
+          "code": 0,
+          "extra": "{}"
+        },
+        "desc": "Rumäner aus Misty Meadows’s comment: Calin deoarece el doreste pace",
+        "title": "#ventuzaiumor #foryoupage #viralvideo #mamalucica #viral #romania #tiktok #lasavrajeala #ventuzaiumor2 #mogosu #fyp ",
+        "url": "https://m.tiktok.com/v/7443205372464123158.html?_d=4c72mlkc83557j&comment_author_id=7023420516258415622&preview_pb=0&share_comment_id=7443207936779158294&share_item_id=7443205372464123158&sharer_language=en-US&source=h5_m&u_code=e8hegggb201lba"
+      },
+      "sort_extra_score": {
+        "reply_score": 0.000157,
+        "show_more_score": 0.071731
+      },
+      "sort_tags": "{\"top_list\":1}",
+      "status": 1,
+      "stick_position": 0,
+      "text": "Calin deoarece el doreste pace",
+      "text_extra": [],
+      "trans_btn_style": 1,
+      "user": {
+        "account_labels": null,
+        "ad_cover_url": null,
+        "advance_feature_item_order": null,
+        "advanced_feature_info": null,
+        "avatar_thumb": {
+          "uri": "tos-useast2a-avt-0068-euttp/ddf8bf56543d6b638b6ba9948e2ab3fb",
+          "url_list": [
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/ddf8bf56543d6b638b6ba9948e2ab3fb~c5_100x100.jpg?lk3s=30310797&nonce=13911&refresh_token=2725364ec81a6f00a9aa60e9be04dacc&x-expires=1733094000&x-signature=NuHDHmOkADOrukaWtXUbeFfnh%2Fw%3D&shp=30310797&shcp=-",
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/ddf8bf56543d6b638b6ba9948e2ab3fb~c5_100x100.jpeg?lk3s=30310797&nonce=8188&refresh_token=b6dd0320fdb640b34fc44a1bc03b8bdb&x-expires=1733094000&x-signature=GcvetE0loW4OZS9xKnCOoi53tAY%3D&shp=30310797&shcp=-"
+          ],
+          "url_prefix": null
+        },
+        "bold_fields": null,
+        "can_message_follow_status_list": null,
+        "can_set_geofencing": null,
+        "cha_list": null,
+        "cover_url": null,
+        "custom_verify": "",
+        "enterprise_verify_reason": "",
+        "events": null,
+        "followers_detail": null,
+        "geofencing": null,
+        "homepage_bottom_toast": null,
+        "item_list": null,
+        "mutual_relation_avatars": null,
+        "need_points": null,
+        "nickname": "Rumäner aus Misty Meadows",
+        "platform_sync_info": null,
+        "relative_users": null,
+        "search_highlight": null,
+        "sec_uid": "MS4wLjABAAAA-14b4GiXl85NP9eraHuJGc4Uvdkrll4u7_GhWErRP_GAzmpH-tE_i5x4B64Gt0aW",
+        "shield_edit_field_info": null,
+        "type_label": null,
+        "uid": "7023420516258415622",
+        "unique_id": "woc.david",
+        "user_profile_guide": null,
+        "user_tags": null,
+        "white_cover_url": null
+      },
+      "user_buried": false,
+      "user_digged": 0
+    },
+    {
+      "author_pin": false,
+      "aweme_id": "7443205372464123158",
+      "cid": "7443209883716125462",
+      "collect_stat": 0,
+      "comment_language": "it",
+      "comment_post_item_ids": null,
+      "create_time": 1733007401,
+      "digg_count": 0,
+      "forbid_reply_with_video": false,
+      "image_list": null,
+      "is_author_digged": false,
+      "is_comment_translatable": true,
+      "label_list": null,
+      "no_show": false,
+      "reply_comment": null,
+      "reply_comment_total": 1,
+      "reply_id": "0",
+      "reply_to_reply_id": "0",
+      "share_info": {
+        "acl": {
+          "code": 0,
+          "extra": "{}"
+        },
+        "desc": "Amalia Bety’s comment: Lasconi",
+        "title": "#ventuzaiumor #foryoupage #viralvideo #mamalucica #viral #romania #tiktok #lasavrajeala #ventuzaiumor2 #mogosu #fyp ",
+        "url": "https://m.tiktok.com/v/7443205372464123158.html?_d=4c72mlkc83557j&comment_author_id=6807005226253501446&preview_pb=0&share_comment_id=7443209883716125462&share_item_id=7443205372464123158&sharer_language=en-US&source=h5_m&u_code=e8hegggb201lba"
+      },
+      "sort_extra_score": {
+        "reply_score": 0.000301,
+        "show_more_score": 0.063851
+      },
+      "sort_tags": "{\"top_list\":1}",
+      "status": 1,
+      "stick_position": 0,
+      "text": "Lasconi",
+      "text_extra": [],
+      "trans_btn_style": 1,
+      "user": {
+        "account_labels": null,
+        "ad_cover_url": null,
+        "advance_feature_item_order": null,
+        "advanced_feature_info": null,
+        "avatar_thumb": {
+          "uri": "tos-maliva-avt-0068/7322639765168701445",
+          "url_list": [
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7322639765168701445~c5_100x100.jpg?lk3s=30310797&nonce=23767&refresh_token=b31daa8808b5c3b636d3d20172fc40b1&x-expires=1733094000&x-signature=F7GLK3tBIsF8dYecSP%2FCQZjkonk%3D&shp=30310797&shcp=-",
+            "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7322639765168701445~c5_100x100.jpeg?lk3s=30310797&nonce=25869&refresh_token=1abe1b9640012dc6e4e71e7682546ada&x-expires=1733094000&x-signature=1Kw28UY5%2FVbrD%2BednYnEO%2Bv%2FcBM%3D&shp=30310797&shcp=-"
+          ],
+          "url_prefix": null
+        },
+        "bold_fields": null,
+        "can_message_follow_status_list": null,
+        "can_set_geofencing": null,
+        "cha_list": null,
+        "cover_url": null,
+        "custom_verify": "",
+        "enterprise_verify_reason": "",
+        "events": null,
+        "followers_detail": null,
+        "geofencing": null,
+        "homepage_bottom_toast": null,
+        "item_list": null,
+        "mutual_relation_avatars": null,
+        "need_points": null,
+        "nickname": "Amalia Bety",
+        "platform_sync_info": null,
+        "relative_users": null,
+        "search_highlight": null,
+        "sec_uid": "MS4wLjABAAAA3IsVkblHDjHunpN151JZ5IBgyiefU78YR6BerCy3lwqYG6bbWZvEmjiRgKtgH1dr",
+        "shield_edit_field_info": null,
+        "type_label": null,
+        "uid": "6807005226253501446",
+        "unique_id": "amybetak",
+        "user_profile_guide": null,
+        "user_tags": null,
+        "white_cover_url": null
+      },
+      "user_buried": false,
+      "user_digged": 0
+    },
+    {
+      "author_pin": false,
+      "aweme_id": "7443205372464123158",
+      "cid": "7443208544629261078",
+      "collect_stat": 0,
+      "comment_language": "it",
+      "comment_post_item_ids": null,
+      "create_time": 1733007072,
+      "digg_count": 0,
+      "forbid_reply_with_video": false,
+      "image_list": null,
+      "is_author_digged": false,
+      "is_comment_translatable": true,
+      "label_list": null,
+      "no_show": false,
+      "reply_comment": null,
+      "reply_comment_total": 1,
+      "reply_id": "0",
+      "reply_to_reply_id": "0",
+      "share_info": {
+        "acl": {
+          "code": 0,
+          "extra": "{}"
+        },
+        "desc": "hamza_maria312’s comment: Lasconi",
+        "title": "#ventuzaiumor #foryoupage #viralvideo #mamalucica #viral #romania #tiktok #lasavrajeala #ventuzaiumor2 #mogosu #fyp ",
+        "url": "https://m.tiktok.com/v/7443205372464123158.html?_d=4c72mlkc83557j&comment_author_id=6929968578351514630&preview_pb=0&share_comment_id=7443208544629261078&share_item_id=7443205372464123158&sharer_language=en-US&source=h5_m&u_code=e8hegggb201lba"
+      },
+      "sort_extra_score": {
+        "reply_score": 0,
+        "show_more_score": 0
+      },
+      "sort_tags": "{}",
+      "status": 1,
+      "stick_position": 0,
+      "text": "Lasconi",
+      "text_extra": [],
+      "trans_btn_style": 1,
+      "user": {
+        "account_labels": null,
+        "ad_cover_url": null,
+        "advance_feature_item_order": null,
+        "advanced_feature_info": null,
+        "avatar_thumb": {
+          "uri": "tos-useast2a-avt-0068-euttp/9de15c79721dd7847c743c77669ffd25",
+          "url_list": [
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/9de15c79721dd7847c743c77669ffd25~c5_100x100.jpg?lk3s=30310797&nonce=44689&refresh_token=adf96a3cffaddbe8896b4471010b936d&x-expires=1733094000&x-signature=jelIp4%2FQyAGw0IWhOLPPaZDhkWw%3D&shp=30310797&shcp=-",
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/9de15c79721dd7847c743c77669ffd25~c5_100x100.jpeg?lk3s=30310797&nonce=66181&refresh_token=c08628e9e183d68295756d4aba14ab03&x-expires=1733094000&x-signature=DXWRu3zqKNTT5uMzImS%2FlY%2FTJZ8%3D&shp=30310797&shcp=-"
+          ],
+          "url_prefix": null
+        },
+        "bold_fields": null,
+        "can_message_follow_status_list": null,
+        "can_set_geofencing": null,
+        "cha_list": null,
+        "cover_url": null,
+        "custom_verify": "",
+        "enterprise_verify_reason": "",
+        "events": null,
+        "followers_detail": null,
+        "geofencing": null,
+        "homepage_bottom_toast": null,
+        "item_list": null,
+        "mutual_relation_avatars": null,
+        "need_points": null,
+        "nickname": "hamza_maria312",
+        "platform_sync_info": null,
+        "relative_users": null,
+        "search_highlight": null,
+        "sec_uid": "MS4wLjABAAAAsulL6RC5jFt6RYdj-EqFklf2IcOzxYqjhWLr90wJHvELrlf_sefnCV03CwnfhJaz",
+        "shield_edit_field_info": null,
+        "type_label": null,
+        "uid": "6929968578351514630",
+        "unique_id": "hamza_maria312",
+        "user_profile_guide": null,
+        "user_tags": null,
+        "white_cover_url": null
+      },
+      "user_buried": false,
+      "user_digged": 0
+    },
+    {
+      "author_pin": false,
+      "aweme_id": "7443205372464123158",
+      "cid": "7443209391044772630",
+      "collect_stat": 0,
+      "comment_language": "un",
+      "comment_post_item_ids": null,
+      "create_time": 1733007277,
+      "digg_count": 0,
+      "forbid_reply_with_video": false,
+      "image_list": null,
+      "is_author_digged": false,
+      "is_comment_translatable": false,
+      "label_list": null,
+      "no_show": false,
+      "reply_comment": null,
+      "reply_comment_total": 1,
+      "reply_id": "0",
+      "reply_to_reply_id": "0",
+      "share_info": {
+        "acl": {
+          "code": 0,
+          "extra": "{}"
+        },
+        "desc": "elenaiordache800’s comment: 🥰🥰🥰",
+        "title": "#ventuzaiumor #foryoupage #viralvideo #mamalucica #viral #romania #tiktok #lasavrajeala #ventuzaiumor2 #mogosu #fyp ",
+        "url": "https://m.tiktok.com/v/7443205372464123158.html?_d=4c72mlkc83557j&comment_author_id=7434165512785085462&preview_pb=0&share_comment_id=7443209391044772630&share_item_id=7443205372464123158&sharer_language=en-US&source=h5_m&u_code=e8hegggb201lba"
+      },
+      "sort_extra_score": {
+        "reply_score": 0,
+        "show_more_score": 0
+      },
+      "sort_tags": "{}",
+      "status": 1,
+      "stick_position": 0,
+      "text": "🥰🥰🥰",
+      "text_extra": [],
+      "trans_btn_style": 0,
+      "user": {
+        "account_labels": null,
+        "ad_cover_url": null,
+        "advance_feature_item_order": null,
+        "advanced_feature_info": null,
+        "avatar_thumb": {
+          "uri": "tos-no1a-avt-0068c001-no/2748a1ea8bbc0729b17c4d861e559c9f",
+          "url_list": [
+            "https://p16-pu-sign-no.tiktokcdn-eu.com/obj/tos-no1a-avt-0068c001-no/2748a1ea8bbc0729b17c4d861e559c9f?lk3s=30310797&nonce=87634&refresh_token=46f551ced75bf8a79067631dddc484fb&x-expires=1733094000&x-signature=5a1GyAeGlTMSdiWMSDXirapm884%3D&shp=30310797&shcp=-",
+            "https://p19-pu-sign-no.tiktokcdn-eu.com/obj/tos-no1a-avt-0068c001-no/2748a1ea8bbc0729b17c4d861e559c9f?lk3s=30310797&nonce=29556&refresh_token=7293513ddab0cceee4bb35a6a154f002&x-expires=1733094000&x-signature=GzE4wmqZTwnkWTb41BHgrWEeWww%3D&shp=30310797&shcp=-"
+          ],
+          "url_prefix": null
+        },
+        "bold_fields": null,
+        "can_message_follow_status_list": null,
+        "can_set_geofencing": null,
+        "cha_list": null,
+        "cover_url": null,
+        "custom_verify": "",
+        "enterprise_verify_reason": "",
+        "events": null,
+        "followers_detail": null,
+        "geofencing": null,
+        "homepage_bottom_toast": null,
+        "item_list": null,
+        "mutual_relation_avatars": null,
+        "need_points": null,
+        "nickname": "elenaiordache800",
+        "platform_sync_info": null,
+        "relative_users": null,
+        "search_highlight": null,
+        "sec_uid": "MS4wLjABAAAAfzhf6DTfl2a4RkB2TZRqr_c6NVpwwktpv_NQpGBKnoSbBmvHfs3tgJHfPjJlVtdh",
+        "shield_edit_field_info": null,
+        "type_label": null,
+        "uid": "7434165512785085462",
+        "unique_id": "elenaiordache800",
+        "user_profile_guide": null,
+        "user_tags": null,
+        "white_cover_url": null
+      },
+      "user_buried": false,
+      "user_digged": 0
+    },
+    {
+      "author_pin": false,
+      "aweme_id": "7443205372464123158",
+      "cid": "7443210456929764118",
+      "collect_stat": 0,
+      "comment_language": "un",
+      "comment_post_item_ids": null,
+      "create_time": 1733007517,
+      "digg_count": 0,
+      "forbid_reply_with_video": false,
+      "image_list": null,
+      "is_author_digged": false,
+      "is_comment_translatable": false,
+      "label_list": null,
+      "no_show": false,
+      "reply_comment": null,
+      "reply_comment_total": 1,
+      "reply_id": "0",
+      "reply_to_reply_id": "0",
+      "share_info": {
+        "acl": {
+          "code": 0,
+          "extra": "{}"
+        },
+        "desc": "Diana Mihaela 75’s comment: 🥰🥰🥰🥰",
+        "title": "#ventuzaiumor #foryoupage #viralvideo #mamalucica #viral #romania #tiktok #lasavrajeala #ventuzaiumor2 #mogosu #fyp ",
+        "url": "https://m.tiktok.com/v/7443205372464123158.html?_d=4c72mlkc83557j&comment_author_id=6607279515343781894&preview_pb=0&share_comment_id=7443210456929764118&share_item_id=7443205372464123158&sharer_language=en-US&source=h5_m&u_code=e8hegggb201lba"
+      },
+      "sort_extra_score": {
+        "reply_score": 0,
+        "show_more_score": 0
+      },
+      "sort_tags": "{}",
+      "status": 1,
+      "stick_position": 0,
+      "text": "🥰🥰🥰🥰",
+      "text_extra": [],
+      "trans_btn_style": 0,
+      "user": {
+        "account_labels": null,
+        "ad_cover_url": null,
+        "advance_feature_item_order": null,
+        "advanced_feature_info": null,
+        "avatar_thumb": {
+          "uri": "tos-useast2a-avt-0068-euttp/8f4f912019ffbc58a191f135fc4fe7ec",
+          "url_list": [
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/8f4f912019ffbc58a191f135fc4fe7ec~c5_100x100.jpg?lk3s=30310797&nonce=54993&refresh_token=3e6c6fced7650f23a14834fe49652bc2&x-expires=1733094000&x-signature=n50ESA1TA3L4eDRwB95U%2FkUYeNc%3D&shp=30310797&shcp=-",
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/8f4f912019ffbc58a191f135fc4fe7ec~c5_100x100.jpeg?lk3s=30310797&nonce=69136&refresh_token=3b628609d6254267df007a4b3f2e6e60&x-expires=1733094000&x-signature=Pcm9HLia%2BX6RU5D2gbj%2FmszCvGY%3D&shp=30310797&shcp=-"
+          ],
+          "url_prefix": null
+        },
+        "bold_fields": null,
+        "can_message_follow_status_list": null,
+        "can_set_geofencing": null,
+        "cha_list": null,
+        "cover_url": null,
+        "custom_verify": "",
+        "enterprise_verify_reason": "",
+        "events": null,
+        "followers_detail": null,
+        "geofencing": null,
+        "homepage_bottom_toast": null,
+        "item_list": null,
+        "mutual_relation_avatars": null,
+        "need_points": null,
+        "nickname": "Diana Mihaela 75",
+        "platform_sync_info": null,
+        "relative_users": null,
+        "search_highlight": null,
+        "sec_uid": "MS4wLjABAAAAM_F8kibACYnEPMcreSkB4d_-ixd7DlGrJxocu1iEylFgo7615-qplfYYHHxcIeYO",
+        "shield_edit_field_info": null,
+        "type_label": null,
+        "uid": "6607279515343781894",
+        "unique_id": "dianamihaela7",
+        "user_profile_guide": null,
+        "user_tags": null,
+        "white_cover_url": null
+      },
+      "user_buried": false,
+      "user_digged": 0
+    },
+    {
+      "author_pin": false,
+      "aweme_id": "7443205372464123158",
+      "cid": "7443208204727288609",
+      "collect_stat": 0,
+      "comment_language": "un",
+      "comment_post_item_ids": null,
+      "create_time": 1733006976,
+      "digg_count": 0,
+      "forbid_reply_with_video": false,
+      "image_list": null,
+      "is_author_digged": false,
+      "is_comment_translatable": false,
+      "label_list": null,
+      "no_show": false,
+      "reply_comment": null,
+      "reply_comment_total": 1,
+      "reply_id": "0",
+      "reply_to_reply_id": "0",
+      "share_info": {
+        "acl": {
+          "code": 0,
+          "extra": "{}"
+        },
+        "desc": "julian rubito’s comment: 🥰",
+        "title": "#ventuzaiumor #foryoupage #viralvideo #mamalucica #viral #romania #tiktok #lasavrajeala #ventuzaiumor2 #mogosu #fyp ",
+        "url": "https://m.tiktok.com/v/7443205372464123158.html?_d=4c72mlkc83557j&comment_author_id=7411985683580109856&preview_pb=0&share_comment_id=7443208204727288609&share_item_id=7443205372464123158&sharer_language=en-US&source=h5_m&u_code=e8hegggb201lba"
+      },
+      "sort_extra_score": {
+        "reply_score": 0,
+        "show_more_score": 0
+      },
+      "sort_tags": "{}",
+      "status": 1,
+      "stick_position": 0,
+      "text": "🥰",
+      "text_extra": [],
+      "trans_btn_style": 0,
+      "user": {
+        "account_labels": null,
+        "ad_cover_url": null,
+        "advance_feature_item_order": null,
+        "advanced_feature_info": null,
+        "avatar_thumb": {
+          "uri": "tos-useast2a-avt-0068-euttp/1752766b17ec3b0e41be42625e09f96c",
+          "url_list": [
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/1752766b17ec3b0e41be42625e09f96c~c5_100x100.jpg?lk3s=30310797&nonce=63562&refresh_token=db219521d2ff530dca9e4506a29b5429&x-expires=1733094000&x-signature=4z6%2F93RJPJFuh%2BzZDGYr8nK4R3E%3D&shp=30310797&shcp=-",
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/1752766b17ec3b0e41be42625e09f96c~c5_100x100.jpeg?lk3s=30310797&nonce=9139&refresh_token=4b24190fab63e9cca7500a9da92ff599&x-expires=1733094000&x-signature=5gbV5dsKFseyV800M%2B14BLpy7Cg%3D&shp=30310797&shcp=-"
+          ],
+          "url_prefix": null
+        },
+        "bold_fields": null,
+        "can_message_follow_status_list": null,
+        "can_set_geofencing": null,
+        "cha_list": null,
+        "cover_url": null,
+        "custom_verify": "",
+        "enterprise_verify_reason": "",
+        "events": null,
+        "followers_detail": null,
+        "geofencing": null,
+        "homepage_bottom_toast": null,
+        "item_list": null,
+        "mutual_relation_avatars": null,
+        "need_points": null,
+        "nickname": "julian rubito",
+        "platform_sync_info": null,
+        "relative_users": null,
+        "search_highlight": null,
+        "sec_uid": "MS4wLjABAAAAihSiniNfUbcBlRIfVFdZFuybxS4EOk1I7zxoLD2t60iuI0RnhynQVAxhF-4hJV8l",
+        "shield_edit_field_info": null,
+        "type_label": null,
+        "uid": "7411985683580109856",
+        "unique_id": "julian.rubito",
+        "user_profile_guide": null,
+        "user_tags": null,
+        "white_cover_url": null
+      },
+      "user_buried": false,
+      "user_digged": 0
+    },
+    {
+      "author_pin": false,
+      "aweme_id": "7443205372464123158",
+      "cid": "7443213195991761697",
+      "collect_stat": 0,
+      "comment_language": "ro",
+      "comment_post_item_ids": null,
+      "create_time": 1733008149,
+      "digg_count": 0,
+      "forbid_reply_with_video": false,
+      "image_list": null,
+      "is_author_digged": false,
+      "is_comment_translatable": true,
+      "label_list": null,
+      "no_show": false,
+      "reply_comment": null,
+      "reply_comment_total": 1,
+      "reply_id": "0",
+      "reply_to_reply_id": "0",
+      "share_info": {
+        "acl": {
+          "code": 0,
+          "extra": "{}"
+        },
+        "desc": "Lacry’s comment: Lui Lasconi ca are multă vrăjeala 😁😁😁",
+        "title": "#ventuzaiumor #foryoupage #viralvideo #mamalucica #viral #romania #tiktok #lasavrajeala #ventuzaiumor2 #mogosu #fyp ",
+        "url": "https://m.tiktok.com/v/7443205372464123158.html?_d=4c72mlkc83557j&comment_author_id=7069734292708672518&preview_pb=0&share_comment_id=7443213195991761697&share_item_id=7443205372464123158&sharer_language=en-US&source=h5_m&u_code=e8hegggb201lba"
+      },
+      "sort_extra_score": {
+        "reply_score": 0,
+        "show_more_score": 0
+      },
+      "sort_tags": "{}",
+      "status": 1,
+      "stick_position": 0,
+      "text": "Lui Lasconi ca are multă vrăjeala 😁😁😁",
+      "text_extra": [],
+      "trans_btn_style": 1,
+      "user": {
+        "account_labels": null,
+        "ad_cover_url": null,
+        "advance_feature_item_order": null,
+        "advanced_feature_info": null,
+        "avatar_thumb": {
+          "uri": "tos-useast2a-avt-0068-euttp/c536df1676818c1314086acca5a33e51",
+          "url_list": [
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/c536df1676818c1314086acca5a33e51~c5_100x100.jpg?lk3s=30310797&nonce=43719&refresh_token=05c36d2d3905d1b5985279040928a7d7&x-expires=1733094000&x-signature=J8v8%2FgzfplVdI2qHafWBqelLHj8%3D&shp=30310797&shcp=-",
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/c536df1676818c1314086acca5a33e51~c5_100x100.jpeg?lk3s=30310797&nonce=22609&refresh_token=e2120614d3d8afba2fdb80760bba6297&x-expires=1733094000&x-signature=%2FxdjF8m2duvARIWt0x61a%2B9OXN0%3D&shp=30310797&shcp=-"
+          ],
+          "url_prefix": null
+        },
+        "bold_fields": null,
+        "can_message_follow_status_list": null,
+        "can_set_geofencing": null,
+        "cha_list": null,
+        "cover_url": null,
+        "custom_verify": "",
+        "enterprise_verify_reason": "",
+        "events": null,
+        "followers_detail": null,
+        "geofencing": null,
+        "homepage_bottom_toast": null,
+        "item_list": null,
+        "mutual_relation_avatars": null,
+        "need_points": null,
+        "nickname": "Lacry",
+        "platform_sync_info": null,
+        "relative_users": null,
+        "search_highlight": null,
+        "sec_uid": "MS4wLjABAAAAVrTn1kszqHwNKEckpiIStCZ4CIAGrCOW-e88N1_T0bZ6LcsaDCjBtFvbWXyeJfOg",
+        "shield_edit_field_info": null,
+        "type_label": null,
+        "uid": "7069734292708672518",
+        "unique_id": "lacrypop",
+        "user_profile_guide": null,
+        "user_tags": null,
+        "white_cover_url": null
+      },
+      "user_buried": false,
+      "user_digged": 0
+    },
+    {
+      "author_pin": false,
+      "aweme_id": "7443205372464123158",
+      "cid": "7443215598349976352",
+      "collect_stat": 0,
+      "comment_language": "ro",
+      "comment_post_item_ids": null,
+      "create_time": 1733008704,
+      "digg_count": 0,
+      "forbid_reply_with_video": false,
+      "image_list": null,
+      "is_author_digged": false,
+      "is_comment_translatable": true,
+      "label_list": null,
+      "no_show": false,
+      "reply_comment": null,
+      "reply_comment_total": 0,
+      "reply_id": "0",
+      "reply_to_reply_id": "0",
+      "share_info": {
+        "acl": {
+          "code": 0,
+          "extra": "{}"
+        },
+        "desc": "‍’s comment: Votăm Călin Georgescu președinte 💪",
+        "title": "#ventuzaiumor #foryoupage #viralvideo #mamalucica #viral #romania #tiktok #lasavrajeala #ventuzaiumor2 #mogosu #fyp ",
+        "url": "https://m.tiktok.com/v/7443205372464123158.html?_d=4c72mlkc83557j&comment_author_id=7063007409190536197&preview_pb=0&share_comment_id=7443215598349976352&share_item_id=7443205372464123158&sharer_language=en-US&source=h5_m&u_code=e8hegggb201lba"
+      },
+      "sort_extra_score": {
+        "reply_score": 0,
+        "show_more_score": 0
+      },
+      "sort_tags": "{}",
+      "status": 1,
+      "stick_position": 0,
+      "text": "Votăm Călin Georgescu președinte 💪",
+      "text_extra": [],
+      "trans_btn_style": 1,
+      "user": {
+        "account_labels": null,
+        "ad_cover_url": null,
+        "advance_feature_item_order": null,
+        "advanced_feature_info": null,
+        "avatar_thumb": {
+          "uri": "tos-useast2a-avt-0068-euttp/94c65a13b362ea23977ef643e6c367d5",
+          "url_list": [
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/94c65a13b362ea23977ef643e6c367d5~c5_100x100.jpg?lk3s=30310797&nonce=37685&refresh_token=d7e30e26177f95ef410f524d7a138603&x-expires=1733094000&x-signature=eK1POSyM%2BMvjBusJFZDdmwXO2nc%3D&shp=30310797&shcp=-",
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/94c65a13b362ea23977ef643e6c367d5~c5_100x100.jpeg?lk3s=30310797&nonce=68747&refresh_token=5954752d51756e93d5669b7b52809657&x-expires=1733094000&x-signature=qqCRqmNWnUabW4XAYDnJXa8TPO8%3D&shp=30310797&shcp=-"
+          ],
+          "url_prefix": null
+        },
+        "bold_fields": null,
+        "can_message_follow_status_list": null,
+        "can_set_geofencing": null,
+        "cha_list": null,
+        "cover_url": null,
+        "custom_verify": "",
+        "enterprise_verify_reason": "",
+        "events": null,
+        "followers_detail": null,
+        "geofencing": null,
+        "homepage_bottom_toast": null,
+        "item_list": null,
+        "mutual_relation_avatars": null,
+        "need_points": null,
+        "nickname": "‍",
+        "platform_sync_info": null,
+        "relative_users": null,
+        "search_highlight": null,
+        "sec_uid": "MS4wLjABAAAAXXdNOGAC3VUjIlY0-ojjwqsLux8AkhqBgnXUIsdYBlpR_gtZ_WB-QKtoA94iyuVp",
+        "shield_edit_field_info": null,
+        "type_label": null,
+        "uid": "7063007409190536197",
+        "unique_id": "dumis1",
+        "user_profile_guide": null,
+        "user_tags": null,
+        "white_cover_url": null
+      },
+      "user_buried": false,
+      "user_digged": 0
+    },
+    {
+      "author_pin": false,
+      "aweme_id": "7443205372464123158",
+      "cid": "7443217721824936726",
+      "collect_stat": 0,
+      "comment_language": "ro",
+      "comment_post_item_ids": null,
+      "create_time": 1733009209,
+      "digg_count": 0,
+      "forbid_reply_with_video": false,
+      "image_list": null,
+      "is_author_digged": false,
+      "is_comment_translatable": true,
+      "label_list": null,
+      "no_show": false,
+      "reply_comment": null,
+      "reply_comment_total": 0,
+      "reply_id": "0",
+      "reply_to_reply_id": "0",
+      "share_info": {
+        "acl": {
+          "code": 0,
+          "extra": "{}"
+        },
+        "desc": "Când ești prost, e viața grea’s comment: mai multa vrăjeală decât el, nu are nimeni!!",
+        "title": "#ventuzaiumor #foryoupage #viralvideo #mamalucica #viral #romania #tiktok #lasavrajeala #ventuzaiumor2 #mogosu #fyp ",
+        "url": "https://m.tiktok.com/v/7443205372464123158.html?_d=4c72mlkc83557j&comment_author_id=7302086480669787168&preview_pb=0&share_comment_id=7443217721824936726&share_item_id=7443205372464123158&sharer_language=en-US&source=h5_m&u_code=e8hegggb201lba"
+      },
+      "sort_extra_score": {
+        "reply_score": 0,
+        "show_more_score": 0
+      },
+      "sort_tags": "{}",
+      "status": 1,
+      "stick_position": 0,
+      "text": "mai multa vrăjeală decât el, nu are nimeni!!",
+      "text_extra": [],
+      "trans_btn_style": 1,
+      "user": {
+        "account_labels": null,
+        "ad_cover_url": null,
+        "advance_feature_item_order": null,
+        "advanced_feature_info": null,
+        "avatar_thumb": {
+          "uri": "tos-no1a-avt-0068c001-no/032729576104092eb2288df9901a819b",
+          "url_list": [
+            "https://p16-pu-sign-no.tiktokcdn-eu.com/obj/tos-no1a-avt-0068c001-no/032729576104092eb2288df9901a819b?lk3s=30310797&nonce=89592&refresh_token=44a54bc87103b45b19df860bff59467f&x-expires=1733094000&x-signature=9NueveJzGvhwWnm6GyG5Aul6kkM%3D&shp=30310797&shcp=-",
+            "https://p19-pu-sign-no.tiktokcdn-eu.com/obj/tos-no1a-avt-0068c001-no/032729576104092eb2288df9901a819b?lk3s=30310797&nonce=81101&refresh_token=76aebad93c1adada30ffe4a5f945754e&x-expires=1733094000&x-signature=vSaxv7SQs%2FUR%2F%2B4XUm8H%2B6suJC4%3D&shp=30310797&shcp=-"
+          ],
+          "url_prefix": null
+        },
+        "bold_fields": null,
+        "can_message_follow_status_list": null,
+        "can_set_geofencing": null,
+        "cha_list": null,
+        "cover_url": null,
+        "custom_verify": "",
+        "enterprise_verify_reason": "",
+        "events": null,
+        "followers_detail": null,
+        "geofencing": null,
+        "homepage_bottom_toast": null,
+        "item_list": null,
+        "mutual_relation_avatars": null,
+        "need_points": null,
+        "nickname": "Când ești prost, e viața grea",
+        "platform_sync_info": null,
+        "relative_users": null,
+        "search_highlight": null,
+        "sec_uid": "MS4wLjABAAAAFaOHFI7f2QOdGndtIlcgZTmYduEZi6ard3jZq6sSxP18aVL6umrCDSEO2RmmUtG8",
+        "shield_edit_field_info": null,
+        "type_label": null,
+        "uid": "7302086480669787168",
+        "unique_id": "cnd.eti.prost.e.vi",
+        "user_profile_guide": null,
+        "user_tags": null,
+        "white_cover_url": null
+      },
+      "user_buried": false,
+      "user_digged": 0
+    },
+    {
+      "author_pin": false,
+      "aweme_id": "7443205372464123158",
+      "cid": "7443208984163975958",
+      "collect_stat": 0,
+      "comment_language": "it",
+      "comment_post_item_ids": null,
+      "create_time": 1733007188,
+      "digg_count": 0,
+      "forbid_reply_with_video": false,
+      "image_list": null,
+      "is_author_digged": false,
+      "is_comment_translatable": true,
+      "label_list": null,
+      "no_show": false,
+      "reply_comment": null,
+      "reply_comment_total": 1,
+      "reply_id": "0",
+      "reply_to_reply_id": "0",
+      "share_info": {
+        "acl": {
+          "code": 0,
+          "extra": "{}"
+        },
+        "desc": "🕊️𝓐𝓵𝓲𝓷𝓪🕊️’s comment: 1000% LASCONI",
+        "title": "#ventuzaiumor #foryoupage #viralvideo #mamalucica #viral #romania #tiktok #lasavrajeala #ventuzaiumor2 #mogosu #fyp ",
+        "url": "https://m.tiktok.com/v/7443205372464123158.html?_d=4c72mlkc83557j&comment_author_id=71151596977459201&preview_pb=0&share_comment_id=7443208984163975958&share_item_id=7443205372464123158&sharer_language=en-US&source=h5_m&u_code=e8hegggb201lba"
+      },
+      "sort_extra_score": {
+        "reply_score": 0,
+        "show_more_score": 0
+      },
+      "sort_tags": "{}",
+      "status": 1,
+      "stick_position": 0,
+      "text": "1000% LASCONI",
+      "text_extra": [],
+      "trans_btn_style": 1,
+      "user": {
+        "account_labels": null,
+        "ad_cover_url": null,
+        "advance_feature_item_order": null,
+        "advanced_feature_info": null,
+        "avatar_thumb": {
+          "uri": "tos-useast2a-avt-0068-euttp/fb2bfe95948cd43d1599137ac0732a00",
+          "url_list": [
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/fb2bfe95948cd43d1599137ac0732a00~c5_100x100.jpg?lk3s=30310797&nonce=48459&refresh_token=f912653bb7c9e4617a754c89bd7a87e1&x-expires=1733094000&x-signature=7zPAcM21mNokD%2FoSy3SxCjJ8Pfc%3D&shp=30310797&shcp=-",
+            "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-avt-0068-euttp/fb2bfe95948cd43d1599137ac0732a00~c5_100x100.jpeg?lk3s=30310797&nonce=19986&refresh_token=ba5bcacfe651dd48e3fc6b88ecf262e9&x-expires=1733094000&x-signature=NPiLrID7cZwduIz2rQTGkIhodBc%3D&shp=30310797&shcp=-"
+          ],
+          "url_prefix": null
+        },
+        "bold_fields": null,
+        "can_message_follow_status_list": null,
+        "can_set_geofencing": null,
+        "cha_list": null,
+        "cover_url": null,
+        "custom_verify": "",
+        "enterprise_verify_reason": "",
+        "events": null,
+        "followers_detail": null,
+        "geofencing": null,
+        "homepage_bottom_toast": null,
+        "item_list": null,
+        "mutual_relation_avatars": null,
+        "need_points": null,
+        "nickname": "🕊️𝓐𝓵𝓲𝓷𝓪🕊️",
+        "platform_sync_info": null,
+        "relative_users": null,
+        "search_highlight": null,
+        "sec_uid": "MS4wLjABAAAAG6GqS381x5DBKRW9rz0bfrpdw8juWIH8oixpiqIyVcMECA4dy391mvu9ZYoeSvyr",
+        "shield_edit_field_info": null,
+        "type_label": null,
+        "uid": "71151596977459201",
+        "unique_id": "gabr1ela007",
+        "user_profile_guide": null,
+        "user_tags": null,
+        "white_cover_url": null
+      },
+      "user_buried": false,
+      "user_digged": 0
+    }
+  ]
+}
